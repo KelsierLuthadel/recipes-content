@@ -21,7 +21,6 @@ mentions:
   - tutorials/spices/storage
   - base-ingredients/spices/tsire
   - cuisine/antiguan/desserts/cornmeal-pone
-  - cuisine/antiguan/doucouna
   - cuisine/barbadian/desserts/cassava-pone
   - cuisine/barbadian/desserts/coconut-bread
   - cuisine/barbadian/desserts/sweet-potato-pudding
@@ -35,7 +34,6 @@ mentions:
   - cuisine/scottish/snacks/black-bun
   - cuisine/welsh/desserts/bara-brith
   - cuisine/welsh/desserts/teisen-lap
-  - cuisine/welsh/desserts/welsh-cakes
 ingredients:
   - qty: 1
     unit: tbsp

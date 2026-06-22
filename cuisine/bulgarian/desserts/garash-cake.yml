@@ -47,7 +47,7 @@ ingredients:
     raw: 300 ml double cream
   - qty: 50
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 50 g unsalted butter, soft
   - qty: 2
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: 100 ml double cream
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 1
     unit: tbsp

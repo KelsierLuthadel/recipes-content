@@ -18,6 +18,7 @@ tags:
   - yogurt
   - complex
 mentions:
+  - bread-pasta/white-bread
   - cuisine/bosnian/side-dishes/sogan-dolma
   - tutorials/spices/storage
 ingredients:
@@ -62,7 +63,7 @@ ingredients:
     raw: 50 g dried okra pods ; soaked in warm water 30 minutes
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 40
     unit: g

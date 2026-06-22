@@ -21,11 +21,11 @@ tags:
   - curry
 mentions:
   - cuisine/indian/BIR-chicken-curry
-  - cuisine/thai/stocks/thai-chicken-stock
   - tutorials/bread/gluten
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/thai-curry/red
 ingredients:
   - qty: 2
     unit: tbsp

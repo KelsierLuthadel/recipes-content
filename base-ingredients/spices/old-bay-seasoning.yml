@@ -15,8 +15,6 @@ regions:
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
-  - cuisine/southern/low-country-boil
-  - cuisine/southern/shrimp-and-grits
 ingredients:
   - qty: 2
     unit: tbsp

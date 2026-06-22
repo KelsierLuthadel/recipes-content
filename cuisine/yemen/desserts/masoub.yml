@@ -14,6 +14,7 @@ tags:
   - nuts
 mentions:
   - baking/banana-bread
+  - bread-pasta/white-bread
   - cuisine/israel/side-dishes/challah
   - tutorials/pizza/sauce
   - tutorials/spices/storage
@@ -31,7 +32,7 @@ ingredients:
     raw: 250 ml warm whole milk
   - qty: 80
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 80 g unsalted butter
   - qty: 120
     unit: g

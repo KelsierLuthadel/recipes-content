@@ -32,7 +32,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 1
     name: eggs
@@ -47,7 +47,7 @@ ingredients:
     raw: 100 ml evaporated milk
   - qty: 1.5
     unit: l
-    name: vegetable oil for deep frying
+    name: vegetable oil
     raw: 1 ½ litres vegetable oil for deep frying
   - qty: 150
     unit: g

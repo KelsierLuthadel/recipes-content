@@ -29,7 +29,7 @@ ingredients:
     raw: 2 tablespoons caster sugar
   - qty: 1
     unit: tbsp
-    name: unsweetened cocoa powder
+    name: cocoa powder (unsweetened)
     raw: 1 tablespoon unsweetened cocoa powder
   - qty: 0.5
     unit: tsp
@@ -41,7 +41,7 @@ ingredients:
     raw: ¼ teaspoon salt
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 1
     name: egg yolks

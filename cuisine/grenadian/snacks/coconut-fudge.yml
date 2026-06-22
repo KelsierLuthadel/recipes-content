@@ -19,7 +19,7 @@ ingredients:
     name: coconut
     raw: 300 g freshly grated coconut
   - qty: 1
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 1 tin sweetened condensed milk
   - qty: 200
     unit: g
@@ -31,7 +31,7 @@ ingredients:
     raw: 100 ml whole milk
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 1
     name: ginger

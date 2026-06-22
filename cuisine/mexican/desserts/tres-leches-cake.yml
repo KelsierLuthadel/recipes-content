@@ -45,13 +45,13 @@ ingredients:
     raw: A pinch of salt
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 1
     name: evaporated milk
     raw: 1 tin evaporated milk
   - qty: 1
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 1 tin sweetened condensed milk
   - qty: 250
     unit: ml

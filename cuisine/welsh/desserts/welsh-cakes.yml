@@ -13,7 +13,6 @@ tags:
 mentions:
   - tutorials/pizza/dough
   - tutorials/spices/storage
-  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 225
     unit: g
@@ -21,7 +20,7 @@ ingredients:
     raw: 225 g self-raising flour
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter, cold, cubed
   - qty: 25
     unit: g

@@ -11,6 +11,7 @@ tags:
   - butter
   - complex
 mentions:
+  - bread-pasta/white-bread
   - equipment/chefs-knife
   - tutorials/bread/proving
   - tutorials/pizza/dough
@@ -46,7 +47,7 @@ ingredients:
     raw: 280 ml whole milk, warmed to body temperature
   - qty: 2
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 2 tbsp unsalted butter, melted
   - qty: 4
     unit: l

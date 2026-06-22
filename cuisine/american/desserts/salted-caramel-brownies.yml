@@ -22,7 +22,7 @@ ingredients:
     raw: 200 g dark chocolate
   - qty: 175
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 175 g unsalted butter
   - qty: 280
     unit: g
@@ -53,7 +53,7 @@ ingredients:
     raw: 100 g caster sugar
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 60
     unit: ml

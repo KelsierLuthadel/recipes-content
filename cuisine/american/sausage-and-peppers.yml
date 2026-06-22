@@ -15,12 +15,14 @@ tags:
   - butter
 mentions:
   - base-ingredients/spices/herbes-de-provence
+  - cuisine/chinese/side-dishes/steamed-rice
+  - cuisine/indian/rice/steamed-rice
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 1 tablespoon unsalted butter
   - qty: 1
     unit: tbsp

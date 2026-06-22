@@ -20,8 +20,10 @@ tags:
   - chili
   - soy-sauce
 mentions:
+  - bread-pasta/baguette
   - cuisine/chinese/char-siu
   - cuisine/vietnamese/side-dishes/do-chua
+  - tutorials/bread/baguette
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:

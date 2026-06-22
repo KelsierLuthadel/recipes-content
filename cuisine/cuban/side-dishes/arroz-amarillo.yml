@@ -15,12 +15,12 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/cuban/masitas-de-puerco
   - cuisine/cuban/ropa-vieja
   - drinks/cocktails/mojito
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 500
     unit: g

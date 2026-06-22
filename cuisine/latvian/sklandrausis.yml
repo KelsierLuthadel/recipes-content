@@ -50,7 +50,7 @@ ingredients:
     raw: 400 g floury potatoes, peeled and cubed
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 2
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 500 g carrots, peeled and sliced
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 2
     unit: tbsp
@@ -96,7 +96,7 @@ ingredients:
     raw: ½ teaspoon ground caraway
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter, melted
   - qty: 1
     unit: tsp

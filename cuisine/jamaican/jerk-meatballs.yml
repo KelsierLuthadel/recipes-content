@@ -22,10 +22,10 @@ tags:
   - curry
   - complex
 mentions:
-  - base-ingredients/spices/jerk-seasoning
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/jerk-seasoning
 ingredients:
   - qty: 680
     unit: g
@@ -36,7 +36,7 @@ ingredients:
     raw: 1 egg
   - qty: 0.5
     unit: cup
-    name: seasoned panko breadcrumbs
+    name: panko breadcrumbs (seasoned)
     raw: ½ cup seasoned panko breadcrumbs
   - qty: 4
     name: garlic
@@ -59,7 +59,7 @@ ingredients:
     raw: pepper
   - qty: 2
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 2 tablespoons unsalted butter
   - qty: 1
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 tablespoon olive oil
   - qty: 1
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 1 tablespoon unsalted butter
   - qty: 1
     name: shallots

@@ -34,9 +34,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/curry-paste/thai-red-paste-southern
-  - base-ingredients/curry-paste/thai-red-paste-traditional
-  - base-ingredients/curry-paste/thai-red-paste
+  - tutorials/thai-curry/red
 ingredients:
   - qty: 110
     unit: g

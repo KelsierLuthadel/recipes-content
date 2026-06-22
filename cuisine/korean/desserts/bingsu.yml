@@ -20,7 +20,7 @@ ingredients:
     raw: 500 ml whole milk
   - qty: 2
     unit: tbsp
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 2 tablespoons sweetened condensed milk
   - qty: 200
     unit: g
@@ -44,7 +44,7 @@ ingredients:
     raw: 50 g sweet rice cake cut into 1 cm cubes
   - qty: 3
     unit: tbsp
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 3 tablespoons sweetened condensed milk
   - qty: 2
     unit: tbsp

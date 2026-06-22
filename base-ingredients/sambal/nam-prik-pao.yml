@@ -19,6 +19,8 @@ tags:
 regions:
   - thai
 mentions:
+  - cuisine/chinese/side-dishes/steamed-rice
+  - cuisine/indian/rice/steamed-rice
   - tutorials/charcuterie/safety
   - tutorials/distilling-spirits/safety
   - tutorials/pizza/sauce

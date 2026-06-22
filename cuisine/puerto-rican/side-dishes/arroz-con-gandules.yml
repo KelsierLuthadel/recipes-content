@@ -17,11 +17,11 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/puerto-rican/pernil
   - cuisine/puerto-rican/pollo-guisado
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 500
     unit: g

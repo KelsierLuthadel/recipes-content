@@ -28,7 +28,7 @@ ingredients:
     raw: 100 g plain flour
   - qty: 180
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 180 g unsalted butter, melted and cooled
   - qty: 1
     unit: tsp
@@ -38,7 +38,7 @@ ingredients:
     unit: tsp
     name: aniseed
     raw: 1 tsp ground aniseed
-  - name: about 150 ml warm water
+  - name: water
     raw: About 150 ml warm water
   - qty: 400
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     raw: 400 g pitted soft dates
   - qty: 50
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 50 g unsalted butter, melted
   - qty: 0.5
     unit: tsp

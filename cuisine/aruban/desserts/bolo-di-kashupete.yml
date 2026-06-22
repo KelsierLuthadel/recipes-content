@@ -33,7 +33,7 @@ ingredients:
     raw: 1/2 tsp salt
   - qty: 250
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 250 g unsalted butter, softened
   - qty: 250
     unit: g
@@ -59,7 +59,7 @@ ingredients:
     raw: 150 g roasted cashews, finely ground to a paste in a processor
   - qty: 200
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 200 g unsalted butter, softened
   - qty: 400
     unit: g

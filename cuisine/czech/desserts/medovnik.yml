@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 200 g unsalted butter
   - qty: 250
     unit: g
@@ -68,11 +68,11 @@ ingredients:
     name: sour cream
     raw: 600 ml sour cream
   - qty: 1
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 1 tin sweetened condensed milk
   - qty: 200
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 200 g unsalted butter, softened
   - qty: 1
     unit: tsp

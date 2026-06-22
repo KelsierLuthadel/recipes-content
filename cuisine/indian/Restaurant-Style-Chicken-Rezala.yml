@@ -22,6 +22,7 @@ tags:
   - chili
   - complex
 mentions:
+  - cuisine/indian/Base/pre-cooked-chicken
   - tutorials/chocolate/tempering
   - tutorials/cocktails/garnish
   - tutorials/indian-breads/paratha
@@ -31,7 +32,7 @@ mentions:
   - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 15
-    name: unsalted cashew nuts
+    name: cashew nuts (unsalted)
     raw: 15 unsalted cashew nuts
   - qty: 0.5
     unit: tsp

@@ -21,13 +21,13 @@ tags:
   - chili
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/puerto-rican/habichuelas-guisadas
   - cuisine/puerto-rican/pollo-guisado
   - drinks/regional/mexico/agua-de-tamarindo
   - drinks/regional/saint-lucia/mauby
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 1.2
     unit: kg

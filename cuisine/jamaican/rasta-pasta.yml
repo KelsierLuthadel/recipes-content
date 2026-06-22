@@ -16,9 +16,9 @@ tags:
   - cream
   - cheese
 mentions:
-  - base-ingredients/spices/jerk-seasoning
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/jerk-seasoning
 ingredients:
   - qty: 227
     unit: g

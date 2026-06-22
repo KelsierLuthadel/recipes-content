@@ -18,12 +18,12 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/mexican/side-dishes/arroz-amarillo
   - cuisine/puerto-rican/habichuelas-guisadas
   - drinks/regional/saint-lucia/mauby
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 1.2
     unit: kg

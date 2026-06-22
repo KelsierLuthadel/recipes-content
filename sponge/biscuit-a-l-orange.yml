@@ -12,6 +12,7 @@ tags:
   - butter
   - nuts
 mentions:
+  - baking/cremes/creme-chantilly
   - equipment/baking-sheet
   - tutorials/cocktails/equipment
   - tutorials/spices/storage
@@ -43,11 +44,11 @@ ingredients:
     raw: 85 grams cake flour
   - qty: 1
     unit: tsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 1 teaspoon unsalted butter
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 grams unsalted butter
   - qty: 1
     unit: pinch

@@ -18,13 +18,13 @@ tags:
   - chili
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/cuban/ropa-vieja
   - cuisine/cuban/vaca-frita
   - drinks/cocktails/mojito
   - tutorials/charcuterie/bacon
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 500
     unit: g

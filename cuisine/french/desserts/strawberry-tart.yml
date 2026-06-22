@@ -8,7 +8,8 @@ tags:
   - dessert
   - valentines
   - tu-bav
-mentions: []
+mentions:
+  - baking/cremes/creme-chantilly
 ingredients:
   - qty: 250
     unit: g

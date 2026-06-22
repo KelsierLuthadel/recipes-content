@@ -10,7 +10,8 @@ tags:
   - cream
   - cheese
   - nuts
-mentions: []
+mentions:
+  - baking/cremes/creme-anglaise
 ingredients:
   - qty: 120
     unit: g

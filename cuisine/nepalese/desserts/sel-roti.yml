@@ -27,7 +27,7 @@ ingredients:
     raw: 200 g granulated sugar
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter
   - qty: 100
     unit: ml
@@ -66,7 +66,7 @@ ingredients:
     raw: 200 g granulated sugar
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter
   - qty: 300
     unit: ml

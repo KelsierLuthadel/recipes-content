@@ -21,11 +21,14 @@ tags:
   - curry
   - complex
 mentions:
+  - cuisine/chinese/side-dishes/steamed-rice
+  - cuisine/indian/rice/steamed-rice
   - cuisine/kenyan/side-dishes/sukuma-wiki
   - cuisine/ugandan/matoke
   - cuisine/ugandan/side-dishes/sukuma-wiki
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
   - qty: 8
     name: chicken thighs
@@ -69,7 +72,7 @@ ingredients:
     raw: 2 tablespoons tomato purée
   - qty: 40
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 40 g unsalted butter, in 4 knobs
   - qty: 1
     name: coriander

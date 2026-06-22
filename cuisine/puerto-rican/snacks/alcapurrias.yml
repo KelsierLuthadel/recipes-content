@@ -17,9 +17,9 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 4
     name: bananas (green)

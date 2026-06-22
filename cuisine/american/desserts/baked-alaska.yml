@@ -12,7 +12,8 @@ tags:
   - potato
   - cream
   - complex
-mentions: []
+mentions:
+  - baking/cremes/creme-anglaise
 ingredients:
   - qty: 1
     name: vanilla pods

@@ -22,6 +22,8 @@ tags:
   - chili
   - complex
 mentions:
+  - cuisine/indian/Base/pre-cooked-chicken
+  - cuisine/indian/Base/pre-cooked-lamb
   - tutorials/charcuterie/smoking
   - tutorials/chocolate/tempering
   - tutorials/cocktails/garnish
@@ -29,6 +31,7 @@ mentions:
   - tutorials/pizza/sauce
   - base-ingredients/curry-powder/garam-masala-kashmiri
   - base-ingredients/curry-powder/garam-masala
+  - base-ingredients/curry-powder/tandoori-masala
 ingredients:
   - qty: 0.5
     name: medium large onion

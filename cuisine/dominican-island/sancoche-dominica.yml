@@ -91,7 +91,7 @@ ingredients:
   - qty: 0.5
     name: /2 tsp salt
     raw: 1/2 tsp salt
-  - name: about 90 ml water
+  - name: water
     raw: About 90 ml water
   - qty: 200
     unit: ml

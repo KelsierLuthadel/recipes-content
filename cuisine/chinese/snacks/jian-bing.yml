@@ -19,10 +19,10 @@ tags:
   - chili
   - complex
 mentions:
+  - base-ingredients/spices/chinese-five-spice-powder
   - equipment/non-stick-pan
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 100
     unit: g

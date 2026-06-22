@@ -19,6 +19,8 @@ tags:
   - nuts
   - complex
 mentions:
+  - cuisine/chinese/side-dishes/steamed-rice
+  - cuisine/indian/rice/steamed-rice
   - sauces/sauce-fish/lemon-sauce
   - tutorials/pizza/sauce
   - tutorials/spices/storage
@@ -32,7 +34,7 @@ ingredients:
     raw: 2 tbsp olive oil
   - qty: 50
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 50 g unsalted butter
   - qty: 1
     name: onions

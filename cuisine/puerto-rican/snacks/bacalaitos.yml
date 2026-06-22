@@ -17,9 +17,9 @@ tags:
   - chili
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 400
     unit: g
@@ -83,7 +83,7 @@ ingredients:
   - qty: 1
     name: chilli
     raw: 1 small fresh chilli
-  - name: vegetable oil for shallow frying
+  - name: vegetable oil
     raw: Vegetable oil for shallow frying
   - name: lime wedges
     raw: Lime wedges

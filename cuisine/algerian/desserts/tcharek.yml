@@ -28,7 +28,7 @@ ingredients:
     raw: 100 g icing sugar
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 1
     name: lemons
@@ -47,7 +47,7 @@ ingredients:
     raw: 250 g plain flour
   - qty: 120
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 120 g unsalted butter
   - qty: 50
     unit: g

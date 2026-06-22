@@ -51,7 +51,7 @@ ingredients:
     raw: 200 ml whole milk, lukewarm
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter, melted and cooled
   - qty: 1
     unit: tsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 2 tablespoons fresh lemon juice
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter, soft
   - qty: 60
     unit: ml

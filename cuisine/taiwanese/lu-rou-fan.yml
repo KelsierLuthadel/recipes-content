@@ -21,10 +21,12 @@ tags:
   - soy-sauce
   - complex
 mentions:
+  - base-ingredients/spices/chinese-five-spice-powder
+  - cuisine/chinese/side-dishes/steamed-rice
+  - cuisine/indian/rice/steamed-rice
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 800
     unit: g

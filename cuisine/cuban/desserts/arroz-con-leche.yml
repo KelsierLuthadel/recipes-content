@@ -41,7 +41,7 @@ ingredients:
     raw: 750 ml whole milk
   - qty: 397
     unit: g
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 397 g tin sweetened condensed milk
   - qty: 1
     unit: tsp
@@ -49,7 +49,7 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 20
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 20 g unsalted butter
   - qty: 1
     name: egg yolks

@@ -37,7 +37,7 @@ ingredients:
     raw: 1 tablespoon vegetable oil
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 2
     name: thyme
@@ -72,7 +72,7 @@ ingredients:
     raw: 3 egg yolks
   - qty: 200
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 200 g unsalted butter
   - name: salt
     raw: Salt

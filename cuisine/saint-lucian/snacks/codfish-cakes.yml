@@ -66,7 +66,7 @@ ingredients:
   - qty: 0.5
     name: /2 scotch bonnet
     raw: 1/2 scotch bonnet, finely chopped
-  - name: about 250 ml cold water
+  - name: water
     raw: About 250 ml cold water
   - qty: 500
     unit: ml

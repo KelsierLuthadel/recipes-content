@@ -43,7 +43,7 @@ ingredients:
     raw: 2 tablespoons ground turmeric
   - qty: 225
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 225 g unsalted butter
   - qty: 240
     unit: ml
@@ -100,5 +100,5 @@ ingredients:
     raw: ½ cup plain breadcrumbs
   - qty: 3
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 3 tablespoons unsalted butter

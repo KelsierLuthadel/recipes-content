@@ -20,7 +20,7 @@ ingredients:
     raw: 1 cauliflower
   - qty: 50
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 50 g unsalted butter
   - qty: 50
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     raw: 50 g cheddar cheese
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - name: thyme
     raw: A few sprigs of fresh thyme

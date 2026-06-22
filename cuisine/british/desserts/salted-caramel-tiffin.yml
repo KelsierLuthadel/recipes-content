@@ -20,7 +20,7 @@ ingredients:
     raw: 250 g digestive biscuits
   - qty: 150
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 150 g unsalted butter
   - qty: 60
     unit: g
@@ -36,7 +36,7 @@ ingredients:
     raw: 30 g caster sugar
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter
   - qty: 120
     unit: g

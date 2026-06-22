@@ -43,7 +43,7 @@ ingredients:
     raw: 100 ml whole milk
   - qty: 150
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 150 g unsalted butter
   - qty: 200
     unit: g
@@ -51,7 +51,7 @@ ingredients:
     raw: 200 g dark chocolate
   - qty: 150
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 150 g unsalted butter
   - qty: 80
     unit: g

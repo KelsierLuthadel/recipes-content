@@ -15,10 +15,10 @@ tags:
   - coconut
   - lime
 mentions:
-  - base-ingredients/spices/jerk-seasoning
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/jerk-seasoning
 ingredients:
   - qty: 1.1
     unit: kg

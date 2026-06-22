@@ -30,7 +30,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 350 ml warm milk
-  - name: vegetable oil for shallow frying
+  - name: vegetable oil
     raw: Vegetable oil for shallow frying
   - qty: 600
     unit: g

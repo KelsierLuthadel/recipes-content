@@ -26,10 +26,10 @@ tags:
   - complex
   - lunar-new-year
 mentions:
+  - base-ingredients/spices/chinese-five-spice-powder
   - cuisine/chinese/char-siu
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 8
     name: chicken thighs

@@ -20,15 +20,15 @@ mentions:
   - tutorials/sugar-work/fudge
 ingredients:
   - qty: 2
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 2 tins sweetened condensed milk
   - qty: 60
     unit: g
-    name: unsweetened cocoa powder
+    name: cocoa powder (unsweetened)
     raw: 60 g good-quality unsweetened cocoa powder
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 1
     unit: pinch

@@ -20,6 +20,7 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/puerto-rican/habichuelas-guisadas
   - cuisine/puerto-rican/mofongo
   - cuisine/puerto-rican/side-dishes/maduros
@@ -28,7 +29,6 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/braising
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 8
     name: chicken thighs and drumsticks

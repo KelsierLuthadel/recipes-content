@@ -15,7 +15,9 @@ tags:
   - butter
   - cheese
 mentions:
+  - bread-pasta/baguette
   - drinks/cocktails/mojito
+  - tutorials/bread/baguette
   - tutorials/spices/storage
 ingredients:
   - qty: 2
@@ -46,7 +48,7 @@ ingredients:
     raw: 8-12 dill pickle slices
   - qty: 4
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 4 tablespoons unsalted butter
   - name: mariquitas
     raw: Mariquitas or papas fritas

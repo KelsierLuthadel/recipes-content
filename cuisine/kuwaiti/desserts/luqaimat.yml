@@ -45,7 +45,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 300 ml warm milk
-  - name: vegetable oil for deep frying
+  - name: vegetable oil
     raw: Vegetable oil for deep frying
   - qty: 150
     unit: ml

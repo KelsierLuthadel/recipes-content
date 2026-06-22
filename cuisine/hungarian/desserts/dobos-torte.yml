@@ -36,7 +36,7 @@ ingredients:
     raw: 150 g plain flour
   - qty: 25
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 25 g unsalted butter
   - qty: 1
     unit: pinch
@@ -55,7 +55,7 @@ ingredients:
     raw: 80 ml water
   - qty: 350
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 350 g unsalted butter
   - qty: 200
     unit: g

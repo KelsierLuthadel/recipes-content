@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: unsalted peanuts
+    name: peanuts (unsalted)
     raw: 200 g roasted unsalted peanuts
   - qty: 400
     unit: ml
@@ -24,7 +24,7 @@ ingredients:
     raw: 400 ml evaporated milk
   - qty: 250
     unit: ml
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 250 ml sweetened condensed milk
   - qty: 50
     unit: g

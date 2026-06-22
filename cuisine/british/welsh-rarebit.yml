@@ -13,6 +13,7 @@ tags:
   - butter
   - cheese
 mentions:
+  - bread-pasta/white-bread
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
@@ -21,7 +22,7 @@ ingredients:
     raw: 4 slices sourdough
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 30
     unit: g

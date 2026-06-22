@@ -18,13 +18,13 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/cuban/side-dishes/arroz-amarillo
   - cuisine/puerto-rican/snacks/sofrito
   - drinks/cocktails/mojito
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 1.2
     unit: kg

@@ -16,6 +16,7 @@ tags:
   - butter
   - complex
 mentions:
+  - bread-pasta/white-bread
   - cuisine/german/side-dishes/german-potato-salad
   - tutorials/pizza/sauce
   - tutorials/spices/storage
@@ -67,7 +68,7 @@ ingredients:
     raw: ¼ teaspoon ground nutmeg
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 2
     unit: tbsp

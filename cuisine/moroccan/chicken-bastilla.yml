@@ -30,7 +30,7 @@ ingredients:
     raw: 1 onion
   - qty: 50
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 50 g unsalted butter
   - qty: 2
     unit: tbsp
@@ -95,14 +95,14 @@ ingredients:
     raw: 1 tablespoon orange-flower water
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 12
     name: sheets of filo pastry
     raw: 12 sheets of filo pastry
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter
   - qty: 3
     unit: tbsp

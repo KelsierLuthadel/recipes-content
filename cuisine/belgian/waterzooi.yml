@@ -61,7 +61,7 @@ ingredients:
     raw: 200 ml dry white wine
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - name: salt and white pepper
     raw: Salt and white pepper
@@ -78,7 +78,7 @@ ingredients:
     raw: 1 tablespoon lemon juice
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter, cubed and cold
   - qty: 1
     name: flat leaf parsley

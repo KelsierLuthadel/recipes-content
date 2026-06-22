@@ -16,7 +16,7 @@ Trinidadian curry goat sits in a quiet rivalry with Jamaican curry goat, but the
 ## Ingredients
 
 ### Goat and marinade
-- 1.3 kg bone-in kid goat (or lamb shoulder), cut into 4-5 cm pieces
+- 1.3 kg goat (cut into 4-5 cm pieces)
 - 1 lime (juiced)
 - 3 tbsp Caribbean green seasoning
 - 1 tsp salt

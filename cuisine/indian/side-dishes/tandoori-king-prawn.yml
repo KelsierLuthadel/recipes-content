@@ -71,10 +71,14 @@ ingredients:
     unit: tbsp
     name: coriander
     raw: 1 tablespoon fresh coriander
-  - qty: 1
+  - qty: 0.5
     unit: tsp
-    name: mace and cardamom
-    raw: 1 teaspoon mace and cardamom
+    name: mace
+    raw: ½ teaspoon ground mace
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
   - qty: 1
     unit: tsp
     name: salt

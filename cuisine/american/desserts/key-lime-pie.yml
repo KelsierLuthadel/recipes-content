@@ -23,7 +23,7 @@ ingredients:
     raw: 200 g graham crackers
   - qty: 80
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 80 g unsalted butter
   - qty: 50
     unit: g
@@ -37,7 +37,7 @@ ingredients:
     name: egg yolks
     raw: 4 egg yolks
   - qty: 1
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 1 tin sweetened condensed milk
   - qty: 150
     unit: ml

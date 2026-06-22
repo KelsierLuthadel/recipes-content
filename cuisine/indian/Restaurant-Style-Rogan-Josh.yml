@@ -28,6 +28,8 @@ tags:
   - complex
 mentions:
   - cuisine/chinese/fried-rice
+  - cuisine/indian/Base/pre-cooked-chicken
+  - cuisine/indian/Base/pre-cooked-lamb
   - cuisine/indian/Restaurant-Style-Special-Fried-Rice
   - tutorials/chocolate/tempering
   - tutorials/middle-eastern-fundamentals/spices
@@ -130,7 +132,7 @@ ingredients:
     unit: tsp
     name: garam masala
     raw: 0.25 tsp Garam Masala
-  - name: about 40 ml extra base gravy
+  - name: base gravy
     raw: about 40 ml extra base gravy
   - qty: 1
     unit: splash

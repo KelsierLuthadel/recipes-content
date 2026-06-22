@@ -11,7 +11,6 @@ tags:
 mentions:
   - drinks/classic/ginger-beer
   - tutorials/spices/storage
-  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 800
     unit: g

@@ -22,6 +22,8 @@ tags:
   - nuts
   - complex
 mentions:
+  - cuisine/chinese/side-dishes/steamed-rice
+  - cuisine/indian/rice/steamed-rice
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
@@ -67,7 +69,7 @@ ingredients:
     raw: 6 garlic cloves
   - qty: 200
     unit: g
-    name: unsweetened peanut butter
+    name: peanut butter (unsweetened)
     raw: 200 g unsweetened peanut butter
   - qty: 4
     unit: tbsp

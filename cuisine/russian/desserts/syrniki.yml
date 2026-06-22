@@ -52,7 +52,7 @@ ingredients:
     raw: 2 tablespoons plain flour
   - qty: 3
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 3 tablespoons unsalted butter
   - qty: 2
     unit: tbsp
@@ -68,7 +68,7 @@ ingredients:
     raw: Fresh berries
   - name: honey
     raw: Honey
-  - name: sweetened condensed milk
+  - name: condensed milk (sweetened)
     raw: Sweetened condensed milk
   - name: icing sugar
     raw: Icing sugar

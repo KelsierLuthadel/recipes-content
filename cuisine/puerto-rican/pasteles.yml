@@ -19,11 +19,11 @@ tags:
   - nuts
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/puerto-rican/pernil
   - cuisine/puerto-rican/side-dishes/arroz-con-gandules
   - tutorials/pizza/dough
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 800
     unit: g

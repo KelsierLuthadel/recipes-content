@@ -17,8 +17,10 @@ tags:
   - butter
   - cheese
 mentions:
+  - cuisine/indian/Base/pre-cooked-chicken
   - cuisine/italian/pesto
   - cuisine/italian/pizza/calzone
+  - sauces/sauce-savory/bechamel-sauce
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
   - tutorials/spices/storage

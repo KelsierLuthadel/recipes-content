@@ -78,7 +78,7 @@ ingredients:
     raw: Pinch of fine sea salt
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter
   - qty: 100
     unit: g
@@ -86,7 +86,7 @@ ingredients:
     raw: 100 g caster sugar
   - qty: 150
     unit: ml
-    name: sweetened condensed milk
+    name: condensed milk (sweetened)
     raw: 150 ml sweetened condensed milk
   - qty: 50
     unit: ml

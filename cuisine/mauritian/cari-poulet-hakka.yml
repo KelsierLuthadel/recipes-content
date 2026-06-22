@@ -26,11 +26,11 @@ tags:
   - curry
   - complex
 mentions:
+  - base-ingredients/spices/chinese-five-spice-powder
   - cuisine/indian/BIR-chicken-curry
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/braising
-  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 25
     unit: g

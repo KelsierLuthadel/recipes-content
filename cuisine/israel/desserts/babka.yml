@@ -49,7 +49,7 @@ ingredients:
     raw: 1 egg yolk
   - qty: 120
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 120 g unsalted butter
   - qty: 1
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 150
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 150 g unsalted butter
   - qty: 200
     unit: g

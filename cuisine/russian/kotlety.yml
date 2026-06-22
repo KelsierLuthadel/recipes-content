@@ -23,6 +23,7 @@ tags:
   - cream
   - complex
 mentions:
+  - bread-pasta/white-bread
   - cuisine/german/snacks/frikadellen
   - tutorials/spices/storage
 ingredients:
@@ -77,7 +78,7 @@ ingredients:
     raw: 150 g fine dried breadcrumbs
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 4
     unit: tbsp

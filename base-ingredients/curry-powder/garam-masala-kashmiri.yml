@@ -29,7 +29,6 @@ mentions:
   - cuisine/bengali/murgir-jhol
   - cuisine/cajun/side-dishes/cajun-salad
   - cuisine/fijian/indo-fijian-goat-curry
-  - cuisine/fijian/snacks/fijian-samosa
   - cuisine/indian/agra-ginger-chicken
   - cuisine/indian/aloo-tikki-burger
   - cuisine/indian/Base/pre-cooked-chicken
@@ -70,6 +69,7 @@ mentions:
   - cuisine/indian/Restaurant-Style-Chicken-Tikka-Masala
   - cuisine/indian/Restaurant-Style-Garlic-Chilli-Chicken
   - cuisine/indian/Restaurant-Style-Karahi
+  - cuisine/indian/Restaurant-Style-Moghul
   - cuisine/indian/Restaurant-Style-Phaal
   - cuisine/indian/Restaurant-Style-Rogan-Josh
   - cuisine/indian/Restaurant-Style-Simple-Chicken-Curry
@@ -90,7 +90,6 @@ mentions:
   - cuisine/indian/snacks/samosa
   - cuisine/indian/sticky-wings
   - cuisine/indonesian/indonesian-meatballs
-  - cuisine/kenyan/snacks/kenyan-samosa
   - cuisine/lahori/lahori-beef-boti-kebab
   - cuisine/lahori/lahori-chapli-kebab
   - cuisine/lahori/lahori-chargha

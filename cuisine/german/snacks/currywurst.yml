@@ -16,9 +16,11 @@ tags:
   - curry
   - complex
 mentions:
+  - bread-pasta/white-bread
   - tutorials/charcuterie/sausages
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
   - qty: 200
     unit: ml

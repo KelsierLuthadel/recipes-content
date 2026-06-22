@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 2
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 2 tablespoons unsalted butter
   - qty: 1
     name: shallots
@@ -60,7 +60,7 @@ ingredients:
     raw: Olive oil, for brushing
   - qty: 1
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 1 tablespoon unsalted butter
   - qty: 0.5
     name: onion (yellow)

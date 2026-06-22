@@ -16,7 +16,9 @@ tags:
   - butter
   - complex
 mentions:
+  - bread-pasta/baguette
   - equipment/food-processor
+  - tutorials/bread/baguette
   - tutorials/spices/storage
 ingredients:
   - qty: 350
@@ -33,7 +35,7 @@ ingredients:
     raw: 3 tablespoons olive oil
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter
   - qty: 1
     name: onions

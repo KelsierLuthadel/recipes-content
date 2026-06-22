@@ -39,7 +39,7 @@ ingredients:
     raw: 1 teaspoon caster sugar
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter
   - qty: 3
     unit: tbsp
@@ -97,7 +97,7 @@ ingredients:
   - qty: 1
     name: egg yolk + 1 tablespoon milk
     raw: 1 egg yolk + 1 tablespoon milk
-  - name: or 1 litre vegetable oil for deep frying
+  - name: or 1 litre vegetable oil
     raw: OR 1 litre vegetable oil for deep frying
   - qty: 1
     unit: tbsp

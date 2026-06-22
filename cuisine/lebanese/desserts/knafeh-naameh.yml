@@ -28,7 +28,7 @@ ingredients:
     raw: 80 g plain flour
   - qty: 200
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 200 g unsalted butter
   - qty: 80
     unit: ml
@@ -76,7 +76,7 @@ ingredients:
     raw: 1 tablespoon orange blossom water
   - qty: 80
     unit: g
-    name: unsalted pistachios
+    name: pistachios (unsalted)
     raw: 80 g unsalted pistachios
   - qty: 1
     unit: tbsp

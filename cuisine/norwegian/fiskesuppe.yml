@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 1 tbsp unsalted butter
   - qty: 1
     unit: tbsp
@@ -100,5 +100,5 @@ ingredients:
     raw: "Optional: 1 tbsp vermouth or aquavit"
   - name: crusty bread
     raw: Crusty bread or rye bread, sliced
-  - name: salted butter
+  - name: butter (salted)
     raw: Salted butter

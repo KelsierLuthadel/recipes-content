@@ -23,6 +23,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/thai-curry/green
+  - base-ingredients/curry-paste/thai-green-paste
 ingredients:
   - qty: 2
     name: asian purple aubergines

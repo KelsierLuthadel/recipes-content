@@ -13,6 +13,7 @@ tags:
 mentions:
   - bread-pasta/pasta
   - cuisine/italian/pesto
+  - sauces/sauce-savory/bechamel-sauce
   - tutorials/pasta/fresh-pasta-dough
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
@@ -60,7 +61,7 @@ ingredients:
     raw: pepper
   - qty: 100
     unit: g
-    name: salted butter
+    name: butter (salted)
     raw: 100 grams salted butter
   - qty: 100
     unit: g

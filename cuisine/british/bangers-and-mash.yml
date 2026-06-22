@@ -32,7 +32,7 @@ ingredients:
     raw: 1 kg floury potatoes , peeled and cubed
   - qty: 75
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 75 g unsalted butter
   - qty: 100
     unit: ml
@@ -44,7 +44,7 @@ ingredients:
     raw: pepper
   - qty: 2
     unit: tbsp
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 2 tablespoons unsalted butter
   - qty: 3
     name: onions

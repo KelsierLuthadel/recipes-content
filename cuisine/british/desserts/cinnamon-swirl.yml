@@ -38,7 +38,7 @@ ingredients:
     raw: 250 ml whole milk
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 1
     name: eggs
@@ -49,7 +49,7 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 80
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 80 g unsalted butter
   - qty: 150
     unit: g

@@ -27,9 +27,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/curry-paste/thai-red-paste-southern
-  - base-ingredients/curry-paste/thai-red-paste-traditional
-  - base-ingredients/curry-paste/thai-red-paste
+  - tutorials/thai-curry/red
   - base-ingredients/curry-powder/bir-curry-powder
   - base-ingredients/curry-powder/garam-masala-kashmiri
   - base-ingredients/curry-powder/garam-masala
@@ -96,7 +94,7 @@ ingredients:
     raw: 2 tbsp red curry paste
   - qty: 391
     unit: ml
-    name: unsweetened coconut milk
+    name: coconut milk (unsweetened)
     raw: 391 ml unsweetened coconut milk
   - qty: 1
     unit: tbsp

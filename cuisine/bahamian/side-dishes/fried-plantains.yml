@@ -10,6 +10,7 @@ tags:
   - butter
 mentions:
   - cuisine/bahamian/cracked-conch
+  - cuisine/jamaican/side-dishes/fried-plantains
   - cuisine/puerto-rican/side-dishes/maduros
   - tutorials/charcuterie/bacon
   - tutorials/spices/storage
@@ -19,7 +20,7 @@ ingredients:
     raw: 3 large ripe plantains
   - qty: 60
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 60 g unsalted butter
   - qty: 1
     unit: pinch

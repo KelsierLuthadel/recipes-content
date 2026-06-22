@@ -27,7 +27,9 @@ tags:
   - curry
   - complex
 mentions:
+  - cuisine/chinese/side-dishes/steamed-rice
   - cuisine/indian/BIR-chicken-curry
+  - cuisine/indian/rice/steamed-rice
   - tutorials/spices/storage
 ingredients:
   - qty: 1

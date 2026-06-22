@@ -27,6 +27,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/sambal/sambal-oelek
 ingredients:
   - qty: 400
     unit: g

@@ -22,9 +22,9 @@ tags:
   - soy-sauce
   - complex
 mentions:
+  - base-ingredients/spices/chinese-five-spice-powder
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 2
     name: sirloin steaks

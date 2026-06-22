@@ -21,6 +21,7 @@ tags:
   - chili
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/puerto-rican/bistec-encebollado
   - cuisine/puerto-rican/pernil
   - cuisine/puerto-rican/pollo-guisado
@@ -30,7 +31,6 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 500
     unit: g

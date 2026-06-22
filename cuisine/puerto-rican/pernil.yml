@@ -15,12 +15,12 @@ tags:
   - coriander
   - complex
 mentions:
+  - base-ingredients/spices/sazon
   - cuisine/puerto-rican/side-dishes/arroz-con-gandules
   - cuisine/puerto-rican/side-dishes/maduros
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
-  - base-ingredients/spices/sazon
 ingredients:
   - qty: 1
     name: pork shoulder picnic roast

@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 45
     unit: g
-    name: salted butter
+    name: butter (salted)
     raw: 45 grams salted butter
   - qty: 250
     unit: g
@@ -41,7 +41,7 @@ ingredients:
     raw: 50 grams pine nuts
   - qty: 2
     unit: tbsp
-    name: salted capers
+    name: capers (salted)
     raw: 2 tablespoons salted capers
   - qty: 1
     name: garlic

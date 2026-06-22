@@ -43,7 +43,7 @@ ingredients:
     raw: 300 g soft dark brown sugar
   - qty: 100
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 100 g unsalted butter, melted
   - qty: 200
     unit: ml
@@ -80,7 +80,7 @@ ingredients:
     raw: 50 g raisins
   - qty: 30
     unit: g
-    name: unsalted butter
+    name: butter (unsalted)
     raw: 30 g unsalted butter, in small dabs
   - qty: 1
     unit: tsp

@@ -22,6 +22,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
   - qty: 1
     name: edam

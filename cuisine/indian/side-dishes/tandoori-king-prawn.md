@@ -32,7 +32,8 @@ Tandoori King Prawns are elegant, restaurant-quality appetizers or mains. The pr
 - 1cm piece of fresh ginger (peeled and finely chopped)
 - 1 fresh green chilli (finely chopped)
 - 1 tablespoon fresh coriander (chopped)
-- 1 teaspoon mace and cardamom (ground)
+- ½ teaspoon ground mace
+- ½ teaspoon ground cardamom
 - 1 teaspoon salt
 - 1 teaspoon garlic powder
 - 1 teaspoon ajwain (carom) seeds

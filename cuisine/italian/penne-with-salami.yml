@@ -13,6 +13,7 @@ tags:
   - cheese
   - complex
 mentions:
+  - sauces/sauce-savory/bechamel-sauce
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
@@ -41,7 +42,7 @@ ingredients:
     raw: 350 grams penne rigate
   - qty: 50
     unit: g
-    name: salted butter
+    name: butter (salted)
     raw: 50 grams salted butter
   - qty: 50
     unit: g

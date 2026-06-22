@@ -12,7 +12,8 @@ tags:
   - butter
   - chocolate
   - valentines
-mentions: []
+mentions:
+  - baking/cremes/creme-anglaise
 ingredients:
   - qty: 200
     unit: g
