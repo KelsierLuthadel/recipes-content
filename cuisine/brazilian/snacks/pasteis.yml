@@ -81,7 +81,7 @@ ingredients:
     name: spring onions
     raw: 1 small bunch of spring onions
   - qty: 1
-    name: hard boiled eggs
+    name: eggs
     raw: 1 hard-boiled egg
   - qty: 8
     name: olives (green)
@@ -98,10 +98,18 @@ ingredients:
     unit: tsp
     name: cumin
     raw: ½ teaspoon ground cumin
-  - qty: 1
+  - qty: 0.5
     unit: tsp
-    name: brazilian sazon mix
-    raw: 1 teaspoon Brazilian sazon mix
+    name: paprika
+    raw: ½ teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ teaspoon dried oregano
+  - qty: 0.25
+    unit: tsp
+    name: garlic granules
+    raw: ¼ teaspoon garlic granules
   - name: ham and cheese
     raw: "Ham and cheese: 200 g sliced ham + 200 g mozzarella"
   - name: chicken with catupiry

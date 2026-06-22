@@ -25,7 +25,8 @@ Byrek (the spelling lazo or burek elsewhere in the Balkans) is the Albanian filo
 - 2 large eggs (for the filling)
 - A small handful of dill, chopped
 - A small handful of flat-leaf parsley, chopped
-- Salt and freshly ground black pepper
+- Salt
+- Freshly ground black pepper
 
 ### For the assembly
 - 12 sheets thin filo pastry (about 270 g, defrosted if frozen)

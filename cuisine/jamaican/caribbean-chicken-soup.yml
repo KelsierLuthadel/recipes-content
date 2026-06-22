@@ -17,6 +17,7 @@ tags:
   - coconut
   - potato
   - carrot
+  - coriander
   - curry
   - complex
 mentions:
@@ -35,9 +36,29 @@ ingredients:
     name: adobo seasoning
     raw: 1 tablespoon Adobo seasoning
   - qty: 1
-    unit: tbsp
-    name: sazon seasoning
-    raw: 1 tablespoon Sazon seasoning
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: garlic granules
+    raw: ½ teaspoon garlic granules
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ teaspoon dried oregano
+  - qty: 1
+    unit: pinch
+    name: turmeric
+    raw: pinch ground turmeric
   - qty: 1
     unit: tsp
     name: allspice

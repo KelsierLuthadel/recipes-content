@@ -26,10 +26,10 @@ Pad krapow gai is the late-night quick dinner of every Thai household and street
 - 600g (1lb 5oz) skinless chicken thigh fillets, cut into small pieces
 
 ### Seasonings
-- 1 tbsp light soy sauce*
+- 1 tbsp light soy sauce
 - 1 tsp palm sugar, finely chopped (more or less to taste)
-- 1 tbsp oyster sauce*
-- 1 ½ tsp dark soy sauce*
+- 1 tbsp oyster sauce
+- 1 ½ tsp dark soy sauce
 
 ### Herbs
 - Large handful of Thai holy basil leaves, finely (or roughly chopped)

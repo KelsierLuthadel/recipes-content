@@ -18,7 +18,7 @@ Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sund
 ### Chicken and marinade
 - 1.2 kg bone-in skin-on chicken pieces (thighs and drumsticks, or whole chicken cut into 8)
 - 1 tablespoon adobo seasoning (Cuban-style)
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - 1 teaspoon fine sea salt
@@ -42,7 +42,7 @@ Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sund
 - 500 ml hot chicken stock
 - Generous pinch of saffron threads (infused in 2 tablespoons warm water; or 1 teaspoon Bijol seasoning)
 - 2 bay leaves
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano

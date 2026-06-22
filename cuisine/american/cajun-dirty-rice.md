@@ -16,7 +16,8 @@ Dirty rice is the Cajun dish that takes its name from the colour the rice turns 
 ## Ingredients
 - 225 g ground beef
 - 225 g ground pork
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 - 3 tablespoons unsalted butter
 - 1 onion (finely chopped)
 - 1 red bell pepper (finely chopped)

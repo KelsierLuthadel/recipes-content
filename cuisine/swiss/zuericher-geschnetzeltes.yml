@@ -28,8 +28,10 @@ ingredients:
     unit: tbsp
     name: plain flour
     raw: 2 tbsp plain flour
-  - name: salt and freshly ground black pepper
-    raw: Salt and freshly ground black pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 50
     unit: g
     name: unsalted butter

@@ -37,7 +37,7 @@ Ropa vieja (literally "old clothes", named for the shredded texture that resembl
 - 250 ml reserved cooking broth (from stage 1)
 - 1 tablespoon ground cumin
 - 1 tablespoon dried oregano
-- 1 teaspoon ground turmeric (or 1 tablespoon sazón)
+- 1 teaspoon ground turmeric (or 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md))
 - 1 teaspoon Aleppo pepper or smoked paprika
 - 1 teaspoon fine sea salt (taste; the olives are salty)
 - 1 teaspoon ground black pepper

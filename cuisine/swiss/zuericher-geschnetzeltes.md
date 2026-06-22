@@ -16,7 +16,8 @@ Geschnetzeltes - "small cuts" - is the Swiss German term for strips of meat in c
 ## Ingredients
 - 600 g veal escalope, sliced into thin strips (5 mm wide, 5 cm long)
 - 2 tbsp plain flour
-- Salt and freshly ground black pepper
+- Salt
+- Freshly ground black pepper
 - 50 g unsalted butter (in three batches)
 - 1 tbsp vegetable oil
 - 2 shallots, finely diced

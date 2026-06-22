@@ -68,11 +68,11 @@ ingredients:
     raw: 2 tablespoons whisky
   - qty: 1
     unit: tbsp
-    name: marmalade (orange)
+    name: orange marmalade
     raw: 1 tablespoon orange marmalade
   - qty: 100
     unit: g
-    name: blanched almonds
+    name: almonds
     raw: 100 g whole blanched almonds
   - qty: 1
     unit: tbsp

@@ -42,7 +42,7 @@ ingredients:
     raw: Grated zest of ½ orange
   - qty: 60
     unit: ml
-    name: juice (orange)
+    name: orange juice
     raw: 60 ml fresh orange juice
   - qty: 140
     unit: g
@@ -83,8 +83,10 @@ ingredients:
     unit: tbsp
     name: flat leaf parsley
     raw: 2 tablespoons chopped fresh flat-leaf parsley, plus more for garnish
-  - name: kosher salt and freshly ground black pepper
-    raw: Kosher salt and freshly ground black pepper
+  - name: kosher salt
+    raw: Kosher salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 1
     unit: pinch
     name: cayenne pepper

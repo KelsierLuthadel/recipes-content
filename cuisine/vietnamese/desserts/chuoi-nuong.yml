@@ -61,11 +61,11 @@ ingredients:
     raw: 1 pandan leaf
   - qty: 3
     unit: tbsp
-    name: roasted peanuts
+    name: peanuts
     raw: 3 tablespoons roasted peanuts
   - qty: 1
     unit: tbsp
-    name: toasted sesame seeds
+    name: sesame seeds
     raw: 1 tablespoon toasted sesame seeds
   - qty: 1
     unit: pinch

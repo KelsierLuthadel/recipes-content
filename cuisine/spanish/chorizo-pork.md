@@ -16,7 +16,8 @@ This is the weeknight Spanish plate of pork tenderloin and chorizo in a paprika-
 ### Potatoes & Oil
 - 500 grams baby new potatoes
 - 2 tablespoons olive oil
-- Sea salt and freshly ground black pepper to taste
+- Sea salt
+- Freshly ground black pepper
 
 ### Protein
 - 400 grams pork tenderloin (cut into chunks)

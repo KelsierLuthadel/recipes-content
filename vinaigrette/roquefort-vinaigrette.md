@@ -22,7 +22,8 @@ Roquefort vinaigrette is the building block for bitter winter salads and warm-be
 - 50 grams Roquefort cheese (crumbled)
 - 1 teaspoon fresh tarragon leaves (snipped) or ½ teaspoon dried
 - 2-3 dashes Worcestershire sauce (to taste)
-- Fine sea salt and freshly ground black pepper (to taste)
+- Fine sea salt
+- Freshly ground black pepper (to taste)
 
 ## Method
 

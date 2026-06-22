@@ -35,7 +35,7 @@ ingredients:
     raw: 50 g achiote paste
   - qty: 120
     unit: ml
-    name: juice (orange)
+    name: orange juice
     raw: 120 ml fresh orange juice
   - qty: 60
     unit: ml
@@ -79,7 +79,7 @@ ingredients:
     raw: Warm corn tortillas
   - name: lime wedges
     raw: Lime wedges
-  - name: charred spring onions
+  - name: spring onions
     raw: Charred spring onions
   - name: salsa roja
     raw: Salsa roja

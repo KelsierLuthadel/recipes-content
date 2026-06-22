@@ -35,7 +35,7 @@ ingredients:
     raw: 480 ml water
   - qty: 1
     unit: tbsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 1 tablespoon toasted sesame oil
   - qty: 1
     unit: tsp
@@ -66,7 +66,7 @@ ingredients:
     raw: 2 garlic cloves
   - qty: 1.5
     unit: tbsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 1 ½ tablespoons toasted sesame oil
   - name: salt
     raw: salt

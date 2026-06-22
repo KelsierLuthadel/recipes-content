@@ -28,6 +28,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/braising
+  - base-ingredients/spices/sazon
 ingredients:
   - qty: 8
     name: chicken thighs and drumsticks
@@ -47,7 +48,7 @@ ingredients:
   - qty: 1
     unit: tbsp
     name: sazon
-    raw: 1 tablespoon sazón
+    raw: 1 tablespoon Sazón
   - qty: 3
     unit: tbsp
     name: olive oil

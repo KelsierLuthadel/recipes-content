@@ -17,7 +17,8 @@ Lemon and mint vinaigrette is the building block for delicate spring and summer 
 - 2 lemons (zest and juice)
 - 6 tablespoons groundnut oil
 - 6 fresh mint leaves (snipped just before use)
-- Fine sea salt and freshly ground black pepper (to taste)
+- Fine sea salt
+- Freshly ground black pepper (to taste)
 
 ## Method
 

@@ -23,7 +23,8 @@ The Louisiana fried shrimp you order on the Gulf Coast comes by way of an evapor
 - 450 g large shrimp (peeled and deveined)
 
 ### Frying
-- Kosher salt and freshly ground black pepper (or Cajun seasoning)
+- Kosher salt
+- Freshly ground black pepper (or Cajun seasoning)
 - Peanut oil or coconut oil, for frying
 - 120 g plain flour
 - 1 tablespoon baking powder

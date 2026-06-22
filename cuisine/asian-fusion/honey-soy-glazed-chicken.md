@@ -17,7 +17,8 @@ Roast chicken at its most rewarding: bone-in, skin-on thighs that braise gently 
 
 ### Chicken
 - 6 bone-in, skin-on chicken thighs (excess skin trimmed)
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 
 ### Marinade and glaze
 - 80 ml low-sodium soy sauce

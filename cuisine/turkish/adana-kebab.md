@@ -40,7 +40,8 @@ Adana kebab is the most fiercely defended kebab in Turkey: hand-chopped fatty la
 
 ### To serve
 - 4-8 fresh lavash sheets (large, warm; substitute large soft flatbreads)
-- Salt-water-and-lemon ayran (yogurt drink) on the side
+- Ayran (Turkish salted yoghurt drink)
+- Lemon wedges
 
 ### Equipment
 - 4-8 wide flat metal skewers (the flat blade is essential, round skewers spin and the meat falls off)

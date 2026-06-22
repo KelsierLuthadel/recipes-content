@@ -31,7 +31,7 @@ ingredients:
     raw: 200 g puffed rice
   - qty: 50
     unit: g
-    name: roasted peanuts
+    name: peanuts
     raw: 50 g roasted peanuts
   - qty: 50
     unit: g
@@ -76,5 +76,5 @@ ingredients:
   - name: coconut
     raw: A small piece of fresh coconut, slivered
   - qty: 1
-    name: boiled potato
+    name: potato
     raw: 1 boiled potato, peeled and diced small

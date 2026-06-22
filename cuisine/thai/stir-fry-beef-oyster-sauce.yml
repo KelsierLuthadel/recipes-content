@@ -30,7 +30,7 @@ ingredients:
     raw: 350g sirloin steak
   - qty: 2
     unit: tbsp
-    name: light soy sauce*
+    name: light soy sauce
     raw: 2 tbsp light soy sauce*
   - qty: 2
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 onion , thinly sliced
   - qty: 3.5
     unit: tbsp
-    name: oyster sauce*
+    name: oyster sauce
     raw: 3-4 tbsp oyster sauce*
   - qty: 4
     unit: tbsp

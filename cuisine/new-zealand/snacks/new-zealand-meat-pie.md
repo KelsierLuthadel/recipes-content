@@ -28,7 +28,8 @@ The meat pie is the New Zealand and Australian common-currency hand-food: a smal
 - 1 tbsp Dijon mustard
 - 1 tsp dried thyme
 - 1 bay leaf
-- Salt and freshly ground black pepper
+- Salt
+- Freshly ground black pepper
 
 ### Pastry
 - 500 g shortcrust pastry (homemade or bought)

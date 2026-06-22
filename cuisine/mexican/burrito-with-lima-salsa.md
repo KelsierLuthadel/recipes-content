@@ -33,7 +33,7 @@ A burrito built around the contrast between three distinct textures: spice-rubbe
 - 1 tbsp tomato purée
 
 ### Salsa
-- 3-4 rings fresh pineapple, 1cm thick (roughly chopped)
+- 3-4 fresh pineapple rings, 1cm thick (roughly chopped)
 - 1 red bell pepper (roughly chopped)
 - 1 yellow bell pepper (roughly chopped)
 - 1 red onion (roughly chopped)

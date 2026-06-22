@@ -23,15 +23,15 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: chicken thigh chopped through the bone into 4 cm pieces
-    raw: 800 g bone-in, skin-on chicken thigh, chopped through the bone into 4 cm pieces
+    name: chicken thighs
+    raw: 800 g chicken thighs
   - qty: 0.5
     unit: tsp
     name: pepper (white)
     raw: ½ teaspoon white pepper
   - qty: 4
     unit: tbsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 4 tablespoons toasted sesame oil
   - qty: 6
     name: ginger
@@ -66,5 +66,5 @@ ingredients:
     unit: g
     name: thai basil
     raw: 30 g Thai holy basil
-  - name: steamed jasmine rice
+  - name: jasmine rice
     raw: Steamed jasmine rice

@@ -31,7 +31,8 @@ Corba (the Ottoman word for soup, kept across the Balkans) covers a family of sl
 - 2 tbsp butter
 - 3 large egg yolks
 - Juice of 2 lemons (about 6 tbsp)
-- Salt and freshly ground white pepper
+- Salt
+- Freshly ground white pepper
 - A small handful of flat-leaf parsley, chopped (to finish)
 
 ### To serve

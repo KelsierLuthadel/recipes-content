@@ -62,7 +62,7 @@ ingredients:
     raw: 80 g glacé cherries
   - qty: 100
     unit: g
-    name: blanched almonds
+    name: almonds
     raw: 100 g chopped blanched almonds
   - qty: 100
     unit: g
@@ -117,7 +117,7 @@ ingredients:
     raw: 1 teaspoon black treacle
   - qty: 2
     unit: tbsp
-    name: marmalade (orange)
+    name: orange marmalade
     raw: 2 tablespoons orange marmalade
   - qty: 0.5
     unit: tsp

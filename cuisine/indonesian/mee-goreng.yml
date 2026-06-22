@@ -74,8 +74,8 @@ ingredients:
     raw: 200 grams sliced pork
   - qty: 200
     unit: g
-    name: and deveined prawns
-    raw: 200 grams peeled and deveined prawns
+    name: prawns
+    raw: 200 grams prawns
   - qty: 0.25
     unit: cup
     name: cabbage (white)

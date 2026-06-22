@@ -40,7 +40,7 @@ ingredients:
     raw: 120 ml fresh lime juice
   - qty: 120
     unit: ml
-    name: juice (orange)
+    name: orange juice
     raw: 120 ml fresh orange juice
   - qty: 6
     unit: tbsp
@@ -122,7 +122,7 @@ ingredients:
     raw: ½ teaspoon ground black pepper
   - name: warm corn tortillas
     raw: Warm corn tortillas
-  - name: fried plantains
+  - name: plantains
     raw: Fried plantains
   - name: arroz blanco
     raw: Arroz blanco

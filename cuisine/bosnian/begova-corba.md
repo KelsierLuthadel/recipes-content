@@ -39,7 +39,8 @@ Begova čorba is the most refined soup in the Bosnian repertoire: a clear chicke
 - 200 ml soured cream (or thick natural yoghurt)
 - Juice of half a lemon
 - A handful of chopped fresh parsley
-- Salt and freshly ground white pepper to taste
+- Salt
+- Freshly ground white pepper to taste
 
 ## Method
 

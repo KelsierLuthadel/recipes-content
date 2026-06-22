@@ -53,7 +53,7 @@ ingredients:
     raw: 250 ml hot water
   - qty: 1
     unit: tsp
-    name: roasted cumin powder
+    name: cumin powder
     raw: 1 tsp roasted cumin powder
   - qty: 1
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     name: pepper (black)
     raw: ½ tsp ground black pepper
   - qty: 4
-    name: hard boiled eggs
+    name: eggs
     raw: 4 hard-boiled eggs, peeled and roughly chopped
   - qty: 1
     name: onion (red)

@@ -85,5 +85,7 @@ ingredients:
     unit: handful
     name: parsley
     raw: A handful of chopped fresh parsley
-  - name: salt and freshly ground white pepper
-    raw: Salt and freshly ground white pepper to taste
+  - name: salt
+    raw: Salt
+  - name: pepper (white)
+    raw: Freshly ground white pepper to taste

@@ -38,7 +38,7 @@ ingredients:
     raw: 3 tablespoons brown sugar
   - qty: 3
     unit: tbsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 3 tablespoons toasted sesame oil
   - qty: 2
     name: garlic
@@ -75,5 +75,5 @@ ingredients:
     unit: tbsp
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
-  - name: toasted sesame seeds
+  - name: sesame seeds
     raw: Toasted sesame seeds, to finish

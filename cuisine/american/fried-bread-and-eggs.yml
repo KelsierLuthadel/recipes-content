@@ -45,5 +45,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 60 ml whole milk
-  - name: kosher salt and freshly ground black pepper
-    raw: Kosher salt and freshly ground black pepper
+  - name: kosher salt
+    raw: Kosher salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper

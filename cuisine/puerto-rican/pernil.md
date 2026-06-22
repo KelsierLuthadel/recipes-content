@@ -31,7 +31,7 @@ Pernil is Puerto Rico's most iconic celebration dish and the centrepiece of ever
 - 1 tablespoon paprika
 - 2 teaspoons ground coriander
 - 1 teaspoon ground turmeric
-- 2 tablespoons sazón (or substitute: 1 teaspoon achiote powder + 1 teaspoon garlic powder + 1 teaspoon onion powder)
+- 2 tablespoons [Sazón](../../base-ingredients/spices/sazon.md) (or substitute: 1 teaspoon achiote powder + 1 teaspoon garlic powder + 1 teaspoon onion powder)
 - 4 sprigs fresh thyme (leaves picked)
 - 1 small bunch fresh oregano (chopped; optional, supplements the dried)
 - 4 bay leaves (crumbled)

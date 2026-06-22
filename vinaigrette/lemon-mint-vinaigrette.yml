@@ -21,5 +21,7 @@ ingredients:
   - qty: 6
     name: mint leaves
     raw: 6 fresh mint leaves
-  - name: sea salt and freshly ground black pepper
-    raw: Fine sea salt and freshly ground black pepper
+  - name: sea salt
+    raw: Fine sea salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper

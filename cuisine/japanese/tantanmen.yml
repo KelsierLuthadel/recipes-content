@@ -63,7 +63,7 @@ ingredients:
     raw: 1 teaspoon caster sugar
   - qty: 1
     unit: tsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 1 teaspoon toasted sesame oil
   - qty: 3
     unit: tbsp
@@ -109,7 +109,7 @@ ingredients:
     name: ramen noodles
     raw: 200-250 g fresh ramen noodles
   - qty: 2
-    name: soft boiled eggs
+    name: eggs
     raw: 2 soft-boiled eggs
   - qty: 200
     unit: g
@@ -120,7 +120,7 @@ ingredients:
     raw: 4 spring onions
   - qty: 1
     unit: tbsp
-    name: toasted sesame seeds
+    name: sesame seeds
     raw: 1 tablespoon toasted sesame seeds
   - name: chilli oil and sichuan pepper
     raw: Extra chilli oil and Sichuan pepper for the table

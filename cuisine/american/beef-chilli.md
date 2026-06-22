@@ -17,7 +17,8 @@ The Texas-leaning answer to ground-beef chili: 1.8 kg of chuck, cut into thumb-s
 
 ### Beef and aromatics
 - 1.8 kg boneless beef chuck
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 - 3 tablespoons olive oil, plus more as needed
 - 1 large yellow onion (chopped)
 - 1 large red bell pepper (seeded and chopped)

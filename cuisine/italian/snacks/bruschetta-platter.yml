@@ -53,5 +53,7 @@ ingredients:
     unit: tbsp
     name: flat leaf parsley
     raw: 1 tablespoon flat leaf parsley
-  - name: salt and freshly ground black pepper
-    raw: Salt and freshly ground black pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper

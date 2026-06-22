@@ -67,8 +67,10 @@ ingredients:
   - qty: 1
     name: bay leaf
     raw: 1 bay leaf
-  - name: salt and freshly ground black pepper
-    raw: Salt and freshly ground black pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 500
     unit: g
     name: shortcrust pastry

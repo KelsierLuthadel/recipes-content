@@ -86,15 +86,15 @@ ingredients:
     name: caster sugar
     raw: 1 teaspoon caster sugar
   - qty: 4
-    name: fried eggs
+    name: eggs
     raw: 4 fried eggs
   - qty: 100
     unit: g
     name: parmesan
     raw: 100 g grated Parmesan or aged cheese for finishing
-  - name: grilled sardines
+  - name: sardines
     raw: Grilled sardines
-  - name: fried eggs
+  - name: eggs
     raw: Fried eggs
   - name: crusty bread
     raw: Crusty bread

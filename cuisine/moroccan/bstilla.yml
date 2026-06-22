@@ -80,7 +80,7 @@ ingredients:
     raw: Salt
   - qty: 200
     unit: g
-    name: blanched almonds
+    name: almonds
     raw: 200 g blanched almonds
   - qty: 4
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     raw: 1 teaspoon ground cinnamon
   - qty: 1
     unit: tbsp
-    name: blossom water (orange)
+    name: orange blossom water
     raw: 1 tablespoon orange-blossom water
   - qty: 9
     name: sheets filo pastry

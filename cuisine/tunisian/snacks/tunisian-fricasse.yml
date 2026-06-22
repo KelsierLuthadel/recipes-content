@@ -53,7 +53,7 @@ ingredients:
     name: harissa
     raw: 1 ½ teaspoons Harissa
   - qty: 0.5
-    name: hard boiled eggs
+    name: eggs
     raw: ½ hard-boiled egg
   - qty: 4.5
     name: capers
@@ -76,7 +76,7 @@ ingredients:
     name: harissa
     raw: 4 tablespoons Harissa
   - qty: 4
-    name: hard boiled eggs
+    name: eggs
     raw: 4 hard-boiled eggs
   - qty: 4
     unit: tbsp

@@ -36,9 +36,9 @@ Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and on
 
 ### Seasoning
 - 2 tablespoons tomato paste
-- 1 tablespoon sazón (or substitute: 1 teaspoon achiote + 1 teaspoon garlic powder + ½ teaspoon ground coriander)
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md) (or substitute: 1 teaspoon achiote + 1 teaspoon garlic powder + ½ teaspoon ground coriander)
 - 1 tablespoon adobo seasoning (or 1 teaspoon salt + 1 teaspoon garlic powder + 1 teaspoon oregano)
-- 1 ½ teaspoons fine sea salt (taste before adding; sazón is salty)
+- 1 ½ teaspoons fine sea salt (taste before adding; [Sazón](../../base-ingredients/spices/sazon.md) is salty)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - 1 teaspoon ground black pepper
@@ -98,7 +98,7 @@ Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and on
 - **Sofrito is essential:** the foundational Puerto Rican green sauce gives the dish its Boricua character. Use homemade or the substitute approximation (chopped fresh coriander, parsley, culantro). Without it, the dish lacks Puerto Rican identity.
 - **Calabaza for body:** the cubed pumpkin half-dissolves during cooking and gives the broth body and sweetness. Butternut squash is the easy substitute outside Puerto Rico. Don't skip.
 - **Olives and capers for brininess:** the Boricua flavour profile includes these as essential aromatic components. Skip only if you really don't have them; they make the dish.
-- **Sazón gives the colour:** sazón (the orange-red commercial seasoning) gives the dish its characteristic deep colour. Achiote powder + garlic powder + spices is the workable substitute.
+- **[Sazón](../../base-ingredients/spices/sazon.md) gives the colour:** sazón (the orange-red commercial seasoning) gives the dish its characteristic deep colour. Achiote powder + garlic powder + spices is the workable substitute.
 - **Pink beans are traditional:** small pink beans are the proper Puerto Rican choice. Red kidney beans are the closest substitute; pinto beans work too. Black beans give a different (Cuban-leaning) flavour profile.
 
 ## Variations

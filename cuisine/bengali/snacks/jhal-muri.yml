@@ -29,7 +29,7 @@ ingredients:
     raw: 80 g muri
   - qty: 30
     unit: g
-    name: roasted peanuts
+    name: peanuts
     raw: 30 g roasted peanuts
   - qty: 30
     unit: g
@@ -72,7 +72,7 @@ ingredients:
     raw: ½ tsp Chaat Masala
   - qty: 0.25
     unit: tsp
-    name: roasted cumin powder
+    name: cumin powder
     raw: ¼ tsp roasted cumin powder
   - qty: 0.5
     name: limes

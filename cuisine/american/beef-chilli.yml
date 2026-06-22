@@ -26,8 +26,10 @@ ingredients:
     unit: kg
     name: beef chuck
     raw: 1.8 kg boneless beef chuck
-  - name: kosher salt and freshly ground black pepper
-    raw: Kosher salt and freshly ground black pepper
+  - name: kosher salt
+    raw: Kosher salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 3
     unit: tbsp
     name: olive oil

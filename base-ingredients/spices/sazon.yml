@@ -1,0 +1,61 @@
+prep: 5 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - garlic
+  - coriander
+mentions:
+  - cuisine/costa-rican/arroz-con-pollo
+  - cuisine/cuban/frijoles-negros
+  - tutorials/spices/storage
+  - cuisine/cuban/arroz-con-pollo-cubano
+  - cuisine/cuban/side-dishes/arroz-amarillo
+  - cuisine/puerto-rican/arroz-con-pollo
+  - cuisine/puerto-rican/asopao-de-pollo
+  - cuisine/puerto-rican/carne-guisada
+  - cuisine/puerto-rican/habichuelas-guisadas
+  - cuisine/puerto-rican/pasteles
+  - cuisine/puerto-rican/pernil
+  - cuisine/puerto-rican/pollo-guisado
+  - cuisine/puerto-rican/side-dishes/arroz-con-gandules
+  - cuisine/puerto-rican/snacks/alcapurrias
+  - cuisine/puerto-rican/snacks/bacalaitos
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: garlic granules
+    raw: 1 tablespoon garlic granules
+  - qty: 2
+    unit: tsp
+    name: oregano
+    raw: 2 teaspoons dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: annatto
+    raw: 1 teaspoon ground annatto
+  - qty: 0.5
+    unit: tsp
+    name: pepper (black)
+    raw: ½ teaspoon ground black pepper

@@ -19,6 +19,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/sazon
 ingredients:
   - qty: 4
     name: bananas (green)
@@ -38,7 +39,7 @@ ingredients:
   - qty: 1
     unit: tbsp
     name: sazon
-    raw: 1 tablespoon sazón
+    raw: 1 tablespoon Sazón
   - qty: 400
     unit: g
     name: beef
@@ -71,7 +72,7 @@ ingredients:
   - qty: 1
     unit: tbsp
     name: sazon
-    raw: 1 tablespoon sazón
+    raw: 1 tablespoon Sazón
   - qty: 1
     unit: tsp
     name: cumin

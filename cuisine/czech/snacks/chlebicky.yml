@@ -33,7 +33,7 @@ ingredients:
     name: unsalted butter
     raw: 50 g unsalted butter, softened
   - qty: 4
-    name: hard boiled eggs
+    name: eggs
     raw: 4 hard-boiled eggs, finely chopped
   - qty: 200
     unit: g
@@ -56,7 +56,7 @@ ingredients:
     name: ham
     raw: 8 slices of ham
   - qty: 4
-    name: hard boiled eggs
+    name: eggs
     raw: 4 hard-boiled eggs, sliced into rounds
   - qty: 16
     name: cornichons

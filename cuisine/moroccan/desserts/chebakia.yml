@@ -24,7 +24,7 @@ ingredients:
     raw: 500 g plain flour
   - qty: 200
     unit: g
-    name: toasted sesame seeds
+    name: sesame seeds
     raw: 200 g toasted sesame seeds
   - qty: 100
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: 3 tablespoons white vinegar
   - qty: 4
     unit: tbsp
-    name: flower water (orange)
+    name: orange flower water
     raw: 4 tablespoons orange-flower water
   - qty: 100
     unit: ml
@@ -78,9 +78,9 @@ ingredients:
     raw: 700 g clear honey
   - qty: 3
     unit: tbsp
-    name: flower water (orange)
+    name: orange flower water
     raw: 3 tablespoons orange-flower water
   - qty: 100
     unit: g
-    name: toasted sesame seeds
+    name: sesame seeds
     raw: 100 g toasted sesame seeds

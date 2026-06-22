@@ -32,8 +32,10 @@ ingredients:
     unit: tbsp
     name: olive oil
     raw: 2 tbsp olive oil
-  - name: sea salt and freshly ground black pepper
-    raw: Sea salt and freshly ground black pepper
+  - name: sea salt
+    raw: Sea salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 80
     unit: g
     name: unsalted butter

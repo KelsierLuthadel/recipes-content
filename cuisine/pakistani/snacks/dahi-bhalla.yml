@@ -79,7 +79,7 @@ ingredients:
     raw: 2 tablespoons caster sugar
   - qty: 1.5
     unit: tsp
-    name: roasted cumin
+    name: cumin
     raw: 1 ½ teaspoons ground roasted cumin
   - qty: 0.5
     unit: tsp
@@ -111,5 +111,5 @@ ingredients:
     raw: 3 tablespoons fresh coriander
   - qty: 1
     unit: pinch
-    name: roasted cumin and chilli powder
+    name: cumin and chilli powder
     raw: A pinch of extra ground roasted cumin and chilli powder

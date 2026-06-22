@@ -29,8 +29,10 @@ ingredients:
   - qty: 6
     name: chicken thighs
     raw: 6 bone-in, skin-on chicken thighs
-  - name: kosher salt and freshly ground black pepper
-    raw: Kosher salt and freshly ground black pepper
+  - name: kosher salt
+    raw: Kosher salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 80
     unit: ml
     name: low sodium soy sauce

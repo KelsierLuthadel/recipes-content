@@ -90,5 +90,7 @@ ingredients:
   - qty: 6
     name: lavash sheets
     raw: 4-8 fresh lavash sheets
-  - name: salt water and lemon ayran on the side
-    raw: Salt-water-and-lemon ayran on the side
+  - name: ayran
+    raw: Ayran
+  - name: lemon wedges
+    raw: Lemon wedges

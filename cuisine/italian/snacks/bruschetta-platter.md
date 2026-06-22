@@ -30,7 +30,8 @@ Two bruschette on one platter for an antipasto with two reasons to keep coming b
 - 2 garlic cloves (halved)
 - 80 ml extra virgin olive oil
 - 1 tablespoon flat leaf parsley (chopped)
-- Salt and freshly ground black pepper
+- Salt
+- Freshly ground black pepper
 
 ## Method
 

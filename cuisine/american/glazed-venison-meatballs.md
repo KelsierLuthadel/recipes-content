@@ -35,7 +35,8 @@ Venison is leaner than beef and benefits from the fat that streaky bacon brings,
 - 1 large egg (beaten)
 - 40 g fresh white breadcrumbs
 - 2 tablespoons chopped fresh flat-leaf parsley, plus more for garnish
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 - A pinch of cayenne pepper (optional)
 
 ## Method

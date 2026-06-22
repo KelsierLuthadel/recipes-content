@@ -15,7 +15,8 @@ The American weekend breakfast that earns its name. Yukon gold potatoes boil to 
 
 ## Ingredients
 - 450 g Yukon gold potatoes (cut into 1.5 cm pieces)
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 - 225 g thick-cut bacon (chopped)
 - ½ yellow onion (chopped)
 - 170 g smoked sausage (linguiça or kielbasa, cut into 1.5 cm pieces)

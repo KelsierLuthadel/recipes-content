@@ -49,8 +49,10 @@ ingredients:
     unit: tbsp
     name: butter
     raw: 2 tbsp butter
-  - name: salt and freshly ground black pepper
-    raw: Salt and freshly ground black pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 1
     unit: small handful
     name: flat leaf parsley

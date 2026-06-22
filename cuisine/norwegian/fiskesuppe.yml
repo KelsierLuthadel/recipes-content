@@ -92,8 +92,10 @@ ingredients:
     raw: A small handful of fresh chives, finely chopped
   - name: lemons
     raw: Juice of half a lemon
-  - name: salt and freshly ground white pepper
-    raw: Salt and freshly ground white pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (white)
+    raw: Freshly ground white pepper
   - name: optional
     raw: "Optional: 1 tbsp vermouth or aquavit"
   - name: crusty bread

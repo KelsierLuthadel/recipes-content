@@ -105,7 +105,7 @@ ingredients:
     raw: 80 g raisins
   - qty: 80
     unit: g
-    name: blanched almonds
+    name: almonds
     raw: 80 g blanched almonds
   - qty: 1.5
     unit: tsp
@@ -124,7 +124,7 @@ ingredients:
     raw: Plain white rice
   - name: mango chutney
     raw: Mango chutney
-  - name: toasted almonds
+  - name: almonds
     raw: Toasted almonds
   - name: lime wedges
     raw: Lime wedges

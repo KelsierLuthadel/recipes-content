@@ -31,7 +31,7 @@ Mee goreng is the Indonesian-Malay stir-fried noodle dish that turns up at every
 - 1 tablespoon vegetable oil
 - 3 garlic cloves (chopped)
 - 200 grams sliced pork (scotch fillet or pork fillet)
-- 200 grams peeled and deveined prawns
+- 200 grams prawns (peeled)
 - ¼ cup sliced white cabbage
 - 400 grams fresh Chinese egg noodles
 - ½ cup bean sprouts

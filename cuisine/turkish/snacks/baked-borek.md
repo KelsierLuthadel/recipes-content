@@ -19,7 +19,8 @@ Börek are the Turkish pastry parcels that come in dozens of folds and fillings:
 - 1 onion (large, approximately 200 grams, finely chopped)
 - 30 milliliters groundnut oil
 - 2 eggplants (large, approximately 800 grams total, cut into 3cm cubes)
-- Fine sea salt and freshly ground black pepper to taste
+- Fine sea salt
+- Freshly ground black pepper to taste
 - 400 grams tinned tomatoes (chopped, or fresh tomatoes puréed)
 
 ### Pastry & Assembly

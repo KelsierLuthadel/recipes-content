@@ -85,7 +85,7 @@ ingredients:
     raw: 1 teaspoon ground white pepper
   - qty: 1
     unit: tbsp
-    name: roasted rice powder
+    name: rice powder
     raw: 1 tablespoon roasted rice powder
   - qty: 2
     name: metres natural pork sausage casings
@@ -104,7 +104,7 @@ ingredients:
     raw: Fresh lettuce leaves, mint sprigs, basil sprigs, cilantro
   - name: cucumbers
     raw: Sliced cucumber, raw long beans, raw cabbage
-  - name: roasted peanuts
+  - name: peanuts
     raw: A small dish of crushed roasted peanuts
   - name: lime wedges
     raw: Lime wedges

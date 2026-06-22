@@ -23,8 +23,11 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: chicken thighs and 4 drumsticks
-    raw: 4 bone-in skin-on chicken thighs and 4 drumsticks
+    name: chicken thighs
+    raw: 4 chicken thighs
+  - qty: 4
+    name: drumsticks
+    raw: 4 drumsticks
   - qty: 2
     unit: tbsp
     name: sunflower oil

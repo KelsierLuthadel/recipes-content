@@ -19,7 +19,12 @@ Saturday-soup in Trinidad, Guyana and Jamaica is a category rather than a single
 - 1.4 kg (3 lbs) chicken pieces (drumsticks + boneless thighs)
 - 1 tablespoon Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon Adobo seasoning
-- 1 tablespoon Sazon seasoning
+- 1 teaspoon ground cumin
+- 1 teaspoon ground coriander
+- 1 teaspoon paprika
+- ½ teaspoon garlic granules
+- ½ teaspoon dried oregano
+- pinch ground turmeric
 - 1 teaspoon ground allspice
 - 80 ml green seasoning (or sofrito)
 - salt
@@ -55,7 +60,7 @@ Saturday-soup in Trinidad, Guyana and Jamaica is a category rather than a single
 
 ### Stage 1 - Season the chicken
 1. Pat the chicken dry. Remove the skin from drumsticks (peel back with paper towel).
-1. Toss with curry, adobo, sazon, allspice, green seasoning, salt and pepper.
+1. Toss with curry, adobo, cumin, coriander, paprika, garlic granules, oregano, turmeric, allspice, green seasoning, salt and pepper.
 1. Cover; refrigerate at least 30 minutes.
 
 ### Stage 2 - Build the base
@@ -87,6 +92,7 @@ Saturday-soup in Trinidad, Guyana and Jamaica is a category rather than a single
 1. Ladle into deep bowls.
 
 ## Notes
+- **The cumin / coriander / paprika rub** stands in for a tablespoon of American Goya Sazon, which isn't widely stocked in the UK. Add a small pinch of ground annatto if you can find it, for Sazon's signature orange colour.
 - **Pumpkin soup mix is the secret:** the powdered base from the packet thickens and flavours; the noodles get sieved out. If unavailable, use pumpkin purée + a Maggi cube.
 - **Dumplings are the texture:** small batons that hold shape. Skip them and the soup is missing its heart.
 

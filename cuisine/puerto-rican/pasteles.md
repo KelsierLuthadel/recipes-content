@@ -23,7 +23,7 @@ Pasteles is one of Puerto Rico's most iconic and elaborate holiday dishes, a Chr
 - 1 medium green bell pepper (finely chopped)
 - 6 garlic cloves (crushed)
 - 3 tablespoons tomato paste
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 tablespoon ground cumin
 - 1 tablespoon dried oregano
 - 1 ½ teaspoons fine sea salt
@@ -44,7 +44,7 @@ Pasteles is one of Puerto Rico's most iconic and elaborate holiday dishes, a Chr
 - 200 ml whole milk
 - 100 ml achiote oil (see below; or 100 ml olive oil + 1 teaspoon turmeric)
 - 1 tablespoon fine sea salt
-- 2 tablespoons sazón
+- 2 tablespoons [Sazón](../../base-ingredients/spices/sazon.md)
 
 ### Achiote oil (or use commercial)
 - 100 ml olive oil
@@ -128,7 +128,7 @@ Pasteles is one of Puerto Rico's most iconic and elaborate holiday dishes, a Chr
 
 ## Variations
 - **Pasteles de yuca:** swap the plantain-yautía-pumpkin mix for pure yuca (cassava) masa; gives a denser starchier pastel. Common variation.
-- **Vegetarian pasteles (pasteles de masa):** skip the meat filling; fill with a mixture of roasted vegetables (peppers, onions, mushrooms, olives, raisins, chickpeas) cooked with sofrito and sazón.
+- **Vegetarian pasteles (pasteles de masa):** skip the meat filling; fill with a mixture of roasted vegetables (peppers, onions, mushrooms, olives, raisins, chickpeas) cooked with sofrito and [Sazón](../../base-ingredients/spices/sazon.md).
 - **With chicken instead of pork:** swap the pork for cubed chicken thigh; cook 25 minutes instead of 40.
 - **Sweet pasteles (pasteles dulces):** swap to a sweet masa (with sugar instead of salt) and a sweet fruit filling (raisins, almonds, sugar); served at Christmas alongside the savoury version.
 

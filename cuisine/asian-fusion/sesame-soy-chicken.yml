@@ -38,7 +38,7 @@ ingredients:
     raw: 25 g packed brown sugar
   - qty: 5
     unit: ml
-    name: toasted sesame oil
+    name: sesame oil
     raw: 5 ml toasted sesame oil
   - qty: 1
     unit: g
@@ -50,7 +50,7 @@ ingredients:
     raw: 1 g red pepper flakes
   - qty: 15
     unit: ml
-    name: toasted sesame oil
+    name: sesame oil
     raw: 15 ml toasted sesame oil
   - name: sesame seeds
     raw: Sesame seeds, for garnish

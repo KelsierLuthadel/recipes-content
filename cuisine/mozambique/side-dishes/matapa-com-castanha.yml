@@ -40,7 +40,7 @@ ingredients:
     raw: 500 g cassava leaves
   - qty: 200
     unit: g
-    name: roasted unsalted cashews
+    name: unsalted cashews
     raw: 200 g roasted unsalted cashews
   - qty: 4
     unit: tbsp
@@ -100,5 +100,5 @@ ingredients:
     unit: tbsp
     name: lemon juice
     raw: 1 tablespoon fresh lemon juice
-  - name: roasted cashews
+  - name: cashews
     raw: Extra crushed roasted cashews

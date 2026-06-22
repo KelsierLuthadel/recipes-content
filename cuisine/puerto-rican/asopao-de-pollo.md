@@ -18,7 +18,7 @@ Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting del
 ### Chicken
 - 1.2 kg bone-in skin-on chicken pieces (thighs, drumsticks, wings, or whole chicken cut into 8)
 - 1 tablespoon adobo seasoning
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 teaspoon dried oregano
 - 1 teaspoon ground cumin
 - 1 teaspoon fine sea salt
@@ -104,7 +104,7 @@ Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting del
 
 ## Notes
 - **Brothy, not thick:** the traditional asopao is intentionally soupy. 1.5 litres of stock for 300 g of rice gives the right ratio.
-- **Sofrito and sazón:** the Boricua aromatic duo. Essential.
+- **Sofrito and [Sazón](../../base-ingredients/spices/sazon.md):** the Boricua aromatic duo. Essential.
 - **Brown the chicken first:** gives the proper sauce depth.
 - **Don't overcook the rice:** 25 minutes total cooking should give properly tender rice. Longer = mushy.
 - **Eat immediately:** asopao thickens as it sits. The first serving is the best.

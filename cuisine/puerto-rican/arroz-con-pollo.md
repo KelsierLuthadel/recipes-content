@@ -18,7 +18,7 @@ Arroz con pollo is the traditional Latin American one-pot chicken-and-rice dish,
 ### Chicken and marinade
 - 1.2 kg bone-in skin-on chicken pieces (thighs, drumsticks, or whole chicken cut into 8)
 - 1 tablespoon adobo seasoning
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 teaspoon dried oregano
 - 1 teaspoon ground cumin
 - 1 teaspoon fine sea salt
@@ -39,7 +39,7 @@ Arroz con pollo is the traditional Latin American one-pot chicken-and-rice dish,
 - 500 g medium-grain rice (or long-grain rice; rinsed 2-3 times)
 - 800 ml hot chicken stock
 - 2 bay leaves
-- 1 tablespoon sazón (additional)
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md) (additional)
 - 1 teaspoon dried oregano
 - 1 teaspoon fine sea salt
 
@@ -102,10 +102,10 @@ Arroz con pollo is the traditional Latin American one-pot chicken-and-rice dish,
 3. Bring the pot to the table; serve family-style with sliced avocado and lime wedges alongside.
 
 ## Notes
-- **Sofrito + sazón:** the traditional PR duo. Don't skip.
+- **Sofrito + [Sazón](../../base-ingredients/spices/sazon.md):** the traditional PR duo. Don't skip.
 - **Rinse the rice:** removes excess surface starch; gives properly separated cooked grains.
 - **Don't lift the lid:** once the rice is in and the pot covered, leave alone for 25 minutes. Every glance loses steam.
-- **Achiote/sazón for colour:** the orange-yellow colour is traditional Puerto Rican. Without it the dish looks pale.
+- **Achiote/[Sazón](../../base-ingredients/spices/sazon.md) for colour:** the orange-yellow colour is traditional Puerto Rican. Without it the dish looks pale.
 - **Medium-grain rice if possible:** gives the proper Boricua texture. Long-grain works too.
 
 ## Variations

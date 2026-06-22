@@ -28,7 +28,7 @@ Arroz con gandules ("rice with pigeon peas") is Puerto Rico's unofficial nationa
 - 6 garlic cloves (crushed)
 - 2 tablespoons tomato paste
 - 200 ml tomato sauce
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../../base-ingredients/spices/sazon.md)
 - 1 tablespoon dried oregano
 - 1 teaspoon ground cumin
 - 1 ½ teaspoons fine sea salt
@@ -85,15 +85,15 @@ Arroz con gandules ("rice with pigeon peas") is Puerto Rico's unofficial nationa
 6. Sliced avocado and lime wedges alongside.
 
 ## Notes
-- **Sofrito + sazón:** the traditional PR seasoning duo. Don't skip; substitute if needed.
+- **Sofrito + [Sazón](../../../base-ingredients/spices/sazon.md):** the traditional PR seasoning duo. Don't skip; substitute if needed.
 - **Pigeon peas (gandules) are essential:** the dish is named for them. Canned is fine; dried pre-cooked is better.
-- **The smoked pork gives depth:** if vegetarian, skip the meat but add an extra tablespoon of sazón and an extra splash of olive oil.
+- **The smoked pork gives depth:** if vegetarian, skip the meat but add an extra tablespoon of [Sazón](../../../base-ingredients/spices/sazon.md) and an extra splash of olive oil.
 - **Don't lift the lid:** the rice cooks by absorption-and-steam. 22-25 minutes covered, then 10 minutes resting.
 - **Medium-grain rice if possible:** gives the proper Boricua texture. Long-grain works.
 
 ## Variations
 - **With ham hock instead of diced ham:** add a smoked ham hock to the pot in stage 4; cook with the rice. Remove and shred the meat before serving.
-- **Vegetarian arroz con gandules:** skip the meat; double the sofrito and add 1 extra tablespoon of sazón; use vegetable stock.
+- **Vegetarian arroz con gandules:** skip the meat; double the sofrito and add 1 extra tablespoon of [Sazón](../../../base-ingredients/spices/sazon.md); use vegetable stock.
 - **With chicken:** add 8 bone-in chicken thighs to the pot in stage 1 (browned first); turns the dish into a one-pot arroz con pollo y gandules main course.
 - **Saffron version:** add a generous pinch of saffron threads (infused in 2 tablespoons warm water) to the cooking liquid; gives an extra-luxurious version.
 

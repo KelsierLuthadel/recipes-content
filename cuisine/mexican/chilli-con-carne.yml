@@ -61,7 +61,7 @@ ingredients:
     name: kidney beans
     raw: 1 tin Kidney beans
   - qty: 1
-    name: baked beans
+    name: beans
     raw: 1 tin Baked Beans
   - qty: 1
     name: pinto beans
@@ -129,7 +129,7 @@ ingredients:
     name: dark chocolate
     raw: 3 teaspoons dark chocolate
   - qty: 1
-    name: shot of espresso
+    name: espresso
     raw: 1 shot of espresso
   - qty: 0.5
     name: dark beer

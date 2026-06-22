@@ -12,10 +12,12 @@ tags:
   - beef
   - onion
   - garlic
+  - coriander
   - honey
   - complex
 mentions:
   - tutorials/cocktails/garnish
+  - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - base-ingredients/spices/cajun-spice-mix
@@ -32,9 +34,26 @@ ingredients:
     unit: tbsp
     name: cajun seasoning
     raw: 1 tablespoon Cajun seasoning
-  - qty: 1
-    name: sazon seasoning
-    raw: 1 packet Sazon seasoning
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: paprika
+    raw: ½ teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: garlic granules
+    raw: ½ teaspoon garlic granules
+  - qty: 0.25
+    unit: tsp
+    name: oregano
+    raw: ¼ teaspoon dried oregano
   - qty: 1
     unit: tbsp
     name: garlic paste
@@ -59,13 +78,29 @@ ingredients:
     name: onion (yellow)
     raw: 1 yellow onion
   - qty: 1
-    name: lipton beefy onion soup mix
-    raw: 1 packet Lipton Beefy Onion soup mix
+    name: beef stock cube
+    raw: 1 beef stock cube, crumbled
+  - qty: 2
+    unit: tsp
+    name: onion flakes
+    raw: 2 teaspoons dried onion flakes
+  - qty: 1
+    unit: tsp
+    name: onion granules
+    raw: 1 teaspoon onion granules
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 1
+    unit: pinch
+    name: caster sugar
+    raw: pinch of caster sugar
   - qty: 2
     unit: tbsp
     name: plain flour
     raw: 2 tablespoons plain flour
   - qty: 480
     unit: ml
-    name: beef broth
-    raw: 480 ml beef broth
+    name: beef stock
+    raw: 480 ml beef stock

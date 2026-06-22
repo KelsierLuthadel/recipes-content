@@ -27,7 +27,7 @@ Arroz amarillo Cubano is the Cuban yellow rice and a festive staple of Cuban cel
 - 800 ml hot chicken stock (or vegetable stock)
 - Generous pinch of saffron threads (infused in 2 tablespoons warm water; or 1 teaspoon Bijol)
 - 2 bay leaves
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../../base-ingredients/spices/sazon.md)
 - 1 tablespoon dried oregano
 - 1 teaspoon ground cumin
 - 1 ½ teaspoons fine sea salt

@@ -49,8 +49,10 @@ ingredients:
     unit: tbsp
     name: lard
     raw: 1 tablespoon lard
-  - name: sea salt and freshly ground black pepper
-    raw: Fine sea salt and freshly ground black pepper
+  - name: sea salt
+    raw: Fine sea salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 4
     name: eggs
     raw: 4 eggs

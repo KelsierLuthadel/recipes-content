@@ -35,7 +35,8 @@ Salt and pepper calamari is the crisp-fried squid starter that turns up at Thai 
 - Rapeseed (canola) oil, for deep-frying
 
 ### Seasoning
-- Flaky sea salt and freshly ground black pepper
+- Flaky sea salt
+- Freshly ground black pepper
 
 ### Serving
 - Sweet chilli sauce, to serve

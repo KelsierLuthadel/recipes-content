@@ -26,7 +26,8 @@ Fry bread is the Navajo flatbread born of the forced relocation of the 1860s, wh
 - 4 slices thick-cut bacon
 - 4 large eggs
 - 60 ml whole milk
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 
 ## Method
 

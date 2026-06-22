@@ -31,7 +31,7 @@ Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-mos
 - 1 tablespoon ground cumin
 - 1 tablespoon dried oregano
 - 1 tablespoon Aleppo pepper or smoked paprika
-- 1 teaspoon ground turmeric (or sazón)
+- 1 teaspoon ground turmeric (or [Sazón](../../base-ingredients/spices/sazon.md))
 - 2 teaspoons fine sea salt (taste; the olives are salty)
 - 1 teaspoon ground black pepper
 - 2 bay leaves

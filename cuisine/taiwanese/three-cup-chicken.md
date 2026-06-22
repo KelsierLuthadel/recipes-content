@@ -16,7 +16,7 @@ Three-cup chicken (san bei ji) takes its name from the original three cups of eq
 ## Ingredients
 
 ### Chicken
-- 800 g bone-in, skin-on chicken thigh, chopped through the bone into 4 cm pieces (ask your butcher, or use boneless thigh as a substitute)
+- 800 g chicken thighs
 - ½ teaspoon white pepper
 
 ### Aromatics

@@ -24,7 +24,8 @@ Fergese (often written fergese me speca, fergese with peppers) is the most Alban
 - 1/2 tsp dried oregano
 - 300 g gjize or ricotta (or crumbled feta for a saltier finish)
 - 2 tbsp butter
-- Salt and freshly ground black pepper
+- Salt
+- Freshly ground black pepper
 - A small handful of flat-leaf parsley, chopped (to finish)
 
 ## Method

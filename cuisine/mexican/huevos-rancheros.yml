@@ -46,8 +46,10 @@ ingredients:
     unit: g
     name: plum tomatoes
     raw: 800g tins quality plum tomatoes
-  - name: lugs of olive oil
-    raw: Several good lugs of olive oil
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
   - name: sea salt and black pepper
     raw: Sea salt and black pepper to taste
   - qty: 6

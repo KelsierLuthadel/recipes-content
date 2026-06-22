@@ -20,7 +20,7 @@
 - 1 long red chilli (finely sliced)
 
 ### Prawn Marinade
-- 200 grams peeled and deveined prawns (tail on)
+- 200 grams prawns (peeled with the tail on)
 - 2 garlic cloves (finely grated)
 - 1 tablespoon soy sauce
 - 1 teaspoon sesame oil

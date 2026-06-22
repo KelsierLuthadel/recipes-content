@@ -37,7 +37,9 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 - 1 teaspoon fine sea salt
 - 1 teaspoon coarsely ground black pepper
 - ½ teaspoon ground cumin
-- 1 teaspoon Brazilian sazon mix (or paprika + dried oregano)
+- ½ teaspoon paprika
+- ½ teaspoon dried oregano
+- ¼ teaspoon garlic granules
 
 ### Alternative fillings
 - **Ham and cheese:** 200 g sliced ham + 200 g mozzarella
@@ -70,7 +72,7 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 4. Add the garlic; cook 1 minute.
 5. Add the chopped tomato and tomato paste; cook 3 minutes till the mixture is jammy.
 6. Stir in the parsley, spring onions, hard-boiled egg, and olives (if using).
-7. Season with salt, pepper, cumin, and sazon.
+7. Season with salt, pepper, cumin, paprika, oregano and garlic granules.
 8. Cool completely (the filling must be cold or room temperature when assembling).
 
 ### Stage 3 - Roll the dough

@@ -66,8 +66,10 @@ ingredients:
     raw: 3 large egg yolks
   - name: lemons
     raw: Juice of 2 lemons
-  - name: salt and freshly ground white pepper
-    raw: Salt and freshly ground white pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (white)
+    raw: Freshly ground white pepper
   - qty: 1
     unit: small handful
     name: flat leaf parsley

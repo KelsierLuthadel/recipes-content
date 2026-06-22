@@ -23,7 +23,8 @@ Gröstl is the Tyrolean skillet hash you'd find on every mountain hut menu from 
 - 1 teaspoon caraway seeds (lightly crushed in a mortar)
 - ½ teaspoon dried marjoram
 - 1 tablespoon lard (or sunflower oil)
-- Fine sea salt and freshly ground black pepper
+- Fine sea salt
+- Freshly ground black pepper
 
 ### To finish
 - 4 eggs

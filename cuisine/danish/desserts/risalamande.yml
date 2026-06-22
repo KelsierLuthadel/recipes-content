@@ -46,7 +46,7 @@ ingredients:
     raw: 400 ml double cream
   - qty: 80
     unit: g
-    name: blanched whole almonds
+    name: almonds
     raw: 80 g blanched whole almonds
   - qty: 100
     unit: g
@@ -92,7 +92,7 @@ ingredients:
     name: kirsch
     raw: 2 tablespoons kirsch or cherry brandy
   - qty: 1
-    name: blanched almond
+    name: almonds
     raw: 1 whole blanched almond
   - name: mandelgave
     raw: "A mandelgave : wrapped, small, ready to award to the winner"

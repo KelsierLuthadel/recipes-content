@@ -37,7 +37,7 @@ ingredients:
     unit: ml
     name: double cream
     raw: 250 ml very cold double cream
-  - name: caramelised almonds
+  - name: almonds
     raw: caramelised almonds
   - qty: 125
     unit: g
@@ -48,5 +48,5 @@ ingredients:
     name: liquid glucose
     raw: 40 grams liquid glucose
   - qty: 32
-    name: blanched almonds
+    name: almonds
     raw: 32 blanched almonds

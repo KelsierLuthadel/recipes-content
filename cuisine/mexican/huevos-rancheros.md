@@ -24,7 +24,7 @@ Mexico's rancher's eggs, the kind of late breakfast that turns up on a Mexican f
 
 ### Sauce Base
 - 800g tins quality plum tomatoes
-- Several good lugs of olive oil
+- 3 tablespoons olive oil
 - Sea salt and black pepper to taste
 
 ### Eggs & Tortillas

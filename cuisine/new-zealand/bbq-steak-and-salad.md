@@ -18,7 +18,8 @@ New Zealand farming produces some of the world's best grass-fed beef, and the Ki
 ### Steak
 - 4 sirloin or ribeye steaks, 250 g each, about 2.5 cm thick
 - 2 tbsp olive oil
-- Sea salt and freshly ground black pepper
+- Sea salt
+- Freshly ground black pepper
 
 ### Garlic-herb butter
 - 80 g unsalted butter, softened

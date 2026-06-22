@@ -20,7 +20,8 @@ Lamb is what New Zealand farming is famous for: grass-fed, raised on the rolling
 - 4 cloves garlic, sliced into thin slivers
 - 4 sprigs fresh rosemary, leaves stripped
 - 2 tbsp olive oil
-- Sea salt and freshly ground black pepper
+- Sea salt
+- Freshly ground black pepper
 - 2 tbsp Dijon mustard
 
 ### Pan vegetables

@@ -56,7 +56,7 @@ ingredients:
     raw: 2 tbsp oyster sauce
   - qty: 1
     unit: tbsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 1 tbsp toasted sesame oil
   - qty: 1
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     unit: tbsp
     name: water
     raw: 1 tbsp hot water
-  - name: steamed jasmine rice
+  - name: jasmine rice
     raw: Steamed jasmine rice
   - name: cucumbers
     raw: Sliced cucumber

@@ -16,7 +16,7 @@ Thai prawn toast is not the thin-smeared takeaway version: this is a proper praw
 ## Ingredients
 
 ### Protein
-- 500g (1lb 2oz) peeled and deveined prawns (shrimp)
+- 500g prawns (peeled)
 
 ### Aromatics
 - 10 coriander (fresh coriander) stalks, finely chopped (about 2 generous tbsp)

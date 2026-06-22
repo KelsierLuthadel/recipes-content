@@ -35,7 +35,7 @@ ingredients:
     raw: 1 lemon
   - qty: 1
     unit: tbsp
-    name: flower water (orange)
+    name: orange flower water
     raw: 1 tablespoon orange-flower water
   - qty: 0.5
     unit: tsp
@@ -62,7 +62,7 @@ ingredients:
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp
-    name: flower water (orange)
+    name: orange flower water
     raw: 1 tablespoon orange-flower water
   - qty: 2.5
     unit: tbsp
@@ -78,7 +78,7 @@ ingredients:
     raw: 80 g caster sugar
   - qty: 1
     unit: tbsp
-    name: flower water (orange)
+    name: orange flower water
     raw: 1 tablespoon orange-flower water
   - qty: 1
     unit: tbsp

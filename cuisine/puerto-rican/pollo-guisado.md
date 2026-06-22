@@ -20,7 +20,7 @@ Pollo guisado is Puerto Rico's everyday stewed chicken and one of the absolute s
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 1 tablespoon adobo seasoning (or substitute: 1 teaspoon garlic powder + 1 teaspoon onion powder + 1 teaspoon oregano + 1 teaspoon turmeric)
-- 1 tablespoon sazón (or 1 teaspoon achiote + 1 teaspoon garlic powder + ½ teaspoon coriander)
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md) (or 1 teaspoon achiote + 1 teaspoon garlic powder + ½ teaspoon coriander)
 
 ### Cooking base
 - 3 tablespoons olive oil

@@ -24,6 +24,7 @@ mentions:
   - tutorials/charcuterie/bacon
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
+  - base-ingredients/spices/sazon
 ingredients:
   - qty: 500
     unit: g
@@ -73,7 +74,7 @@ ingredients:
   - qty: 1
     unit: tbsp
     name: sazon
-    raw: 1 tablespoon sazón
+    raw: 1 tablespoon Sazón
   - qty: 2
     unit: tsp
     name: sea salt

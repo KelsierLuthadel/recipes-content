@@ -16,7 +16,7 @@ Coq au vin is the Burgundian wine-soaked chicken stew that started life as a way
 ## Ingredients
 
 ### Chicken
-- 1 chicken (1.6 kg), cut into 8 pieces (or 4 chicken thighs and 4 drumsticks)
+- 1 chicken (1.6 kg, cut into 8 pieces)
 - 2 tablespoons plain flour, seasoned with salt and pepper
 - 200 g smoked bacon lardons
 - 2 tablespoons olive oil

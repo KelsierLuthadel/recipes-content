@@ -23,6 +23,7 @@ mentions:
   - cuisine/puerto-rican/side-dishes/arroz-con-gandules
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/sazon
 ingredients:
   - qty: 800
     unit: g
@@ -52,7 +53,7 @@ ingredients:
   - qty: 1
     unit: tbsp
     name: sazon
-    raw: 1 tablespoon sazón
+    raw: 1 tablespoon Sazón
   - qty: 1
     unit: tbsp
     name: cumin
@@ -90,7 +91,7 @@ ingredients:
     raw: 1 tin chickpeas
   - qty: 50
     unit: g
-    name: blanched almonds
+    name: almonds
     raw: 50 g blanched almonds
   - qty: 2
     unit: tbsp
@@ -125,7 +126,7 @@ ingredients:
   - qty: 2
     unit: tbsp
     name: sazon
-    raw: 2 tablespoons sazón
+    raw: 2 tablespoons Sazón
   - qty: 100
     unit: ml
     name: olive oil

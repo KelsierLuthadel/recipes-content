@@ -20,6 +20,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - base-ingredients/spices/sazon
 ingredients:
   - qty: 1
     name: pork shoulder picnic roast
@@ -70,7 +71,7 @@ ingredients:
   - qty: 2
     unit: tbsp
     name: sazon
-    raw: 2 tablespoons sazón
+    raw: 2 tablespoons Sazón
   - qty: 4
     unit: sprig
     name: thyme

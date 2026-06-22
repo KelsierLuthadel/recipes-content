@@ -80,10 +80,10 @@ ingredients:
     unit: tbsp
     name: tamarind puree
     raw: 1 tablespoon tamarind puree
-  - name: fried peanuts
+  - name: peanuts
     raw: Fried peanuts
   - qty: 2
-    name: hard boiled eggs
+    name: eggs
     raw: 2 hard-boiled eggs
   - name: cucumbers
     raw: Sliced cucumber

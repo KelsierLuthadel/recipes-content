@@ -32,7 +32,7 @@ ingredients:
     raw: ½ teaspoon black salt
   - qty: 1
     unit: tsp
-    name: roasted cumin
+    name: cumin
     raw: 1 teaspoon ground roasted cumin
   - qty: 10
     name: mint leaves
@@ -45,5 +45,5 @@ ingredients:
     raw: Extra mint sprigs
   - qty: 1
     unit: pinch
-    name: toasted cumin
+    name: cumin
     raw: A pinch of toasted cumin per glass

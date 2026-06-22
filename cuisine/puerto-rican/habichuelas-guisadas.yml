@@ -30,6 +30,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/sazon
 ingredients:
   - qty: 500
     unit: g
@@ -83,7 +84,7 @@ ingredients:
   - qty: 1
     unit: tbsp
     name: sazon
-    raw: 1 tablespoon sazón
+    raw: 1 tablespoon Sazón
   - qty: 1
     unit: tbsp
     name: adobo seasoning

@@ -31,8 +31,10 @@ ingredients:
   - qty: 2
     name: eggplants
     raw: 2 eggplants
-  - name: sea salt and freshly ground black pepper
-    raw: Fine sea salt and freshly ground black pepper to taste
+  - name: sea salt
+    raw: Fine sea salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper to taste
   - qty: 400
     unit: g
     name: tomatoes

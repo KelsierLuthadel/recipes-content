@@ -23,7 +23,7 @@ Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved 
 - 250 g plain flour
 - 1 ½ teaspoons baking powder
 - 1 teaspoon fine sea salt (taste first; the cod is salty)
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../../base-ingredients/spices/sazon.md)
 - 1 teaspoon dried oregano
 - 1 teaspoon ground cumin
 - 1 teaspoon ground black pepper

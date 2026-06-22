@@ -55,7 +55,7 @@ ingredients:
     name: capers
     raw: 2 tbsp capers, drained and chopped
   - qty: 3
-    name: hard boiled eggs
+    name: eggs
     raw: 3 hard-boiled eggs, finely chopped
   - qty: 300
     unit: g
@@ -91,5 +91,5 @@ ingredients:
     name: parsley
     raw: 2 tbsp chopped parsley
   - qty: 1
-    name: hard boiled eggs
+    name: eggs
     raw: 1 hard-boiled egg, sliced

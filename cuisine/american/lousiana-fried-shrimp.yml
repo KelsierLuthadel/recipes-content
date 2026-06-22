@@ -37,8 +37,10 @@ ingredients:
     unit: g
     name: shrimp
     raw: 450 g large shrimp
-  - name: kosher salt and freshly ground black pepper
-    raw: Kosher salt and freshly ground black pepper
+  - name: kosher salt
+    raw: Kosher salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - name: peanut oil
     raw: Peanut oil or coconut oil, for frying
   - qty: 120

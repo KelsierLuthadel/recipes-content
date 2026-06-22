@@ -21,8 +21,10 @@ ingredients:
     unit: g
     name: yukon gold potatoes
     raw: 450 g Yukon gold potatoes
-  - name: kosher salt and freshly ground black pepper
-    raw: Kosher salt and freshly ground black pepper
+  - name: kosher salt
+    raw: Kosher salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 225
     unit: g
     name: thick cut bacon
@@ -46,7 +48,7 @@ ingredients:
     name: cheddar
     raw: 115 g sharp Cheddar
   - qty: 6
-    name: baked beans
+    name: beans
     raw: 6 portions Baked Beans
   - qty: 8
     name: biscuits

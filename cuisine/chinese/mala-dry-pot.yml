@@ -46,7 +46,7 @@ ingredients:
     raw: 1 tsp light soy sauce
   - qty: 170
     unit: g
-    name: fried tofu cubes
+    name: tofu cubes
     raw: 170 g fried tofu cubes
   - qty: 200
     unit: g
@@ -70,7 +70,7 @@ ingredients:
     raw: 2 tbsp dried wood ear mushrooms
   - qty: 60
     unit: ml
-    name: roasted rapeseed oil
+    name: rapeseed oil
     raw: 60 ml roasted rapeseed oil or neutral oil
   - qty: 4.5
     name: garlic
@@ -95,5 +95,5 @@ ingredients:
     raw: 9 tbsp Sichuan mala dry-pot sauce
   - qty: 1
     unit: tbsp
-    name: toasted sesame seeds
+    name: sesame seeds
     raw: 1 tbsp toasted sesame seeds, to garnish

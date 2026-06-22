@@ -23,7 +23,8 @@ A proper American chopped salad isn't fancy but it earns its place at the lunch 
 - 1 teaspoon finely minced fresh flat-leaf parsley
 - ½ teaspoon onion powder
 - ¼ teaspoon garlic powder
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 - 180 ml mayonnaise
 
 ### Salad

@@ -47,7 +47,7 @@ Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, par
 - Extra lime wedges
 
 ### To serve
-- Plain white rice (or yellow rice with sazón); optional
+- Plain white rice (or yellow rice with [Sazón](../../base-ingredients/spices/sazon.md)); optional
 - Warm corn tortillas
 - Refried beans (optional)
 - Hot sauce

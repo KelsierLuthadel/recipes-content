@@ -28,8 +28,10 @@ ingredients:
     unit: tbsp
     name: olive oil
     raw: 2 tablespoons olive oil
-  - name: sea salt and freshly ground black pepper
-    raw: Sea salt and freshly ground black pepper to taste
+  - name: sea salt
+    raw: Sea salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 400
     unit: g
     name: pork tenderloin
@@ -57,7 +59,7 @@ ingredients:
     name: lemons
     raw: 1 lemon
   - qty: 4
-    name: lemon quarters
+    name: lemon wedges
     raw: 4 lemon quarters
   - name: rocket leaves
     raw: Fresh rocket leaves

@@ -33,7 +33,7 @@ ingredients:
     name: pork
     raw: 300 g minced pork
   - qty: 2
-    name: hard boiled eggs
+    name: eggs
     raw: 2 hard-boiled eggs
   - qty: 100
     unit: g

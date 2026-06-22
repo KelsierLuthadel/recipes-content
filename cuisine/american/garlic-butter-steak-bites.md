@@ -15,7 +15,8 @@ The fastest steak dinner that delivers on every count: a thick boneless New York
 
 ## Ingredients
 - 1 kg New York strip steak (trimmed and cut into 2.5 cm cubes)
-- Kosher salt and freshly ground black pepper
+- Kosher salt
+- Freshly ground black pepper
 - 60 g unsalted butter
 - 4 garlic cloves (crushed)
 - Chopped fresh flat-leaf parsley, for garnish (optional)

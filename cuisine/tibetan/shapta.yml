@@ -44,7 +44,7 @@ ingredients:
     raw: 2 teaspoons cornflour
   - qty: 1
     unit: tsp
-    name: toasted sesame oil
+    name: sesame oil
     raw: 1 teaspoon toasted sesame oil
   - qty: 0.5
     unit: tsp
@@ -98,5 +98,5 @@ ingredients:
   - qty: 1
     name: coriander
     raw: A small bunch of coriander
-  - name: steamed rice
+  - name: rice
     raw: Steamed Rice

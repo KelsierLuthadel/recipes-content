@@ -28,7 +28,8 @@ Bündner Gerstensuppe is the signature dish of Graubünden (the Grisons), the ea
 - 1.8 L beef or chicken stock
 - 100 g bündnerfleisch (or prosciutto / pancetta), finely sliced
 - 150 ml double cream
-- Salt and freshly ground black pepper
+- Salt
+- Freshly ground black pepper
 - 2 tbsp flat-leaf parsley, chopped
 
 ## Method

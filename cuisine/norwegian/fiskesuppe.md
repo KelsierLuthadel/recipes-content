@@ -39,7 +39,8 @@ Fiskesuppe is the Norwegian creamy fish soup of the western coast, particularly 
 - A small handful of fresh dill fronds, finely chopped
 - A small handful of fresh chives, finely chopped
 - Juice of half a lemon
-- Salt and freshly ground white pepper
+- Salt
+- Freshly ground white pepper
 - Optional: 1 tbsp vermouth or aquavit
 
 ### To serve

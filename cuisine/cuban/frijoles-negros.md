@@ -31,7 +31,7 @@ Frijoles negros is Cuba's national bean dish and one of the most foundational st
 - 2 bay leaves
 - 2 tablespoons ground cumin
 - 1 tablespoon dried oregano
-- 1 tablespoon sazón (optional)
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md) (optional)
 - 2 teaspoons fine sea salt (taste; adjust later)
 - 1 teaspoon ground black pepper
 - 1 teaspoon caster sugar (the traditional Cuban touch; balances the acidity)

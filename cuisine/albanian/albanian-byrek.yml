@@ -50,8 +50,10 @@ ingredients:
     unit: small handful
     name: flat leaf parsley
     raw: A small handful of flat-leaf parsley, chopped
-  - name: salt and freshly ground black pepper
-    raw: Salt and freshly ground black pepper
+  - name: salt
+    raw: Salt
+  - name: pepper (black)
+    raw: Freshly ground black pepper
   - qty: 12
     name: sheets thin filo pastry
     raw: 12 sheets thin filo pastry

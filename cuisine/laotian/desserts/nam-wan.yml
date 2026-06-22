@@ -63,11 +63,11 @@ ingredients:
     raw: Shaved ice OR crushed ice
   - qty: 1
     unit: tsp
-    name: toasted sesame seeds
+    name: sesame seeds
     raw: 1 teaspoon toasted sesame seeds
   - qty: 1
     unit: tbsp
-    name: toasted crushed peanuts
+    name: peanuts
     raw: 1 tablespoon toasted crushed peanuts
   - name: mint
     raw: A small mint sprig

@@ -16,7 +16,8 @@ Zereshk polo ba morgh is the great Persian wedding rice: saffron-stained basmati
 ## Ingredients
 
 ### Chicken
-- 4 bone-in skin-on chicken thighs and 4 drumsticks (or 6 thighs)
+- 4 chicken thighs 
+- 4 drumsticks
 - 2 tablespoons sunflower oil
 - 1 onion (large, sliced)
 - 4 garlic cloves (crushed)

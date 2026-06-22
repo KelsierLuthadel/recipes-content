@@ -20,7 +20,7 @@ Alcapurrias is one of Puerto Rico's most distinctive street snacks and a beloved
 - 600 g yautía (taro root; or white sweet potato; or yuca as substitute)
 - 80 ml achiote oil (or 80 ml olive oil + 1 teaspoon turmeric)
 - 1 ½ teaspoons fine sea salt
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../../base-ingredients/spices/sazon.md)
 
 ### Filling (picadillo-style)
 - 400 g minced beef (or pork; or 50/50)
@@ -31,7 +31,7 @@ Alcapurrias is one of Puerto Rico's most distinctive street snacks and a beloved
 - 1 small green bell pepper (finely chopped)
 - 2 tablespoons tomato paste
 - 200 ml tomato sauce
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../../base-ingredients/spices/sazon.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - 1 teaspoon fine sea salt

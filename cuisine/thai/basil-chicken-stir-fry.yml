@@ -42,20 +42,20 @@ ingredients:
     raw: 600g skinless chicken thigh fillets, cut into small pieces
   - qty: 1
     unit: tbsp
-    name: light soy sauce*
-    raw: 1 tbsp light soy sauce*
+    name: light soy sauce
+    raw: 1 tbsp light soy sauce
   - qty: 1
     unit: tsp
     name: palm sugar
     raw: 1 tsp palm sugar, finely chopped
   - qty: 1
     unit: tbsp
-    name: oyster sauce*
-    raw: 1 tbsp oyster sauce*
+    name: oyster sauce
+    raw: 1 tbsp oyster sauce
   - qty: 1.5
     unit: tsp
-    name: dark soy sauce*
-    raw: 1 ½ tsp dark soy sauce*
+    name: dark soy sauce
+    raw: 1 ½ tsp dark soy sauce
   - qty: 1
     unit: large handful
     name: thai basil

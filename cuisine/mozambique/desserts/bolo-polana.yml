@@ -25,7 +25,7 @@ ingredients:
     raw: 400 g sweet potato
   - qty: 300
     unit: g
-    name: roasted unsalted cashews
+    name: unsalted cashews
     raw: 300 g roasted unsalted cashews
   - qty: 200
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 3
     unit: tbsp
-    name: juice (orange)
+    name: orange juice
     raw: 3 tablespoons fresh orange juice
   - qty: 50
     unit: g
@@ -78,9 +78,9 @@ ingredients:
     raw: 2 tablespoons icing sugar
   - qty: 30
     unit: g
-    name: toasted whole cashews
+    name: cashews
     raw: 30 g toasted whole cashews
   - qty: 1
     unit: tbsp
-    name: marmalade (orange)
+    name: orange marmalade
     raw: 1 tablespoon orange marmalade

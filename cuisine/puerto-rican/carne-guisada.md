@@ -20,7 +20,7 @@ Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 1 tablespoon adobo seasoning
-- 1 tablespoon sazón
+- 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 tablespoon plain flour (for dusting)
 - 3 tablespoons olive oil (for browning)
 
@@ -106,7 +106,7 @@ Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of
 
 ## Notes
 - **Beef chuck for tender results:** the connective tissue dissolves over 2 hours; lean cuts won't work.
-- **Sofrito and sazón:** both are essential for proper Boricua flavour. Don't skip; substitute carefully if needed.
+- **Sofrito and [Sazón](../../base-ingredients/spices/sazon.md):** both are essential for proper Boricua flavour. Don't skip; substitute carefully if needed.
 - **Slow cook properly:** 90 minutes minimum, 2 hours better. Don't rush.
 - **Layered cooking:** sofrito, then tomato paste, then sauce, then seasonings. Each step adds depth.
 - **Olives and capers add Boricua character:** don't skip; they're as important as the sofrito.

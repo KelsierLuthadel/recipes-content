@@ -28,7 +28,8 @@ Caesar dressing is the building block of the Caesar salad and almost everything 
 
 ### Finishing
 - 2 tablespoons water
-- Fine sea salt and freshly ground black pepper (to taste)
+- Fine sea salt
+- Freshly ground black pepper (to taste)
 
 ## Method
 

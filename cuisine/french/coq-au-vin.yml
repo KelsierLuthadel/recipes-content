@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 1
     name: chicken
-    raw: 1 chicken , cut into 8 pieces
+    raw: 1 chicken
   - qty: 2
     unit: tbsp
     name: plain flour
