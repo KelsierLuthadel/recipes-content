@@ -35,7 +35,7 @@ ingredients:
     raw: 2 tablespoons olive oil
   - qty: 2
     unit: tsp
-    name: sea salt or flaky salt
+    name: sea salt
     raw: 2 teaspoons coarse sea salt or flaky salt
   - qty: 1
     unit: tsp
@@ -61,7 +61,7 @@ ingredients:
     unit: tbsp
     name: rosemary
     raw: 1 tablespoon chopped fresh rosemary
-  - name: sour cream or creme fraiche
+  - name: sour cream
     raw: Sour cream or crème fraîche
   - name: chives
     raw: Chopped fresh chives

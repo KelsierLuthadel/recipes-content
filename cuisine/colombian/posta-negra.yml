@@ -33,7 +33,7 @@ ingredients:
     name: beef eye round
     raw: 1.5 kg beef eye round
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 4
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     name: red bell pepper
     raw: 1 medium red bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: tomatoes

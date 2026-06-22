@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: centre-cut beef fillet
+    name: centre cut beef fillet
     raw: 1 kg piece centre-cut beef fillet
   - name: salt
     raw: salt
@@ -54,7 +54,7 @@ ingredients:
     name: banana shallots
     raw: 2 banana shallots
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 8-10 slices prosciutto
   - qty: 500
     unit: g
-    name: all-butter puff pastry
+    name: all butter puff pastry
     raw: 500 g all-butter puff pastry, chilled
   - name: plain flour for dusting
     raw: Plain flour for dusting

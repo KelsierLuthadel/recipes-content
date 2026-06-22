@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: rib-eye
+    name: rib eye
     raw: 500 g rib-eye, sirloin
   - qty: 1
     unit: tbsp
@@ -82,7 +82,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: ginger

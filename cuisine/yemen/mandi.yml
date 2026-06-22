@@ -30,14 +30,14 @@ ingredients:
     raw: 1 ½ kg lamb shoulder
   - qty: 2
     unit: tbsp
-    name: hawaij spice mix or 1 teaspoon each ground cumin
+    name: hawaij spice mix
     raw: 2 tablespoons hawaij spice mix OR 1 teaspoon each ground cumin, coriander, black pepper, turmeric and cinnamon
   - qty: 1
     unit: tbsp
     name: cardamom
     raw: 1 tablespoon ground cardamom
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 3 tablespoons vegetable oil
   - qty: 500
     unit: g
-    name: long-grain basmati rice
+    name: long grain basmati rice
     raw: 500 g long-grain basmati rice
   - qty: 1
     unit: large pinch
@@ -94,7 +94,7 @@ ingredients:
     name: flaked almonds
     raw: 40 g flaked almonds
   - qty: 1
-    name: natural-lump hardwood charcoal
+    name: natural lump hardwood charcoal
     raw: 1 small piece natural-lump hardwood charcoal
   - qty: 1
     unit: tbsp

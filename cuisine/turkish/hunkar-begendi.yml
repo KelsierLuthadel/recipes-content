@@ -34,10 +34,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
-    name: tomatoes ; or 1 tin of chopped tomatoes
+    name: tomatoes ;
     raw: 4 medium tomatoes ; or 1 tin of chopped tomatoes
   - qty: 3
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 1 teaspoon ground black pepper
   - qty: 600
     unit: ml
-    name: hot beef or lamb stock
+    name: hot beef
     raw: 600 ml hot beef or lamb stock
   - qty: 2
     name: bay leaves
@@ -126,7 +126,7 @@ ingredients:
     raw: ¼ teaspoon ground nutmeg
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons fresh flat-leaf parsley
   - qty: 1
     unit: tbsp
@@ -136,9 +136,9 @@ ingredients:
     raw: Aleppo pepper for sprinkling
   - name: lemon wedges
     raw: Lemon wedges
-  - name: pide bread or warm turkish flatbread
+  - name: pide bread
     raw: Pide bread or warm Turkish flatbread
-  - name: pilav or bulgur pilav
+  - name: pilav
     raw: Pilav or bulgur pilav
   - name: salad
     raw: Fresh salad

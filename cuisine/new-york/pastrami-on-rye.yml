@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: pre-made pastrami
+    name: pre made pastrami
     raw: 1 kg pre-made pastrami
   - qty: 250
     unit: ml
@@ -34,5 +34,5 @@ ingredients:
     raw: 8 whole sour dill pickle spears
   - name: cole slaw
     raw: Cole slaw
-  - name: dr brown's cel-ray or root beer
+  - name: dr brown's cel ray
     raw: Dr Brown's Cel-Ray or root beer

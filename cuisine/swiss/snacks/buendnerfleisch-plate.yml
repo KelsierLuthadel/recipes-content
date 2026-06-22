@@ -25,7 +25,7 @@ ingredients:
     raw: 120 g Bündnerfleisch
   - qty: 100
     unit: g
-    name: salami or saucisson sec
+    name: salami
     raw: 100 g salami or saucisson sec, thinly sliced
   - qty: 150
     unit: g
@@ -33,7 +33,7 @@ ingredients:
     raw: 150 g Gruyère, cut into thin shards or small wedges
   - qty: 100
     unit: g
-    name: sbrinz or aged gruyere
+    name: sbrinz
     raw: 100 g Sbrinz or aged Gruyère , broken into chunks
   - qty: 80
     unit: g
@@ -51,7 +51,7 @@ ingredients:
     unit: g
     name: salted butter
     raw: 50 g salted butter
-  - name: half a baguette or swiss farmhouse loaf
+  - name: baguette
     raw: Half a baguette or Swiss farmhouse loaf, sliced
   - name: bowl of rye bread
     raw: A small bowl of rye bread, sliced
@@ -62,7 +62,7 @@ ingredients:
     name: walnuts in shell
     raw: A small handful of walnuts in shell
   - qty: 7
-    name: apricots or figs
+    name: apricots
     raw: 6-8 dried apricots or figs
   - name: thyme
     raw: A few sprigs of fresh thyme

@@ -32,7 +32,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: bay leaves
@@ -47,16 +47,16 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1.5
     unit: l
-    name: beef stock or water
+    name: beef stock
     raw: 1.5 litres beef stock or water
   - qty: 800
     unit: g
     name: shredded cooked beef from leftover ropa vieja
     raw: 800 g shredded cooked beef from leftover ropa vieja
-  - name: juice of 4 limes
+  - name: limes
     raw: Juice of 4 limes
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp
@@ -95,7 +95,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - name: lime wedges
     raw: Lime wedges
@@ -109,5 +109,5 @@ ingredients:
     raw: Sliced avocado
   - name: salad
     raw: Fresh salad
-  - name: cristal beer or mojito
+  - name: cristal beer
     raw: Cristal beer or mojito

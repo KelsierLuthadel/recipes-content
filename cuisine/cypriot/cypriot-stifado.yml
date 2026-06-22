@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef shin or chuck
+    name: beef shin
     raw: 1 kg beef shin or chuck
   - qty: 3
     unit: tbsp
@@ -42,7 +42,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 1 strip orange zest
   - qty: 1
     unit: kg
-    name: pearl onions or small shallots
+    name: pearl onions
     raw: 1 kg pearl onions or small shallots
   - qty: 1
     unit: tbsp

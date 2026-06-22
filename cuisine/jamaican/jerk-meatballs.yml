@@ -39,7 +39,7 @@ ingredients:
     name: seasoned panko breadcrumbs
     raw: ½ cup seasoned panko breadcrumbs
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 0.25
     unit: cup
@@ -73,7 +73,7 @@ ingredients:
     name: shallot
     raw: 1 shallot
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     name: green bell pepper

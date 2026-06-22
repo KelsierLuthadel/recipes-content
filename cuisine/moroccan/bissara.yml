@@ -18,14 +18,14 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: split fava beans or yellow split peas
+    name: split fava beans
     raw: 350 g dried split fava beans or yellow split peas
   - qty: 1.5
     unit: l
     name: water
     raw: 1 ½ litres water
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -46,7 +46,7 @@ ingredients:
   - qty: 1
     name: lemon
     raw: 1 lemon
-  - name: extra-virgin olive oil
+  - name: extra virgin olive oil
     raw: Extra-virgin olive oil
   - qty: 1
     unit: pinch

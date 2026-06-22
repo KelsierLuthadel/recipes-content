@@ -30,7 +30,7 @@ ingredients:
     name: sunflower oil
     raw: 200 ml sunflower oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     unit: tbsp
@@ -46,7 +46,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: hot paprika or chilli flakes
+    name: hot paprika
     raw: 1 teaspoon hot paprika or chilli flakes
   - qty: 1
     name: parsley

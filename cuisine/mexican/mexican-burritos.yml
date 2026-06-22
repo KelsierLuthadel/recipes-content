@@ -20,13 +20,13 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef chuck or pork shoulder
+    name: beef chuck
     raw: 1 kg beef chuck or pork shoulder, cut into 3 cm cubes
   - qty: 2
     name: onions
     raw: 2 onions, finely chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 4
     name: guajillo chiles

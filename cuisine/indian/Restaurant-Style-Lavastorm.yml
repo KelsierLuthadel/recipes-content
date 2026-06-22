@@ -35,7 +35,7 @@ mentions:
   - base-ingredients/curry-powder/tandoori-masala
 ingredients:
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tsp
@@ -48,7 +48,7 @@ ingredients:
     name: thai red chillies
     raw: 4 Thai red chillies
   - qty: 2
-    name: scotch bonnet or habanero chillies
+    name: scotch bonnet
     raw: 2 scotch bonnet or habanero chillies
   - qty: 1
     name: to 2 regular supermarket red chillies
@@ -59,7 +59,7 @@ ingredients:
     raw: a splash of water to help it blend
   - qty: 5
     unit: tbsp
-    name: oil or ghee
+    name: oil
     raw: 5 tbsp oil or ghee
   - qty: 10
     name: cassia bark
@@ -80,11 +80,11 @@ ingredients:
     raw: 30 to 40 g red pepper, sliced
   - qty: 2
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 2 tsp ginger-garlic paste
   - qty: 2
     unit: tsp
-    name: extra-hot chilli powder
+    name: extra hot chilli powder
     raw: 2 tsp extra-hot chilli powder
   - qty: 2
     unit: tsp
@@ -114,18 +114,18 @@ ingredients:
     name: chilli flakes
     raw: 1 tbsp chilli flakes
   - qty: 1
-    name: to 2 tsp chilli or naga pickle
+    name: to 2 tsp chilli
     raw: 1 to 2 tsp chilli or naga pickle
   - qty: 200
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, beef, or vegetables
   - qty: 330
     name: ml+ curry base gravy
     raw: 330 ml+ Curry Base Gravy, heated through
   - qty: 2
     unit: tsp
-    name: lime or lemon juice
+    name: lime
     raw: 2 tsp fresh lime or lemon juice
   - qty: 2
     unit: tsp

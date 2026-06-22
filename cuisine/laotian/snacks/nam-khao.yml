@@ -37,7 +37,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: lao sticky rice or jasmine rice
+    name: lao sticky rice
     raw: 400 g cooked Lao sticky rice OR jasmine rice
   - qty: 2
     unit: tbsp
@@ -57,14 +57,14 @@ ingredients:
     raw: 1 small egg, lightly beaten
   - qty: 2
     unit: tbsp
-    name: rice flour or cornflour
+    name: rice flour
     raw: 2 tablespoons rice flour OR cornflour
   - qty: 0.25
     name: /4 teaspoon salt
     raw: 1/4 teaspoon salt
   - qty: 1
     unit: l
-    name: sunflower oil for deep-frying
+    name: sunflower oil for deep frying
     raw: 1 litre sunflower oil for deep-frying
   - qty: 200
     unit: g
@@ -117,11 +117,11 @@ ingredients:
     name: toasted crushed peanuts
     raw: 80 g toasted crushed peanuts
   - qty: 1
-    name: head of butter lettuce or iceberg lettuce
+    name: head of butter lettuce
     raw: 1 head of butter lettuce or iceberg lettuce
   - name: herb
     raw: A few extra fresh herb sprigs
   - name: lime wedges
     raw: Lime wedges
-  - name: glass of cold lao iced coffee or beerlao
+  - name: glass of cold lao iced coffee
     raw: A glass of cold Lao iced coffee or Beerlao

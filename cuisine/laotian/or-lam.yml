@@ -29,11 +29,11 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef shin or chuck or buffalo
+    name: beef shin
     raw: 600 g beef shin OR chuck OR buffalo, cut into 4 cm chunks
   - qty: 1.5
     unit: l
-    name: beef stock or water
+    name: beef stock
     raw: 1.5 litres beef stock OR water
   - qty: 2
     name: lemongrass
@@ -52,7 +52,7 @@ ingredients:
     name: shallots
     raw: 2 shallots, halved
   - qty: 3
-    name: sakhan wood ; or 1 tsp crushed sichuan peppercorn + 1 tsp black peppercorn
+    name: sakhan wood ;
     raw: 3 pieces sakhan wood ; OR 1 tsp crushed Sichuan peppercorn + 1 tsp black peppercorn
   - qty: 2
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     name: dill
     raw: A small bunch fresh dill , chopped
   - qty: 1
-    name: holy basil or thai basil
+    name: holy basil
     raw: A small bunch holy basil OR Thai basil
   - qty: 1
     name: culantro

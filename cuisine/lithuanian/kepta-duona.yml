@@ -20,10 +20,10 @@ ingredients:
     raw: 500 g dense dark rye bread , 1-2 days old
   - qty: 500
     unit: ml
-    name: sunflower oil or 8 tbsp oil for shallow frying
+    name: sunflower oil
     raw: 500 ml sunflower oil OR 8 tbsp oil for shallow frying
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 large garlic cloves, peeled and halved
   - qty: 2
     unit: tsp
@@ -42,7 +42,7 @@ ingredients:
     name: sour cream
     raw: 2 tbsp sour cream
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, grated
   - qty: 1
     unit: tbsp

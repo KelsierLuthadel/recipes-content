@@ -35,7 +35,7 @@ ingredients:
     unit: kg
     name: floury potatoes
     raw: 1.2 kg floury potatoes
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 200
     unit: g
@@ -43,14 +43,14 @@ ingredients:
     raw: 200 g sharp cheddar cheese
   - qty: 100
     unit: g
-    name: monterey jack or pepper jack cheese
+    name: monterey jack
     raw: 100 g Monterey Jack or pepper jack cheese
   - qty: 50
     unit: g
     name: cream cheese
     raw: 50 g cream cheese
   - qty: 8
-    name: rashers thick-cut smoked bacon
+    name: rashers thick cut smoked bacon
     raw: 8 rashers thick-cut smoked bacon
   - qty: 2
     name: jalapenos

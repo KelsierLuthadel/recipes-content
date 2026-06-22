@@ -73,7 +73,7 @@ ingredients:
     name: tomatoes
     raw: 2 tins crushed tomatoes
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: onion
@@ -107,7 +107,7 @@ ingredients:
     raw: 1 small bunch fresh basil
   - qty: 300
     unit: g
-    name: shredded low-moisture mozzarella
+    name: shredded low moisture mozzarella
     raw: 300 g shredded low-moisture mozzarella
   - qty: 80
     unit: g

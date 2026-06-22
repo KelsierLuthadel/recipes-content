@@ -43,7 +43,7 @@ ingredients:
     name: coriander
     raw: 30 g fresh coriander
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 0.5
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 3 tablespoons olive oil
   - qty: 2
     unit: tbsp
-    name: red-wine vinegar
+    name: red wine vinegar
     raw: 2 tablespoons red-wine vinegar
   - qty: 1
     unit: tsp

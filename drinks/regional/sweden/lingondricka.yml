@@ -15,7 +15,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: or frozen lingonberries
+    name: fresh
     raw: 1 kg fresh or frozen lingonberries
   - qty: 600
     unit: g
@@ -38,12 +38,12 @@ ingredients:
     raw: 60 ml lingonberry syrup
   - qty: 275
     unit: ml
-    name: sparkling water or still water
+    name: sparkling water
     raw: 250-300 ml very cold sparkling water OR still water
   - qty: 2.5
     name: ice cubes
     raw: 2-3 ice cubes
-  - name: mint sprig or sprig of fresh dill
+  - name: mint
     raw: A small mint sprig or sprig of fresh dill
   - name: lemon wheel
     raw: A lemon wheel

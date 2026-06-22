@@ -45,7 +45,7 @@ ingredients:
     name: green bell peppers
     raw: 2 green bell peppers
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 4
     unit: tbsp
@@ -98,7 +98,7 @@ ingredients:
     raw: 1 small bunch fresh parsley
   - name: hot sauce
     raw: Hot sauce
-  - name: steamed long-grain rice
+  - name: steamed long grain rice
     raw: Steamed long-grain rice
   - name: cornbread
     raw: Cornbread

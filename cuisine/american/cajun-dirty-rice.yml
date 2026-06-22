@@ -44,7 +44,7 @@ ingredients:
     name: red bell pepper
     raw: 1 red bell pepper
   - qty: 1
-    name: celery rib
+    name: celery
     raw: 1 celery rib
   - qty: 2
     name: jalapeno chiles
@@ -54,7 +54,7 @@ ingredients:
     name: chicken livers
     raw: 115 g chicken livers
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 4
     unit: tbsp
@@ -73,9 +73,9 @@ ingredients:
     raw: 4 spring onions
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of fresh flat-leaf parsley
   - qty: 310
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 310 g cooked long-grain white rice

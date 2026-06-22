@@ -51,7 +51,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 200
     unit: g
@@ -61,7 +61,7 @@ ingredients:
     name: carrots
     raw: 2 medium carrots
   - qty: 1
-    name: celery stalk
+    name: celery
     raw: 1 celery stalk
   - qty: 3
     unit: tbsp
@@ -124,5 +124,5 @@ ingredients:
     raw: OR crusty Italian bread
   - name: or boiled potatoes
     raw: OR boiled potatoes
-  - name: italian red or white wine
+  - name: italian red
     raw: Italian red or white wine

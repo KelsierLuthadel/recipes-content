@@ -37,10 +37,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 3
-    name: celery stalks
+    name: celery
     raw: 3 celery stalks
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: tomatoes
@@ -80,7 +80,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: ½ teaspoon black pepper
-  - name: extra-virgin olive oil
+  - name: extra virgin olive oil
     raw: Extra-virgin olive oil to drizzle
   - name: crusty bread
     raw: Crusty bread to serve

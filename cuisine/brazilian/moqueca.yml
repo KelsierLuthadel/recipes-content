@@ -27,10 +27,10 @@ ingredients:
     unit: g
     name: firm white fish fillets
     raw: 800 g firm white fish fillets
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     name: tomatoes
     raw: 4 large ripe tomatoes
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: red chilli
@@ -84,7 +84,7 @@ ingredients:
     raw: A few squeezes of lime
   - qty: 600
     unit: g
-    name: white long-grain rice
+    name: white long grain rice
     raw: 600 g white long-grain rice
   - name: bowl of farofa
     raw: A small bowl of farofa

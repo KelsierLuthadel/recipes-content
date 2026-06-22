@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: egg yolks ; or 1 whole egg for the easier stick-blender version
+    name: egg yolks ;
     raw: 2 large egg yolks ; OR 1 whole egg for the easier stick-blender version
   - qty: 1
     unit: tsp
@@ -45,12 +45,12 @@ ingredients:
     name: sunflower oil
     raw: 300 ml sunflower oil
   - qty: 2
-    name: "garlic cloves : for aioli-style"
+    name: garlic
     raw: "2 garlic cloves : for aioli-style"
   - qty: 1
     name: "herbs : for green mayo"
     raw: "1 small bunch fresh herbs : for green mayo"
   - qty: 1
     unit: tsp
-    name: aleppo pepper or merken
+    name: aleppo pepper
     raw: 1 teaspoon Aleppo pepper or merkén, for spicy mayo

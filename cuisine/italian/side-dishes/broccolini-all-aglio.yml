@@ -28,7 +28,7 @@ ingredients:
     name: virgin olive oil
     raw: 6 tablespoons extra virgin olive oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tsp
@@ -42,7 +42,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: ½ teaspoon ground black pepper
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 1
     unit: tbsp

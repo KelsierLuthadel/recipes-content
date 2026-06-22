@@ -23,7 +23,7 @@ ingredients:
     raw: 500 ml base gravy, warmed
   - qty: 300
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 300 g pre-cooked chicken, in bite-sized pieces
   - qty: 4
     unit: tsp
@@ -39,7 +39,7 @@ ingredients:
     raw: 3 tbsp vegetable oil
   - qty: 2
     unit: tsp
-    name: garlic-ginger paste
+    name: garlic ginger paste
     raw: 2 tsp garlic-ginger paste
   - qty: 2
     unit: tbsp

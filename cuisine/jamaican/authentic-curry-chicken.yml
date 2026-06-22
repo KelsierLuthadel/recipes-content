@@ -74,7 +74,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 6
     unit: sprig
@@ -85,7 +85,7 @@ ingredients:
     raw: 1 Scotch bonnet
   - qty: 480
     unit: ml
-    name: low-sodium chicken stock
+    name: low sodium chicken stock
     raw: 480 ml low-sodium chicken stock
   - qty: 2
     name: carrots

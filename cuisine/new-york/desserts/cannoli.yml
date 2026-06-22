@@ -42,7 +42,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 40
     unit: g
-    name: lard or butter
+    name: lard
     raw: 40 g lard or butter
   - qty: 1
     name: egg
@@ -58,7 +58,7 @@ ingredients:
   - qty: 1
     name: egg white
     raw: 1 large egg white
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 600
     unit: g
@@ -76,7 +76,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 100
     unit: g

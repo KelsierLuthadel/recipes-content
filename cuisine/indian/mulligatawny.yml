@@ -45,13 +45,13 @@ ingredients:
     name: leek
     raw: 1 leek
   - qty: 2
-    name: celery sticks
+    name: celery
     raw: 2 celery sticks
   - qty: 2
     name: tomatoes
     raw: 2 tomatoes
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     unit: tsp
@@ -73,9 +73,9 @@ ingredients:
     unit: tsp
     name: paprika
     raw: 1 teaspoon paprika
-  - name: quarter teaspoon chilli flakes
+  - name: chilli flakes
     raw: quarter teaspoon chilli flakes
-  - name: quarter teaspoon cumin seeds
+  - name: cumin seeds
     raw: quarter teaspoon cumin seeds
   - qty: 1
     name: star anise
@@ -83,7 +83,7 @@ ingredients:
   - qty: 1
     name: bay leaf
     raw: 1 bay leaf
-  - name: half teaspoon ground mixed spice
+  - name: mixed spice
     raw: half teaspoon ground mixed spice
   - qty: 3
     unit: tbsp

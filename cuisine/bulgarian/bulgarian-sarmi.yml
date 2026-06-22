@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: soured cabbage or 1 large fresh white cabbage
+    name: soured cabbage
     raw: 1 whole soured cabbage or 1 large fresh white cabbage
   - qty: 500
     unit: g
@@ -30,7 +30,7 @@ ingredients:
     raw: 500 g minced pork
   - qty: 150
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 150 g long-grain white rice
   - qty: 2
     name: onions
@@ -40,7 +40,7 @@ ingredients:
     name: smoked bacon
     raw: 100 g smoked bacon, in strips
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, finely chopped
   - qty: 3
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 400 g chopped tomatoes
   - qty: 500
     unit: ml
-    name: chicken or pork stock
+    name: chicken
     raw: 500 ml chicken or pork stock
   - qty: 3
     unit: tbsp

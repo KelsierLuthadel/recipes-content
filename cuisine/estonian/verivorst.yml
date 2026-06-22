@@ -30,7 +30,7 @@ ingredients:
     raw: 200 g pearl barley
   - qty: 150
     unit: g
-    name: pork back fat or fatty pork belly
+    name: pork back fat
     raw: 150 g pork back fat or fatty pork belly, finely diced
   - qty: 2
     name: onions
@@ -87,5 +87,5 @@ ingredients:
     raw: Lingonberry jam
   - name: sour cream
     raw: Sour cream
-  - name: pickled pumpkin or pickled cucumbers
+  - name: pickled pumpkin
     raw: Pickled pumpkin or pickled cucumbers

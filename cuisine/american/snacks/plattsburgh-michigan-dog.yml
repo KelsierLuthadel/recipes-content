@@ -29,7 +29,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -83,10 +83,10 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon ground black pepper
   - qty: 4
-    name: all-beef natural-casing frankfurters
+    name: all beef natural casing frankfurters
     raw: 4 small all-beef natural-casing frankfurters
   - qty: 4
-    name: new england-style top-split hot dog buns
+    name: new england style top split hot dog buns
     raw: 4 New England-style top-split hot dog buns
   - qty: 1
     unit: tbsp
@@ -97,7 +97,7 @@ ingredients:
     raw: 1 medium white onion
   - name: yellow mustard
     raw: Yellow mustard
-  - name: crinkle-cut fries
+  - name: crinkle cut fries
     raw: Crinkle-cut fries
   - name: cold can of soda
     raw: A cold can of soda

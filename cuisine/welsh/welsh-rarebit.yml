@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: white or sourdough bread
+    name: white
     raw: 4 thick slices of good white or sourdough bread
   - qty: 25
     unit: g
@@ -33,7 +33,7 @@ ingredients:
     raw: 25 g plain flour
   - qty: 100
     unit: ml
-    name: brown ale or stout
+    name: brown ale
     raw: 100 ml brown ale or stout
   - qty: 200
     unit: g

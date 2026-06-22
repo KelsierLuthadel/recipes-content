@@ -24,13 +24,13 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: chuck beef or pork shoulder
+    name: chuck beef
     raw: 500 g chuck beef or pork shoulder, cubed small
   - qty: 1
     name: onion
     raw: 1 onion, finely chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 2
     name: guajillo chiles
@@ -70,7 +70,7 @@ ingredients:
     raw: 200 g cooked refried beans, warmed
   - qty: 200
     unit: g
-    name: chihuahua or monterey jack cheese
+    name: chihuahua
     raw: 200 g Chihuahua or Monterey Jack cheese, grated
   - name: salsa verde
     raw: Salsa verde

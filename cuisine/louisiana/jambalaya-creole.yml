@@ -52,7 +52,7 @@ ingredients:
     name: green bell peppers
     raw: 2 green bell peppers
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 1
     name: tomatoes
@@ -63,7 +63,7 @@ ingredients:
     raw: 2 tablespoons tomato paste
   - qty: 500
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 500 g long-grain white rice
   - qty: 1
     unit: l

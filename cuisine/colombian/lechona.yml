@@ -23,7 +23,7 @@ ingredients:
     name: pork shoulder picnic
     raw: 1 bone-in pork shoulder picnic
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 3
     unit: tbsp
@@ -49,7 +49,7 @@ ingredients:
     unit: tbsp
     name: turmeric
     raw: 1 tablespoon turmeric
-  - name: juice of 4 limes
+  - name: limes
     raw: Juice of 4 limes
   - qty: 4
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 4 tablespoons olive oil
   - qty: 400
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 400 g long-grain white rice
   - qty: 400
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     name: scallions/spring onions
     raw: 8 scallions/spring onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 200
     unit: g

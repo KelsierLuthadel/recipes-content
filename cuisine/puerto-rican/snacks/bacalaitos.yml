@@ -68,7 +68,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: green bell pepper
@@ -77,7 +77,7 @@ ingredients:
     name: cilantro
     raw: 1 large bunch fresh cilantro
   - qty: 1
-    name: "culantro/recao : or double the cilantro"
+    name: "culantro/recao :"
     raw: "1 small bunch fresh culantro/recao : or double the cilantro"
   - qty: 1
     name: chilli
@@ -88,7 +88,7 @@ ingredients:
     raw: Lime wedges
   - name: pique
     raw: Pique
-  - name: mayo-ketchup dipping sauce
+  - name: mayo ketchup dipping sauce
     raw: Mayo-ketchup dipping sauce
-  - name: ice-cold medalla beer
+  - name: ice cold medalla beer
     raw: Ice-cold Medalla beer

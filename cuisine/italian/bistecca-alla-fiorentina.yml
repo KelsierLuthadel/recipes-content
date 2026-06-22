@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: t-bone or porterhouse steak
+    name: t bone
     raw: 1 large T-bone or porterhouse steak
   - qty: 2
     unit: tsp
@@ -41,11 +41,11 @@ ingredients:
   - name: thyme
     raw: Fresh thyme
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - name: tuscan white beans with sage and olive oil
     raw: Tuscan white beans with sage and olive oil
-  - name: or tuscan-style sauteed cavolo nero
+  - name: or tuscan style sauteed cavolo nero
     raw: OR Tuscan-style sautéed cavolo nero
   - name: or roasted potatoes
     raw: OR roasted potatoes

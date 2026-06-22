@@ -35,9 +35,9 @@ ingredients:
     unit: tsp
     name: nutmeg
     raw: ¼ teaspoon ground nutmeg
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 3
     unit: tbsp
@@ -49,7 +49,7 @@ ingredients:
     raw: A pinch of fine sea salt
   - qty: 30
     unit: g
-    name: sultanas or raisins
+    name: sultanas
     raw: 30 g sultanas or raisins
   - qty: 200
     unit: g
@@ -85,7 +85,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 50
     unit: g
-    name: almonds or hazelnuts
+    name: almonds
     raw: 50 g chopped almonds or hazelnuts
   - name: hot custard
     raw: Hot custard

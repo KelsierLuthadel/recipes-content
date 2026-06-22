@@ -33,7 +33,7 @@ ingredients:
     name: walnut halves
     raw: 200 g walnut halves
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
     unit: tbsp
@@ -65,5 +65,5 @@ ingredients:
     raw: 2 tablespoons salt
   - qty: 425
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 350-500 ml extra-virgin olive oil

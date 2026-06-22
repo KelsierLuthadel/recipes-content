@@ -26,11 +26,11 @@ ingredients:
     name: milk
     raw: 1 litre whole milk
   - qty: 1
-    name: mexican chocolate tablet or 80 g dark chocolate + 1 teaspoon cinnamon + 1 tablespoon sugar
+    name: mexican chocolate tablet
     raw: 1 Mexican chocolate tablet OR 80 g dark chocolate + 1 teaspoon cinnamon + 1 tablespoon sugar
   - qty: 60
     unit: g
-    name: piloncillo or 60 g dark muscovado sugar
+    name: piloncillo
     raw: 60 g piloncillo OR 60 g dark muscovado sugar
   - qty: 1
     name: cinnamon stick

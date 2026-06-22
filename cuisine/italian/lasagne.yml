@@ -36,7 +36,7 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: celery stick
+    name: celery
     raw: 1 celery stick
   - qty: 500
     unit: g
@@ -90,7 +90,7 @@ ingredients:
     name: basil leaves
     raw: 40 grams fresh basil leaves
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 30
     unit: g

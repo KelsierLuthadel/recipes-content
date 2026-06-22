@@ -28,14 +28,14 @@ ingredients:
     name: cumin
     raw: 1 tsp cumin
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves, smashed
   - qty: 4
     name: bay leaves
     raw: 4 bay leaves
   - qty: 1
     unit: tbsp
-    name: sour-orange juice
+    name: sour orange juice
     raw: 1 tbsp sour-orange juice
   - qty: 200
     unit: ml

@@ -28,7 +28,7 @@ ingredients:
     name: shallots
     raw: 2 shallots
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     name: ginger
@@ -50,7 +50,7 @@ ingredients:
     raw: ¼ teaspoon ground white pepper
   - qty: 2
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 2 tablespoons coriander leaves
   - qty: 2
     name: spring onions
@@ -80,7 +80,7 @@ ingredients:
     name: fish sauce
     raw: 1 tablespoon fish sauce
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.5
     unit: tsp

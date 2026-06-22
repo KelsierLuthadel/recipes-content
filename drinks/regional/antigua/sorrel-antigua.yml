@@ -27,7 +27,7 @@ ingredients:
     unit: g
     name: ginger
     raw: 50 g fresh ginger, sliced
-  - name: peel of 1 orange
+  - name: orange
     raw: Peel of 1 orange
   - qty: 1
     name: cinnamon stick
@@ -42,7 +42,7 @@ ingredients:
     unit: g
     name: dark brown sugar
     raw: 250 g dark brown sugar
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - name: dark rum
     raw: Dark rum, to serve

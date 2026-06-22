@@ -54,7 +54,7 @@ ingredients:
     raw: 2 large eggs
   - qty: 100
     unit: g
-    name: raisins or sultanas
+    name: raisins
     raw: 100 g raisins or sultanas
   - qty: 50
     unit: g
@@ -66,7 +66,7 @@ ingredients:
     raw: 30 g whole almonds, roughly chopped
   - qty: 2
     unit: tbsp
-    name: dark rum or hot water
+    name: dark rum
     raw: 2 tablespoons dark rum or hot water
   - qty: 1
     name: egg

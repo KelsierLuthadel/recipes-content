@@ -37,7 +37,7 @@ ingredients:
     name: onions
     raw: 3 large onions
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
   - qty: 750
     unit: ml
@@ -45,7 +45,7 @@ ingredients:
     raw: 750 ml chicken stock
   - qty: 250
     unit: ml
-    name: guinness or stout
+    name: guinness
     raw: 250 ml Guinness or stout
   - qty: 1
     unit: tbsp

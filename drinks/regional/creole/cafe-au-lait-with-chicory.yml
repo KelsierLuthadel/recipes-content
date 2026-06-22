@@ -14,11 +14,11 @@ mentions:
 ingredients:
   - qty: 4
     unit: tbsp
-    name: coffee-and-chicory blend or 3 tablespoons dark-roast coffee + 1 tablespoon roasted chicory root powder
+    name: coffee and chicory blend
     raw: 4 tablespoons coffee-and-chicory blend OR 3 tablespoons dark-roast coffee + 1 tablespoon roasted chicory root powder
   - qty: 400
     unit: ml
-    name: just-off-the-boil water
+    name: just off the boil water
     raw: 400 ml just-off-the-boil water
   - qty: 400
     unit: ml
@@ -27,7 +27,7 @@ ingredients:
   - name: sugar
     raw: Sugar to taste
   - qty: 2
-    name: tall mugs or thick-walled glasses
+    name: tall mugs
     raw: 2 tall mugs or thick-walled glasses
   - name: "optional but traditional: a plate of fresh beignets dusted with powdered sugar"
     raw: "Optional but traditional: a plate of fresh beignets dusted with powdered sugar"

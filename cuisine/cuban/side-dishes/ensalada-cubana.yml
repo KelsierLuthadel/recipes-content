@@ -36,7 +36,7 @@ ingredients:
     unit: tbsp
     name: virgin olive oil
     raw: 4 tablespoons extra virgin olive oil
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 1.5
     unit: tsp
@@ -52,7 +52,7 @@ ingredients:
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: small handful
-    name: coriander leaves
+    name: coriander
     raw: 1 small handful fresh coriander leaves
   - qty: 1
     unit: tbsp

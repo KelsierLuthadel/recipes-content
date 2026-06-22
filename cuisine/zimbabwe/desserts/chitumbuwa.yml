@@ -54,17 +54,17 @@ ingredients:
     unit: ml
     name: milk
     raw: 50 ml whole milk
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 30
     unit: g
-    name: sultanas or chopped dates
+    name: sultanas
     raw: 30 g sultanas or chopped dates
   - qty: 2
     unit: tbsp
     name: desiccated coconut
     raw: 2 tablespoons desiccated coconut
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - name: caster sugar for dusting
     raw: Caster sugar for dusting

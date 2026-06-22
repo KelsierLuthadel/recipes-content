@@ -28,7 +28,7 @@ mentions:
   - base-ingredients/sambal/sambal-oelek
 ingredients:
   - qty: 2
-    name: live mud crabs - or 1.5 kg pre-cooked frozen mud crab pieces
+    name: live mud crabs
     raw: 2 live mud crabs - or 1.5 kg pre-cooked frozen mud crab pieces
   - qty: 2
     unit: tbsp
@@ -79,7 +79,7 @@ ingredients:
     raw: 2 tbsp sugar
   - qty: 400
     unit: ml
-    name: chicken or seafood stock
+    name: chicken
     raw: 400 ml chicken or seafood stock
   - qty: 1
     unit: tbsp
@@ -96,5 +96,5 @@ ingredients:
   - qty: 2
     name: spring onions
     raw: 2 spring onions, sliced
-  - name: coriander leaves
+  - name: coriander
     raw: Coriander leaves

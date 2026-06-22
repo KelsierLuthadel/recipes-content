@@ -23,7 +23,7 @@ ingredients:
     name: beef tomatoes
     raw: 4 beef tomatoes
   - qty: 4
-    name: red yellow or green peppers
+    name: red yellow
     raw: 4 red , yellow or green peppers
   - qty: 4
     name: potatoes
@@ -36,11 +36,11 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 200
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 200 g long-grain rice
   - qty: 50
     unit: g
@@ -61,7 +61,7 @@ ingredients:
     name: dill
     raw: A small bunch of dill
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley
   - qty: 200
     unit: ml

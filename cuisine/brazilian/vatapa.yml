@@ -44,7 +44,7 @@ ingredients:
     name: peanuts
     raw: 100 g raw peanuts
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: onions
@@ -70,7 +70,7 @@ ingredients:
     raw: 300 g stale white bread
   - qty: 500
     unit: ml
-    name: fish stock or chicken stock
+    name: fish stock
     raw: 500 ml fish stock or chicken stock
   - qty: 400
     unit: ml
@@ -97,13 +97,13 @@ ingredients:
     name: cracked black pepper
     raw: 1 teaspoon coarsely cracked black pepper
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 600
     unit: g
-    name: white long-grain rice
+    name: white long grain rice
     raw: 600 g white long-grain rice
   - qty: 200
     unit: g

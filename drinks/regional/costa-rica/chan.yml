@@ -27,7 +27,7 @@ ingredients:
     unit: g
     name: caster sugar
     raw: 150 g caster sugar
-  - name: juice of 4 limes
+  - name: limes
     raw: Juice of 4 limes
   - qty: 1
     unit: small pinch
@@ -43,12 +43,12 @@ ingredients:
     raw: A small sprig of fresh mint
   - qty: 2
     unit: tbsp
-    name: rose-water cordial
+    name: rose water cordial
     raw: 2 tablespoons rose-water cordial
   - name: ice cubes
     raw: Ice cubes
   - qty: 4
     name: tall glasses
     raw: 4 tall glasses
-  - name: long-handled spoons
+  - name: long handled spoons
     raw: Long-handled spoons

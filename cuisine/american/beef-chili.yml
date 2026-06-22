@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 1 tablespoon extra-virgin olive oil
   - qty: 1
     name: white onion
@@ -44,7 +44,7 @@ ingredients:
     name: tomato paste
     raw: 2 tablespoons tomato paste
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -82,7 +82,7 @@ ingredients:
     name: green chiles
     raw: 1 can mild green chiles
   - qty: 1
-    name: fire-roasted diced tomatoes
+    name: fire roasted diced tomatoes
     raw: 1 can fire-roasted diced tomatoes
   - qty: 720
     unit: ml

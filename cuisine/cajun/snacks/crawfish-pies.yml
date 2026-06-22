@@ -52,7 +52,7 @@ ingredients:
     raw: 1 egg yolk
   - qty: 6.5
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 6-7 tablespoons ice-cold water
   - qty: 50
     unit: g
@@ -66,13 +66,13 @@ ingredients:
     name: onion
     raw: 1 onion , finely chopped
   - qty: 1
-    name: celery stick
+    name: celery
     raw: 1 celery stick, finely chopped
   - qty: 0.5
     name: green pepper
     raw: ½ green pepper, deseeded and finely chopped
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, finely chopped
   - qty: 1
     name: tomato
@@ -106,7 +106,7 @@ ingredients:
     raw: 3 spring onions, finely sliced
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - name: salt
     raw: salt

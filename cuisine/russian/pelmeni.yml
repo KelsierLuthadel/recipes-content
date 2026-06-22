@@ -57,7 +57,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -97,5 +97,5 @@ ingredients:
     raw: Freshly ground black pepper
   - qty: 2
     unit: tbsp
-    name: white wine vinegar or apple cider vinegar
+    name: white wine vinegar
     raw: 2 tablespoons white wine vinegar or apple cider vinegar

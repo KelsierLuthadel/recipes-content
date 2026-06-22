@@ -44,7 +44,7 @@ ingredients:
     name: tomato
     raw: 1 medium tomato
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -71,7 +71,7 @@ ingredients:
     raw: 2 tablespoons butter
   - qty: 200
     unit: g
-    name: monterey jack or sharp cheddar
+    name: monterey jack
     raw: 200 g grated Monterey Jack or sharp cheddar
   - qty: 1
     name: coriander

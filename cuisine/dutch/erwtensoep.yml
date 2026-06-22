@@ -34,7 +34,7 @@ ingredients:
     name: smoked ham hock
     raw: 1 smoked ham hock
   - qty: 1
-    name: smoked pork rib or 300 g smoked pork shoulder
+    name: smoked pork rib
     raw: 1 smoked pork rib OR 300 g smoked pork shoulder
   - qty: 2
     name: gelderse rookworst smoked sausages
@@ -60,7 +60,7 @@ ingredients:
     raw: 1 small floury potato , peeled and diced
   - qty: 2
     unit: tbsp
-    name: unsalted butter or rendered bacon fat
+    name: unsalted butter
     raw: 2 tablespoons unsalted butter OR rendered bacon fat
   - qty: 2
     name: bay leaves
@@ -81,18 +81,18 @@ ingredients:
     raw: A small bunch of celery leaves , chopped
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - name: black pepper
     raw: A grind of black pepper
   - name: dark dutch rye bread
     raw: Dark Dutch rye bread , sliced thin and lightly toasted
   - qty: 5
-    name: katenspek or good smoked streaky bacon
+    name: katenspek
     raw: 4-6 slices of katenspek OR good smoked streaky bacon
   - name: pat of butter for the rye bread
     raw: A pat of butter for the rye bread
   - name: bowl of strong dutch mustard
     raw: A small bowl of strong Dutch mustard
-  - name: glass of cold dutch lager or strong hot tea
+  - name: glass of cold dutch lager
     raw: A glass of cold Dutch lager OR strong hot tea

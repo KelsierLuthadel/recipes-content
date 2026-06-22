@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: beef shoulder or chuck
+    name: beef shoulder
     raw: 1.2 kg beef shoulder or chuck
   - qty: 6
     unit: tbsp
@@ -36,7 +36,7 @@ ingredients:
     name: sour orange juice
     raw: 4 tablespoons sour orange juice
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     name: thyme

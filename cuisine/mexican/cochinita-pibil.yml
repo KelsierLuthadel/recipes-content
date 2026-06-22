@@ -27,7 +27,7 @@ ingredients:
     name: achiote paste
     raw: 50 g achiote paste
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -110,5 +110,5 @@ ingredients:
     raw: 24 warm corn tortillas
   - name: lime wedges
     raw: Lime wedges
-  - name: coriander leaves
+  - name: coriander
     raw: Coriander leaves

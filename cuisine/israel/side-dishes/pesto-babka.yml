@@ -69,7 +69,7 @@ ingredients:
     name: parmesan
     raw: 50 g grated parmesan
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.25
     unit: tsp
@@ -77,7 +77,7 @@ ingredients:
     raw: ¼ teaspoon fine sea salt
   - qty: 80
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 80 ml extra-virgin olive oil
   - qty: 2
     unit: tbsp

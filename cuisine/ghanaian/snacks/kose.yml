@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black-eyed peas
+    name: black eyed peas
     raw: 300 g dried black-eyed peas
   - qty: 1
     name: onion
@@ -34,7 +34,7 @@ ingredients:
     name: ginger
     raw: 2 cm ginger, peeled
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     unit: tsp
@@ -44,5 +44,5 @@ ingredients:
     unit: ml
     name: water
     raw: 100-150 ml water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying

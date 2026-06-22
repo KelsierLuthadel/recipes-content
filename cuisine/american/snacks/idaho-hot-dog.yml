@@ -35,14 +35,14 @@ ingredients:
     name: salt
     raw: 2 teaspoons coarse salt
   - qty: 4
-    name: all-beef or pork-and-beef frankfurters
+    name: all beef
     raw: 4 all-beef or pork-and-beef frankfurters
   - qty: 200
     unit: g
     name: streaky bacon
     raw: 200 g streaky bacon
   - qty: 1
-    name: chives ; or 4 spring onions
+    name: chives ;
     raw: 1 small bunch chives ; or 4 spring onions
   - qty: 200
     unit: ml
@@ -62,7 +62,7 @@ ingredients:
     raw: "Optional: chopped fresh dill, chopped pickled jalapeños"
   - name: knife and fork
     raw: Knife and fork
-  - name: beer or a glass of milk
+  - name: beer
     raw: A cold beer or a glass of milk
   - name: side of pickled vegetables
     raw: Side of pickled vegetables

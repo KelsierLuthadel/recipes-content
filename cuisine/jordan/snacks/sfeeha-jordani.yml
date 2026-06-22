@@ -31,7 +31,7 @@ ingredients:
     name: plain flour
     raw: 500 g plain flour
   - qty: 1
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 sachet fast-action yeast
   - qty: 1.5
     unit: tsp
@@ -51,7 +51,7 @@ ingredients:
     raw: 320 ml warm water
   - qty: 500
     unit: g
-    name: lamb mince or a 50/50 lamb-beef mix
+    name: lamb mince
     raw: 500 g lamb mince OR a 50/50 lamb-beef mix
   - qty: 1
     name: onion
@@ -60,7 +60,7 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 3
     unit: tbsp

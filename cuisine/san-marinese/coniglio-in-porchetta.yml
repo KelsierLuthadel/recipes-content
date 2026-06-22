@@ -30,7 +30,7 @@ ingredients:
     name: chicken livers
     raw: 2 chicken livers, finely chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, very finely chopped
   - qty: 2
     unit: tbsp
@@ -48,7 +48,7 @@ ingredients:
     unit: tsp
     name: fennel pollen
     raw: 1 tsp fennel pollen
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 80
     unit: ml
@@ -69,5 +69,5 @@ ingredients:
     raw: 200 ml dry white wine for the pan
   - qty: 200
     unit: ml
-    name: chicken or light stock
+    name: chicken
     raw: 200 ml chicken or light stock

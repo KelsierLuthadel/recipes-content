@@ -20,11 +20,11 @@ ingredients:
     name: caster sugar
     raw: 100 g caster sugar
   - qty: 1
-    name: dry-to-medium chilean red wine
+    name: dry to medium chilean red wine
     raw: 1 bottle of dry-to-medium Chilean red wine
   - qty: 250
     unit: ml
-    name: sparkling water or soda water
+    name: sparkling water
     raw: 250 ml cold sparkling water or soda water
   - qty: 1
     unit: small pinch
@@ -35,7 +35,7 @@ ingredients:
   - qty: 6
     name: tall glasses
     raw: 6 tall glasses, chilled
-  - name: long-handled spoon for fishing out the strawberries
+  - name: long handled spoon for fishing out the strawberries
     raw: A long-handled spoon for fishing out the strawberries
   - name: "optional: a few mint"
     raw: "Optional: a few mint sprigs to garnish"

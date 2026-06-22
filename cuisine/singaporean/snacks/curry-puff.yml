@@ -49,7 +49,7 @@ ingredients:
     raw: 90 g chilled unsalted butter, cubed
   - qty: 90
     unit: ml
-    name: ice-cold water
+    name: ice cold water
     raw: 90 ml ice-cold water
   - qty: 2
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 1 small green chilli, finely chopped
   - qty: 2
     unit: tbsp
-    name: madras-style curry powder
+    name: madras style curry powder
     raw: 2 tbsp Madras-style curry powder
   - qty: 0.5
     name: /2 tsp ground turmeric
@@ -98,7 +98,7 @@ ingredients:
     name: /2 tsp sugar
     raw: 1/2 tsp sugar
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs, chopped
   - qty: 2
     unit: tbsp

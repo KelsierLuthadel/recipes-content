@@ -46,7 +46,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: ginger
@@ -75,7 +75,7 @@ ingredients:
     name: ginger
     raw: 2 cm ginger
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 100
     unit: ml
@@ -112,7 +112,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 600
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 600 g long-grain rice
   - qty: 1
     unit: small handful

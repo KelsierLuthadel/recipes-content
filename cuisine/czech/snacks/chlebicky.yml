@@ -26,14 +26,14 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 16
-    name: oval slices of veka - or substitute slices from a baguette or any small white sandwich loaf
+    name: oval slices of veka
     raw: 16 oval slices of veka - or substitute slices from a baguette or any small white sandwich loaf
   - qty: 50
     unit: g
     name: unsalted butter
     raw: 50 g unsalted butter, softened
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, finely chopped
   - qty: 200
     unit: g
@@ -56,10 +56,10 @@ ingredients:
     name: ham
     raw: 8 slices of ham
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, sliced into rounds
   - qty: 16
-    name: cornichons or thin gherkin slices
+    name: cornichons
     raw: 16 cornichons or thin gherkin slices
   - qty: 8
     name: czech klobasa sausage
@@ -91,5 +91,5 @@ ingredients:
     raw: 16 black olives, halved
   - qty: 50
     unit: g
-    name: caviar or lumpfish roe
+    name: caviar
     raw: 50 g caviar or lumpfish roe

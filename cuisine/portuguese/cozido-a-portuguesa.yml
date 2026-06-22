@@ -77,7 +77,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     name: bay leaves
@@ -100,7 +100,7 @@ ingredients:
     raw: 3 litres water
   - qty: 300
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 300 g long-grain rice
   - qty: 2
     unit: tbsp

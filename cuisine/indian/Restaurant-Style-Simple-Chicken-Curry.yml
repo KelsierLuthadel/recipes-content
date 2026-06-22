@@ -34,7 +34,7 @@ ingredients:
     name: to 4 tbsp vegetable
     raw: 3 to 4 tbsp vegetable, sunflower, or olive oil
   - qty: 1
-    name: or 2 medium onions
+    name: large
     raw: 1 large or 2 medium onions, very finely chopped
   - qty: 2
     unit: tsp
@@ -43,7 +43,7 @@ ingredients:
   - name: salt
     raw: salt, to taste
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves, finely chopped
   - qty: 1
     unit: tsp
@@ -68,7 +68,7 @@ ingredients:
     name: to 4 tbsp tomato puree
     raw: 3 to 4 tbsp tomato purée, or 1 tin of chopped tomatoes , or 400 g passata
   - qty: 1
-    name: to 2+ mugs of hot water or stock
+    name: to 2+ mugs of hot water
     raw: 1 to 2+ mugs of hot water or stock
   - name: chillies
     raw: a few fresh chillies, finely chopped
@@ -77,9 +77,9 @@ ingredients:
     raw: 2 to 3 tsp lemon juice
   - qty: 150
     unit: g
-    name: chicken breast or thigh per person
+    name: chicken breast
     raw: 150 g boneless chicken breast or thigh per person, chopped to your preferred size
-  - name: pre-cooked vegetables of choice
+  - name: pre cooked vegetables of choice
     raw: pre-cooked vegetables of choice
   - qty: 1
     unit: pinch

@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 2.5
     unit: kg
-    name: leg of young goat ; or 2.5 kg bone-in leg of lamb
+    name: leg of young goat ;
     raw: 2.5 kg bone-in leg of young goat ; OR 2.5 kg bone-in leg of lamb
   - qty: 4
     name: guajillo chillies
@@ -43,14 +43,14 @@ ingredients:
     name: water
     raw: 500 ml hot water
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 1
     name: onion
     raw: 1 large onion
-  - name: juice of 2 oranges
+  - name: oranges
     raw: Juice of 2 oranges
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 4
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 2 tablespoons dried Mexican oregano
   - qty: 1
     unit: tbsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 tablespoon ground coriander seed
   - qty: 1
     unit: tbsp
@@ -100,7 +100,7 @@ ingredients:
     raw: 4 bay leaves
   - qty: 500
     unit: ml
-    name: stock or water
+    name: stock
     raw: 500 ml hot stock or water
   - qty: 200
     unit: ml

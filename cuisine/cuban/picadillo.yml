@@ -49,7 +49,7 @@ ingredients:
     name: red bell pepper
     raw: 1 medium red bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     raw: 1 tablespoon dried oregano
   - qty: 1
     unit: tbsp
-    name: aleppo pepper or smoked paprika
+    name: aleppo pepper
     raw: 1 tablespoon Aleppo pepper or smoked paprika
   - qty: 1
     unit: tsp
@@ -110,7 +110,7 @@ ingredients:
   - qty: 1
     name: red chilli
     raw: 1 fresh red chilli
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - name: plain white rice
     raw: Plain white rice

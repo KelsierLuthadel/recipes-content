@@ -35,7 +35,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: carrot
@@ -106,7 +106,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp
@@ -131,7 +131,7 @@ ingredients:
   - qty: 4
     name: soft white split rolls
     raw: 4 large soft white split rolls
-  - name: cold guarana antarctica or a brazilian beer
+  - name: cold guarana antarctica
     raw: A cold Guaraná Antarctica or a Brazilian beer
   - name: side of plain feijao for completeness
     raw: A side of plain feijão for completeness, or just call it a meal in itself

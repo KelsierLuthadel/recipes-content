@@ -46,7 +46,7 @@ ingredients:
     raw: 1 tablespoon plain yogurt
   - qty: 400
     unit: g
-    name: spinach ; or 200 g frozen spinach
+    name: spinach ;
     raw: 400 g fresh spinach ; or 200 g frozen spinach
   - qty: 200
     unit: g
@@ -90,7 +90,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: tomato

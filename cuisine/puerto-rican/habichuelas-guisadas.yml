@@ -54,7 +54,7 @@ ingredients:
     name: green bell pepper
     raw: 1 medium green bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: tomato
@@ -120,7 +120,7 @@ ingredients:
     raw: 1 small fresh chilli
   - name: white rice
     raw: Cooked white rice
-  - name: coriander leaves
+  - name: coriander
     raw: Fresh coriander leaves
   - name: avocado slices
     raw: Avocado slices

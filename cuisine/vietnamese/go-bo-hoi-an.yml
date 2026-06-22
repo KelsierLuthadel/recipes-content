@@ -47,7 +47,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 75
     unit: g
@@ -83,7 +83,7 @@ ingredients:
     name: sugar
     raw: 3 tablespoons sugar
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 30
     unit: g

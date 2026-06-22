@@ -43,7 +43,7 @@ ingredients:
     raw: 100 g dried apricots, halved
   - qty: 80
     unit: g
-    name: raisins or sultanas
+    name: raisins
     raw: 80 g raisins or sultanas
   - qty: 80
     unit: g
@@ -57,7 +57,7 @@ ingredients:
     unit: tbsp
     name: soft brown sugar
     raw: 2 tablespoons soft brown sugar
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 1
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 tablespoon cornflour
   - qty: 2
     unit: tbsp
-    name: dark rum or brandy
+    name: dark rum
     raw: 2 tablespoons dark rum or brandy
   - qty: 200
     unit: ml

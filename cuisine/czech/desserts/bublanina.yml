@@ -47,17 +47,17 @@ ingredients:
     unit: ml
     name: milk
     raw: 100 ml whole milk
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 400
     unit: g
-    name: pitted sour cherries - the most traditional
+    name: pitted sour cherries the most traditional
     raw: 400 g pitted sour cherries - the most traditional
   - name: or 400 g pitted dark plums
     raw: OR 400 g pitted dark plums, halved or quartered
   - name: or 400 g blueberries / raspberries / blackberries
     raw: OR 400 g blueberries / raspberries / blackberries
-  - name: or 400 g sliced peaches or nectarines
+  - name: or 400 g sliced peaches
     raw: OR 400 g sliced peaches or nectarines
   - qty: 2
     unit: tbsp

@@ -25,7 +25,7 @@ ingredients:
     raw: 600 g pork ribs
   - qty: 250
     unit: g
-    name: smoked pork rib or smoked pork belly
+    name: smoked pork rib
     raw: 250 g smoked pork rib or smoked pork belly
   - qty: 2.5
     unit: l
@@ -63,7 +63,7 @@ ingredients:
     raw: 2 tablespoons tomato paste
   - qty: 2
     unit: tbsp
-    name: sunflower oil or lard
+    name: sunflower oil
     raw: 2 tablespoons sunflower oil or lard
   - qty: 1
     unit: tsp

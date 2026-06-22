@@ -28,7 +28,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: dark rye bread or wholemeal sourdough
+    name: dark rye bread
     raw: 4 large slices dark rye bread or wholemeal sourdough, about 1.5 cm thick
   - qty: 80
     unit: g
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 small handful fresh dill sprigs
   - qty: 1
     unit: tbsp
-    name: mustard-dill sauce
+    name: mustard dill sauce
     raw: 1 tbsp mustard-dill sauce
   - qty: 1
     name: lemon wedge
@@ -52,7 +52,7 @@ ingredients:
   - name: cracked black pepper
     raw: Cracked black pepper
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 large hard-boiled eggs, peeled and sliced
   - qty: 4
     name: anchovy fillets in oil
@@ -92,5 +92,5 @@ ingredients:
     unit: small handful
     name: crispy fried onions
     raw: A small handful of crispy fried onions
-  - name: flat-leaf parsley
+  - name: flat leaf parsley
     raw: A few sprigs of flat-leaf parsley

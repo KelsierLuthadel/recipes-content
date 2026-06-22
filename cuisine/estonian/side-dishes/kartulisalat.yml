@@ -24,18 +24,18 @@ ingredients:
     name: waxy potatoes
     raw: 800 g waxy potatoes
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, peeled
   - qty: 200
     unit: g
-    name: cold cooked ham or smoked sausage
+    name: cold cooked ham
     raw: 200 g cold cooked ham or smoked sausage
   - qty: 4
     name: pickled gherkins
     raw: 4 medium pickled gherkins
   - qty: 200
     unit: g
-    name: or thawed green peas
+    name: cooked
     raw: 200 g cooked or thawed green peas
   - qty: 1
     name: red onion
@@ -50,7 +50,7 @@ ingredients:
     raw: 4 tbsp mayonnaise
   - qty: 2
     unit: tsp
-    name: estonian or dijon mustard
+    name: estonian
     raw: 2 tsp Estonian or Dijon mustard
   - qty: 2
     unit: tbsp

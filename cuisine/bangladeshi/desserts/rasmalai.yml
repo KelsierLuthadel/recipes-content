@@ -22,7 +22,7 @@ ingredients:
     raw: 2 litres full-fat milk
   - qty: 4
     unit: tbsp
-    name: white vinegar or lemon juice
+    name: white vinegar
     raw: 4 tbsp white vinegar or lemon juice
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
@@ -62,5 +62,5 @@ ingredients:
     raw: 30 g almonds, blanched and slivered
   - qty: 1
     unit: tsp
-    name: rosewater or kewra water
+    name: rosewater
     raw: 1 tsp rosewater or kewra water

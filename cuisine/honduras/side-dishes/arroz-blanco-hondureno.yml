@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 300 g long-grain rice
   - qty: 2
     unit: tbsp
@@ -27,7 +27,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     name: green bell pepper

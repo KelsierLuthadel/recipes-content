@@ -30,7 +30,7 @@ ingredients:
     raw: 600 g good-quality pork sausagemeat
   - qty: 100
     unit: g
-    name: haggis or 100 g crumbled black pudding for the black-pudding version
+    name: haggis
     raw: 100 g haggis OR 100 g crumbled black pudding for the black-pudding version
   - qty: 2
     unit: tbsp
@@ -79,7 +79,7 @@ ingredients:
     unit: l
     name: vegetable oil
     raw: 1 litre vegetable oil
-  - name: english mustard or hp brown sauce
+  - name: english mustard
     raw: English mustard or HP Brown Sauce
   - qty: 1
     name: watercress

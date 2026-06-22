@@ -16,7 +16,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: over-ripe plantains
+    name: over ripe plantains
     raw: 4 very over-ripe plantains
   - qty: 1
     name: onion
@@ -29,11 +29,11 @@ ingredients:
     raw: 1/2 scotch bonnet, deseeded and finely chopped
   - qty: 60
     unit: g
-    name: plain flour or millet flour
+    name: plain flour
     raw: 60 g plain flour or millet flour
   - qty: 1
     unit: tsp
-    name: anise or aniseed
+    name: anise
     raw: 1 tsp ground anise or aniseed
   - qty: 0.5
     name: /2 tsp ground nutmeg
@@ -45,5 +45,5 @@ ingredients:
     unit: tbsp
     name: sugar
     raw: 1-2 tbsp sugar
-  - name: vegetable or red palm oil for shallow-frying
+  - name: vegetable
     raw: Vegetable or red palm oil for shallow-frying

@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: self-raising flour
+    name: self raising flour
     raw: 250 g self-raising flour
   - qty: 125
     unit: g
@@ -83,7 +83,7 @@ ingredients:
     name: caster sugar
     raw: 60 g caster sugar
   - qty: 1
-    name: vanilla pod or 1 teaspoon vanilla extract
+    name: vanilla pod
     raw: 1 vanilla pod or 1 teaspoon vanilla extract
   - qty: 1
     unit: tbsp

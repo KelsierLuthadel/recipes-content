@@ -26,10 +26,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: high-quality frankfurters
+    name: high quality frankfurters
     raw: 8 high-quality frankfurters
   - qty: 8
-    name: soft hot-dog buns
+    name: soft hot dog buns
     raw: 8 soft hot-dog buns
   - qty: 1
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     name: ginger
     raw: 1 thumb ginger
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -88,11 +88,11 @@ ingredients:
     raw: 1 tablespoon toasted sesame seeds
   - name: pickled ginger on the side
     raw: Pickled ginger on the side
-  - name: japanese 7-spice
+  - name: japanese 7 spice
     raw: Japanese 7-spice for sprinkling
   - name: edamame on the side
     raw: Edamame on the side
   - name: japanese pickles
     raw: Japanese pickles
-  - name: japanese beer or sake
+  - name: japanese beer
     raw: Cold Japanese beer or sake

@@ -16,7 +16,7 @@ ingredients:
     raw: 1 tablespoon strong Vietnamese ground coffee
   - qty: 80
     unit: ml
-    name: just-off-the-boil water
+    name: just off the boil water
     raw: 80 ml just-off-the-boil water
   - qty: 4
     unit: tbsp
@@ -41,7 +41,7 @@ ingredients:
   - qty: 2
     name: tall glasses
     raw: 2 tall glasses, chilled
-  - name: "optional: 2 tablespoons shaved fresh coconut or a swirl of whipped cream"
+  - name: "optional: 2 tablespoons shaved fresh coconut"
     raw: "Optional: 2 tablespoons shaved fresh coconut OR a swirl of whipped cream"
-  - name: "optional: a small mint sprig per glass"
+  - name: "optional: a small mint"
     raw: "Optional: a small mint sprig per glass"

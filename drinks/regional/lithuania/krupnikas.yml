@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 700
     unit: ml
-    name: vodka or grain spirit
+    name: vodka
     raw: 700 ml vodka or grain spirit
   - qty: 500
     unit: g
@@ -43,9 +43,9 @@ ingredients:
   - qty: 1
     name: vanilla pod
     raw: 1 vanilla pod, split
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 1
     unit: pinch

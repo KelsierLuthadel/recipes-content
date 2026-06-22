@@ -32,13 +32,13 @@ ingredients:
     raw: 500 g pork liver
   - qty: 200
     unit: g
-    name: pork fat or 300 g streaky bacon
+    name: pork fat
     raw: 200 g pork fat OR 300 g streaky bacon
   - qty: 1
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 50
     unit: g
@@ -92,7 +92,7 @@ ingredients:
   - qty: 3.5
     name: bay leaves
     raw: 3-4 bay leaves
-  - name: "equipment: a 1.5-litre loaf tin"
+  - name: "equipment: a 1.5 litre loaf tin"
     raw: "Equipment: a 1.5-litre loaf tin, lined with greaseproof paper"
   - name: danish rugbrød
     raw: Sliced Danish rugbrød
@@ -104,9 +104,9 @@ ingredients:
     raw: Sliced raw cucumber
   - qty: 1
     unit: sprig
-    name: thyme or cress
+    name: thyme
     raw: A sprig of fresh thyme or cress
   - name: dijon mustard
     raw: Dijon mustard
-  - name: cold pilsner or a strong coffee
+  - name: cold pilsner
     raw: A cold pilsner OR a strong coffee

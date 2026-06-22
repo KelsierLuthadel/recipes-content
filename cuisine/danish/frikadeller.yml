@@ -79,7 +79,7 @@ ingredients:
     raw: 4 tablespoons plain flour
   - qty: 600
     unit: ml
-    name: beef or chicken stock
+    name: beef
     raw: 600 ml beef or chicken stock
   - qty: 200
     unit: ml
@@ -103,7 +103,7 @@ ingredients:
     raw: ¼ teaspoon ground white pepper
   - name: kulør for the traditional dark colour
     raw: A few drops of kulør for the traditional dark colour, optional
-  - name: boiled small potatoes or brunede kartofler
+  - name: boiled small potatoes
     raw: Boiled small potatoes OR brunede kartofler
   - name: rødkal
     raw: Rødkål

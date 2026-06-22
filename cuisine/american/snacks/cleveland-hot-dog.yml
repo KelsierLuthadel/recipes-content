@@ -28,16 +28,16 @@ ingredients:
     name: polish kielbasa sausages
     raw: 4 fresh Polish kielbasa sausages
   - qty: 4
-    name: soft hot dog or hoagie buns
+    name: soft hot dog
     raw: 4 large soft hot dog or hoagie buns
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 4
-    name: russet potatoes ; or 600 g frozen french fries
+    name: russet potatoes ;
     raw: 4 large russet potatoes ; or 600 g frozen French fries
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 1
     unit: tsp
@@ -76,7 +76,7 @@ ingredients:
     raw: ½ teaspoon ground black pepper
   - qty: 100
     unit: ml
-    name: bertman stadium mustard or 100 ml spicy brown mustard
+    name: bertman stadium mustard
     raw: 100 ml Bertman Stadium Mustard OR 100 ml spicy brown mustard
   - qty: 2
     unit: tbsp
@@ -100,9 +100,9 @@ ingredients:
     raw: ½ teaspoon ground black pepper
   - qty: 200
     unit: ml
-    name: tangy-sweet bbq sauce
+    name: tangy sweet bbq sauce
     raw: 200 ml tangy-sweet BBQ sauce
-  - name: cold great lakes brewing or any ohio craft beer
+  - name: cold great lakes brewing
     raw: A cold Great Lakes Brewing or any Ohio craft beer
   - name: pickled hot peppers on the side
     raw: Pickled hot peppers on the side

@@ -42,7 +42,7 @@ ingredients:
     raw: 1.5 litres fish stock
   - qty: 100
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 100 g long-grain rice
   - qty: 600
     unit: g
@@ -52,12 +52,12 @@ ingredients:
     name: mint
     raw: 1 small bunch fresh mint
   - qty: 1
-    name: marjoram or 1 teaspoon dried
+    name: marjoram
     raw: 1 small bunch fresh marjoram OR 1 teaspoon dried
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 1
     unit: tsp

@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef shin or chuck
+    name: beef shin
     raw: 600 g beef shin OR chuck, in 5 cm chunks
   - qty: 1
     unit: tbsp
@@ -89,10 +89,10 @@ ingredients:
     raw: 1 teaspoon Worcestershire sauce
   - qty: 1
     unit: tsp
-    name: maggi liquid seasoning or an extra teaspoon soy sauce
+    name: maggi liquid seasoning
     raw: 1 teaspoon Maggi liquid seasoning OR an extra teaspoon soy sauce
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch chopped flat-leaf parsley
   - qty: 1
     unit: generous pinch
@@ -109,15 +109,15 @@ ingredients:
     raw: 4 large eggs, beaten
   - qty: 250
     unit: g
-    name: panko-style breadcrumbs or dutch beschuit crumbs
+    name: panko style breadcrumbs
     raw: 250 g fine panko-style breadcrumbs OR Dutch beschuit crumbs
   - qty: 2
     unit: l
-    name: sunflower or groundnut oil
+    name: sunflower
     raw: 2 litres sunflower or groundnut oil
-  - name: "grainy dutch mustard : a small ramekin per person"
+  - name: "grainy dutch mustard : a small ramekin"
     raw: "Grainy Dutch mustard : a small ramekin per person"
-  - name: glass of cold heineken or amstel pilsner or a small glass of jenever
+  - name: glass of cold heineken
     raw: A glass of cold Heineken or Amstel pilsner OR a small glass of jenever
   - name: wooden serving board
     raw: A small wooden serving board

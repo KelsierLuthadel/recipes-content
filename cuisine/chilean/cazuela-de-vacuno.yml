@@ -33,7 +33,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -59,7 +59,7 @@ ingredients:
     name: pumpkin
     raw: 1 pumpkin
   - qty: 2
-    name: corn-on-the-cob
+    name: corn on the cob
     raw: 2 corn-on-the-cob
   - qty: 4
     name: potatoes
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 carrot
   - qty: 100
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 100 g long-grain rice
   - qty: 3
     unit: tbsp

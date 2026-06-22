@@ -31,11 +31,11 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 400
     unit: g
-    name: chestnut or button mushrooms
+    name: chestnut
     raw: 400 g chestnut or button mushrooms
   - qty: 2
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     raw: 300 ml dry white wine
   - qty: 500
     unit: ml
-    name: chicken or pork stock
+    name: chicken
     raw: 500 ml chicken or pork stock
   - qty: 2
     name: bay leaves

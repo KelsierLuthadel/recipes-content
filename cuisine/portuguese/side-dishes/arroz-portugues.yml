@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: medium-grain rice
+    name: medium grain rice
     raw: 400 g medium-grain rice
   - qty: 4
     unit: tbsp
@@ -32,7 +32,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     name: bay leaves

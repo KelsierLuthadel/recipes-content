@@ -35,13 +35,13 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: celery sticks
+    name: celery
     raw: 4 celery sticks
   - qty: 1
     name: green pepper
     raw: 1 green pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: bay leaves
@@ -72,7 +72,7 @@ ingredients:
     name: kale
     raw: 1 bunch kale
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 bunch flat-leaf parsley
   - qty: 200
     unit: g

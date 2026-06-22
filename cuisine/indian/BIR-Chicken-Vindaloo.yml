@@ -72,7 +72,7 @@ ingredients:
     name: curry base gravy
     raw: 600ml Curry Base Gravy
   - qty: 8
-    name: pre-cooked chicken or pre-cooked lamb
+    name: pre cooked chicken
     raw: 8 pieces of pre-cooked Chicken or pre-cooked Lamb
   - qty: 2
     unit: tbsp
@@ -83,7 +83,7 @@ ingredients:
     name: fenugreek leaves
     raw: 1 tsp Dried Fenugreek leaves
   - qty: 2
-    name: pre-cooked stewed potatoes
+    name: pre cooked stewed potatoes
     raw: 2 pre-cooked stewed potatoes
   - qty: 3
     unit: tbsp

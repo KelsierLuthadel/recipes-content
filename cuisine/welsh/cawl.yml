@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: lamb neck or shoulder
+    name: lamb neck
     raw: 1 kg lamb neck or shoulder, on the bone, cut into large chunks
   - qty: 2
     unit: l
@@ -53,7 +53,7 @@ ingredients:
     name: leeks
     raw: 3 large leeks, white and pale green parts, sliced into 2 cm rings
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: Small bunch flat-leaf parsley, chopped
   - name: "to serve: caerphilly cheese and crusty bread"
     raw: "To serve: Caerphilly cheese and crusty bread"

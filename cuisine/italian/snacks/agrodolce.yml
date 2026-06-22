@@ -31,7 +31,7 @@ ingredients:
     name: red onion
     raw: 1 medium red onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     raw: ½ teaspoon ground black pepper
   - qty: 50
     unit: g
-    name: raisins or sultanas
+    name: raisins
     raw: 50 g raisins or sultanas
   - qty: 50
     unit: g

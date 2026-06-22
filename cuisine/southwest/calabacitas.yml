@@ -34,10 +34,10 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
-    name: "roasted green chillies : or 1 small tin chopped roasted green chillies"
+    name: "roasted green chillies :"
     raw: "4 roasted green chillies : or 1 small tin chopped roasted green chillies"
   - qty: 4
     unit: tbsp

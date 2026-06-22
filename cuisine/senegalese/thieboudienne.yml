@@ -27,10 +27,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch flat-leaf parsley
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: scotch bonnet
@@ -69,7 +69,7 @@ ingredients:
     raw: 400 g tinned chopped tomatoes
   - qty: 2
     unit: tbsp
-    name: netetou or 1 tablespoon dark miso
+    name: netetou
     raw: 2 tablespoons nététou or 1 tablespoon dark miso
   - qty: 1
     name: maggi cube

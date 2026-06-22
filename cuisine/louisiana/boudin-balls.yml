@@ -45,7 +45,7 @@ ingredients:
     name: green bell pepper
     raw: 1 green bell pepper
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: l
@@ -72,7 +72,7 @@ ingredients:
     raw: 1 teaspoon ground black pepper
   - qty: 400
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 400 g cooked long-grain rice
   - qty: 1
     name: spring onions
@@ -95,7 +95,7 @@ ingredients:
     unit: tbsp
     name: cajun seasoning
     raw: 2 tablespoons Cajun seasoning
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: creole mustard
     raw: Creole mustard

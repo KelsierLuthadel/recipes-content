@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: chicken thigh or beef chuck
+    name: chicken thigh
     raw: 500 g chicken thigh or beef chuck, diced small
   - qty: 1
     name: onion
@@ -34,7 +34,7 @@ ingredients:
     raw: 3 spring onions, chopped
   - qty: 2
     unit: tbsp
-    name: aji amarillo or mild chilli paste
+    name: aji amarillo
     raw: 2 tbsp ground aji amarillo or mild chilli paste
   - qty: 1
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     raw: 1 tbsp sugar
   - qty: 500
     unit: ml
-    name: chicken or beef stock
+    name: chicken
     raw: 500 ml chicken or beef stock
   - qty: 200
     unit: g
@@ -65,7 +65,7 @@ ingredients:
     name: powdered gelatine
     raw: 15 g powdered gelatine
   - qty: 3
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 3 hard-boiled eggs, quartered
   - qty: 12
     name: green olives
@@ -78,7 +78,7 @@ ingredients:
     raw: 500 g plain flour
   - qty: 100
     unit: g
-    name: lard or butter
+    name: lard
     raw: 100 g lard or butter, melted
   - qty: 1
     unit: tbsp

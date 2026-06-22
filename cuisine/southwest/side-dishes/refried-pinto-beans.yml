@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: pinto beans ; or 350 g dried pinto beans soaked overnight and cooked
+    name: pinto beans ;
     raw: 800 g cooked pinto beans ; or 350 g dried pinto beans soaked overnight and cooked
   - qty: 4
     unit: tbsp
@@ -31,7 +31,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     raw: 200-300 ml bean cooking liquid
   - qty: 100
     unit: g
-    name: monterey jack or cheddar
+    name: monterey jack
     raw: 100 g grated Monterey Jack or cheddar
   - name: coriander
     raw: Fresh coriander

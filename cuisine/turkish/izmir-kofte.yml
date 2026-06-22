@@ -36,7 +36,7 @@ ingredients:
     raw: 400 g minced beef
   - qty: 100
     unit: g
-    name: day-old white bread
+    name: day old white bread
     raw: 100 g day-old white bread
   - qty: 150
     unit: ml
@@ -46,7 +46,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: egg
@@ -95,7 +95,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     unit: tbsp
@@ -142,5 +142,5 @@ ingredients:
     raw: Rice pilav
   - name: plain yogurt
     raw: Plain yogurt
-  - name: pide bread or turkish flatbread
+  - name: pide bread
     raw: Pide bread or Turkish flatbread

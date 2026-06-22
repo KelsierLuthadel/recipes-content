@@ -33,14 +33,14 @@ ingredients:
     name: carrots
     raw: 3 carrots
   - qty: 3
-    name: celery sticks
+    name: celery
     raw: 3 celery sticks
   - qty: 900
     unit: g
     name: tomatoes
     raw: 900 grams ripe tomatoes
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     name: basil

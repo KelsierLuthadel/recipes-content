@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: stone-ground white grits
+    name: stone ground white grits
     raw: 250 g stone-ground white grits
   - qty: 500
     unit: ml
@@ -65,7 +65,7 @@ ingredients:
     name: shrimp
     raw: 600 g large shrimp
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -83,7 +83,7 @@ ingredients:
     unit: tsp
     name: bay seasoning
     raw: 1 teaspoon Old Bay seasoning
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 1
     unit: tsp

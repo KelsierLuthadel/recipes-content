@@ -20,7 +20,7 @@ ingredients:
     name: plain flour
     raw: 500 g plain flour
   - qty: 1
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 sachet fast-action yeast
   - qty: 1
     unit: tsp
@@ -40,7 +40,7 @@ ingredients:
     raw: 300 ml warm water
   - qty: 500
     unit: g
-    name: spinach or 250 g frozen
+    name: spinach
     raw: 500 g fresh spinach or 250 g frozen, thawed
   - qty: 1
     unit: tsp

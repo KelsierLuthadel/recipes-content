@@ -19,7 +19,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: chicken or 4 chicken legs
+    name: chicken
     raw: 1 whole chicken or 4 chicken legs
   - qty: 2
     name: onions
@@ -28,7 +28,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 2
-    name: celery sticks
+    name: celery
     raw: 2 celery sticks
   - qty: 2
     name: bay leaves
@@ -43,7 +43,7 @@ ingredients:
     raw: 2 litres water
   - qty: 100
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 100 g long-grain rice
   - qty: 3
     name: eggs

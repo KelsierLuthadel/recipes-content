@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     name: spring onions
@@ -47,7 +47,7 @@ ingredients:
     name: thyme
     raw: 4 sprigs fresh thyme
   - qty: 1
-    name: scotch bonnet chilli or sliced for more heat
+    name: scotch bonnet chilli
     raw: 1 scotch bonnet chilli or sliced for more heat
   - qty: 0.5
     unit: tsp

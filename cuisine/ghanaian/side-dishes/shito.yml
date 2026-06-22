@@ -28,7 +28,7 @@ ingredients:
     raw: 100 g dried fish , bones removed
   - qty: 80
     unit: g
-    name: prawns or shrimp
+    name: prawns
     raw: 80 g dried prawns or shrimp
   - qty: 60
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     name: ginger
     raw: 5 cm ginger, peeled
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 350
     unit: ml

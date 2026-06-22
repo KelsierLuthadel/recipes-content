@@ -32,9 +32,9 @@ ingredients:
     name: cognac
     raw: 100 ml Cognac
   - qty: 8
-    name: chocolate-dipped langues de chat
+    name: chocolate dipped langues de chat
     raw: 8 Chocolate-dipped langues de chat
-  - name: half quantity sauce caramel
+  - name: sauce caramel
     raw: half quantity Sauce caramel
   - qty: 125
     unit: ml

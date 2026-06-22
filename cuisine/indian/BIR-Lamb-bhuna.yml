@@ -65,7 +65,7 @@ ingredients:
     raw: 500 ml Curry Base Gravy
   - qty: 750
     unit: g
-    name: pre-cooked lamb
+    name: pre cooked lamb
     raw: 750 g Pre-cooked Lamb
   - qty: 200
     unit: ml
@@ -80,7 +80,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: coriander leaves
+    name: coriander
     raw: Small bunch coriander leaves, finely chopped
   - qty: 1.5
     name: limes

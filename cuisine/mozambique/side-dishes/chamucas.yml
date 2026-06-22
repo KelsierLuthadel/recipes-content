@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     name: ginger
@@ -48,7 +48,7 @@ ingredients:
     name: paprika
     raw: 1 teaspoon paprika
   - qty: 1
-    name: bird's-eye chilli
+    name: bird's eye chilli
     raw: 1 fresh bird's-eye chilli
   - qty: 2
     unit: tbsp
@@ -62,7 +62,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 20
-    name: spring-roll pastry sheets
+    name: spring roll pastry sheets
     raw: 20 spring-roll pastry sheets
   - qty: 2
     unit: tbsp

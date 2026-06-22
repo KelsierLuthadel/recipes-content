@@ -49,7 +49,7 @@ ingredients:
     name: shallots
     raw: 4 shallots
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: ginger
@@ -99,7 +99,7 @@ ingredients:
     name: rice vermicelli
     raw: 500 g dried thin rice vermicelli
   - qty: 6
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 6 hard-boiled eggs
   - qty: 80
     unit: g

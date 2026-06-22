@@ -54,13 +54,13 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: celery sticks
+    name: celery
     raw: 2 celery sticks
   - qty: 1
     name: green chilli
     raw: 1 fresh green chilli
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 75
     unit: g
@@ -75,7 +75,7 @@ ingredients:
     raw: 6 spring onions
   - qty: 275
     unit: g
-    name: white long-grain rice
+    name: white long grain rice
     raw: 275 grams white long-grain rice
   - name: tabasco sauce
     raw: Tabasco sauce

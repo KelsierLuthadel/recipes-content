@@ -73,7 +73,7 @@ ingredients:
     raw: 4 tbsp vegetable oil
   - qty: 1.5
     unit: l
-    name: prawn or chicken stock
+    name: prawn
     raw: 1.5 litres prawn or chicken stock
   - qty: 400
     unit: ml
@@ -96,10 +96,10 @@ ingredients:
     raw: 200 g fish cake
   - qty: 200
     unit: g
-    name: cockles or clams
+    name: cockles
     raw: 200 g cooked cockles or clams
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, halved
   - qty: 300
     unit: g

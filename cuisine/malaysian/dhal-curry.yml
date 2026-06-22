@@ -35,7 +35,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     name: ginger
@@ -85,7 +85,7 @@ ingredients:
     name: curry leaves
     raw: 15 fresh curry leaves
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: shallots

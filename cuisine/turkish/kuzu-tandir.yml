@@ -36,7 +36,7 @@ ingredients:
     name: plain thick yogurt
     raw: 300 ml plain thick yogurt
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 4
     unit: tbsp
@@ -101,7 +101,7 @@ ingredients:
     raw: 6 whole black peppercorns
   - qty: 400
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 400 g long-grain rice
   - qty: 50
     unit: g
@@ -136,7 +136,7 @@ ingredients:
   - qty: 1
     name: red onion
     raw: 1 large red onion
-  - name: flat-leaf parsley
+  - name: flat leaf parsley
     raw: Fresh flat-leaf parsley
   - name: warm turkish flatbread
     raw: Warm Turkish flatbread

@@ -39,7 +39,7 @@ ingredients:
     name: rice
     raw: 800 g cooked rice
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 4
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: Salt and pepper
   - qty: 200
     unit: ml
-    name: "tomato ketchup or if you can find it: bottled filipino banana ketchup"
+    name: tomato ketchup
     raw: "200 ml tomato ketchup OR if you can find it: bottled Filipino banana ketchup"
   - qty: 1
     name: banana
@@ -96,9 +96,9 @@ ingredients:
     unit: drop
     name: red food colouring
     raw: 2 drops red food colouring
-  - name: lemon or calamansi wedge
+  - name: lemon
     raw: Lemon or calamansi wedge
-  - name: cold coke or san miguel beer
+  - name: cold coke
     raw: Cold Coke or San Miguel beer
-  - name: tomato or sliced atchara
+  - name: tomato
     raw: Sliced fresh tomato or sliced atchara

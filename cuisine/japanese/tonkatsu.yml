@@ -39,7 +39,7 @@ ingredients:
     raw: salt
   - name: pepper
     raw: pepper
-  - name: vegetable oil for shallow-frying
+  - name: vegetable oil for shallow frying
     raw: Vegetable oil for shallow-frying
   - qty: 4
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 teaspoon Dijon mustard
   - qty: 300
     unit: g
-    name: japanese short-grain rice
+    name: japanese short grain rice
     raw: 300 g cooked Japanese short-grain rice
   - qty: 0.25
     name: white cabbage

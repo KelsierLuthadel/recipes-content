@@ -25,13 +25,13 @@ ingredients:
     name: russet potatoes
     raw: 1.8 kg russet potatoes
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley
   - qty: 0.5
-    name: coriander leaves
+    name: coriander
     raw: ½ small bunch coriander leaves
   - qty: 240
     unit: ml

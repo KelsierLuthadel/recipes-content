@@ -31,7 +31,7 @@ ingredients:
     name: tomatoes
     raw: 500 g ripe tomatoes
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves, finely chopped
   - qty: 150
     unit: ml
@@ -54,9 +54,9 @@ ingredients:
     name: sweet paprika
     raw: 1 tsp sweet paprika
   - qty: 0.5
-    name: /2 to 1 tsp hot paprika or chilli flakes
+    name: /2 to 1 tsp hot paprika
     raw: 1/2 to 1 tsp hot paprika or chilli flakes
   - qty: 1
     unit: tsp
-    name: savory or oregano
+    name: savory
     raw: 1 tsp dried savory or oregano

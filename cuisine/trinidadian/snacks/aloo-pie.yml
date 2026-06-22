@@ -45,13 +45,13 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 30
     unit: g
-    name: butter or shortening
+    name: butter
     raw: 30 g butter or shortening
   - qty: 280
     unit: ml
     name: water
     raw: 280 ml warm water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 700
     unit: g
@@ -65,7 +65,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: ginger

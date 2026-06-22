@@ -23,11 +23,11 @@ ingredients:
     unit: ml
     name: cachaca
     raw: 60 ml good cachaça
-  - name: ice or ice cubes
+  - name: ice
     raw: Crushed ice OR ice cubes
-  - name: heavy old-fashioned glass
+  - name: heavy old fashioned glass
     raw: A heavy old-fashioned glass
-  - name: wooden muddler or the back of a heavy spoon
+  - name: wooden muddler
     raw: A wooden muddler or the back of a heavy spoon
   - qty: 1
     unit: tsp

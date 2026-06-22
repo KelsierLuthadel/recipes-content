@@ -23,14 +23,14 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: day-old sourdough
+    name: day old sourdough
     raw: 200 g day-old sourdough
   - qty: 4
     unit: tbsp
     name: olive oil
     raw: 4 tablespoons olive oil
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 0.5
     unit: tsp
@@ -40,7 +40,7 @@ ingredients:
     name: egg yolk
     raw: 1 egg yolk
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 6
     name: anchovy fillets in oil

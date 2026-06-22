@@ -33,7 +33,7 @@ ingredients:
     name: caraway seeds
     raw: 1 ½ tablespoons caraway seeds
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     name: carrots
     raw: 2 large carrots
   - qty: 1
-    name: celeriac or 2 stalks celery
+    name: celeriac
     raw: 1 small celeriac or 2 stalks celery
   - qty: 4
     name: bay leaves

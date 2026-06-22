@@ -16,7 +16,7 @@ ingredients:
     raw: 1 litre water
   - qty: 3
     unit: tbsp
-    name: loose-leaf black tea
+    name: loose leaf black tea
     raw: 3 tablespoons loose-leaf black tea
   - qty: 3
     name: cardamom pods
@@ -24,7 +24,7 @@ ingredients:
   - name: "optional: a small piece of orange peel for the brewing pot"
     raw: "Optional: a small piece of orange peel for the brewing pot"
   - qty: 4
-    name: estekan glasses or small clear tea cups
+    name: estekan glasses
     raw: 4 estekan glasses OR small clear tea cups
   - name: saucers
     raw: Saucers
@@ -32,5 +32,5 @@ ingredients:
     raw: A bowl of sugar cubes
   - name: "bowls of fruit preserves : quince"
     raw: "Small bowls of fruit preserves : quince, sour cherry, or rose petal"
-  - name: dates or saffron brittle on a side plate
+  - name: dates
     raw: Dates or saffron brittle on a side plate

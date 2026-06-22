@@ -50,7 +50,7 @@ ingredients:
     unit: tsp
     name: cinnamon
     raw: 1 teaspoon ground cinnamon
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 200
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: 3 tablespoons ground cinnamon
   - qty: 200
     unit: g
-    name: mexican chocolate ; or substitute with dark chocolate + 1 teaspoon ground cinnamon
+    name: mexican chocolate ;
     raw: 200 g Mexican chocolate ; or substitute with dark chocolate + 1 teaspoon ground cinnamon
   - qty: 300
     unit: ml

@@ -38,7 +38,7 @@ ingredients:
     raw: 300 ml warm water
   - qty: 1
     unit: tbsp
-    name: malt syrup or honey
+    name: malt syrup
     raw: 1 tablespoon malt syrup OR honey
   - qty: 1
     unit: l
@@ -46,7 +46,7 @@ ingredients:
     raw: 1 litre water
   - qty: 30
     unit: g
-    name: food-grade sodium hydroxide
+    name: food grade sodium hydroxide
     raw: 30 g food-grade sodium hydroxide
   - qty: 1.5
     unit: l

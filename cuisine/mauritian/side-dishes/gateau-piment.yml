@@ -33,7 +33,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: ginger
@@ -71,7 +71,7 @@ ingredients:
     unit: tsp
     name: baking powder
     raw: 1 teaspoon baking powder
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: mauritian chilli sauce
     raw: Mauritian chilli sauce

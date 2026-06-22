@@ -23,7 +23,7 @@ ingredients:
     name: lemons
     raw: 2 lemons
   - qty: 4
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 4 large bunches flat-leaf parsley
   - qty: 1
     name: mint
@@ -36,7 +36,7 @@ ingredients:
     raw: 4 ripe tomatoes
   - qty: 6
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 6 tablespoons extra-virgin olive oil
   - qty: 1
     unit: tsp

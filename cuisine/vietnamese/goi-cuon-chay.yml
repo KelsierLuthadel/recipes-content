@@ -68,7 +68,7 @@ ingredients:
     raw: A large handful mint leaves
   - qty: 1
     unit: large handful
-    name: coriander leaves
+    name: coriander
     raw: A large handful coriander leaves
   - qty: 1
     unit: large handful
@@ -95,14 +95,14 @@ ingredients:
     name: brown sugar
     raw: 1 tablespoon brown sugar
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 80
     unit: ml
     name: water
     raw: 60-100 ml hot water
   - qty: 1
-    name: bird's-eye chilli
+    name: bird's eye chilli
     raw: 1 bird's-eye chilli
   - qty: 1
     unit: tbsp

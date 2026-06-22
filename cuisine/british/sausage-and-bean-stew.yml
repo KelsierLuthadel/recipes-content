@@ -29,11 +29,11 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tbsp
-    name: rosemary or 1 teaspoon dried
+    name: rosemary
     raw: 1 tablespoon fresh rosemary or 1 teaspoon dried
   - qty: 1
     unit: tsp

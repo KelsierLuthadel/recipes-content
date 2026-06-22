@@ -35,14 +35,14 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
     name: ginger
     raw: 1 tablespoon fresh ginger
   - qty: 1
-    name: jalapeno or green chilli
+    name: jalapeno
     raw: 1 fresh jalapeño or green chilli
   - qty: 0.5
     unit: tsp

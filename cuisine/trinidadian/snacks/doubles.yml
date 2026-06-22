@@ -69,7 +69,7 @@ ingredients:
     raw: Vegetable oil for frying
   - qty: 400
     unit: g
-    name: chickpeas ; or 2 large cans cooked chickpeas
+    name: chickpeas ;
     raw: 400 g dried chickpeas ; or 2 large cans cooked chickpeas
   - qty: 2
     unit: tbsp
@@ -79,7 +79,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -120,10 +120,10 @@ ingredients:
     name: coriander
     raw: 2 tablespoons fresh coriander
   - qty: 1
-    name: shadon beni or coriander
+    name: shadon beni
     raw: 1 large bunch shadon beni or coriander
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: scotch bonnet pepper
@@ -181,7 +181,7 @@ ingredients:
     name: scotch bonnet peppers
     raw: 4 Scotch bonnet peppers
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     unit: tbsp

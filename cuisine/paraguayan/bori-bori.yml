@@ -48,7 +48,7 @@ ingredients:
     raw: 1 bay leaf
   - qty: 1
     unit: tbsp
-    name: lard or oil
+    name: lard
     raw: 1 tbsp lard or oil
   - qty: 2.5
     unit: l
@@ -66,7 +66,7 @@ ingredients:
     raw: 200 g fine yellow cornmeal
   - qty: 100
     unit: g
-    name: queso paraguay or young feta
+    name: queso paraguay
     raw: 100 g queso paraguay or young feta, finely crumbled
   - qty: 1
     name: egg
@@ -80,7 +80,7 @@ ingredients:
     raw: 1/2 tsp salt
   - qty: 1
     unit: large handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large handful flat-leaf parsley, chopped
   - qty: 2
     name: spring onions

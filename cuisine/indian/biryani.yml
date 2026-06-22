@@ -68,7 +68,7 @@ ingredients:
   - name: black pepper
     raw: Freshly ground black pepper to taste
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -80,7 +80,7 @@ ingredients:
     raw: 50 milliliters natural yogurt
   - qty: 6
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 6 tablespoons fresh coriander leaves
   - qty: 4
     unit: tbsp
@@ -123,7 +123,7 @@ ingredients:
     unit: tbsp
     name: oil
     raw: 2 tablespoons oil
-  - name: coriander leaves
+  - name: coriander
     raw: fresh coriander leaves
   - name: fried onions
     raw: Fried onions

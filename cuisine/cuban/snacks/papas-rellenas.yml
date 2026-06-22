@@ -33,7 +33,7 @@ ingredients:
     name: egg yolks
     raw: 2 egg yolks
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1.5
     unit: tsp
@@ -66,11 +66,11 @@ ingredients:
     unit: g
     name: breadcrumbs
     raw: 250 g fine dried breadcrumbs
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: lime wedges
     raw: Lime wedges
-  - name: mayo-ketchup sauce
+  - name: mayo ketchup sauce
     raw: Mayo-ketchup sauce
   - name: pique
     raw: Pique

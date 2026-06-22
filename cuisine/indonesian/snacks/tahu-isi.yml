@@ -34,7 +34,7 @@ ingredients:
     name: shallots
     raw: 2 shallots
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 20
     unit: g
@@ -87,7 +87,7 @@ ingredients:
     name: salt
     raw: ½ teaspoon salt
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     name: spring onion
@@ -101,7 +101,7 @@ ingredients:
     name: neutral oil
     raw: 600 ml neutral oil
   - qty: 12
-    name: bird's-eye chillies
+    name: bird's eye chillies
     raw: 12 fresh bird's-eye chillies
   - name: kecap manis
     raw: Kecap manis

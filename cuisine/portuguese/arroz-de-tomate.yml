@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: medium-grain rice
+    name: medium grain rice
     raw: 400 g medium-grain rice
   - qty: 6
     unit: tbsp
@@ -37,11 +37,11 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: kg
-    name: tomatoes ; or 2 tins chopped tomatoes
+    name: tomatoes ;
     raw: 1 kg ripe tomatoes ; or 2 tins chopped tomatoes
   - qty: 3
     unit: tbsp
@@ -61,7 +61,7 @@ ingredients:
     raw: 1 tablespoon sweet paprika
   - qty: 1
     unit: tsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 1 teaspoon piri-piri sauce
   - qty: 1
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     raw: 4 fried eggs
   - qty: 100
     unit: g
-    name: parmesan or aged cheese
+    name: parmesan
     raw: 100 g grated Parmesan or aged cheese for finishing
   - name: grilled sardines
     raw: Grilled sardines

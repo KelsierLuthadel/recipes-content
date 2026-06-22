@@ -32,10 +32,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
-    name: tomatoes or 400 g tinned chopped tomatoes
+    name: tomatoes
     raw: 4 ripe tomatoes or 400 g tinned chopped tomatoes
   - qty: 1
     unit: tbsp

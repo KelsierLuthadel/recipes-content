@@ -28,7 +28,7 @@ ingredients:
     raw: 200 g cold lard , cubed
   - qty: 100
     unit: g
-    name: semi-hard cheese
+    name: semi hard cheese
     raw: 100 g semi-hard cheese, finely grated
   - qty: 1
     name: egg yolk
@@ -58,7 +58,7 @@ ingredients:
     raw: 1 egg, beaten with 1 teaspoon water
   - qty: 50
     unit: g
-    name: semi-hard cheese
+    name: semi hard cheese
     raw: 50 g semi-hard cheese, grated
   - name: flaky salt
     raw: Flaky salt

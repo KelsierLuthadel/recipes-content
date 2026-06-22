@@ -41,10 +41,10 @@ ingredients:
     name: prawns
     raw: 150 g raw prawns
   - qty: 3
-    name: coriander roots
+    name: coriander
     raw: 3 coriander roots
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -102,8 +102,8 @@ ingredients:
     name: caster sugar
     raw: 1 teaspoon caster sugar
   - qty: 1.5
-    name: red thai bird's-eye chillies
+    name: red thai bird's eye chillies
     raw: 1-2 red Thai bird's-eye chillies
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove

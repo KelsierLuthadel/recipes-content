@@ -29,24 +29,24 @@ ingredients:
     name: king's hawaiian sweet bread rolls
     raw: 4 large King's Hawaiian sweet bread rolls
   - qty: 4
-    name: portuguese-style sweet sausages or 4 all-beef frankfurters
+    name: portuguese style sweet sausages
     raw: 4 Portuguese-style sweet sausages OR 4 all-beef frankfurters
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 1
-    name: mango ; or 200 g frozen mango chunks
+    name: mango ;
     raw: 1 ripe mango ; or 200 g frozen mango chunks
   - qty: 200
     unit: g
-    name: pineapple ; or use canned crushed pineapple
+    name: pineapple ;
     raw: 200 g fresh pineapple ; or use canned crushed pineapple
   - qty: 2
     unit: tbsp
     name: brown sugar
     raw: 2 tablespoons brown sugar
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 1
     unit: tbsp
@@ -63,17 +63,17 @@ ingredients:
     name: sea salt
     raw: ½ teaspoon fine sea salt
   - qty: 1
-    name: maui sweet onion ; or substitute vidalia onion or any sweet onion
+    name: maui sweet onion ;
     raw: 1 Maui sweet onion ; or substitute Vidalia onion or any sweet onion
   - name: yellow mustard
     raw: Yellow mustard
-  - name: coriander or chopped scallion
+  - name: coriander
     raw: Fresh coriander or chopped scallion
-  - name: "optional: sliced fresh jalapeno or pickled jalapeno rings"
+  - name: "optional: sliced fresh jalapeno"
     raw: "Optional: sliced fresh jalapeño or pickled jalapeño rings"
-  - name: cold kona big wave or maui brewing beer
+  - name: cold kona big wave
     raw: A cold Kona Big Wave or Maui Brewing beer
-  - name: hawaiian-style poi or taro chips on the side
+  - name: hawaiian style poi
     raw: Hawaiian-style poi or taro chips on the side
   - name: tropical fruit on the plate
     raw: Tropical fruit on the plate

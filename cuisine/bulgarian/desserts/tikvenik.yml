@@ -19,7 +19,7 @@ ingredients:
     raw: 500 g filo pastry
   - qty: 800
     unit: g
-    name: winter pumpkin or butternut squash
+    name: winter pumpkin
     raw: 800 g winter pumpkin or butternut squash, peeled and coarsely grated
   - qty: 120
     unit: g
@@ -51,5 +51,5 @@ ingredients:
     unit: tbsp
     name: icing sugar
     raw: 2 tbsp icing sugar, for dusting
-  - name: "optional: 50 ml dark rum or brandy"
+  - name: "optional: 50 ml dark rum"
     raw: "Optional: 50 ml dark rum or brandy"

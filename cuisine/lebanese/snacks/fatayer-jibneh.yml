@@ -21,7 +21,7 @@ ingredients:
     name: plain flour
     raw: 400 g plain flour
   - qty: 1
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 sachet fast-action yeast
   - qty: 1
     unit: tsp
@@ -53,11 +53,11 @@ ingredients:
     raw: 80 g feta cheese
   - qty: 3
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 3 tablespoons fresh flat-leaf parsley
   - qty: 2
     unit: tbsp
-    name: mint or 1 teaspoon dried mint
+    name: mint
     raw: 2 tablespoons fresh mint or 1 teaspoon dried mint
   - qty: 1
     name: spring onion

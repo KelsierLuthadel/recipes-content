@@ -43,14 +43,14 @@ ingredients:
   - qty: 4
     name: spring onions
     raw: 4 spring onions
-  - name: juice of 3 limes
+  - name: limes
     raw: Juice of 3 limes
   - qty: 6
     unit: tbsp
     name: olive oil
     raw: 6 tablespoons olive oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp

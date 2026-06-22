@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: corn kernels or 800 g frozen sweet corn
+    name: corn kernels
     raw: 800 g fresh corn kernels or 800 g frozen sweet corn
   - qty: 80
     unit: g
@@ -42,10 +42,10 @@ ingredients:
     name: green bell pepper
     raw: 1 green bell pepper
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
-    name: tomatoes ; or 1 tin chopped
+    name: tomatoes ;
     raw: 4 medium tomatoes ; or 1 tin chopped
   - qty: 1
     unit: tbsp
@@ -89,5 +89,5 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon

@@ -31,7 +31,7 @@ ingredients:
     name: lamb shoulder
     raw: 800 g ground lamb shoulder
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: mint
@@ -52,7 +52,7 @@ ingredients:
     raw: 1 teaspoon paprika
   - qty: 1
     unit: tsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 teaspoon ground coriander seed
   - qty: 1
     unit: tsp
@@ -73,9 +73,9 @@ ingredients:
     name: mint
     raw: 1 small bunch fresh mint
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 small garlic clove
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 1
     unit: tsp
@@ -123,7 +123,7 @@ ingredients:
   - qty: 4
     name: leaves fresh mint
     raw: 4 leaves fresh mint
-  - name: hand-cut chips or shoestring fries
+  - name: hand cut chips
     raw: Hand-cut chips or shoestring fries
-  - name: cold lager or australian shiraz
+  - name: cold lager
     raw: Cold lager or Australian Shiraz

@@ -52,7 +52,7 @@ ingredients:
     raw: 2.5 litres cold water
   - qty: 100
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 100 g long-grain rice
   - qty: 1
     name: carrot
@@ -64,15 +64,15 @@ ingredients:
   - qty: 3
     name: egg yolks
     raw: 3 large egg yolks
-  - name: juice of 2 lemons
+  - name: lemons
     raw: Juice of 2 lemons
   - name: salt and freshly ground white pepper
     raw: Salt and freshly ground white pepper
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of flat-leaf parsley, chopped
   - name: lemon wedges
     raw: Lemon wedges
-  - name: warm cornbread or crusty bread
+  - name: warm cornbread
     raw: Warm cornbread or crusty bread

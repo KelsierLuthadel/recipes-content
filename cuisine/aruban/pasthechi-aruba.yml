@@ -62,7 +62,7 @@ ingredients:
     raw: 250 ml whole milk
   - qty: 300
     unit: g
-    name: gouda or edam
+    name: gouda
     raw: 300 g young Gouda or Edam, grated
   - qty: 1
     unit: tsp
@@ -81,5 +81,5 @@ ingredients:
     raw: 1 egg, beaten
   - qty: 1.5
     unit: l
-    name: sunflower oil for deep-frying
+    name: sunflower oil for deep frying
     raw: 1.5 litres sunflower oil for deep-frying

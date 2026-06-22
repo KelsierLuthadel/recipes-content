@@ -50,7 +50,7 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 2
     name: ginger
@@ -87,7 +87,7 @@ ingredients:
     raw: 1 teaspoon caster sugar
   - qty: 200
     unit: g
-    name: pre-cooked chicken curry
+    name: pre cooked chicken curry
     raw: 200 g pre-cooked chicken curry, including some of its sauce ; OR substitute 200 g cooked diced chicken + 4 tablespoons curry sauce
   - name: lime wedges
     raw: Fresh lime wedges

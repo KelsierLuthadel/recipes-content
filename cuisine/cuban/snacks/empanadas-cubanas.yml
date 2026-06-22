@@ -55,7 +55,7 @@ ingredients:
     name: green pepper
     raw: 1 green pepper
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -78,7 +78,7 @@ ingredients:
     name: tomato puree
     raw: 2 tablespoons tomato purée
   - qty: 1
-    name: tomato or 100 g tinned chopped tomatoes
+    name: tomato
     raw: 1 ripe tomato or 100 g tinned chopped tomatoes
   - qty: 60
     unit: g

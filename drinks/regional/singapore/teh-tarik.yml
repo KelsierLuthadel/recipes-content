@@ -17,7 +17,7 @@ ingredients:
     raw: 2 tbsp loose black tea leaves
   - qty: 400
     unit: ml
-    name: just-off-boiling water
+    name: just off boiling water
     raw: 400 ml just-off-boiling water
   - qty: 3.5
     unit: tbsp
@@ -28,5 +28,5 @@ ingredients:
     name: evaporated milk
     raw: 1 tbsp evaporated milk
   - qty: 2
-    name: heat-resistant pitchers or jugs
+    name: heat resistant pitchers
     raw: 2 small heat-resistant pitchers or jugs

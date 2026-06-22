@@ -26,7 +26,7 @@ ingredients:
     name: greek yogurt
     raw: 400 g full-fat Greek yogurt
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tbsp
@@ -38,7 +38,7 @@ ingredients:
     raw: 1 tablespoon lemon juice
   - qty: 2
     unit: tbsp
-    name: dill or fresh mint
+    name: dill
     raw: 2 tablespoons fresh dill or fresh mint
   - qty: 0.5
     unit: tsp

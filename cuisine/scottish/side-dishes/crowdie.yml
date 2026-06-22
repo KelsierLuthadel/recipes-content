@@ -25,7 +25,7 @@ ingredients:
     raw: 2 litres whole milk
   - qty: 2
     unit: tbsp
-    name: natural yogurt or buttermilk
+    name: natural yogurt
     raw: 2 tablespoons natural yogurt or buttermilk
   - qty: 1
     unit: tsp
@@ -47,5 +47,5 @@ ingredients:
     raw: Sliced fresh radishes
   - name: heather honey
     raw: A small dish of heather honey
-  - name: dram of single-malt scotch alongside
+  - name: dram of single malt scotch alongside
     raw: A small dram of single-malt Scotch alongside

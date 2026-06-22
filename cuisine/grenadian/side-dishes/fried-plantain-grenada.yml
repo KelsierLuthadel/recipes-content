@@ -26,5 +26,5 @@ ingredients:
     unit: tsp
     name: salt
     raw: 0.5 tsp salt
-  - name: "optional: a pinch of fresh-grated nutmeg"
+  - name: "optional: a pinch of fresh grated nutmeg"
     raw: "Optional: a pinch of fresh-grated nutmeg"

@@ -33,7 +33,7 @@ mentions:
 ingredients:
   - qty: 3
     unit: tbsp
-    name: oil or ghee
+    name: oil
     raw: 3 tbsp oil or ghee , vegetable ghee or butter ghee gives the roundest flavour
   - qty: 10
     name: cassia bark
@@ -46,7 +46,7 @@ ingredients:
     raw: seeds from 1 black cardamom pod
   - qty: 1.5
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1.5 tsp ginger-garlic paste
   - qty: 1
     unit: tsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 3 to 4 tbsp tomato paste
   - qty: 200
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, chicken tikka, Pre-Cooked Lamb, prawns, or vegetables
   - qty: 380
     name: ml+ curry base gravy
@@ -83,5 +83,5 @@ ingredients:
     name: coconut milk
     raw: 150 ml coconut milk
   - qty: 1
-    name: to 2 tsp jaggery or brown sugar
+    name: to 2 tsp jaggery
     raw: 1 to 2 tsp jaggery or brown sugar

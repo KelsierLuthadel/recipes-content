@@ -30,7 +30,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: shell-on shrimp
+    name: shell on shrimp
     raw: 300 g shell-on shrimp, tails left on
   - qty: 230
     unit: g
@@ -70,10 +70,10 @@ ingredients:
     raw: 2 tbsp dried wood ear mushrooms
   - qty: 60
     unit: ml
-    name: roasted rapeseed oil or neutral oil
+    name: roasted rapeseed oil
     raw: 60 ml roasted rapeseed oil or neutral oil
   - qty: 4.5
-    name: garlic cloves
+    name: garlic
     raw: 4-5 garlic cloves, thinly sliced
   - qty: 2
     name: ginger
@@ -91,7 +91,7 @@ ingredients:
     raw: ½ tsp cumin seeds
   - qty: 9
     unit: tbsp
-    name: sichuan mala dry-pot sauce
+    name: sichuan mala dry pot sauce
     raw: 9 tbsp Sichuan mala dry-pot sauce
   - qty: 1
     unit: tbsp

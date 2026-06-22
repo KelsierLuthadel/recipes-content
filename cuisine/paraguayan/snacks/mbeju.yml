@@ -19,7 +19,7 @@ ingredients:
     raw: 400 g sweet cassava starch
   - qty: 200
     unit: g
-    name: queso paraguay or young feta
+    name: queso paraguay
     raw: 200 g queso paraguay or young feta, finely crumbled
   - qty: 80
     unit: g
@@ -33,5 +33,5 @@ ingredients:
     unit: ml
     name: milk
     raw: 80-100 ml whole milk, warm
-  - name: lard or butter
+  - name: lard
     raw: Extra lard or butter for the pan

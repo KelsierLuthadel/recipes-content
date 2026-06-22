@@ -38,7 +38,7 @@ ingredients:
     name: water
     raw: 500 ml hot water
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 1
     name: onion
@@ -53,9 +53,9 @@ ingredients:
     raw: 2 tablespoons dried Mexican oregano
   - qty: 1
     unit: tbsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 tablespoon ground coriander seed
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 4
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 1 small bunch fresh coriander
   - name: lime wedges
     raw: Lime wedges
-  - name: warm flour or corn tortillas
+  - name: warm flour
     raw: Warm flour or corn tortillas
   - name: fried eggs
     raw: Fried eggs

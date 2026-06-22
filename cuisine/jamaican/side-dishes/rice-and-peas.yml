@@ -41,7 +41,7 @@ ingredients:
     name: thyme
     raw: 5 sprigs fresh thyme
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 6
     name: allspice berries
@@ -57,5 +57,5 @@ ingredients:
     raw: Black pepper
   - qty: 500
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 500 g long-grain white rice

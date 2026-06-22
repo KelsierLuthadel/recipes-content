@@ -51,7 +51,7 @@ ingredients:
     unit: tsp
     name: cayenne pepper
     raw: 1 teaspoon ground cayenne pepper
-  - name: zest of 2 limes
+  - name: limes
     raw: Zest of 2 limes
   - qty: 1
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     name: lemons
     raw: 2 lemons
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: parsley

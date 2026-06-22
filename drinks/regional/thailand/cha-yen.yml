@@ -12,7 +12,7 @@ mentions:
 ingredients:
   - qty: 4
     unit: tbsp
-    name: thai tea mix or 4 tablespoons strong ceylon black loose-leaf tea + 2 star anise + 4 cardamom pods + 1 clove
+    name: thai tea mix
     raw: 4 tablespoons Thai tea mix OR 4 tablespoons strong Ceylon black loose-leaf tea + 2 star anise + 4 cardamom pods + 1 clove
   - qty: 600
     unit: ml
@@ -35,5 +35,5 @@ ingredients:
   - qty: 2
     name: tall glasses
     raw: 2 tall glasses, chilled
-  - name: long-handled spoons
+  - name: long handled spoons
     raw: Long-handled spoons

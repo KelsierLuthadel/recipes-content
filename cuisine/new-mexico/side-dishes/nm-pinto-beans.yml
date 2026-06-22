@@ -30,14 +30,14 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
     name: nm red chile pods
     raw: 2 dried NM red chile pods
   - qty: 100
     unit: g
-    name: salt pork or bacon
+    name: salt pork
     raw: 100 g salt pork or bacon
   - qty: 2
     name: bay leaves

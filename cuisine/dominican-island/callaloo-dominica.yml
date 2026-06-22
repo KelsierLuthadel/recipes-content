@@ -31,7 +31,7 @@ ingredients:
     name: onion
     raw: 1 large onion, chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 2
     name: spring onions
@@ -50,7 +50,7 @@ ingredients:
     raw: 200 g okra, sliced thinly
   - qty: 1
     unit: l
-    name: water or light chicken stock
+    name: water
     raw: 1 litre water or light chicken stock
   - qty: 1
     name: scotch bonnet

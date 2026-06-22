@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: air-dried beef strips
+    name: air dried beef strips
     raw: 250 g air-dried beef strips
   - qty: 700
     unit: ml
@@ -42,7 +42,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger

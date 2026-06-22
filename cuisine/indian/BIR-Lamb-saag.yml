@@ -42,7 +42,7 @@ ingredients:
     name: green bullet chillies
     raw: 3-6 fresh green bullet chillies, to taste
   - qty: 1
-    name: coriander leaves
+    name: coriander
     raw: Bunch coriander leaves , leaves only
   - qty: 4
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 375 ml Curry Base Gravy
   - qty: 750
     unit: g
-    name: pre-cooked lamb
+    name: pre cooked lamb
     raw: 750 g Pre-cooked Lamb
   - qty: 200
     unit: ml

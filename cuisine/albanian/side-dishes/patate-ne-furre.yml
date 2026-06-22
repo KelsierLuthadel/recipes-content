@@ -24,7 +24,7 @@ ingredients:
     name: olive oil
     raw: 80 ml olive oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, thinly sliced
   - qty: 2
     unit: tsp
@@ -42,9 +42,9 @@ ingredients:
     raw: Freshly ground black pepper
   - qty: 150
     unit: ml
-    name: water or chicken stock
+    name: water
     raw: 150 ml water or chicken stock
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: Small handful flat-leaf parsley, chopped

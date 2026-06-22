@@ -38,7 +38,7 @@ ingredients:
   - qty: 6
     name: eggs
     raw: 6 large eggs
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 2
     unit: tsp

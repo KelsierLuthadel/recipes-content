@@ -29,7 +29,7 @@ ingredients:
     raw: 1 onion
   - qty: 200
     unit: g
-    name: short-grain rice
+    name: short grain rice
     raw: 200 g short-grain rice
   - qty: 30
     unit: g
@@ -49,7 +49,7 @@ ingredients:
     raw: 20 g fresh mint
   - qty: 30
     unit: g
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 30 g fresh flat-leaf parsley
   - qty: 1
     name: lemon

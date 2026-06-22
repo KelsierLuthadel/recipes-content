@@ -28,7 +28,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: aubergines ; or 4 medium aubergines
+    name: aubergines ;
     raw: 8 small baby aubergines ; or 4 medium aubergines
   - qty: 2
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: tomatoes
@@ -97,7 +97,7 @@ ingredients:
     raw: 4 fresh long green chillies
   - qty: 400
     unit: ml
-    name: hot beef or lamb stock
+    name: hot beef
     raw: 400 ml hot beef or lamb stock
   - qty: 2
     unit: tbsp
@@ -127,7 +127,7 @@ ingredients:
     unit: tbsp
     name: dill
     raw: 1 tablespoon fresh dill
-  - name: pilav or bulgur pilav
+  - name: pilav
     raw: Pilav or bulgur pilav
   - name: plain yogurt
     raw: Plain yogurt

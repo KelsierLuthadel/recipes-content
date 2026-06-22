@@ -44,7 +44,7 @@ ingredients:
     name: anchovy fillets
     raw: 4 anchovy fillets
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs
   - qty: 12
     name: french bread
@@ -65,7 +65,7 @@ ingredients:
     name: butter
     raw: 1 tbsp butter
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 8
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 0.5
-    name: garlic clove
+    name: garlic
     raw: ½ garlic clove
   - qty: 0.5
     unit: tsp

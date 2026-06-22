@@ -11,11 +11,11 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 6
-    name: bananas - black-spotted is right
+    name: bananas black spotted is right
     raw: 6 very ripe bananas - black-spotted is right
   - qty: 200
     unit: g
-    name: self-raising flour
+    name: self raising flour
     raw: 200 g self-raising flour
   - qty: 100
     unit: g

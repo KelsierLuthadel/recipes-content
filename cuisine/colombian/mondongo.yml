@@ -29,7 +29,7 @@ ingredients:
     unit: g
     name: honeycomb tripe
     raw: 800 g honeycomb tripe
-  - name: juice of 2 lemons
+  - name: lemons
     raw: Juice of 2 lemons
   - qty: 2
     unit: tbsp
@@ -39,7 +39,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -78,7 +78,7 @@ ingredients:
     name: red bell pepper
     raw: 1 medium red bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 6
     unit: tbsp

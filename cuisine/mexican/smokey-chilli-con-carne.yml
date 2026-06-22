@@ -31,7 +31,7 @@ ingredients:
     name: red and yellow/brown onions
     raw: 3 medium red and yellow/brown onions
   - qty: 3
-    name: celery sticks
+    name: celery
     raw: 3 celery sticks
   - qty: 2
     name: red bell peppers
@@ -52,7 +52,7 @@ ingredients:
     name: pasilla dried chillies
     raw: 4 pasilla dried chillies
   - qty: 5.5
-    name: garlic cloves
+    name: garlic
     raw: 5-6 garlic cloves
   - qty: 2
     unit: tbsp

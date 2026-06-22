@@ -59,7 +59,7 @@ ingredients:
     unit: tsp
     name: cider vinegar
     raw: 1 teaspoon cider vinegar
-  - name: grilled smoked sausage - 1 per portion
+  - name: grilled smoked sausage 1
     raw: A thick grilled smoked sausage - 1 per portion
   - name: or a thick slice of black pudding
     raw: OR a thick slice of black pudding , pan-fried golden
@@ -67,5 +67,5 @@ ingredients:
     raw: OR a grilled pork chop
   - name: dab of strong dutch mustard
     raw: A dab of strong Dutch mustard
-  - name: glass of cold cider or a dutch lager
+  - name: glass of cold cider
     raw: A glass of cold cider OR a Dutch lager

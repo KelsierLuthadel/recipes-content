@@ -24,7 +24,7 @@ ingredients:
     raw: 250 g sweet potato , peeled and chopped
   - qty: 250
     unit: g
-    name: pumpkin or butternut squash
+    name: pumpkin
     raw: 250 g pumpkin OR butternut squash, peeled and chopped
   - qty: 500
     unit: ml
@@ -61,7 +61,7 @@ ingredients:
     raw: 60 ml whole milk, lukewarm
   - qty: 350
     unit: g
-    name: chancaca or piloncillo or jaggery
+    name: chancaca
     raw: 350 g chancaca OR piloncillo OR jaggery
   - qty: 300
     unit: ml
@@ -80,7 +80,7 @@ ingredients:
     name: strip of lemon peel
     raw: 1 strip of lemon peel
   - qty: 1
-    name: or dried fig leaf
+    name: fresh
     raw: 1 fresh or dried fig leaf
   - qty: 1
     unit: tbsp
@@ -88,9 +88,9 @@ ingredients:
     raw: 1 tablespoon dark rum
   - qty: 2
     unit: l
-    name: sunflower or groundnut oil
+    name: sunflower
     raw: 2 litres sunflower or groundnut oil
   - name: hot drizzled with hot chancaca syrup
     raw: Hot, drizzled with hot chancaca syrup
-  - name: glass of hot peruvian coffee or a cold peruvian pilsen lager
+  - name: glass of hot peruvian coffee
     raw: A glass of hot Peruvian coffee or a cold Peruvian Pilsen lager

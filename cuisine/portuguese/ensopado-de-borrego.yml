@@ -47,7 +47,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     name: tomatoes
@@ -62,7 +62,7 @@ ingredients:
     raw: 300 ml dry white wine
   - qty: 800
     unit: ml
-    name: hot lamb or chicken stock
+    name: hot lamb
     raw: 800 ml hot lamb or chicken stock
   - qty: 1
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 1 tablespoon sweet paprika
   - qty: 1
     unit: tbsp
-    name: piri-piri
+    name: piri piri
     raw: 1 tablespoon piri-piri
   - qty: 1
     unit: tbsp
@@ -88,7 +88,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 large bunch fresh coriander
-  - name: stale broa or any sturdy stale white bread
+  - name: stale broa
     raw: Stale broa or any sturdy stale white bread
   - qty: 1
     unit: tbsp

@@ -56,7 +56,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 5
     name: ginger
@@ -113,7 +113,7 @@ ingredients:
     name: coriander
     raw: A small bunch of coriander
   - qty: 1.5
-    name: green chillies or sepen on the side
+    name: green chillies
     raw: 1-2 fresh green chillies or sepen on the side
   - name: lemon wedges
     raw: Lemon wedges

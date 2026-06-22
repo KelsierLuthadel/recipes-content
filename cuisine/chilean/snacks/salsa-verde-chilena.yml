@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
   - qty: 1
     name: coriander
@@ -30,7 +30,7 @@ ingredients:
     name: spring onions
     raw: 6 spring onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: green chilli
@@ -69,5 +69,5 @@ ingredients:
     raw: 2 tablespoons capers
   - qty: 1
     unit: tbsp
-    name: honey or a tiny pinch of sugar
+    name: honey
     raw: 1 tablespoon honey or a tiny pinch of sugar

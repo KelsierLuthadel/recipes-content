@@ -38,7 +38,7 @@ ingredients:
     name: tomatoes
     raw: 800 grams tinned chopped tomatoes
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     name: red chillies
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 teaspoon caster sugar
   - qty: 2
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 2 tablespoons coriander leaves
   - qty: 2
     name: limes
@@ -87,7 +87,7 @@ ingredients:
     raw: ½ avocado
   - qty: 1
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 1 tablespoon coriander leaves
   - name: zest and juice of 1 lime
     raw: grated zest and juice of 1 lime

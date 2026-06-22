@@ -38,7 +38,7 @@ ingredients:
     raw: 1 large egg yolk
   - qty: 100
     unit: ml
-    name: ice-cold water
+    name: ice cold water
     raw: 100 ml ice-cold water
   - qty: 500
     unit: g
@@ -68,9 +68,9 @@ ingredients:
     unit: g
     name: walnuts
     raw: 100 g chopped walnuts
-  - name: zest of 2 oranges
+  - name: oranges
     raw: Zest of 2 oranges
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 200
     unit: ml

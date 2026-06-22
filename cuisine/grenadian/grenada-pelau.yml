@@ -32,7 +32,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 1
     unit: tbsp
@@ -40,7 +40,7 @@ ingredients:
     raw: 1 tbsp fresh thyme leaves
   - qty: 1
     unit: tbsp
-    name: chadon beni or coriander
+    name: chadon beni
     raw: 1 tbsp chadon beni or coriander, chopped
   - qty: 1
     unit: tsp
@@ -71,7 +71,7 @@ ingredients:
     raw: 250 g pigeon peas
   - qty: 400
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 400 g long-grain rice, rinsed
   - qty: 400
     unit: ml
@@ -79,14 +79,14 @@ ingredients:
     raw: 400 ml coconut milk
   - qty: 600
     unit: ml
-    name: water or chicken stock
+    name: water
     raw: 600 ml hot water or chicken stock
   - qty: 1
     name: scotch bonnet pepper
     raw: 1 scotch bonnet pepper, whole
   - qty: 0.5
     unit: tsp
-    name: fresh-grated nutmeg
+    name: fresh grated nutmeg
     raw: 0.5 tsp fresh-grated nutmeg
   - qty: 2
     unit: sprig

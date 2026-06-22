@@ -29,7 +29,7 @@ ingredients:
     name: green chilli
     raw: 1 fresh green chilli, seeded
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley
   - qty: 1
     unit: tsp
@@ -38,7 +38,7 @@ ingredients:
   - qty: 0.5
     name: /2 tsp fine salt
     raw: 1/2 tsp fine salt
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 2
     unit: tbsp

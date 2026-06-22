@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: black-eyed peas
+    name: black eyed peas
     raw: 350 g dried black-eyed peas
   - qty: 1.5
     unit: l
@@ -43,7 +43,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     raw: 1 lime
   - name: baguette
     raw: Fresh baguette
-  - name: or boiled rice or thiere
+  - name: or boiled rice
     raw: Or boiled rice or thiéré
   - name: spoonful of finely chopped raw onion and tomato on the side
     raw: A spoonful of finely chopped raw onion and tomato on the side

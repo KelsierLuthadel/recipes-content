@@ -25,12 +25,12 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: steak or thinly sliced top sirloin
+    name: steak
     raw: 800 g cube steak or thinly sliced top sirloin
-  - name: juice of 3 limes
+  - name: limes
     raw: Juice of 3 limes
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -61,10 +61,10 @@ ingredients:
     name: olive oil
     raw: 4 tablespoons olive oil
   - qty: 5
-    name: yellow or red onions
+    name: yellow
     raw: 5 large yellow or red onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 3
     unit: tbsp
@@ -106,7 +106,7 @@ ingredients:
     raw: Plain white rice
   - name: habichuelas
     raw: Habichuelas
-  - name: tostones or maduros
+  - name: tostones
     raw: Tostones or maduros
   - name: avocado
     raw: Sliced avocado

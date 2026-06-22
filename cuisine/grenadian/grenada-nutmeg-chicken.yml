@@ -33,7 +33,7 @@ ingredients:
     raw: 1 kg bone-in skin-on chicken thighs
   - qty: 2
     unit: tbsp
-    name: fresh-grated nutmeg
+    name: fresh grated nutmeg
     raw: 2 tablespoons fresh-grated nutmeg
   - qty: 6
     unit: clove
@@ -46,7 +46,7 @@ ingredients:
     unit: sprig
     name: thyme + extra
     raw: 2 sprigs fresh thyme + extra for serving
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 2
     unit: tbsp

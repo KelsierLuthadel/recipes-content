@@ -25,7 +25,7 @@ ingredients:
     name: onions
     raw: 2 large onions, chopped
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves, crushed
   - qty: 4
     name: scallions
@@ -61,13 +61,13 @@ ingredients:
     raw: 1 tbsp salt
   - qty: 1.5
     unit: l
-    name: water or beef stock
+    name: water
     raw: 1.5 litres water or beef stock
   - qty: 60
     unit: ml
     name: dark rum
     raw: 60 ml dark rum
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - name: black pepper
     raw: Black pepper

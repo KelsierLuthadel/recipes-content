@@ -25,7 +25,7 @@ ingredients:
     name: chickpeas plus 700 ml of their cooking liquid
     raw: 400 g cooked chickpeas plus 700 ml of their cooking liquid
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tsp
@@ -62,7 +62,7 @@ ingredients:
     raw: 1 teaspoon harissa paste
   - qty: 1
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 1 tablespoon extra-virgin olive oil
   - qty: 0.5
     unit: tbsp
@@ -85,5 +85,5 @@ ingredients:
     raw: A pinch of ground cumin
   - name: lemon
     raw: A small wedge of fresh lemon
-  - name: "optional: 1 teaspoon harissa-and-olive-oil paste; pickled chilli; mint leaves"
+  - name: "optional: 1 teaspoon harissa and olive oil paste; pickled chilli; mint leaves"
     raw: "Optional: 1 teaspoon harissa-and-olive-oil paste; pickled chilli; mint leaves"

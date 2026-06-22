@@ -59,7 +59,7 @@ ingredients:
     raw: 500 g coarsely minced pork
   - qty: 80
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 80 g long-grain rice
   - qty: 1
     name: onion
@@ -81,7 +81,7 @@ ingredients:
     raw: 2 tbsp chopped fresh dill
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tbsp chopped flat-leaf parsley
   - qty: 1
     unit: tsp

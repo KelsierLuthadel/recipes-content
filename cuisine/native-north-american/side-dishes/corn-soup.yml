@@ -35,7 +35,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 2
     unit: tsp

@@ -51,7 +51,7 @@ ingredients:
     raw: 1 large onion, sliced
   - qty: 400
     unit: ml
-    name: beef or chicken stock
+    name: beef
     raw: 400 ml beef or chicken stock
   - qty: 200
     unit: ml
@@ -67,7 +67,7 @@ ingredients:
     raw: A pinch of brown sugar
   - qty: 100
     unit: ml
-    name: stock or water
+    name: stock
     raw: 100 ml stock or water
   - qty: 800
     unit: g
@@ -94,7 +94,7 @@ ingredients:
     raw: 1 tbsp plain flour
   - qty: 200
     unit: ml
-    name: water or stock
+    name: water
     raw: 200 ml water or stock
   - qty: 1
     unit: tsp
@@ -103,5 +103,5 @@ ingredients:
   - name: salt and pepper
     raw: Salt and pepper
   - qty: 12
-    name: houskove knedliky - or use shop-bought
+    name: houskove knedliky
     raw: 12 slices houskové knedlíky - or use shop-bought, available in some delis

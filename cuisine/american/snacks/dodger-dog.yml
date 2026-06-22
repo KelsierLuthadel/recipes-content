@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: footlong all-pork or beef-and-pork frankfurters
+    name: footlong all pork
     raw: 4 footlong all-pork or beef-and-pork frankfurters
   - qty: 4
     name: footlong soft hot dog buns
@@ -43,9 +43,9 @@ ingredients:
     unit: tbsp
     name: sweet pickle relish
     raw: 6 tablespoons sweet pickle relish
-  - name: crinkle-cut fries or peanuts
+  - name: crinkle cut fries
     raw: Crinkle-cut fries or peanuts
-  - name: beer or soda
+  - name: beer
     raw: Cold beer or soda
   - name: baseball game on the television
     raw: A baseball game on the television

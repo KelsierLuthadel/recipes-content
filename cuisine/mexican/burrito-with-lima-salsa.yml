@@ -35,7 +35,7 @@ ingredients:
     raw: 1 tbsp cumin
   - qty: 1
     unit: tbsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 tbsp ground coriander seed
   - qty: 1
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 330 ml light lager
   - qty: 300
     unit: ml
-    name: chicken or vegetable stock
+    name: chicken
     raw: 300 ml chicken or vegetable stock
   - qty: 1
     unit: tbsp
@@ -88,7 +88,7 @@ ingredients:
     raw: 1-2 spring onions
   - qty: 1
     unit: large handful
-    name: plum or cherry tomatoes
+    name: plum
     raw: Large handful of baby plum or cherry tomatoes
   - qty: 1.5
     name: limes

@@ -32,7 +32,7 @@ ingredients:
     name: watercress
     raw: 1 bunch watercress
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley
   - qty: 4
     name: spring onions
@@ -41,7 +41,7 @@ ingredients:
     name: celery sticks with leaves
     raw: 2 celery sticks with leaves
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 2
     unit: tbsp

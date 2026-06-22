@@ -35,13 +35,13 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: jalapenos
     raw: 2 fresh jalapeños
   - qty: 3
-    name: tomatoes ; or 1 tin chopped tomatoes
+    name: tomatoes ;
     raw: 3 medium tomatoes ; or 1 tin chopped tomatoes
   - qty: 1
     name: mexican lager beer

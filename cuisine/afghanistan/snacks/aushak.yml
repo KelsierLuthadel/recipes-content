@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: leeks or 6 large bunches scallions
+    name: leeks
     raw: 400 g leeks OR 6 large bunches scallions
   - qty: 1
     unit: tsp
@@ -59,7 +59,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 300
     unit: g
@@ -98,7 +98,7 @@ ingredients:
     name: greek yogurt
     raw: 500 g full-fat Greek yogurt
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     unit: tbsp

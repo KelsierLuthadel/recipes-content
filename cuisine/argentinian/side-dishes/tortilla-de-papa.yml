@@ -30,7 +30,7 @@ ingredients:
     name: eggs
     raw: 6 large eggs
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 300
     unit: ml
@@ -54,7 +54,7 @@ ingredients:
     raw: A green salad
   - name: lemon
     raw: A wedge of lemon
-  - name: glass of argentine malbec or chilled white
+  - name: glass of argentine malbec
     raw: A glass of Argentine Malbec or chilled white
   - name: "optional: a small dish of chimichurri alongside"
     raw: "Optional: a small dish of chimichurri alongside"

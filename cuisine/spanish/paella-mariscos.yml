@@ -28,7 +28,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: tomatoes
@@ -76,7 +76,7 @@ ingredients:
     raw: Salt
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - name: lemon wedges
     raw: Lemon wedges, to serve

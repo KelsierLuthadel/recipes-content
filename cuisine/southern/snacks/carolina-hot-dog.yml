@@ -31,14 +31,14 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
     name: tomato paste
     raw: 2 tablespoons tomato paste
   - qty: 1
-    name: tomato sauce or passata
+    name: tomato sauce
     raw: 1 tin tomato sauce or passata
   - qty: 400
     unit: ml
@@ -120,7 +120,7 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon ground black pepper
   - qty: 4
-    name: all-beef frankfurters
+    name: all beef frankfurters
     raw: 4 all-beef frankfurters
   - qty: 4
     name: soft white hot dog buns
@@ -132,5 +132,5 @@ ingredients:
     raw: Yellow mustard
   - name: sweet tea
     raw: Sweet tea
-  - name: crinkle-cut fries
+  - name: crinkle cut fries
     raw: Crinkle-cut fries

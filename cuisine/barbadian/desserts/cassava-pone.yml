@@ -35,7 +35,7 @@ ingredients:
     raw: 200 g fresh grated coconut
   - qty: 100
     unit: g
-    name: pumpkin or butternut squash
+    name: pumpkin
     raw: 100 g pumpkin OR butternut squash, peeled and finely grated
   - qty: 300
     unit: g
@@ -72,7 +72,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: zest of 1 lime
+  - name: lime
     raw: Finely grated zest of 1 lime
   - qty: 50
     unit: g

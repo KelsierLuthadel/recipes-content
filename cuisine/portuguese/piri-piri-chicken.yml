@@ -28,10 +28,10 @@ ingredients:
     name: chicken
     raw: 1 ½ kg whole chicken
   - qty: 10
-    name: african bird's-eye chillies
+    name: african bird's eye chillies
     raw: 8-12 African bird's-eye chillies
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp
@@ -76,5 +76,5 @@ ingredients:
     raw: French fries
   - name: tomato and onion salad
     raw: Tomato and onion salad
-  - name: piri-piri sauce on the side
+  - name: piri piri sauce on the side
     raw: Extra piri-piri sauce on the side

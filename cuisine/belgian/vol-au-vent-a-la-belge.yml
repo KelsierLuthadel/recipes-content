@@ -31,7 +31,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: "free-range chicken : poach the whole bird then strip; or 800 g boneless skinless chicken thighs"
+    name: "free range chicken : poach the whole bird then strip;"
     raw: "1 free-range chicken : poach the whole bird then strip; or 800 g boneless skinless chicken thighs"
   - qty: 1.2
     unit: l
@@ -58,7 +58,7 @@ ingredients:
     raw: 6 black peppercorns
   - qty: 250
     unit: g
-    name: veal or minced pork or a mix
+    name: veal
     raw: 250 g minced veal OR minced pork OR a mix
   - qty: 250
     unit: g
@@ -80,7 +80,7 @@ ingredients:
     raw: 60 g fresh white breadcrumbs
   - qty: 1
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 tablespoon chopped flat-leaf parsley
   - qty: 0.25
     name: /4 teaspoon grated nutmeg
@@ -102,7 +102,7 @@ ingredients:
     raw: 2 tablespoons sunflower oil
   - qty: 400
     unit: g
-    name: button or chestnut mushrooms
+    name: button
     raw: 400 g button or chestnut mushrooms, halved or quartered
   - qty: 40
     unit: g
@@ -138,16 +138,16 @@ ingredients:
   - name: salt
     raw: Salt, white pepper, grated nutmeg
   - qty: 6
-    name: bought puff-pastry vol-au-vent shells
+    name: bought puff pastry vol au vent shells
     raw: 6 large bought puff-pastry vol-au-vent shells , warmed
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, chopped
   - qty: 1
-    name: batch belgian frites or 800 g small boiled new potatoes
+    name: batch belgian frites
     raw: 1 batch Belgian frites OR 800 g small boiled new potatoes
   - qty: 6
     name: lemon wedges
     raw: 6 lemon wedges
-  - name: glass of dry white wine or a belgian witbier
+  - name: glass of dry white wine
     raw: A glass of dry white wine OR a Belgian witbier

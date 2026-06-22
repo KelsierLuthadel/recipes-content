@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: coriander
@@ -28,7 +28,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 80
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 80 ml extra-virgin olive oil
   - qty: 1.2
     unit: l

@@ -27,7 +27,7 @@ ingredients:
     raw: 800 g pork shoulder
   - qty: 800
     unit: g
-    name: hominy ; or 400 g dried hominy soaked overnight and pre-cooked
+    name: hominy ;
     raw: 800 g canned hominy ; OR 400 g dried hominy soaked overnight and pre-cooked
   - qty: 6
     name: new mexico red chillies
@@ -44,11 +44,11 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1.5
     unit: l
-    name: hot pork or chicken stock
+    name: hot pork
     raw: 1.5 litres hot pork or chicken stock
   - qty: 2
     name: bay leaves

@@ -29,7 +29,7 @@ ingredients:
     name: onions
     raw: 4 onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -70,5 +70,5 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley

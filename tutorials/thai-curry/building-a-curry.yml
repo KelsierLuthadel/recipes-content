@@ -21,7 +21,7 @@ ingredients:
     name: green curry paste
     raw: 2 tablespoons green curry paste
   - qty: 1
-    name: x 400 ml tin full-fat coconut milk
+    name: x 400 ml tin full fat coconut milk
     raw: 1 x 400 ml tin full-fat coconut milk
   - qty: 300
     unit: g
@@ -29,7 +29,7 @@ ingredients:
     raw: 300 g chicken thigh, cut into 3 cm pieces
   - qty: 100
     unit: g
-    name: thai aubergines or bamboo shoots
+    name: thai aubergines
     raw: 100 g Thai aubergines or bamboo shoots
   - qty: 4
     name: kaffir lime leaves
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 lime
   - name: steamed jasmine rice
     raw: Steamed jasmine rice
-  - name: lime per plate
+  - name: lime
     raw: A wedge of lime per plate
   - name: coriander
     raw: Fresh coriander to garnish

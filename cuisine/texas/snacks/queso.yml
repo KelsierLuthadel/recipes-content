@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: velveeta cheese ; or 400 g mild cheddar + 200 g monterey jack + 150 g cream cheese
+    name: velveeta cheese ;
     raw: 500 g Velveeta cheese ; OR 400 g mild cheddar + 200 g Monterey Jack + 150 g cream cheese
   - qty: 200
     unit: ml
@@ -40,7 +40,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: jalapenos

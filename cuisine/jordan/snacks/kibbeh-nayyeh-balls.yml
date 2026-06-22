@@ -108,11 +108,11 @@ ingredients:
     name: greek yogurt
     raw: 250 g Greek yogurt
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 2
     unit: tbsp
-    name: mint or 1 tablespoon dried mint
+    name: mint
     raw: 2 tablespoons fresh mint or 1 tablespoon dried mint
   - qty: 1
     unit: tbsp

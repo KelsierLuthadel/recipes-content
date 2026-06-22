@@ -64,7 +64,7 @@ ingredients:
     raw: Sea salt and pepper to taste
   - qty: 1.2
     unit: kg
-    name: firm-fleshed potatoes
+    name: firm fleshed potatoes
     raw: 1.2 kilogram small, firm-fleshed potatoes
   - qty: 15
     unit: g
@@ -82,5 +82,5 @@ ingredients:
     raw: Fine salt
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons flat-leaf parsley

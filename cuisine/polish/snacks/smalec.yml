@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: pork back-fat
+    name: pork back fat
     raw: 500 g pork back-fat
   - qty: 200
     unit: g
@@ -32,7 +32,7 @@ ingredients:
     name: tart apple
     raw: 1 tart apple
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     raw: Dark rye bread
   - name: flaky sea salt
     raw: Flaky sea salt
-  - name: polish gherkins or salted dill pickles
+  - name: polish gherkins
     raw: Polish gherkins or salted dill pickles
   - qty: 1
     name: chives

@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef flank or skirt steak
+    name: beef flank
     raw: 1 kg beef flank or skirt steak
   - qty: 2
     unit: l
@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 onion, halved
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves
@@ -53,7 +53,7 @@ ingredients:
     name: white onion
     raw: 1 large white onion, halved
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves, skin on
   - qty: 3
     name: guaque chillies
@@ -84,7 +84,7 @@ ingredients:
     raw: 2 güisquil , peeled and cut into 3 cm chunks
   - qty: 2
     unit: tbsp
-    name: lard or vegetable oil
+    name: lard
     raw: 2 tbsp lard or vegetable oil
   - qty: 1
     unit: tsp

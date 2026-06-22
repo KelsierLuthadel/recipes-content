@@ -45,14 +45,14 @@ ingredients:
     unit: g
     name: galangal
     raw: 20 g fresh galangal
-  - name: zest of 1 kaffir lime
+  - name: kaffir lime
     raw: Zest of 1 kaffir lime
   - qty: 2
     unit: tbsp
-    name: coriander root
+    name: coriander
     raw: 2 tbsp finely chopped coriander root
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 75
     unit: g

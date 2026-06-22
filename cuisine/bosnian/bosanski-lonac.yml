@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef shin or chuck
+    name: beef shin
     raw: 600 g beef shin or chuck, cut into 5 cm chunks
   - qty: 600
     unit: g
@@ -60,7 +60,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, tied with string
   - qty: 1
     unit: tsp
@@ -80,5 +80,5 @@ ingredients:
     raw: 50 ml red wine vinegar
   - qty: 500
     unit: ml
-    name: water or light beef stock
+    name: water
     raw: 500 ml water or light beef stock

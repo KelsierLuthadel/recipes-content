@@ -22,7 +22,7 @@ ingredients:
     raw: 150 g caster sugar
   - qty: 100
     unit: ml
-    name: just-off-the-boil water
+    name: just off the boil water
     raw: 100 ml just-off-the-boil water
   - qty: 400
     unit: ml
@@ -42,5 +42,5 @@ ingredients:
   - qty: 4
     name: straws
     raw: 4 thick straws
-  - name: "optional: a lemon wheel per glass"
+  - name: "optional: a lemon wheel"
     raw: "Optional: a lemon wheel per glass"

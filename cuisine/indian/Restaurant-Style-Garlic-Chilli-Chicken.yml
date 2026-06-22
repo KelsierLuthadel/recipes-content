@@ -31,7 +31,7 @@ mentions:
 ingredients:
   - qty: 3
     unit: tbsp
-    name: oil or ghee
+    name: oil
     raw: 3 tbsp oil or ghee
   - qty: 1
     name: star anise
@@ -41,11 +41,11 @@ ingredients:
     raw: 75 to 100 g onion, finely chopped
   - qty: 20
     unit: g
-    name: garlic cloves
+    name: garlic
     raw: 20 g garlic cloves, thinly sliced
   - qty: 1.5
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1.5 tsp ginger-garlic paste
   - qty: 1
     unit: tsp
@@ -80,14 +80,14 @@ ingredients:
     raw: 1 tsp lemon juice
   - qty: 200
     unit: g
-    name: pre-cooked chicken or chicken tikka
+    name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken or chicken tikka
   - qty: 280
     name: ml+ curry base gravy
     raw: 280 ml+ Curry Base Gravy, heated through
   - qty: 1.5
     unit: tbsp
-    name: coconut powder or flour
+    name: coconut powder
     raw: 1.5 tbsp coconut powder or flour
   - qty: 50
     name: to 75 ml coconut milk
@@ -100,5 +100,5 @@ ingredients:
     raw: 1 to 2 tsp mango chutney
   - qty: 1
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

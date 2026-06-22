@@ -80,7 +80,7 @@ ingredients:
     raw: A squeeze of lemon juice
   - qty: 200
     unit: g
-    name: short-grain pudding rice
+    name: short grain pudding rice
     raw: 200 g short-grain pudding rice
   - qty: 800
     unit: ml
@@ -132,5 +132,5 @@ ingredients:
     raw: Lightly whipped unsweetened double cream
   - name: vanilla ice cream
     raw: A scoop of vanilla ice cream
-  - name: coffee or hot chocolate
+  - name: coffee
     raw: A cup of strong coffee or hot chocolate

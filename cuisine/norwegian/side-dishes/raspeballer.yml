@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: lamb bones or lamb shoulder on the bone
+    name: lamb bones
     raw: 1 kg lamb bones or lamb shoulder on the bone
   - qty: 1
     name: onion
@@ -80,7 +80,7 @@ ingredients:
     raw: 400 g rutabaga , peeled, cubed
   - qty: 1
     unit: tbsp
-    name: golden syrup or honey
+    name: golden syrup
     raw: 1 tbsp golden syrup or honey
   - name: lingonberry preserves on the side
     raw: Lingonberry preserves on the side

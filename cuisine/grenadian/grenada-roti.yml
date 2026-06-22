@@ -49,7 +49,7 @@ ingredients:
     name: yellow split peas
     raw: 200 g yellow split peas, soaked 2 hours then drained
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, crushed
   - qty: 1
     unit: tsp
@@ -71,7 +71,7 @@ ingredients:
     name: onion
     raw: 1 large onion, chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 1
     name: ginger
@@ -104,7 +104,7 @@ ingredients:
     raw: 400 ml water
   - qty: 2
     unit: tbsp
-    name: chadon beni or coriander
+    name: chadon beni
     raw: 2 tbsp chadon beni or coriander, chopped
   - name: salt
     raw: Salt to taste

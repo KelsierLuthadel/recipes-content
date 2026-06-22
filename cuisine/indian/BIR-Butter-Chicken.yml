@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 400 g Pre-Cooked Chicken
   - qty: 2
     unit: tbsp
@@ -33,7 +33,7 @@ ingredients:
     raw: 2 tbsp yogurt
   - qty: 1
     unit: tbsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1 tbsp ginger-garlic paste
   - qty: 1
     unit: tsp
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 onion
   - qty: 1
     unit: tbsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1 tbsp ginger-garlic paste
   - qty: 2
     unit: tbsp

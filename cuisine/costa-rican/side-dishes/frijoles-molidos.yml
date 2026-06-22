@@ -32,7 +32,7 @@ ingredients:
     name: red sweet pepper
     raw: 1 red sweet pepper, halved and seeded
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, smashed
   - qty: 1
     name: coriander stalks
@@ -56,7 +56,7 @@ ingredients:
     name: white onion
     raw: 1 small white onion, finely diced
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, finely chopped
   - qty: 1
     unit: tsp

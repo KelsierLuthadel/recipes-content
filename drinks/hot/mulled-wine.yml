@@ -12,7 +12,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: medium-bodied red wine
+    name: medium bodied red wine
     raw: 1 bottle medium-bodied red wine
   - qty: 1
     name: orange
@@ -45,5 +45,5 @@ ingredients:
     raw: 100 ml brandy, port or dark rum
   - name: orange slices
     raw: Extra orange slices
-  - name: cinnamon stick per glass
+  - name: cinnamon stick
     raw: A cinnamon stick per glass

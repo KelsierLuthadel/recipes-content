@@ -40,7 +40,7 @@ ingredients:
     unit: tsp
     name: baking powder
     raw: 2 teaspoons baking powder
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 120
     unit: ml
@@ -91,7 +91,7 @@ ingredients:
     name: white wine vinegar
     raw: 1 tablespoon white wine vinegar
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: chives

@@ -30,14 +30,14 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: lamb leg or lamb shoulder
+    name: lamb leg
     raw: 800 g boneless lamb leg or lamb shoulder
   - qty: 200
     unit: g
     name: plain yogurt
     raw: 200 g plain yogurt
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
@@ -68,21 +68,21 @@ ingredients:
     name: turkish red pepper paste
     raw: 1 tablespoon Turkish red pepper paste
   - qty: 6
-    name: turkish pita or flatbread
+    name: turkish pita
     raw: 6 large Turkish pita or flatbread
   - qty: 60
     unit: g
     name: butter
     raw: 60 g butter
   - qty: 6
-    name: tomatoes ; or use 600 g of canned chopped tomatoes
+    name: tomatoes ;
     raw: 6 large ripe tomatoes ; or use 600 g of canned chopped tomatoes
   - qty: 50
     unit: g
     name: butter
     raw: 50 g butter
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -126,7 +126,7 @@ ingredients:
   - qty: 4
     name: long green chillies
     raw: 4 long green chillies
-  - name: flat-leaf parsley
+  - name: flat leaf parsley
     raw: Fresh flat-leaf parsley
   - name: bowl of sumac
     raw: A small bowl of sumac

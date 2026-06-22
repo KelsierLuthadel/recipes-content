@@ -13,7 +13,7 @@ mentions:
 ingredients:
   - qty: 30
     unit: g
-    name: roasted barley grains or 4 mugicha tea bags
+    name: roasted barley grains
     raw: 30 g roasted barley grains OR 4 mugicha tea bags
   - qty: 1.5
     unit: l
@@ -21,5 +21,5 @@ ingredients:
     raw: 1.5 litres cold water
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: tall glasses or jug for serving from
+  - name: tall glasses
     raw: Tall glasses or jug for serving from

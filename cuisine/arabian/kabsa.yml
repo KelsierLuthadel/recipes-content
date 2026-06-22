@@ -45,7 +45,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: ginger
@@ -55,7 +55,7 @@ ingredients:
     name: tomato paste
     raw: 2 tablespoons tomato paste
   - qty: 2
-    name: tomatoes or 1 x 400 g tin
+    name: tomatoes
     raw: 2 tomatoes or 1 x 400 g tin
   - qty: 2
     name: limes
@@ -114,7 +114,7 @@ ingredients:
     name: long green chillies
     raw: 2 long green chillies
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: lemon

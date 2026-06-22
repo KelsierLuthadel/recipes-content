@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: tamarind pods or 100 g seedless tamarind pulp block
+    name: tamarind pods
     raw: 200 g whole tamarind pods OR 100 g seedless tamarind pulp block
   - qty: 2
     unit: l
@@ -30,7 +30,7 @@ ingredients:
     unit: pinch
     name: salt
     raw: A pinch of fine salt
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
@@ -39,5 +39,5 @@ ingredients:
   - qty: 6
     name: to 8 tall glasses
     raw: 6 to 8 tall glasses, chilled
-  - name: "optional: chamoy or tajin for the glass rim"
+  - name: "optional: chamoy"
     raw: "Optional: chamoy or Tajín for the glass rim"

@@ -24,14 +24,14 @@ ingredients:
     raw: 30 g flax seeds
   - qty: 4
     unit: tbsp
-    name: "horsetail leaves : sold at health-food shops or latin american shops"
+    name: "horsetail leaves : sold at health food shops"
     raw: "4 tablespoons dried horsetail leaves : sold at health-food shops or Latin American shops"
   - qty: 2
     unit: tbsp
     name: alfalfa leaves
     raw: 2 tablespoons dried alfalfa leaves
   - qty: 4
-    name: boldo leaves or 2 tablespoons dried boldo
+    name: boldo leaves
     raw: 4 dried boldo leaves OR 2 tablespoons dried boldo
   - qty: 1
     name: cinnamon stick
@@ -47,7 +47,7 @@ ingredients:
     name: water
     raw: 2.5 litres cold water
   - qty: 5
-    name: aloe vera or 2 tablespoons jarred food-grade aloe gel
+    name: aloe vera
     raw: 5 cm piece of fresh aloe vera OR 2 tablespoons jarred food-grade aloe gel
   - qty: 5
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     unit: small pinch
     name: camu camu powder
     raw: A small pinch of camu camu powder, the Amazon vitamin-C berry
-  - name: hot in small ceramic mugs or paper cups
+  - name: hot in small ceramic mugs
     raw: Hot, in small ceramic mugs or paper cups
   - name: honey for adjusting sweetness
     raw: A small dish of extra honey for adjusting sweetness

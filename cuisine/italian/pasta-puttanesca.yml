@@ -30,7 +30,7 @@ ingredients:
     name: anchovy fillets in oil
     raw: 6 anchovy fillets in oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 0.5
     unit: tsp
@@ -50,7 +50,7 @@ ingredients:
     raw: 400 g tinned chopped tomatoes
   - qty: 1
     unit: handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A handful of flat-leaf parsley
   - name: salt
     raw: salt

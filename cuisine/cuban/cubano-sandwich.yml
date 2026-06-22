@@ -19,7 +19,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: loaves cuban bread ; or 4 portuguese rolls; or 1 french baguette cut into 4 sections
+    name: loaves cuban bread ;
     raw: 2 loaves Cuban bread ; or 4 Portuguese rolls; or 1 French baguette cut into 4 sections
   - qty: 4
     unit: tbsp
@@ -48,9 +48,9 @@ ingredients:
     unit: tbsp
     name: unsalted butter
     raw: 4 tablespoons unsalted butter
-  - name: mariquitas or papas fritas
+  - name: mariquitas
     raw: Mariquitas or papas fritas
-  - name: salad or coleslaw
+  - name: salad
     raw: Sliced fresh salad or coleslaw
   - name: jalapenos
     raw: Sliced jalapeños

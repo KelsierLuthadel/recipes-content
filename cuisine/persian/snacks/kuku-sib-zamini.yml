@@ -28,7 +28,7 @@ ingredients:
     raw: 1 onion
   - qty: 3
     unit: tbsp
-    name: sunflower oil or ghee
+    name: sunflower oil
     raw: 3 tablespoons sunflower oil OR ghee
   - qty: 1
     unit: tsp
@@ -75,5 +75,5 @@ ingredients:
     raw: 1 tablespoon olive oil
   - name: greek yogurt
     raw: Greek yogurt to serve
-  - name: persian flatbread or pita
+  - name: persian flatbread
     raw: Persian flatbread or pita

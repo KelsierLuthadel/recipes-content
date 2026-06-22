@@ -32,7 +32,7 @@ ingredients:
     name: ghee
     raw: 4 tbsp ghee, rapeseed oil or seasoned oil
   - qty: 2.5
-    name: cinnamon stick or cassia bark
+    name: cinnamon stick
     raw: 2 ½ cm piece cinnamon stick or cassia bark
   - qty: 4
     name: green cardamom pods
@@ -63,7 +63,7 @@ ingredients:
     raw: 100 g block coconut
   - qty: 800
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 800 g Pre-Cooked Chicken
   - qty: 125
     unit: ml

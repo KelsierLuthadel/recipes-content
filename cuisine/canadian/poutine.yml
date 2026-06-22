@@ -31,7 +31,7 @@ ingredients:
     raw: 1.2 kg floury potatoes
   - qty: 2
     unit: l
-    name: refined sunflower or groundnut oil
+    name: refined sunflower
     raw: 2 litres refined sunflower or groundnut oil
   - name: sea salt
     raw: Fine sea salt
@@ -61,7 +61,7 @@ ingredients:
     raw: 1 teaspoon soy sauce
   - qty: 1
     unit: tsp
-    name: apple cider vinegar or white wine vinegar
+    name: apple cider vinegar
     raw: 1 teaspoon apple cider vinegar OR white wine vinegar
   - qty: 0.5
     name: /2 teaspoon black pepper

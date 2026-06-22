@@ -64,10 +64,10 @@ ingredients:
     name: butter
     raw: 2 tablespoons butter
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: hard-boiled egg
+    name: hard boiled egg
     raw: 1 large hard-boiled egg
   - qty: 2
     unit: tbsp

@@ -40,11 +40,11 @@ ingredients:
     raw: 1 tsp baking powder
   - qty: 1
     unit: tbsp
-    name: orange-blossom water
+    name: orange blossom water
     raw: 1 tbsp orange-blossom water
   - qty: 200
     unit: ml
-    name: plain whole-milk yoghurt
+    name: plain whole milk yoghurt
     raw: 200 ml plain whole-milk yoghurt
   - qty: 24
     name: blanched almonds
@@ -63,5 +63,5 @@ ingredients:
     raw: 1 tbsp lemon juice
   - qty: 3
     unit: tbsp
-    name: orange-blossom water
+    name: orange blossom water
     raw: 3 tbsp orange-blossom water

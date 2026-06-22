@@ -27,7 +27,7 @@ ingredients:
     raw: 100 g plain flour
   - qty: 1
     unit: tsp
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 teaspoon fast-action yeast
   - qty: 1
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 tablespoon rosewater
   - qty: 250
     unit: g
-    name: low-salt halloumi
+    name: low salt halloumi
     raw: 250 g low-salt halloumi
   - qty: 2
     unit: tbsp
@@ -89,7 +89,7 @@ ingredients:
     unit: tsp
     name: orange blossom water
     raw: 1 teaspoon orange blossom water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: pistachios
     raw: Crushed pistachios

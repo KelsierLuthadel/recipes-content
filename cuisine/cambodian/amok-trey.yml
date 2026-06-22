@@ -39,7 +39,7 @@ ingredients:
     name: turmeric
     raw: 3 cm fresh turmeric
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: shallots
@@ -48,7 +48,7 @@ ingredients:
     name: kaffir limes
     raw: 2 kaffir limes
   - qty: 1
-    name: coriander roots
+    name: coriander
     raw: 1 small bunch coriander roots
   - qty: 1
     name: long red chilli

@@ -35,7 +35,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: pork belly or pork shoulder
+    name: pork belly
     raw: 200 g pork belly OR pork shoulder, cooked
   - name: or 16 large cooked prawns
     raw: OR 16 large cooked prawns, peeled, halved lengthways
@@ -76,7 +76,7 @@ ingredients:
     name: red chillies
     raw: 2 fresh red chillies, julienned
   - qty: 9
-    name: round rice-paper wrappers
+    name: round rice paper wrappers
     raw: 8-10 round rice-paper wrappers
   - name: wide shallow dish of warm water
     raw: A wide shallow dish of warm water

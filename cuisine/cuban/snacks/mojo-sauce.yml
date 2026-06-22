@@ -24,7 +24,7 @@ mentions:
   - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 150
     unit: ml
@@ -32,7 +32,7 @@ ingredients:
     raw: 150 ml extra virgin olive oil
   - qty: 150
     unit: ml
-    name: sour orange juice ; or 75 ml fresh orange juice + 75 ml fresh lime juice as substitute
+    name: sour orange juice ;
     raw: 150 ml fresh sour orange juice ; OR 75 ml fresh orange juice + 75 ml fresh lime juice as substitute
   - qty: 2
     unit: tsp

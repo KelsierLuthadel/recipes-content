@@ -30,7 +30,7 @@ ingredients:
     name: red sweet pepper
     raw: 1 red sweet pepper, finely diced
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, finely chopped
   - qty: 400
     unit: g
@@ -38,7 +38,7 @@ ingredients:
     raw: 400 g cooked black beans, drained
   - qty: 500
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 500 g cooked long-grain white rice
   - qty: 4
     unit: tbsp

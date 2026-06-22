@@ -43,7 +43,7 @@ ingredients:
     name: shallot
     raw: 1 shallot , finely chopped
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves, minced
   - qty: 1
     unit: g
@@ -67,7 +67,7 @@ ingredients:
     raw: 30 g white miso paste
   - qty: 8
     unit: g
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 8 g chopped flat-leaf parsley
   - name: crusty bread
     raw: Crusty bread, hot rice, or 225 g cooked pasta

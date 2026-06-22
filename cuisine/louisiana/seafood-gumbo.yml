@@ -45,7 +45,7 @@ ingredients:
     name: green bell peppers
     raw: 2 large green bell peppers
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 800
     unit: g
@@ -76,7 +76,7 @@ ingredients:
     raw: 1 tablespoon tomato paste
   - qty: 2
     unit: l
-    name: hot seafood or chicken stock
+    name: hot seafood
     raw: 2 litres hot seafood or chicken stock
   - qty: 2
     name: bay leaves
@@ -113,7 +113,7 @@ ingredients:
     unit: tsp
     name: file powder
     raw: 2 teaspoons filé powder
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 1
     name: spring onions
@@ -123,7 +123,7 @@ ingredients:
     raw: 1 small bunch fresh parsley, chopped
   - name: tabasco
     raw: Tabasco
-  - name: steamed long-grain rice
+  - name: steamed long grain rice
     raw: Steamed long-grain rice
   - name: french bread
     raw: French bread

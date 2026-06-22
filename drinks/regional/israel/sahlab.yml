@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 2
     unit: tbsp
-    name: sahlab powder or 2 tablespoons cornflour + 1 tablespoon milk powder
+    name: sahlab powder
     raw: 2 tablespoons sahlab powder OR 2 tablespoons cornflour + 1 tablespoon milk powder
   - qty: 1
     unit: l
@@ -50,7 +50,7 @@ ingredients:
     raw: 2 teaspoons ground cinnamon
   - qty: 2
     unit: tbsp
-    name: sultanas or raisins
+    name: sultanas
     raw: 2 tablespoons sultanas or raisins
   - qty: 1
     unit: small pinch

@@ -67,7 +67,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 400
     unit: g
@@ -94,7 +94,7 @@ ingredients:
     name: thyme leaves
     raw: 1 teaspoon fresh thyme leaves
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley
   - name: salt
     raw: salt

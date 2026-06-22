@@ -41,7 +41,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -80,5 +80,5 @@ ingredients:
     raw: 250 g chestnut mushrooms
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley

@@ -94,7 +94,7 @@ ingredients:
     raw: 4 medium ripe tomatoes, finely chopped
   - qty: 3
     unit: tbsp
-    name: tao jeo or korean doenjang
+    name: tao jeo
     raw: 3 tablespoons tao jeo OR Korean doenjang
   - qty: 2
     unit: tbsp
@@ -114,7 +114,7 @@ ingredients:
     raw: 200 ml of the broth
   - qty: 500
     unit: g
-    name: rice noodles or 300 g dried rice vermicelli
+    name: rice noodles
     raw: 500 g fresh thick rice noodles OR 300 g dried rice vermicelli
   - qty: 200
     unit: g
@@ -127,7 +127,7 @@ ingredients:
     name: cilantro
     raw: A large bunch fresh cilantro
   - qty: 1
-    name: holy basil or thai basil
+    name: holy basil
     raw: A small bunch holy basil OR Thai basil
   - qty: 4
     name: red chillies

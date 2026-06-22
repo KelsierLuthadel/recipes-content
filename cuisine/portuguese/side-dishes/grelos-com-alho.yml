@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: grelos ; or broccoli rabe ; or cavolo nero ; or curly kale
+    name: grelos ;
     raw: 600 g grelos ; or broccoli rabe ; or cavolo nero ; or curly kale
   - qty: 2
     unit: tbsp
@@ -31,7 +31,7 @@ ingredients:
     name: virgin olive oil
     raw: 6 tablespoons extra virgin olive oil
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 1
     unit: tsp
@@ -45,7 +45,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: 1 teaspoon ground black pepper
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - name: olive oil
     raw: Extra olive oil for finishing

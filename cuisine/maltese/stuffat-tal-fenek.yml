@@ -34,7 +34,7 @@ ingredients:
     name: black peppercorns
     raw: 1 tablespoon black peppercorns
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: thyme
@@ -47,7 +47,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: carrot
@@ -65,7 +65,7 @@ ingredients:
     name: beef stock
     raw: 500 ml beef stock
   - qty: 1
-    name: dark chocolate or 1 tablespoon cocoa powder
+    name: dark chocolate
     raw: 1 small piece dark chocolate OR 1 tablespoon cocoa powder
   - qty: 1
     unit: tsp
@@ -89,5 +89,5 @@ ingredients:
     raw: 800 g roasted potatoes
   - name: green salad
     raw: A green salad
-  - name: maltese or sicilian red wine
+  - name: maltese
     raw: A bottle of Maltese or Sicilian red wine

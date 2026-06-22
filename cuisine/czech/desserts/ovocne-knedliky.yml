@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 12
-    name: dark plums - traditional
+    name: dark plums traditional
     raw: 12 small dark plums - traditional
   - name: or 12 large strawberries
     raw: OR 12 large strawberries
@@ -35,7 +35,7 @@ ingredients:
     raw: 12 sugar cubes
   - qty: 250
     unit: g
-    name: curd cheese - or substitute drained ricotta
+    name: curd cheese
     raw: 250 g curd cheese - or substitute drained ricotta, or quark
   - qty: 200
     unit: g

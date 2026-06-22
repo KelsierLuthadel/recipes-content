@@ -27,7 +27,7 @@ ingredients:
     name: sea salt
     raw: 2 tablespoons fine sea salt
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 100
     unit: ml
@@ -46,7 +46,7 @@ ingredients:
     name: sweet paprika
     raw: 1 tablespoon sweet paprika
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
   - qty: 2
     unit: tbsp

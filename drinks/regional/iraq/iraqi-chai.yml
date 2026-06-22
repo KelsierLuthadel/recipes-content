@@ -13,7 +13,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: heaped teaspoons strong black loose-leaf tea
+    name: heaped teaspoons strong black loose leaf tea
     raw: 4 heaped teaspoons strong black loose-leaf tea
   - qty: 4
     name: green cardamom pods
@@ -27,5 +27,5 @@ ingredients:
     unit: l
     name: water
     raw: 1.2 litres water
-  - name: sugar cubes or granulated sugar
+  - name: sugar cubes
     raw: Sugar cubes or granulated sugar, to serve

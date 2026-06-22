@@ -35,13 +35,13 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: celery sticks
+    name: celery
     raw: 4 celery sticks
   - qty: 1
     name: green pepper
     raw: 1 green pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     raw: 1 tablespoon cider vinegar
   - name: hot sauce
     raw: Hot sauce
-  - name: long-grain white rice
+  - name: long grain white rice
     raw: Cooked long-grain white rice
   - qty: 4
     name: spring onions

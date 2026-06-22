@@ -39,7 +39,7 @@ ingredients:
     raw: 1.2 kg floury potatoes , cut to 1.2 cm × 1.2 cm × 7-9 cm batons
   - qty: 2
     unit: l
-    name: sunflower or groundnut oil
+    name: sunflower
     raw: 2 litres sunflower or groundnut oil for frying
   - name: sea salt
     raw: Fine sea salt
@@ -48,7 +48,7 @@ ingredients:
     raw: 1 large egg yolk
   - qty: 1
     unit: tbsp
-    name: white wine vinegar or cider vinegar
+    name: white wine vinegar
     raw: 1 tablespoon white wine vinegar OR cider vinegar
   - qty: 1
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     name: garlic
     raw: 1 clove garlic, finely grated
   - qty: 0.5
-    name: /2 teaspoon sambal oelek or sriracha
+    name: /2 teaspoon sambal oelek
     raw: 1/2 teaspoon sambal oelek OR sriracha
   - qty: 0.25
     name: /4 teaspoon ground coriander

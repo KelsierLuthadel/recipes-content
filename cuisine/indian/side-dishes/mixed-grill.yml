@@ -26,19 +26,19 @@ mentions:
   - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 3.5
-    name: tandoori chicken tikka per person
+    name: tandoori chicken tikka
     raw: 3-4 pieces Tandoori Chicken Tikka per person
   - qty: 1
-    name: lamb seekh kebab per person
+    name: lamb seekh kebab
     raw: 1 Lamb Seekh Kebab per person
   - qty: 1
-    name: lamb chop per person
+    name: lamb chop
     raw: 1 lamb chop per person
   - qty: 4
-    name: paneer tikka per person
+    name: paneer tikka
     raw: 4 cubes paneer tikka per person
   - qty: 2
-    name: tandoori king prawns per person
+    name: tandoori king prawns
     raw: 2 tandoori king prawns per person
   - qty: 1
     name: red onion

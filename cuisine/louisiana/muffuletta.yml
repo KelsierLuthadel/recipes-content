@@ -27,7 +27,7 @@ ingredients:
     raw: 150 g pitted green olives
   - qty: 100
     unit: g
-    name: pitted kalamata or other black olives
+    name: pitted kalamata
     raw: 100 g pitted Kalamata or other black olives
   - qty: 100
     unit: g
@@ -35,7 +35,7 @@ ingredients:
     raw: 100 g giardiniera
   - qty: 50
     unit: g
-    name: sun-dried tomatoes
+    name: sun dried tomatoes
     raw: 50 g sun-dried tomatoes
   - qty: 50
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     name: capers
     raw: 30 g capers
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 2 tbsp red wine vinegar
   - qty: 120
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 120 ml extra-virgin olive oil
   - qty: 1
     name: round seeded muffuletta loaf

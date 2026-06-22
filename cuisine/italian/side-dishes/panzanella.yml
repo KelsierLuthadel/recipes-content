@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: day-old crusty country bread
+    name: day old crusty country bread
     raw: 400 g day-old crusty country bread
   - qty: 4
     unit: tbsp
@@ -44,14 +44,14 @@ ingredients:
     raw: 1 tablespoon vinegar
   - qty: 5
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 5 tablespoons good extra-virgin olive oil
   - qty: 3
     unit: tbsp
     name: red wine vinegar
     raw: 3 tablespoons red wine vinegar
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - name: the juice the tomatoes released when chopped
     raw: The juice the tomatoes released when chopped
@@ -78,7 +78,7 @@ ingredients:
     unit: handful
     name: black olives
     raw: A handful of black olives
-  - name: extra-virgin olive oil
+  - name: extra virgin olive oil
     raw: Extra-virgin olive oil to drizzle
   - name: flaky sea salt
     raw: Flaky sea salt

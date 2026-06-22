@@ -26,7 +26,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: bird's-eye chillies
+    name: bird's eye chillies
     raw: 6-10 fresh bird's-eye chillies
   - qty: 8
     unit: clove
@@ -55,7 +55,7 @@ ingredients:
     unit: tbsp
     name: red wine vinegar
     raw: 2 tablespoons red wine vinegar
-  - name: juice of 2 lemons
+  - name: lemons
     raw: Juice of 2 lemons
   - qty: 120
     unit: ml
@@ -67,11 +67,11 @@ ingredients:
   - qty: 1
     name: chicken
     raw: 1 whole chicken
-  - name: piri-piri sauce dish
+  - name: piri piri sauce dish
     raw: A piri-piri sauce dish for the table
-  - name: chips or rice
+  - name: chips
     raw: Chips or rice
   - name: salad of tomato
     raw: A salad of tomato, onion, parsley, lime
-  - name: glass of chilled vinho verde or cuca beer
+  - name: glass of chilled vinho verde
     raw: A glass of chilled vinho verde or Cuca beer

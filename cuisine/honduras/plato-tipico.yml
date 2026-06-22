@@ -31,7 +31,7 @@ ingredients:
     name: lime
     raw: 1 lime
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -76,5 +76,5 @@ ingredients:
     raw: 8 flour
   - name: salt
     raw: Salt for finishing
-  - name: pickled cabbage or a small chimol salsa
+  - name: pickled cabbage
     raw: Pickled cabbage or a small chimol salsa, on the side

@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: charqui ; or 400 g minced beef
+    name: charqui ;
     raw: 200 g charqui ; OR 400 g minced beef
   - qty: 500
     unit: ml
@@ -58,7 +58,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp

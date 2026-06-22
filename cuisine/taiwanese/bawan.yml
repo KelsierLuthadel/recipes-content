@@ -29,11 +29,11 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: pork shoulder or pork belly
+    name: pork shoulder
     raw: 400 g pork shoulder or pork belly
   - qty: 100
     unit: g
-    name: or canned bamboo shoots
+    name: fresh
     raw: 100 g fresh or canned bamboo shoots
   - qty: 30
     unit: g
@@ -43,7 +43,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     name: ginger
@@ -66,7 +66,7 @@ ingredients:
     raw: 1 tablespoon caster sugar
   - qty: 1
     unit: tsp
-    name: five-spice powder
+    name: five spice powder
     raw: 1 teaspoon five-spice powder
   - qty: 1
     unit: tsp
@@ -125,7 +125,7 @@ ingredients:
     name: rice vinegar
     raw: 3 tablespoons rice vinegar
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -145,7 +145,7 @@ ingredients:
     raw: 2 tablespoons water
   - name: vegetable oil for shallow frying
     raw: Vegetable oil for shallow frying
-  - name: coriander leaves
+  - name: coriander
     raw: Fresh coriander leaves
   - name: red chilli
     raw: Sliced fresh red chilli

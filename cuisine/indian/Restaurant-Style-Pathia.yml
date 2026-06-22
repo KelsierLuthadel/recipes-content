@@ -48,7 +48,7 @@ ingredients:
     raw: 60 to 80 g onion, very finely chopped
   - qty: 2
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 2 tsp ginger-garlic paste
   - qty: 1
     unit: tsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 330 ml+ Curry Base Gravy, heated through
   - qty: 200
     unit: g
-    name: prawns or pre-cooked chicken
+    name: prawns
     raw: 200 g prawns or Pre-Cooked Chicken, Pre-Cooked Lamb, or beef
   - qty: 1.5
     unit: tsp
@@ -93,7 +93,7 @@ ingredients:
     raw: 1.5 tsp mango chutney
   - qty: 1.5
     unit: tsp
-    name: jaggery or brown sugar
+    name: jaggery
     raw: 1.5 tsp jaggery or brown sugar
   - qty: 1.5
     unit: tsp
@@ -107,5 +107,5 @@ ingredients:
     raw: a few splashes Worcestershire sauce
   - qty: 1
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

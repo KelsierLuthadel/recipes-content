@@ -41,7 +41,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: kg
@@ -70,7 +70,7 @@ ingredients:
     raw: 1 small bunch fresh coriander
   - name: warm flour tortillas
     raw: Warm flour tortillas
-  - name: monterey jack or pepper jack
+  - name: monterey jack
     raw: Grated Monterey Jack or pepper jack
   - name: sour cream
     raw: Sour cream

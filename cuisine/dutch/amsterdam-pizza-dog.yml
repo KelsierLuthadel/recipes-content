@@ -26,14 +26,14 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long bratwurst or frankfurter-style sausages
+    name: long bratwurst
     raw: 4 long bratwurst or frankfurter-style sausages
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 4
-    name: long soft white sub rolls or hoagie rolls
+    name: long soft white sub rolls
     raw: 4 long soft white sub rolls or hoagie rolls
   - qty: 2
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     name: tomato paste
     raw: 2 tablespoons tomato paste
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -75,7 +75,7 @@ ingredients:
     raw: ½ teaspoon dried basil
   - qty: 300
     unit: g
-    name: shredded low-moisture mozzarella
+    name: shredded low moisture mozzarella
     raw: 300 g shredded low-moisture mozzarella
   - qty: 50
     unit: g
@@ -95,7 +95,7 @@ ingredients:
     raw: 2 tablespoons fresh basil
   - name: chilli flakes
     raw: A sprinkle of dried chilli flakes
-  - name: cold heineken or amstel
+  - name: cold heineken
     raw: A cold Heineken or Amstel
   - name: frites on the side with mayonnaise
     raw: Frites on the side with mayonnaise

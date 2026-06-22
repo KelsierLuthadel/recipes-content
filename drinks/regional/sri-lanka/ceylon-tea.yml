@@ -11,11 +11,11 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: heaped teaspoons loose-leaf ceylon black tea or 4 ceylon tea bags
+    name: heaped teaspoons loose leaf ceylon black tea
     raw: 4 heaped teaspoons loose-leaf Ceylon black tea OR 4 Ceylon tea bags
   - qty: 600
     unit: ml
-    name: just-boiled water
+    name: just boiled water
     raw: 600 ml just-boiled water
   - qty: 4
     name: to 6 teaspoons white sugar
@@ -23,7 +23,7 @@ ingredients:
   - name: jug of fresh milk
     raw: A small jug of fresh milk
   - qty: 4
-    name: porcelain cups or teacups with saucers
+    name: porcelain cups
     raw: 4 small porcelain cups or teacups with saucers
-  - name: "optional: a small biscuit per cup"
+  - name: "optional: a small biscuit"
     raw: "Optional: a small biscuit per cup"

@@ -38,7 +38,7 @@ ingredients:
     raw: 200 g cooked basmati rice
   - qty: 2
     unit: tbsp
-    name: oil or ghee
+    name: oil
     raw: 2 tbsp oil or ghee
   - qty: 0.5
     unit: tsp
@@ -53,7 +53,7 @@ ingredients:
     name: red pepper
     raw: 15 g red pepper, finely chopped
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, finely sliced
   - qty: 30
     unit: g
@@ -90,7 +90,7 @@ ingredients:
     raw: 25 g peas
   - qty: 1
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 1 tbsp fresh coriander leaves, finely chopped
   - qty: 1
     unit: tsp

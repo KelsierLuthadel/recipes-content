@@ -106,7 +106,7 @@ ingredients:
     name: cornflour
     raw: 1 tablespoon cornflour
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tsp
@@ -121,7 +121,7 @@ ingredients:
     name: unsalted butter
     raw: 3 tablespoons unsalted butter
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tbsp

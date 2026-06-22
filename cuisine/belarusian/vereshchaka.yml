@@ -30,7 +30,7 @@ ingredients:
     raw: 3 large onions, sliced
   - qty: 3
     unit: tbsp
-    name: pork lard or sunflower oil
+    name: pork lard
     raw: 3 tbsp pork lard or sunflower oil
   - qty: 150
     unit: g
@@ -42,7 +42,7 @@ ingredients:
     raw: 300 ml dark beer
   - qty: 500
     unit: ml
-    name: beef or pork stock
+    name: beef
     raw: 500 ml beef or pork stock
   - qty: 2
     name: bay leaves
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 tbsp honey
   - qty: 2
     unit: tbsp
-    name: dark vinegar or kvass
+    name: dark vinegar
     raw: 2 tbsp dark vinegar or kvass
   - qty: 100
     unit: g

@@ -33,7 +33,7 @@ ingredients:
     name: onion
     raw: 1 onion, chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 1
     unit: tbsp
@@ -41,11 +41,11 @@ ingredients:
     raw: 1 tbsp fresh thyme leaves
   - qty: 400
     unit: g
-    name: callaloo or spinach
+    name: callaloo
     raw: 400 g callaloo or spinach, chopped
   - qty: 200
     unit: g
-    name: kale or pak choi
+    name: kale
     raw: 200 g kale or pak choi, chopped
   - qty: 300
     unit: g

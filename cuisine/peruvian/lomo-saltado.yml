@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef sirloin or rib-eye
+    name: beef sirloin
     raw: 600 g beef sirloin OR rib-eye, sliced thin across the grain
   - qty: 2
     unit: tbsp
@@ -53,7 +53,7 @@ ingredients:
     raw: 1/2 teaspoon black pepper
   - qty: 3
     unit: tbsp
-    name: sunflower oil or rapeseed oil
+    name: sunflower oil
     raw: 3 tablespoons sunflower oil OR rapeseed oil
   - qty: 1
     name: red onion
@@ -95,11 +95,11 @@ ingredients:
     raw: 1 large bunch fresh cilantro, leaves picked
   - qty: 600
     unit: g
-    name: plain white long-grain rice
+    name: plain white long grain rice
     raw: 600 g cooked plain white long-grain rice
   - qty: 600
     unit: g
-    name: peruvian-style frites or good thick-cut crisps
+    name: peruvian style frites
     raw: 600 g Peruvian-style frites OR good thick-cut crisps
-  - name: lime per plate
+  - name: lime
     raw: A wedge of lime per plate

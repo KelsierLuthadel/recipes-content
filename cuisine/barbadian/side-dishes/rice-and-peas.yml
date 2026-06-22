@@ -49,11 +49,11 @@ ingredients:
     raw: 2 stalks scallion , white parts chopped, green parts reserved
   - qty: 2
     unit: tbsp
-    name: sunflower oil or coconut oil
+    name: sunflower oil
     raw: 2 tablespoons sunflower oil OR coconut oil
   - qty: 400
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 400 g long-grain white rice
   - qty: 400
     unit: ml
@@ -61,10 +61,10 @@ ingredients:
     raw: 400 ml full-fat coconut milk
   - qty: 400
     unit: ml
-    name: pigeon-pea cooking broth
+    name: pigeon pea cooking broth
     raw: 400 ml pigeon-pea cooking broth
   - qty: 1
-    name: scotch bonnet or habanero pepper
+    name: scotch bonnet
     raw: 1 whole Scotch bonnet OR habanero pepper
   - qty: 1.5
     unit: tsp
@@ -82,7 +82,7 @@ ingredients:
     raw: 1/4 teaspoon allspice
   - qty: 60
     unit: g
-    name: salt pork or smoked bacon lardons
+    name: salt pork
     raw: 60 g salt pork or smoked bacon lardons
   - name: green scallion tops
     raw: Sliced green scallion tops

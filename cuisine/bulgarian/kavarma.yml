@@ -30,7 +30,7 @@ ingredients:
     name: onions
     raw: 2 large onions, finely chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, finely chopped
   - qty: 2
     name: red bell peppers
@@ -49,7 +49,7 @@ ingredients:
     raw: 200 ml dry red wine
   - qty: 200
     unit: ml
-    name: chicken stock or water
+    name: chicken stock
     raw: 200 ml chicken stock or water
   - qty: 3
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 tsp hot paprika
   - qty: 1
     unit: tbsp
-    name: savory or oregano
+    name: savory
     raw: 1 tbsp dried savory or oregano
   - qty: 2
     name: bay leaves

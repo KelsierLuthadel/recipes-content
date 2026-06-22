@@ -34,7 +34,7 @@ ingredients:
     raw: 200 g shredded suet
   - qty: 100
     unit: g
-    name: pinhead or medium oatmeal
+    name: pinhead
     raw: 100 g pinhead or medium oatmeal
   - qty: 200
     unit: g
@@ -101,7 +101,7 @@ ingredients:
     unit: ml
     name: buttermilk
     raw: 200-250 ml buttermilk
-  - name: 50 × 50 cm square of muslin or thin clean cotton
+  - name: 50 × 50 cm square of muslin
     raw: A 50 × 50 cm square of muslin or thin clean cotton
   - name: plain flour for coating
     raw: Plain flour for coating
@@ -115,5 +115,5 @@ ingredients:
     raw: Pouring cream
   - name: vanilla ice cream
     raw: A scoop of vanilla ice cream
-  - name: "for the next-day breakfast: butter"
+  - name: "for the next day breakfast: butter"
     raw: "For the next-day breakfast: butter for frying"

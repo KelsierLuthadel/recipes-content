@@ -14,7 +14,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 200 g long-grain white rice
   - qty: 2
     name: cinnamon sticks
@@ -41,11 +41,11 @@ ingredients:
     raw: Pinch of fine salt
   - qty: 100
     unit: ml
-    name: milk or 100 ml sweetened condensed milk
+    name: milk
     raw: 100 ml whole milk OR 100 ml sweetened condensed milk
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - name: cinnamon
     raw: Ground cinnamon
-  - name: cinnamon stick per glass
+  - name: cinnamon stick
     raw: Cinnamon stick per glass

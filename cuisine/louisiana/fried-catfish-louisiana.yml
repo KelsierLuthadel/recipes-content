@@ -72,7 +72,7 @@ ingredients:
     unit: tsp
     name: onion powder
     raw: 1 teaspoon onion powder
-  - name: vegetable oil or lard for deep-frying
+  - name: vegetable oil
     raw: Vegetable oil or lard for deep-frying
   - name: hush puppies
     raw: Hush puppies
@@ -80,11 +80,11 @@ ingredients:
     raw: Cole slaw
   - name: french fries
     raw: French fries
-  - name: remoulade or tartar sauce
+  - name: remoulade
     raw: Remoulade or tartar sauce
   - name: lemon wedges
     raw: Lemon wedges
   - name: hot sauce
     raw: Hot sauce
-  - name: crystal hot sauce or tabasco
+  - name: crystal hot sauce
     raw: Crystal hot sauce or Tabasco

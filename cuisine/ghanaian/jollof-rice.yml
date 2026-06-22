@@ -41,7 +41,7 @@ ingredients:
     name: scotch bonnet peppers
     raw: 2 scotch bonnet peppers
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 3
     name: ginger
@@ -71,7 +71,7 @@ ingredients:
     raw: 1 tsp smoked paprika
   - qty: 600
     unit: ml
-    name: chicken or vegetable stock
+    name: chicken
     raw: 600 ml chicken or vegetable stock
   - qty: 2
     unit: tsp

@@ -36,7 +36,7 @@ ingredients:
     raw: 300 g basmati rice
   - qty: 450
     unit: ml
-    name: hot chicken or vegetable stock
+    name: hot chicken
     raw: 450 ml hot chicken or vegetable stock
   - qty: 1
     name: onion
@@ -73,7 +73,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 15
     unit: g
@@ -124,5 +124,5 @@ ingredients:
     raw: Small handful fresh coriander
   - qty: 1
     unit: tbsp
-    name: fried onion
+    name: fried onions
     raw: 1 tbsp fried onion

@@ -43,11 +43,11 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 1.8
     unit: l
-    name: hot chicken or pork stock
+    name: hot chicken
     raw: 1.8 litres hot chicken or pork stock
   - qty: 4
     name: bay leaves
@@ -62,7 +62,7 @@ ingredients:
     raw: 2 tablespoons dried Mexican oregano
   - qty: 1
     unit: tsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 teaspoon ground coriander seed
   - qty: 2
     unit: tsp
@@ -95,5 +95,5 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: warm corn or flour tortillas
+  - name: warm corn
     raw: Warm corn or flour tortillas

@@ -31,7 +31,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tsp
@@ -56,10 +56,10 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
-    name: tomatoes or 1 tin chopped tomatoes
+    name: tomatoes
     raw: 4 fresh tomatoes or 1 tin chopped tomatoes
   - qty: 1
     unit: tbsp

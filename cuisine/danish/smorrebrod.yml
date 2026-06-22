@@ -47,11 +47,11 @@ ingredients:
     name: lemon wedges
     raw: 4 small lemon wedges
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs
   - qty: 200
     unit: g
-    name: cold-water shrimps
+    name: cold water shrimps
     raw: 200 g cooked cold-water shrimps
   - name: dill
     raw: A few sprigs of fresh dill
@@ -93,7 +93,7 @@ ingredients:
     raw: A small handful of garden cress
   - name: cold pilsners
     raw: Small cold pilsners
-  - name: shots of ice-cold akvavit
+  - name: shots of ice cold akvavit
     raw: Tiny shots of ice-cold akvavit
-  - name: fork-and-knife per person; no hands
+  - name: fork and knife per person; no hands
     raw: Fork-and-knife per person; no hands

@@ -47,11 +47,11 @@ ingredients:
     raw: 1 large egg, lightly beaten
   - qty: 4
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 4 tablespoons ice-cold water
   - qty: 1
     unit: tbsp
-    name: peruvian pisco or vodka
+    name: peruvian pisco
     raw: 1 tablespoon Peruvian pisco OR vodka
   - qty: 500
     unit: g
@@ -96,25 +96,25 @@ ingredients:
     name: raisins
     raw: 100 g raisins
   - qty: 3
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 3 hard-boiled eggs, finely chopped
   - qty: 12
     name: botija olives
     raw: 12 Botija olives , pitted; one per empanada
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - qty: 1
     name: egg yolk + 1 tablespoon milk
     raw: 1 egg yolk + 1 tablespoon milk
-  - name: dusting of caster sugar or icing sugar on the cooked empanada
+  - name: dusting of caster sugar
     raw: A small dusting of caster sugar OR icing sugar on the cooked empanada
-  - name: lime per empanada
+  - name: lime
     raw: A wedge of lime per empanada
   - name: aji huacatay sauce for dipping
     raw: A small dish of aji huacatay sauce for dipping
   - name: bowl of salsa criolla
     raw: A small bowl of salsa criolla
-  - name: cold peruvian pilsen trujillo lager or a glass of chicha morada
+  - name: cold peruvian pilsen trujillo lager
     raw: A cold Peruvian Pilsen Trujillo lager OR a glass of chicha morada

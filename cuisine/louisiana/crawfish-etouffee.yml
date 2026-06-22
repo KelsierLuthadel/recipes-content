@@ -43,7 +43,7 @@ ingredients:
     name: green bell pepper
     raw: 1 large green bell pepper
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 800
     unit: g
@@ -51,7 +51,7 @@ ingredients:
     raw: 800 g peeled crawfish tails
   - qty: 600
     unit: ml
-    name: hot seafood or chicken stock
+    name: hot seafood
     raw: 600 ml hot seafood or chicken stock
   - qty: 2
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     unit: tbsp
     name: hot sauce
     raw: 1 tablespoon hot sauce
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 50
     unit: g
@@ -104,7 +104,7 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: steamed long-grain rice
+  - name: steamed long grain rice
     raw: Steamed long-grain rice
   - name: french bread
     raw: French bread

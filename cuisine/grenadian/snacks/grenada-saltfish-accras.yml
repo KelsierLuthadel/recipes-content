@@ -48,7 +48,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, finely chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 1
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     raw: 1 tbsp fresh thyme leaves
   - qty: 2
     unit: tbsp
-    name: chadon beni or coriander
+    name: chadon beni
     raw: 2 tbsp chadon beni or coriander, finely chopped
   - qty: 1
     name: scotch bonnet
@@ -72,5 +72,5 @@ ingredients:
     unit: ml
     name: water
     raw: 300 ml cold water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying

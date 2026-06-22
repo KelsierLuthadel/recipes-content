@@ -18,7 +18,7 @@ ingredients:
     raw: 1 Earl Grey tea bag
   - qty: 150
     unit: ml
-    name: just-boiled water
+    name: just boiled water
     raw: 150 ml just-boiled water
   - qty: 1
     unit: tbsp
@@ -30,9 +30,9 @@ ingredients:
     raw: 100 ml whole milk
   - qty: 1
     unit: tiny pinch
-    name: bergamot zest or grated lemon zest
+    name: bergamot zest
     raw: A tiny pinch of bergamot zest or grated lemon zest
   - qty: 1
     unit: pinch
-    name: cinnamon or grated nutmeg
+    name: cinnamon
     raw: A pinch of ground cinnamon or grated nutmeg

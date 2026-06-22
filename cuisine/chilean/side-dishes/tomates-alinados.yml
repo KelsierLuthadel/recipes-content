@@ -25,7 +25,7 @@ ingredients:
     name: tomatoes
     raw: 6 large ripe tomatoes
   - qty: 1
-    name: white or red onion
+    name: white
     raw: 1 medium white or red onion
   - qty: 1
     unit: large handful
@@ -56,7 +56,7 @@ ingredients:
     name: oregano
     raw: 1 teaspoon dried oregano
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: small handful

@@ -48,10 +48,10 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 200
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 200 ml extra-virgin olive oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
     name: bay leaves
@@ -74,7 +74,7 @@ ingredients:
     raw: ½ teaspoon black pepper
   - qty: 3
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 3 tablespoons fresh flat-leaf parsley
   - qty: 1
     name: lemon

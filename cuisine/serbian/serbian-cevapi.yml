@@ -31,7 +31,7 @@ ingredients:
     name: lamb shoulder
     raw: 200 g minced lamb shoulder
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, very finely grated
   - qty: 1
     unit: tsp
@@ -53,7 +53,7 @@ ingredients:
     name: sparkling water
     raw: 60 ml very cold sparkling water
   - qty: 4
-    name: somun or pita flatbreads
+    name: somun
     raw: 4 somun or pita flatbreads
   - qty: 2
     name: white onions

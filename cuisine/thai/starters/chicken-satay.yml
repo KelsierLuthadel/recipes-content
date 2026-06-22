@@ -32,7 +32,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: chicken breast or thigh fillets
+    name: chicken breast
     raw: 1kg skinless chicken breast or thigh fillets, cut into bite-size pieces
   - qty: 1
     unit: tbsp
@@ -94,7 +94,7 @@ ingredients:
     raw: 400ml thick coconut milk
   - qty: 200
     unit: ml
-    name: smooth or chunky peanut butter
+    name: smooth
     raw: 200ml smooth or chunky peanut butter
   - qty: 2
     unit: tbsp

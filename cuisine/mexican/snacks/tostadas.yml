@@ -29,7 +29,7 @@ ingredients:
     raw: 8 corn tortillas
   - qty: 2
     unit: tbsp
-    name: vegetable oil or 300 ml oil
+    name: vegetable oil
     raw: 2 tablespoons vegetable oil OR 300 ml oil
   - qty: 1
     unit: pinch
@@ -47,7 +47,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     name: chipotles in adobo
@@ -105,7 +105,7 @@ ingredients:
   - qty: 2.5
     name: pickled jalapeno
     raw: 2-3 slices pickled jalapeño
-  - name: coriander leaves
+  - name: coriander
     raw: A few coriander leaves
   - name: lime
     raw: A wedge of lime

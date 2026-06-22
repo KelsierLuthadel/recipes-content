@@ -32,10 +32,10 @@ ingredients:
     unit: tbsp
     name: tahini
     raw: 4 tbsp tahini
-  - name: juice of 2 lemons
+  - name: lemons
     raw: Juice of 2 lemons
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, crushed
   - qty: 0.5
     name: /2 tsp ground cumin
@@ -45,7 +45,7 @@ ingredients:
     raw: 1/2 tsp salt
   - qty: 100
     unit: ml
-    name: ice-cold water
+    name: ice cold water
     raw: 100 ml ice-cold water
   - qty: 4
     unit: tbsp

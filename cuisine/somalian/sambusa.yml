@@ -37,7 +37,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: ginger
@@ -83,5 +83,5 @@ ingredients:
     unit: tbsp
     name: plain flour mixed with 4 tablespoons water
     raw: 4 tablespoons plain flour mixed with 4 tablespoons water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying

@@ -22,13 +22,13 @@ ingredients:
     name: roma tomatoes
     raw: 9 Roma tomatoes
   - qty: 3
-    name: celery stalks
+    name: celery
     raw: 3 celery stalks
   - qty: 2
     name: hot green peppers
     raw: 2 hot green peppers
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 60
     unit: ml

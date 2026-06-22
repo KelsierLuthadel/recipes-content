@@ -42,14 +42,14 @@ ingredients:
     raw: 110 g cold unsalted butter, cubed
   - qty: 45
     unit: g
-    name: cold lard or 45 g extra cold butter
+    name: cold lard
     raw: 45 g cold lard OR 45 g extra cold butter
   - qty: 1
     name: egg yolk
     raw: 1 large egg yolk
   - qty: 3.5
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 3-4 tablespoons ice-cold water
   - qty: 350
     unit: ml
@@ -84,20 +84,20 @@ ingredients:
     raw: A small pinch of fine sea salt
   - qty: 1
     unit: tbsp
-    name: canadian whisky or rum
+    name: canadian whisky
     raw: 1 tablespoon Canadian whisky OR rum
   - qty: 1
     name: egg yolk + 1 tablespoon milk
     raw: 1 egg yolk + 1 tablespoon milk
-  - name: whipped unsweetened double cream or a scoop of good vanilla ice cream
+  - name: whipped unsweetened double cream
     raw: Lightly whipped unsweetened double cream OR a scoop of good vanilla ice cream
   - qty: 1
     unit: drizzle
     name: maple syrup over the top
     raw: A drizzle of extra maple syrup over the top
-  - name: toasted pecans or walnuts
+  - name: toasted pecans
     raw: Chopped toasted pecans or walnuts
-  - name: glass of cold dessert wine or a digestif of calvados / cognac
+  - name: glass of cold dessert wine
     raw: A small glass of cold dessert wine OR a digestif of Calvados / Cognac
   - name: raspberries for colour and tartness
     raw: Fresh raspberries for colour and tartness

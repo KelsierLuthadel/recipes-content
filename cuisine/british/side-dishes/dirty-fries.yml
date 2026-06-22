@@ -30,7 +30,7 @@ ingredients:
     unit: kg
     name: floury potatoes
     raw: 1.2 kg floury potatoes
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 250
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     raw: 2 tablespoons hot sauce
   - qty: 1
     unit: small handful
-    name: chives or coriander
+    name: chives
     raw: Small handful chopped chives or coriander
   - qty: 1
     name: red chilli

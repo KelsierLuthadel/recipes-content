@@ -35,10 +35,10 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: bay leaves
@@ -103,7 +103,7 @@ ingredients:
     name: capers
     raw: 2 tablespoons capers
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley
   - qty: 1
     name: lemon

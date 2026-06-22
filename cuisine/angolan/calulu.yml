@@ -46,7 +46,7 @@ ingredients:
     name: onions
     raw: 2 large onions, finely chopped
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves, crushed
   - qty: 4
     name: tomatoes
@@ -67,7 +67,7 @@ ingredients:
     raw: 400 g sweet potato leaves , washed, roughly chopped
   - qty: 1
     unit: l
-    name: water or fish stock
+    name: water
     raw: 1 litre water or fish stock
   - qty: 1
     name: coriander

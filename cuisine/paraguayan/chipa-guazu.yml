@@ -26,7 +26,7 @@ ingredients:
     raw: 3 medium onions, finely chopped
   - qty: 4
     unit: tbsp
-    name: lard or vegetable oil
+    name: lard
     raw: 4 tbsp lard or vegetable oil
   - qty: 6
     name: eggs
@@ -37,7 +37,7 @@ ingredients:
     raw: 250 ml whole milk
   - qty: 300
     unit: g
-    name: queso paraguay or young feta
+    name: queso paraguay
     raw: 300 g queso paraguay or young feta, crumbled
   - qty: 1
     unit: tsp

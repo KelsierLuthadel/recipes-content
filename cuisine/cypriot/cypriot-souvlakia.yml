@@ -41,7 +41,7 @@ ingredients:
     name: oregano
     raw: 1 tablespoon dried oregano
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     name: lemon juice
     raw: 1 tablespoon lemon juice
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 small garlic clove
   - qty: 1
     unit: pinch
@@ -75,14 +75,14 @@ ingredients:
     name: water
     raw: 2 tablespoons cold water
   - qty: 4
-    name: cypriot-style pita pockets
+    name: cypriot style pita pockets
     raw: 4 thick Cypriot-style pita pockets
   - qty: 1
     name: red onion
     raw: 1 small red onion
   - qty: 30
     unit: g
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 30 g flat-leaf parsley
   - qty: 2
     name: tomatoes

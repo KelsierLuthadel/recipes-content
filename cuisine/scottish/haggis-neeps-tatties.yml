@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: haggis - macsween's traditional or a butcher's own
+    name: haggis macsween's traditional
     raw: 1 large haggis - Macsween's Traditional or a butcher's own
   - qty: 800
     unit: g
@@ -55,5 +55,5 @@ ingredients:
     unit: tsp
     name: white pepper
     raw: ½ teaspoon white pepper
-  - name: 25 ml dram of single malt scotch whisky per serving
+  - name: 25 ml dram of single malt scotch whisky
     raw: A 25 ml dram of single malt Scotch whisky per serving

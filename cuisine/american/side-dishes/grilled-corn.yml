@@ -33,7 +33,7 @@ ingredients:
     name: unsalted butter
     raw: 100 g unsalted butter, softened
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, very finely grated
   - qty: 2
     unit: tbsp
@@ -41,7 +41,7 @@ ingredients:
     raw: 2 tbsp chives, finely chopped
   - qty: 1
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 tbsp flat-leaf parsley, finely chopped
   - qty: 0.5
     unit: tsp

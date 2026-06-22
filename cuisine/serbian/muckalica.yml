@@ -27,13 +27,13 @@ ingredients:
     raw: 800 g pork shoulder, cut into 3 cm strips
   - qty: 3
     unit: tbsp
-    name: lard or sunflower oil
+    name: lard
     raw: 3 tbsp lard or sunflower oil
   - qty: 2
     name: onions
     raw: 2 large onions, finely sliced
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, finely chopped
   - qty: 4
     name: red bell peppers
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 tsp ground black pepper
   - qty: 1
     unit: tsp
-    name: savory or marjoram
+    name: savory
     raw: 1 tsp dried savory or marjoram
   - qty: 2
     name: bay leaves
@@ -74,9 +74,9 @@ ingredients:
     raw: Salt to taste
   - qty: 1
     unit: handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A handful of flat-leaf parsley, chopped
   - name: white bread
     raw: Fresh white bread, in thick slices
-  - name: soured cream or a spoon of kajmak
+  - name: soured cream
     raw: Soured cream or a spoon of kajmak

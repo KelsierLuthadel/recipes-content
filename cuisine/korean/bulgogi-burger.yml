@@ -45,10 +45,10 @@ ingredients:
     name: brown sugar
     raw: 2 tablespoons brown sugar
   - qty: 1
-    name: korean pear or 1 asian pear or 1 small apple
+    name: korean pear
     raw: 1 small Korean pear or 1 Asian pear or 1 small apple
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: ginger
@@ -88,7 +88,7 @@ ingredients:
     unit: tsp
     name: caster sugar
     raw: 1 teaspoon caster sugar
-  - name: juice of ½ lime
+  - name: ½ lime
     raw: Juice of ½ lime
   - qty: 1
     name: carrot
@@ -129,7 +129,7 @@ ingredients:
     unit: tsp
     name: toasted sesame seeds
     raw: 2 teaspoons toasted sesame seeds
-  - name: korean fried potato wedges or thick-cut chips
+  - name: korean fried potato wedges
     raw: Korean fried potato wedges or thick-cut chips
   - name: kimchi
     raw: Kimchi

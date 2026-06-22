@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: chicken wings or boneless thighs
+    name: chicken wings
     raw: 1 kg chicken wings or boneless thighs
   - qty: 1
     unit: tsp
@@ -44,7 +44,7 @@ ingredients:
     unit: g
     name: plain flour
     raw: 50 g plain flour
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 3
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     name: rice vinegar
     raw: 2 tablespoons rice vinegar
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp

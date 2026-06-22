@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 onion, finely chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 60
     unit: ml
@@ -58,7 +58,7 @@ ingredients:
     name: lemons
     raw: 2 lemons, juiced
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 2
     unit: tsp

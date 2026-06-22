@@ -41,7 +41,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 2
     name: ginger
@@ -96,5 +96,5 @@ ingredients:
     raw: ½ small white cabbage
   - qty: 500
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 500 g long-grain white rice, steamed

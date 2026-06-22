@@ -47,11 +47,11 @@ ingredients:
     raw: 1 tablespoon ginger
   - qty: 1
     unit: small handful
-    name: coriander leaves
+    name: coriander
     raw: 1 small handful coriander leaves
   - qty: 1
     unit: tbsp
-    name: mint or 1 teaspoon dried mint
+    name: mint
     raw: 1 tablespoon fresh mint or 1 teaspoon dried mint
   - qty: 1
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     raw: 3 tablespoons Tamarind Chutney
   - qty: 3
     unit: tbsp
-    name: mint-coriander chutney
+    name: mint coriander chutney
     raw: 3 tablespoons mint-coriander chutney
   - qty: 1
     name: red onion

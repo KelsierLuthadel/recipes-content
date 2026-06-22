@@ -55,7 +55,7 @@ ingredients:
     raw: 150 g mayonnaise
   - qty: 4
     unit: tbsp
-    name: plain greek yoghurt or sour cream
+    name: plain greek yoghurt
     raw: 4 tbsp plain Greek yoghurt or sour cream
   - qty: 2
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 80 g crispy fried noodles
   - qty: 60
     unit: g
-    name: toasted sunflower seeds or pumpkin seeds
+    name: toasted sunflower seeds
     raw: 60 g toasted sunflower seeds or pumpkin seeds
   - qty: 50
     unit: g

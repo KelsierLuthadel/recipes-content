@@ -99,9 +99,9 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 1
     unit: tsp
@@ -174,5 +174,5 @@ ingredients:
     raw: 6 tablespoons vegetable oil
   - name: masala chips
     raw: Masala chips
-  - name: cold mango lassi or thums up cola
+  - name: cold mango lassi
     raw: Cold mango lassi or Thums Up cola

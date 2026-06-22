@@ -41,11 +41,11 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 60
     unit: g
-    name: day-old white bread
+    name: day old white bread
     raw: 60 g day-old white bread
   - qty: 1
     name: egg
@@ -86,10 +86,10 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
-    name: tomatoes; or 1 kg fresh tomatoes
+    name: tomatoes;
     raw: 2 tins chopped tomatoes; or 1 kg fresh tomatoes
   - qty: 3
     unit: tbsp
@@ -124,7 +124,7 @@ ingredients:
     raw: 1 teaspoon ground black pepper
   - qty: 400
     unit: ml
-    name: beef stock or water
+    name: beef stock
     raw: 400 ml hot beef stock or water
   - qty: 2
     name: bay leaves

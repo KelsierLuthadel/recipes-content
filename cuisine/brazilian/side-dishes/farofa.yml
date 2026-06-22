@@ -43,7 +43,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -54,14 +54,14 @@ ingredients:
     name: cracked black pepper
     raw: ½ teaspoon coarsely cracked black pepper
   - qty: 2
-    name: "hard-boiled eggs : adds richness"
+    name: "hard boiled eggs : adds richness"
     raw: "2 hard-boiled eggs : adds richness"
   - qty: 1
     name: "banana : adds sweet contrast"
     raw: "1 ripe banana : adds sweet contrast"
   - qty: 30
     unit: g
-    name: raisins or chopped dried apricots
+    name: raisins
     raw: 30 g raisins or chopped dried apricots, sweet variant
   - qty: 50
     unit: g
@@ -77,11 +77,11 @@ ingredients:
     raw: A pinch of paprika
   - name: feijoada
     raw: Feijoada
-  - name: picanha or any churrasco
+  - name: picanha
     raw: Picanha or any churrasco
   - name: white rice + black beans
     raw: White rice + black beans
-  - name: roast chicken or fish
+  - name: roast chicken
     raw: Roast chicken or fish
-  - name: any brazilian rice-and-bean plate
+  - name: any brazilian rice and bean plate
     raw: Any Brazilian rice-and-bean plate

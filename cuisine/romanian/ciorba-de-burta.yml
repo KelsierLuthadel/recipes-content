@@ -28,7 +28,7 @@ ingredients:
     name: honeycomb tripe
     raw: 1 kg honeycomb tripe, cleaned
   - qty: 1
-    name: veal or beef knuckle bone
+    name: veal
     raw: 1 veal or beef knuckle bone , for the stock
   - qty: 2
     name: carrots
@@ -69,7 +69,7 @@ ingredients:
     name: black pepper
     raw: 1 tsp ground black pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves, mashed with 1 tsp salt
   - qty: 4
     unit: tbsp
@@ -79,7 +79,7 @@ ingredients:
     unit: tbsp
     name: water
     raw: 4 tbsp warm water
-  - name: hot chilli flakes or a small pickled chilli
+  - name: hot chilli flakes
     raw: Hot chilli flakes or a small pickled chilli
   - name: country bread
     raw: Country bread

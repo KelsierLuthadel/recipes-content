@@ -47,7 +47,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: ginger
@@ -96,9 +96,9 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: lime or ½ lemon
+    name: lime
     raw: 1 lime or ½ lemon
-  - name: muufo or anjero
+  - name: muufo
     raw: Muufo or anjero
   - name: sweet shaah tea for breakfast
     raw: Sweet shaah tea for breakfast

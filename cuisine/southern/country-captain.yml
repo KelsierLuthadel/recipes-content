@@ -53,7 +53,7 @@ ingredients:
     name: green bell pepper
     raw: 1 large green bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -118,7 +118,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - name: plain white rice
     raw: Plain white rice

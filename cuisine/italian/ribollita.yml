@@ -32,7 +32,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves
@@ -52,10 +52,10 @@ ingredients:
     name: carrots
     raw: 3 large carrots
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     unit: tbsp

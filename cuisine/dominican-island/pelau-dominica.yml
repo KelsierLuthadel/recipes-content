@@ -39,7 +39,7 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves, crushed
   - qty: 6
     unit: sprig
@@ -49,7 +49,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, chopped
   - qty: 1
-    name: chives or chadon beni
+    name: chives
     raw: 1 small bunch chives or chadon beni, chopped
   - qty: 0.5
     name: /2 scotch bonnet
@@ -74,7 +74,7 @@ ingredients:
     name: onion
     raw: 1 large onion, chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 1
     name: carrot
@@ -84,11 +84,11 @@ ingredients:
     raw: 1 red pepper, diced
   - qty: 400
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 400 g long-grain rice, rinsed
   - qty: 250
     unit: g
-    name: or tinned pigeon peas
+    name: cooked
     raw: 250 g cooked or tinned pigeon peas, drained
   - qty: 400
     unit: ml
@@ -96,7 +96,7 @@ ingredients:
     raw: 400 ml coconut milk
   - qty: 400
     unit: ml
-    name: chicken stock or water
+    name: chicken stock
     raw: 400 ml chicken stock or water
   - qty: 4
     unit: sprig

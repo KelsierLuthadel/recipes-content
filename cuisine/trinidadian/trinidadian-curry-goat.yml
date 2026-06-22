@@ -73,7 +73,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 25
     unit: g

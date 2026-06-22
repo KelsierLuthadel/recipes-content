@@ -33,7 +33,7 @@ ingredients:
     raw: 4 habanero chillies, finely chopped
   - qty: 2
     unit: tbsp
-    name: rapeseed oil or mustard oil
+    name: rapeseed oil
     raw: 2 tbsp rapeseed oil or mustard oil
   - qty: 0.5
     name: onion
@@ -67,7 +67,7 @@ ingredients:
     raw: 300 ml Curry Base Gravy
   - qty: 200
     unit: g
-    name: lamb tikka or pre-cooked lamb
+    name: lamb tikka
     raw: 200 g lamb tikka or Pre-cooked Lamb
   - name: salt
     raw: Salt, to taste

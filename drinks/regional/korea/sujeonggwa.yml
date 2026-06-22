@@ -28,7 +28,7 @@ ingredients:
     raw: 2.5 litres cold water
   - qty: 150
     unit: g
-    name: dark muscovado or soft brown sugar
+    name: dark muscovado
     raw: 150 g dark muscovado or soft brown sugar
   - qty: 2
     unit: tbsp
@@ -41,5 +41,5 @@ ingredients:
     unit: tbsp
     name: pine nuts
     raw: 1 tablespoon pine nuts
-  - name: pine nuts per cup
+  - name: pine nuts
     raw: A few pine nuts per cup

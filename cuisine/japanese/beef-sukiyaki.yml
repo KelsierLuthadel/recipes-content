@@ -45,7 +45,7 @@ ingredients:
     raw: 200 ml dashi
   - qty: 600
     unit: g
-    name: beef rib-eye
+    name: beef rib eye
     raw: 600 g thinly sliced beef rib-eye
   - qty: 1
     name: beef suet
@@ -78,5 +78,5 @@ ingredients:
   - qty: 4
     name: egg yolks
     raw: 4 raw egg yolks
-  - name: japanese short-grain rice
+  - name: japanese short grain rice
     raw: Cooked Japanese short-grain rice

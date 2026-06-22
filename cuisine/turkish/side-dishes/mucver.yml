@@ -71,10 +71,10 @@ ingredients:
     raw: 80 ml olive oil
   - qty: 300
     unit: g
-    name: greek-style yogurt
+    name: greek style yogurt
     raw: 300 g thick Greek-style yogurt
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 0.5
     unit: tsp
@@ -88,7 +88,7 @@ ingredients:
     unit: tbsp
     name: olive oil
     raw: 1 tablespoon olive oil
-  - name: mint or aleppo pepper
+  - name: mint
     raw: Sprinkle of dried mint or Aleppo pepper
   - name: lemon wedges
     raw: Lemon wedges

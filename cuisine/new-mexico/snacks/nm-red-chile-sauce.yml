@@ -30,7 +30,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
     unit: tbsp
@@ -42,7 +42,7 @@ ingredients:
     raw: 2 tablespoons dried Mexican oregano
   - qty: 1
     unit: tsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 teaspoon ground coriander seed
   - qty: 4
     unit: tbsp

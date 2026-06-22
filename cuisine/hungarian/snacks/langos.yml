@@ -52,7 +52,7 @@ ingredients:
     name: sunflower oil
     raw: 1 litre sunflower oil, for frying
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 3
     unit: tbsp
@@ -68,5 +68,5 @@ ingredients:
     raw: 200 ml sour cream
   - qty: 150
     unit: g
-    name: semi-hard cheese
+    name: semi hard cheese
     raw: 150 g semi-hard cheese, grated

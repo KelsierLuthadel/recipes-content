@@ -33,7 +33,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: A small bunch of coriander , leaves and tender stems finely chopped
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 0.5
     name: /2 tsp fine salt
@@ -43,7 +43,7 @@ ingredients:
     raw: 1/4 tsp ground black pepper
   - qty: 1
     unit: tsp
-    name: olive oil or vegetable oil
+    name: olive oil
     raw: 1 tsp olive oil or vegetable oil
   - qty: 0.5
     name: /2 cucumber

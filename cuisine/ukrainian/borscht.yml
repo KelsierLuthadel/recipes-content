@@ -78,7 +78,7 @@ ingredients:
     name: tomatoes
     raw: 1 small can chopped tomatoes
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1.5
     unit: tbsp
@@ -98,7 +98,7 @@ ingredients:
     unit: tbsp
     name: dill
     raw: 3 tablespoons fresh dill
-  - name: pampushky or fresh dark rye bread
+  - name: pampushky
     raw: Pampushky or fresh dark rye bread
   - name: garlic to spread on the pampushky
     raw: Extra crushed garlic to spread on the pampushky

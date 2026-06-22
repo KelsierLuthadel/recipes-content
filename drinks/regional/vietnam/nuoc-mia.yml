@@ -17,14 +17,14 @@ ingredients:
     unit: l
     name: sugarcane juice
     raw: 1 litre fresh sugarcane juice
-  - name: juice of 4 calamansi
+  - name: calamansi
     raw: Juice of 4 calamansi
   - name: plenty of crushed ice
     raw: Plenty of crushed ice
   - qty: 4
     name: tall glasses
     raw: 4 tall glasses, chilled
-  - name: "optional: a small wedge of calamansi per glass"
+  - name: "optional: a small wedge of calamansi"
     raw: "Optional: a small wedge of calamansi per glass"
-  - name: "optional: a sprig of mint per glass"
+  - name: "optional: a sprig of mint"
     raw: "Optional: a sprig of mint per glass"

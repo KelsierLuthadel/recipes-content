@@ -32,7 +32,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -42,7 +42,7 @@ ingredients:
     raw: 2 scotch bonnet chillies
   - qty: 2
     unit: tbsp
-    name: pepper-soup spice mix
+    name: pepper soup spice mix
     raw: 2 tablespoons pepper-soup spice mix
   - qty: 2
     unit: tbsp

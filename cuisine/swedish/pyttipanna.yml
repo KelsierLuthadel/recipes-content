@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 700
     unit: g
-    name: cold pre-cooked potatoes
+    name: cold pre cooked potatoes
     raw: 700 g cold pre-cooked potatoes
   - qty: 400
     unit: g
@@ -61,7 +61,7 @@ ingredients:
     raw: Pickled beetroot
   - name: dijon mustard
     raw: Dijon mustard
-  - name: glass of cold milk or a small lager
+  - name: glass of cold milk
     raw: A glass of cold milk OR a small lager
-  - name: "optional: hp sauce or ketchup"
+  - name: "optional: hp sauce"
     raw: "Optional: HP sauce or ketchup"

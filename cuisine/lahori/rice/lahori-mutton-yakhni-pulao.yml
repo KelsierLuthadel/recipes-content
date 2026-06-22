@@ -36,7 +36,7 @@ ingredients:
     name: ginger
     raw: 50 g fresh ginger
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tsp
@@ -93,7 +93,7 @@ ingredients:
     raw: 1 onion
   - qty: 1
     unit: tbsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1 tablespoon ginger-garlic paste
   - qty: 1
     unit: tsp

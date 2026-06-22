@@ -16,7 +16,7 @@ ingredients:
     raw: 100 ml blanco tequila
   - qty: 50
     unit: ml
-    name: cointreau or triple sec
+    name: cointreau
     raw: 50 ml Cointreau or triple sec
   - qty: 60
     unit: ml
@@ -34,7 +34,7 @@ ingredients:
     unit: g
     name: ice cubes
     raw: 500 g ice cubes
-  - name: flaky sea salt or kosher salt
+  - name: flaky sea salt
     raw: Flaky sea salt or kosher salt
   - qty: 2
     name: lime wedges

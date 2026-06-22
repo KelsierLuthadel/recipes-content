@@ -33,7 +33,7 @@ ingredients:
     raw: 6 large eggs, lightly beaten
   - qty: 200
     unit: g
-    name: monterey jack or chihuahua cheese
+    name: monterey jack
     raw: 200 g Monterey Jack or Chihuahua cheese, grated
   - qty: 1
     name: onion
@@ -49,7 +49,7 @@ ingredients:
     raw: 4 large flour tortillas
   - name: pickled jalapenos
     raw: Pickled jalapeños
-  - name: pico de gallo or salsa roja
+  - name: pico de gallo
     raw: Pico de gallo or salsa roja
   - name: hot sauce
     raw: Hot sauce

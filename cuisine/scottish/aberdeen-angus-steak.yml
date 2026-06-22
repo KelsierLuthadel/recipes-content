@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: × 300-400 g aberdeen angus sirloin or ribeye steaks
+    name: × 300 400 g aberdeen angus sirloin
     raw: 2 × 300-400 g Aberdeen Angus sirloin or ribeye steaks
   - qty: 2
     unit: tbsp
@@ -31,18 +31,18 @@ ingredients:
     raw: 2 tablespoons beef dripping
   - qty: 1
     unit: tsp
-    name: flaked sea salt per steak
+    name: flaked sea salt
     raw: 1 teaspoon flaked sea salt per steak
   - qty: 0.5
     unit: tsp
-    name: cracked black pepper per steak
+    name: cracked black pepper
     raw: ½ teaspoon coarsely cracked black pepper per steak
   - qty: 30
     unit: g
     name: butter
     raw: 30 g butter
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - name: thyme
     raw: A small thyme sprig
@@ -73,7 +73,7 @@ ingredients:
     raw: Sea salt to taste
   - qty: 500
     unit: g
-    name: hand-cut chips
+    name: hand cut chips
     raw: 500 g hand-cut chips
   - qty: 1
     name: watercress

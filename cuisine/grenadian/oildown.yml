@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: salt beef or salt pork
+    name: salt beef
     raw: 500 g salt beef or salt pork
   - qty: 1
     name: breadfruit
@@ -47,7 +47,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 1
     unit: tbsp

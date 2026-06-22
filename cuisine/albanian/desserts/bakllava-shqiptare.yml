@@ -47,7 +47,7 @@ ingredients:
     unit: ml
     name: water
     raw: 350 ml water
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 6
     name: cloves

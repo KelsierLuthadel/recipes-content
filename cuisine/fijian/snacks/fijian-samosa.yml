@@ -40,7 +40,7 @@ ingredients:
     raw: 1 tsp ajwain seeds
   - qty: 4
     unit: tbsp
-    name: vegetable oil or ghee
+    name: vegetable oil
     raw: 4 tbsp vegetable oil or ghee
   - qty: 130
     unit: ml
@@ -73,7 +73,7 @@ ingredients:
     raw: 2 green chillies, finely chopped
   - qty: 1
     unit: tbsp
-    name: fijian or madras curry powder
+    name: fijian
     raw: 1 tbsp Fijian or Madras curry powder
   - qty: 1
     unit: tsp
@@ -89,7 +89,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: juice of half a lemon
+  - name: lemon
     raw: Juice of half a lemon
   - qty: 1
     unit: handful

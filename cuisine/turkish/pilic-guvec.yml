@@ -61,10 +61,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
-    name: tomatoes ; or 1 small tin chopped tomatoes
+    name: tomatoes ;
     raw: 2 medium tomatoes ; or 1 small tin chopped tomatoes
   - qty: 2
     name: green bell peppers
@@ -135,7 +135,7 @@ ingredients:
     raw: 2 tablespoons fresh parsley
   - name: lemon wedges
     raw: Lemon wedges
-  - name: rice pilav or warm pide bread
+  - name: rice pilav
     raw: Rice pilav or warm pide bread
   - name: plain yogurt
     raw: Plain yogurt

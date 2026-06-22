@@ -29,15 +29,15 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: dasheen leaves - substitute fresh spinach or chard
+    name: dasheen leaves substitute fresh spinach
     raw: 500 g fresh dasheen leaves - substitute fresh spinach or chard
   - qty: 250
     unit: g
-    name: salt pork or smoked bacon
+    name: salt pork
     raw: 250 g salt pork or smoked bacon, cubed
   - qty: 3
     unit: tbsp
-    name: vegetable or coconut oil
+    name: vegetable
     raw: 3 tbsp vegetable or coconut oil
   - qty: 1
     name: onion
@@ -66,7 +66,7 @@ ingredients:
     raw: 400 ml coconut milk
   - qty: 600
     unit: ml
-    name: chicken or vegetable stock
+    name: chicken
     raw: 600 ml chicken or vegetable stock
   - qty: 1
     unit: tsp

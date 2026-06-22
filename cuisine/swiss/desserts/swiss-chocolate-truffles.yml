@@ -32,7 +32,7 @@ ingredients:
     raw: 40 g unsalted butter, soft
   - qty: 1
     unit: tbsp
-    name: glucose syrup or honey
+    name: glucose syrup
     raw: 1 tbsp glucose syrup or honey
   - qty: 1
     unit: pinch
@@ -40,13 +40,13 @@ ingredients:
     raw: A pinch of fine salt
   - qty: 30
     unit: ml
-    name: kirsch or kirsch-substitute brandy
+    name: kirsch
     raw: 30 ml Kirsch or Kirsch-substitute brandy
   - qty: 30
     unit: ml
     name: double espresso
     raw: 30 ml double espresso, cooled
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 1
     unit: tsp

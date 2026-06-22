@@ -33,7 +33,7 @@ ingredients:
     name: cucumber
     raw: 1 large cucumber, finely diced
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, peeled
   - qty: 4
     name: spring onions
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 large handful fresh dill, chopped
   - qty: 1
     unit: tbsp
-    name: lemon juice or white-wine vinegar
+    name: lemon juice
     raw: 1 tbsp lemon juice or white-wine vinegar
   - qty: 1
     unit: tsp

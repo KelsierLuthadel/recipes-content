@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 1.4
     unit: kg
-    name: stewing chicken or 1 kg bone-in chicken thighs and drumsticks
+    name: stewing chicken
     raw: 1.4 kg whole stewing chicken or 1 kg bone-in chicken thighs and drumsticks
   - qty: 2.5
     unit: l
@@ -35,7 +35,7 @@ ingredients:
     name: coriander
     raw: 1 small bunch fresh coriander
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     name: sweet potatoes
     raw: 2 sweet potatoes
   - qty: 2
-    name: corn-on-the-cob
+    name: corn on the cob
     raw: 2 corn-on-the-cob
   - qty: 1
     name: lime

@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: edam or young gouda
+    name: edam
     raw: 1 whole Edam or young Gouda, 1.2-1.5 kg
   - name: knife and a soup spoon for hollowing
     raw: A sharp knife and a soup spoon for hollowing
@@ -82,7 +82,7 @@ ingredients:
     raw: 1 tbsp Worcestershire sauce
   - qty: 1
     unit: tbsp
-    name: piccalilli or sweet mustard pickle
+    name: piccalilli
     raw: 1 tbsp piccalilli or sweet mustard pickle
   - qty: 150
     unit: ml

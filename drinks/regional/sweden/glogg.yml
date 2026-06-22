@@ -26,11 +26,11 @@ ingredients:
     raw: 1.5 litres dry red wine
   - qty: 300
     unit: ml
-    name: akvavit or vodka or brandy
+    name: akvavit
     raw: 300 ml akvavit OR vodka OR brandy
   - qty: 150
     unit: ml
-    name: port or sweet sherry
+    name: port
     raw: 150 ml port or sweet sherry
   - qty: 150
     unit: g
@@ -52,9 +52,9 @@ ingredients:
   - qty: 1
     name: ginger
     raw: 1 thumb fresh ginger
-  - name: peel of 1 large orange
+  - name: orange
     raw: Peel of 1 large orange
-  - name: peel of ½ lemon
+  - name: ½ lemon
     raw: Peel of ½ lemon
   - qty: 1
     name: vanilla pod

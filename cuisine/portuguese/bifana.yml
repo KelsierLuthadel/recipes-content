@@ -28,7 +28,7 @@ ingredients:
     name: dry white wine
     raw: 200 ml dry white wine
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp
@@ -62,7 +62,7 @@ ingredients:
     name: butter
     raw: 2 tablespoons butter
   - qty: 4
-    name: papo-seco rolls
+    name: papo seco rolls
     raw: 4 papo-seco rolls
   - name: mustard
     raw: Mustard, piri-piri sauce, hot pepper paste

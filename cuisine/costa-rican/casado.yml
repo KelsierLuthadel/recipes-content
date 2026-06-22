@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 400 g long-grain white rice
   - qty: 750
     unit: ml
@@ -48,7 +48,7 @@ ingredients:
     name: onion
     raw: 1 small onion, finely diced
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove, chopped
   - qty: 0.5
     name: /2 tsp cumin
@@ -58,7 +58,7 @@ ingredients:
     name: salsa lizano
     raw: 2 tbsp Salsa Lizano
   - qty: 4
-    name: chicken thighs or 4 thin beef steaks
+    name: chicken thighs
     raw: 4 chicken thighs or 4 thin beef steaks
   - qty: 2
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
     raw: 1 tomato, diced
   - qty: 1
     unit: small handful
-    name: coriander leaves
+    name: coriander
     raw: 1 small handful coriander leaves
   - qty: 1
     name: lime

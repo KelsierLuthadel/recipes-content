@@ -38,14 +38,14 @@ ingredients:
     raw: 125 g cold unsalted butter, cubed
   - qty: 60
     unit: g
-    name: cold lard or 60 g extra cold butter
+    name: cold lard
     raw: 60 g cold lard OR 60 g extra cold butter, cubed
   - qty: 1
     name: egg yolk
     raw: 1 large egg yolk
   - qty: 4
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 3-5 tablespoons ice-cold water
   - qty: 200
     unit: g
@@ -60,11 +60,11 @@ ingredients:
     raw: 1 large egg, lightly beaten
   - qty: 2
     unit: tbsp
-    name: golden corn syrup or golden syrup
+    name: golden corn syrup
     raw: 2 tablespoons golden corn syrup OR golden syrup
   - qty: 1
     unit: tbsp
-    name: white vinegar or cider vinegar
+    name: white vinegar
     raw: 1 tablespoon white vinegar OR cider vinegar
   - qty: 1
     unit: tsp

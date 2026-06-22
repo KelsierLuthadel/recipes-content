@@ -45,11 +45,11 @@ ingredients:
     name: /2 tsp marjoram
     raw: 1/2 tsp marjoram
   - qty: 2
-    name: natural pork-intestine sausage casings
+    name: natural pork intestine sausage casings
     raw: 2 m natural pork-intestine sausage casings
   - qty: 100
     unit: g
-    name: lard or bacon fat
+    name: lard
     raw: 100 g lard or bacon fat
   - qty: 300
     unit: ml

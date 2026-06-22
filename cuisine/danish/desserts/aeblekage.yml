@@ -42,9 +42,9 @@ ingredients:
     unit: tsp
     name: cinnamon
     raw: ½ teaspoon ground cinnamon
-  - name: "option a : 200 g ratafia / amaretti biscuits or danish makroner"
+  - name: "option a : 200 g ratafia / amaretti biscuits"
     raw: "Option A : 200 g ratafia / amaretti biscuits OR Danish makroner , coarsely crushed"
-  - name: "option b : 200 g coarse breadcrumbs from day-old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon"
+  - name: "option b : 200 g coarse breadcrumbs from day old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon"
     raw: "Option B : 200 g coarse breadcrumbs from day-old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon, all toasted in a dry pan till deeply golden and crisp"
   - qty: 500
     unit: ml
@@ -64,11 +64,11 @@ ingredients:
     raw: 4 tablespoons redcurrant jelly
   - qty: 1
     unit: small handful
-    name: raspberries or redcurrants
+    name: raspberries
     raw: A small handful of fresh raspberries OR redcurrants
   - name: mint
     raw: A few sprigs of fresh mint
-  - name: clear glass dish or 6 individual glass dessert bowls
+  - name: clear glass dish
     raw: A clear glass dish or 6 individual glass dessert bowls
-  - name: coffee or a small glass of dessert wine
+  - name: coffee
     raw: Strong coffee or a small glass of dessert wine

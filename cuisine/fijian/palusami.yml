@@ -32,7 +32,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 1
     unit: pinch
@@ -41,5 +41,5 @@ ingredients:
   - name: "optional: 100 g corned beef"
     raw: "Optional: 100 g corned beef, finely chopped"
   - qty: 4
-    name: squares of foil or banana leaf
+    name: squares of foil
     raw: 4 squares of foil or banana leaf

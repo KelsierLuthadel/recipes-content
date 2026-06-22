@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 8
     unit: g
-    name: agar-agar powder
+    name: agar agar powder
     raw: 8 g agar-agar powder
   - qty: 400
     unit: ml
@@ -63,7 +63,7 @@ ingredients:
     raw: ¼ teaspoon salt
   - qty: 120
     unit: g
-    name: palm sugar or dark muscovado
+    name: palm sugar
     raw: 120 g palm sugar or dark muscovado
   - qty: 80
     unit: ml

@@ -24,7 +24,7 @@ ingredients:
     unit: tbsp
     name: alpine herbs
     raw: 1 tablespoon dried alpine herbs
-  - name: zest of 2 unwaxed lemons
+  - name: unwaxed lemons
     raw: Zest of 2 unwaxed lemons
   - qty: 100
     unit: ml
@@ -42,5 +42,5 @@ ingredients:
     raw: Plenty of ice cubes
   - name: lemon slices
     raw: Lemon slices
-  - name: mint or lemon-balm
+  - name: mint
     raw: Fresh mint or lemon-balm sprigs

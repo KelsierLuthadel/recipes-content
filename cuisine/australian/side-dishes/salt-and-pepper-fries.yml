@@ -24,7 +24,7 @@ ingredients:
     unit: kg
     name: floury potatoes
     raw: 1.2 kg floury potatoes
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 2
     unit: tbsp
@@ -72,7 +72,7 @@ ingredients:
     raw: 2 tablespoons Australian chicken salt
   - name: tomato sauce
     raw: Tomato sauce
-  - name: aioli or garlic mayo
+  - name: aioli
     raw: Aioli or garlic mayo
   - name: lemon wedges
     raw: Lemon wedges

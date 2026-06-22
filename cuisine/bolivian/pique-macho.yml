@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: beef rump or skirt
+    name: beef rump
     raw: 500 g beef rump or skirt, sliced into thin strips
   - qty: 200
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     name: locoto chillies
     raw: 2 locoto chillies , sliced
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, quartered
   - qty: 2
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     unit: tsp
     name: cumin
     raw: 1 tsp ground cumin
-  - name: oil for deep-frying
+  - name: oil for deep frying
     raw: Oil for deep-frying
   - name: salt and pepper
     raw: Salt and pepper

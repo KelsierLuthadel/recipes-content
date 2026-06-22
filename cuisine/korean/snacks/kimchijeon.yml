@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: well-fermented kimchi
+    name: well fermented kimchi
     raw: 200 g well-fermented kimchi
   - qty: 4
     unit: tbsp
@@ -41,7 +41,7 @@ ingredients:
     raw: 1 egg
   - qty: 120
     unit: ml
-    name: ice-cold water
+    name: ice cold water
     raw: 120 ml ice-cold water
   - qty: 1
     unit: tsp
@@ -71,7 +71,7 @@ ingredients:
     name: sesame seeds
     raw: 1 teaspoon sesame seeds
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     name: spring onion

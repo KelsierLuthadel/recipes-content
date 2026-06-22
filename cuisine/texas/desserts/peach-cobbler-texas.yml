@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: peaches ; or 1.2 kg frozen peach slices
+    name: peaches ;
     raw: 1.5 kg fresh peaches ; or 1.2 kg frozen peach slices
   - qty: 200
     unit: g

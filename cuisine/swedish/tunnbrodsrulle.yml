@@ -28,7 +28,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long swedish-style varmkorv
+    name: long swedish style varmkorv
     raw: 4 long Swedish-style varmkorv
   - qty: 1
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: ½ teaspoon ground white pepper
   - qty: 200
     unit: g
-    name: cold-water shrimps
+    name: cold water shrimps
     raw: 200 g cooked small cold-water shrimps
   - qty: 4
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 4 tablespoons mayonnaise
   - qty: 2
     unit: tbsp
-    name: sour cream or creme fraiche
+    name: sour cream
     raw: 2 tablespoons sour cream or crème fraîche
   - qty: 1
     unit: tbsp
@@ -77,7 +77,7 @@ ingredients:
     unit: tsp
     name: dijon mustard
     raw: 1 teaspoon Dijon mustard
-  - name: juice of ½ lemon
+  - name: ½ lemon
     raw: Juice of ½ lemon
   - qty: 0.5
     unit: tsp

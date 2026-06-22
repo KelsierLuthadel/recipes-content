@@ -17,11 +17,11 @@ mentions:
   - tutorials/distilling-spirits/whisky
   - tutorials/spices/storage
 ingredients:
-  - name: "speyside : 30 ml glenlivet 12yo or glenfiddich 12yo or macallan 12yo"
+  - name: "speyside : 30 ml glenlivet 12yo"
     raw: "Speyside : 30 ml Glenlivet 12yo OR Glenfiddich 12yo OR Macallan 12yo"
-  - name: "highland : 30 ml dalmore 12yo or glenmorangie original 10yo or old pulteney 12yo"
+  - name: "highland : 30 ml dalmore 12yo"
     raw: "Highland : 30 ml Dalmore 12yo OR Glenmorangie Original 10yo OR Old Pulteney 12yo"
-  - name: "islay : 30 ml laphroaig 10yo or lagavulin 16yo or ardbeg 10yo"
+  - name: "islay : 30 ml laphroaig 10yo"
     raw: "Islay : 30 ml Laphroaig 10yo OR Lagavulin 16yo OR Ardbeg 10yo"
   - name: dark chocolate
     raw: Dark chocolate

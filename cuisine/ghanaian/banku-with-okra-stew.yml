@@ -62,7 +62,7 @@ ingredients:
     name: scotch bonnets
     raw: 2 scotch bonnets, chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, minced
   - qty: 2
     name: ginger
@@ -73,7 +73,7 @@ ingredients:
     raw: 100 g dried fish , soaked 30 minutes, flaked
   - qty: 300
     unit: g
-    name: smoked turkey or beef
+    name: smoked turkey
     raw: 300 g smoked turkey or beef , cut into chunks
   - qty: 1
     unit: tsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 1 tsp ground crayfish
   - qty: 500
     unit: ml
-    name: stock or water
+    name: stock
     raw: 500 ml stock or water
   - qty: 1
     unit: tsp

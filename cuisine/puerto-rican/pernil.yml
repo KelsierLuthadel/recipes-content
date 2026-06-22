@@ -25,7 +25,7 @@ ingredients:
     name: pork shoulder picnic roast
     raw: 1 bone-in pork shoulder picnic roast
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 3
     unit: tbsp
@@ -39,9 +39,9 @@ ingredients:
     unit: tbsp
     name: white wine vinegar
     raw: 4 tablespoons white wine vinegar
-  - name: juice of 3 limes
+  - name: limes
     raw: Juice of 3 limes
-  - name: juice of 2 oranges
+  - name: oranges
     raw: Juice of 2 oranges
   - qty: 2
     unit: tbsp
@@ -101,5 +101,5 @@ ingredients:
     raw: Sofrito for spooning
   - name: lime wedges
     raw: Lime wedges
-  - name: coriander leaves
+  - name: coriander
     raw: Fresh coriander leaves

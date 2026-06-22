@@ -45,7 +45,7 @@ ingredients:
     name: jalapeno chile
     raw: 1 jalapeño chile
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 large garlic cloves
   - qty: 3
     unit: tbsp
@@ -71,7 +71,7 @@ ingredients:
     unit: tbsp
     name: yellow cornmeal
     raw: 2 tablespoons yellow cornmeal
-  - name: shredded cheddar or monterey jack
+  - name: shredded cheddar
     raw: Shredded Cheddar or Monterey Jack
   - name: red onion
     raw: Chopped red onion

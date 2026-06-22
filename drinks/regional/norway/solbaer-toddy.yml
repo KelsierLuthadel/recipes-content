@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: or frozen blackcurrants
+    name: fresh
     raw: 500 g fresh or frozen blackcurrants
   - qty: 500
     unit: ml
@@ -26,7 +26,7 @@ ingredients:
     unit: g
     name: caster sugar
     raw: 400 g caster sugar
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 200
     unit: ml

@@ -33,7 +33,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef tenderloin or top sirloin
+    name: beef tenderloin
     raw: 600 g beef tenderloin or top sirloin
   - qty: 2
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     name: dark soy sauce
     raw: 1 tablespoon dark soy sauce
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp
@@ -89,7 +89,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -126,7 +126,7 @@ ingredients:
   - qty: 1
     name: red chilli
     raw: 1 fresh red chilli
-  - name: fried egg per diner
+  - name: fried egg
     raw: A fried egg per diner
   - name: steamed jasmine rice
     raw: Steamed jasmine rice

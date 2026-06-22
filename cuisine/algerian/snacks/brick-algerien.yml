@@ -19,7 +19,7 @@ mentions:
   - base-ingredients/sauces/harissa
 ingredients:
   - qty: 8
-    name: sheets warqa pastry or filo
+    name: sheets warqa pastry
     raw: 8 sheets warqa pastry or filo
   - qty: 1
     name: tuna in olive oil
@@ -32,7 +32,7 @@ ingredients:
     name: capers
     raw: 2 tbsp capers, drained and roughly chopped
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, finely chopped
   - qty: 1
     unit: tbsp

@@ -16,11 +16,11 @@ ingredients:
     raw: 25 ml bourbon
   - qty: 25
     unit: ml
-    name: cognac or brandy
+    name: cognac
     raw: 25 ml cognac or brandy
   - qty: 25
     unit: ml
-    name: dark jamaican-style rum
+    name: dark jamaican style rum
     raw: 25 ml dark Jamaican-style rum
   - qty: 20
     unit: ml
@@ -40,5 +40,5 @@ ingredients:
     name: mint
     raw: 1 sprig fresh mint
   - qty: 4.5
-    name: berries or pineapple chunks
+    name: berries
     raw: 4-5 berries or pineapple chunks

@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef shoulder or chuck
+    name: beef shoulder
     raw: 1 kg beef shoulder or chuck, in 3 cm cubes
   - qty: 6
     unit: tbsp
@@ -38,7 +38,7 @@ ingredients:
     name: ginger
     raw: 4 cm fresh ginger, made into a paste
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves, made into a paste
   - qty: 2
     name: tomatoes

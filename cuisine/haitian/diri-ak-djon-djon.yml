@@ -38,7 +38,7 @@ ingredients:
     name: shallot
     raw: 1 shallot
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: scotch bonnet
@@ -61,7 +61,7 @@ ingredients:
     raw: 100 g cooked lima beans
   - qty: 400
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 400 g long-grain rice
   - qty: 1.5
     unit: tsp

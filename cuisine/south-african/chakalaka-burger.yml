@@ -42,7 +42,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     name: carrots
@@ -125,7 +125,7 @@ ingredients:
     name: cheddar cheese
     raw: 4 slices mature cheddar cheese
   - qty: 4
-    name: brioche or potato burger buns
+    name: brioche
     raw: 4 brioche or potato burger buns
   - qty: 2
     unit: tbsp
@@ -140,7 +140,7 @@ ingredients:
   - qty: 1
     name: red onion
     raw: 1 small red onion
-  - name: hand-cut chips
+  - name: hand cut chips
     raw: Hand-cut chips
-  - name: cold castle lager or black label
+  - name: cold castle lager
     raw: Cold Castle lager or Black Label

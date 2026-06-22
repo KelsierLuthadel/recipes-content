@@ -39,7 +39,7 @@ ingredients:
     name: leeks
     raw: 2 leeks
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: ginger
@@ -77,7 +77,7 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon ground black pepper
   - qty: 20
-    name: spring-roll pastry sheets
+    name: spring roll pastry sheets
     raw: 20 spring-roll pastry sheets
   - qty: 2
     unit: tbsp

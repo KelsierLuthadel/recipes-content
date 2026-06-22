@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: natural beef or hog sausage casings
+    name: natural beef
     raw: 1 m natural beef or hog sausage casings
   - qty: 500
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     name: ginger
     raw: 2 cm ginger, grated
   - qty: 1
-    name: to 2 bird's-eye chillies
+    name: to 2 bird's eye chillies
     raw: 1 to 2 bird's-eye chillies, finely chopped
   - qty: 2
     unit: tbsp

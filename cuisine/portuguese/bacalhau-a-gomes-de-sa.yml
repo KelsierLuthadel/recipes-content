@@ -30,7 +30,7 @@ ingredients:
     name: onions
     raw: 4 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 6
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     name: pitted black olives
     raw: 120 g pitted black olives
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley
   - qty: 2
     name: bay leaves

@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: beef fillet or top-cut rump
+    name: beef fillet
     raw: 400 g lean beef fillet OR top-cut rump
   - name: use beef from a butcher you trust
     raw: Use beef from a butcher you trust, the same day if possible
@@ -58,7 +58,7 @@ ingredients:
     raw: 4 cornichons , very finely chopped
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - qty: 1
     unit: tbsp
@@ -81,11 +81,11 @@ ingredients:
   - name: black pepper
     raw: A generous grind of black pepper
   - qty: 8
-    name: dark belgian rye bread or a small fresh baguette
+    name: dark belgian rye bread
     raw: 8 slices dark Belgian rye bread OR a small fresh baguette, sliced
   - name: salad leaves
     raw: A few salad leaves
-  - name: lemon wedge per person
+  - name: lemon wedge
     raw: A lemon wedge per person
   - name: "optional: a small mound of belgian frites alongside"
     raw: "Optional: a small mound of Belgian frites alongside"

@@ -31,7 +31,7 @@ ingredients:
   - qty: 2
     name: eating apples
     raw: 2 large eating apples , grated with skin on
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 2
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 50 g almonds, roughly chopped
   - qty: 50
     unit: g
-    name: sultanas or raisins
+    name: sultanas
     raw: 50 g sultanas or raisins
   - qty: 1
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     raw: 1 tsp ground cinnamon
   - qty: 1
     unit: handful
-    name: berries or seasonal fruit
+    name: berries
     raw: A handful of fresh berries or seasonal fruit
   - name: spoonful of extra yoghurt
     raw: A spoonful of extra yoghurt

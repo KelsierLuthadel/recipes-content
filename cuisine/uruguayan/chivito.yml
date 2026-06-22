@@ -33,7 +33,7 @@ ingredients:
     name: mozzarella
     raw: 4 slices of mozzarella
   - qty: 2
-    name: soft sandwich rolls or burger buns
+    name: soft sandwich rolls
     raw: 2 large soft sandwich rolls or burger buns
   - qty: 4
     name: lettuce leaves
@@ -57,7 +57,7 @@ ingredients:
     unit: g
     name: floury potatoes
     raw: 600 g floury potatoes
-  - name: sunflower or vegetable oil
+  - name: sunflower
     raw: Sunflower or vegetable oil for frying
   - name: salt
     raw: Fine salt

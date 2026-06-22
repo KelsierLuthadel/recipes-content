@@ -22,7 +22,7 @@ ingredients:
     name: unsalted butter
     raw: 115 g unsalted butter
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 60
     unit: ml
@@ -40,7 +40,7 @@ ingredients:
     raw: Kosher salt
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of chopped fresh flat-leaf parsley
   - name: lemon wedges
     raw: Lemon wedges

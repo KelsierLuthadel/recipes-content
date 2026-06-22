@@ -29,7 +29,7 @@ ingredients:
     raw: 500 g lamb mince
   - qty: 100
     unit: g
-    name: short-grain rice
+    name: short grain rice
     raw: 100 g short-grain rice
   - qty: 1
     name: onion
@@ -79,7 +79,7 @@ ingredients:
     name: greek yogurt
     raw: 400 g Greek yogurt
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tsp

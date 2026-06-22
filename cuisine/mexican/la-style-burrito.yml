@@ -27,13 +27,13 @@ mentions:
 ingredients:
   - qty: 750
     unit: g
-    name: chuck beef or pork shoulder
+    name: chuck beef
     raw: 750 g chuck beef or pork shoulder, cubed
   - qty: 1
     name: onion
     raw: 1 onion, finely chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 3
     name: guajillo chiles
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 tin cooked pinto beans, drained
   - qty: 2
     unit: tbsp
-    name: lard or oil
+    name: lard
     raw: 2 tbsp lard or oil
   - qty: 0.5
     name: /2 onion
@@ -81,11 +81,11 @@ ingredients:
     raw: 4 large flour tortillas
   - qty: 200
     unit: g
-    name: monterey jack or chihuahua cheese
+    name: monterey jack
     raw: 200 g Monterey Jack or Chihuahua cheese, grated
   - name: pickled jalapenos
     raw: Pickled jalapeños
-  - name: salsa or salsa roja
+  - name: salsa
     raw: Fresh salsa or salsa roja
   - qty: 1
     name: red chile

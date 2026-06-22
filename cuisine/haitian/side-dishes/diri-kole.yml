@@ -36,7 +36,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 3
     name: thyme
@@ -50,7 +50,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 400
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 400 g long-grain white rice
   - qty: 2
     unit: tbsp
@@ -60,7 +60,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 3
     unit: tbsp

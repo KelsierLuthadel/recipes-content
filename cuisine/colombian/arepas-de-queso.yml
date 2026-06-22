@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: pre-cooked white maize flour
+    name: pre cooked white maize flour
     raw: 350 g pre-cooked white maize flour
   - qty: 1.25
     unit: tsp
@@ -38,5 +38,5 @@ ingredients:
     raw: 30 g unsalted butter
   - name: butter
     raw: Extra butter
-  - name: hogao or guacamole
+  - name: hogao
     raw: Hogao or guacamole

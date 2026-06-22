@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: short-grain rice
+    name: short grain rice
     raw: 200 g short-grain rice
   - qty: 250
     unit: ml
@@ -61,7 +61,7 @@ ingredients:
     raw: 1 whole peeled almond
   - qty: 400
     unit: g
-    name: mixed berries or fresh
+    name: mixed berries
     raw: 400 g frozen mixed berries or fresh
   - qty: 80
     unit: g

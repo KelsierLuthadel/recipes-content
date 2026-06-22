@@ -23,7 +23,7 @@ ingredients:
     name: white bread flour
     raw: 500 g strong white bread flour
   - qty: 1
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 sachet fast-action yeast
   - qty: 1
     unit: tbsp
@@ -49,7 +49,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tablespoons sunflower oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tsp

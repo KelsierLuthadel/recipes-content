@@ -28,7 +28,7 @@ ingredients:
     raw: 1 tablespoon salt
   - qty: 300
     unit: g
-    name: short-grain rice
+    name: short grain rice
     raw: 300 g short-grain rice
   - qty: 400
     unit: g
@@ -38,7 +38,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: tomatoes
@@ -84,7 +84,7 @@ ingredients:
     name: olive oil
     raw: 100 ml olive oil
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp

@@ -42,7 +42,7 @@ ingredients:
     name: ginger
     raw: 4 cm fresh ginger, paste
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves, paste
   - qty: 2
     unit: tsp
@@ -124,7 +124,7 @@ ingredients:
     raw: 4 tbsp ghee
   - qty: 4
     unit: tbsp
-    name: rosewater or kewra water
+    name: rosewater
     raw: 4 tbsp rosewater or kewra water
   - qty: 1
     name: mint

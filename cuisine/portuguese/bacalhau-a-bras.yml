@@ -38,7 +38,7 @@ ingredients:
     name: onions
     raw: 3 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 6
     name: eggs
@@ -52,7 +52,7 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon black pepper
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch flat-leaf parsley
   - qty: 1
     unit: handful

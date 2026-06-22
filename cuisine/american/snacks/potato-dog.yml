@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: all-beef or pork-and-beef frankfurters
+    name: all beef
     raw: 4 all-beef or pork-and-beef frankfurters
   - qty: 4
     name: soft hot dog buns
@@ -48,7 +48,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -76,7 +76,7 @@ ingredients:
     raw: Ketchup
   - name: pickled hot peppers
     raw: Sliced pickled hot peppers
-  - name: beer or soda
+  - name: beer
     raw: Cold beer or soda
   - name: crinkle fries
     raw: Crinkle fries

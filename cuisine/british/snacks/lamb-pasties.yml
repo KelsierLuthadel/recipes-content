@@ -45,13 +45,13 @@ ingredients:
     name: plain flour
     raw: 25 grams plain flour
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.5
     unit: tsp
     name: thyme
     raw: ½ teaspoon thyme
-  - name: half teaspoon sage
+  - name: sage
     raw: half teaspoon sage
   - qty: 100
     unit: g

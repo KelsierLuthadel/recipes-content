@@ -18,11 +18,11 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: "peameal bacon : about 80-100 g per sandwich"
+    name: "peameal bacon : about 80 100 g"
     raw: "4 slices peameal bacon : about 80-100 g per sandwich"
   - qty: 1
     unit: tbsp
-    name: sunflower oil or a knob of butter
+    name: sunflower oil
     raw: 1 tablespoon sunflower oil OR a knob of butter
   - qty: 4
     name: kaiser rolls
@@ -43,7 +43,7 @@ ingredients:
     name: sour pickles
     raw: 4 whole sour pickles
   - qty: 1
-    name: pile of belgian-style or quebec-style frites or potato wedges
+    name: pile of belgian style
     raw: 1 pile of Belgian-style or Quebec-style frites OR potato wedges
-  - name: glass of cold canadian lager or a tim hortons coffee
+  - name: glass of cold canadian lager
     raw: A glass of cold Canadian lager OR a Tim Hortons coffee

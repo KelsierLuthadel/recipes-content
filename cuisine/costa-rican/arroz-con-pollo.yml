@@ -35,7 +35,7 @@ ingredients:
     name: carrot
     raw: 1 carrot, halved
   - qty: 2
-    name: celery sticks
+    name: celery
     raw: 2 celery sticks
   - qty: 1
     name: coriander stalks
@@ -62,7 +62,7 @@ ingredients:
     name: green sweet pepper
     raw: 1 green sweet pepper, finely diced
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, finely chopped
   - qty: 1
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 1 tbsp achiote paste, or 1 tsp ground turmeric
   - qty: 500
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 500 g long-grain white rice, rinsed
   - qty: 200
     unit: g
@@ -78,7 +78,7 @@ ingredients:
     raw: 200 g frozen peas
   - qty: 100
     unit: g
-    name: pimento-stuffed green olives
+    name: pimento stuffed green olives
     raw: 100 g pimento-stuffed green olives, sliced
   - qty: 2
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     raw: 3 tbsp mayonnaise
   - qty: 1
     unit: large handful
-    name: coriander leaves
+    name: coriander
     raw: 1 large handful coriander leaves, chopped
   - name: lime wedges
     raw: Lime wedges, to serve

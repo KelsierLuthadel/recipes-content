@@ -36,12 +36,12 @@ ingredients:
   - name: wooden toothpicks
     raw: Wooden toothpicks
   - qty: 8
-    name: soft corn tortillas ; or substitute with soft flour tortillas
+    name: soft corn tortillas ;
     raw: 8 medium soft corn tortillas ; or substitute with soft flour tortillas
   - qty: 4
     name: avocados
     raw: 4 ripe avocados
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 1
     name: cilantro
@@ -51,7 +51,7 @@ ingredients:
     name: sea salt
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 300
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     name: white onion
     raw: 1 small white onion
   - qty: 1
-    name: red chilli or jalapeno
+    name: red chilli
     raw: 1 fresh red chilli or jalapeño
   - qty: 4
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     raw: 2 tablespoons crumbled queso fresco
   - name: cold gallo
     raw: A cold Gallo
-  - name: or a freshly-squeezed lime juice
+  - name: or a freshly squeezed lime juice
     raw: Or a freshly-squeezed lime juice
   - name: hot sauce on the side for those who want extra heat
     raw: Hot sauce on the side for those who want extra heat

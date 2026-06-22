@@ -61,7 +61,7 @@ ingredients:
     name: neutral oil
     raw: 2 tablespoons neutral oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: onion
@@ -80,14 +80,14 @@ ingredients:
     raw: 2 tablespoons dark brown sugar
   - qty: 1
     unit: tsp
-    name: chinese five-spice
+    name: chinese five spice
     raw: 1 teaspoon Chinese five-spice
   - qty: 1
     unit: tbsp
     name: cornflour
     raw: 1 tablespoon cornflour
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs
-  - name: soy-vinegar dip
+  - name: soy vinegar dip
     raw: Soy-vinegar dip

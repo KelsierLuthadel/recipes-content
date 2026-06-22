@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef chuck or shin or brisket
+    name: beef chuck
     raw: 1 kg beef chuck OR shin OR brisket, cut into 4 cm cubes
   - qty: 2
     unit: tbsp
@@ -42,7 +42,7 @@ ingredients:
     raw: 1 teaspoon black pepper
   - qty: 2
     unit: tbsp
-    name: sunflower oil or rendered bacon fat
+    name: sunflower oil
     raw: 2 tablespoons sunflower oil OR rendered bacon fat
   - qty: 1
     unit: kg
@@ -66,7 +66,7 @@ ingredients:
     raw: 600 ml beef stock
   - qty: 200
     unit: ml
-    name: dark dutch lager or water
+    name: dark dutch lager
     raw: 200 ml dark Dutch lager OR water
   - qty: 3
     unit: tbsp
@@ -74,7 +74,7 @@ ingredients:
     raw: 3 tablespoons apple cider vinegar
   - qty: 1
     unit: tbsp
-    name: dark soy sauce or worcestershire sauce
+    name: dark soy sauce
     raw: 1 tablespoon dark soy sauce OR Worcestershire sauce
   - qty: 1
     unit: tbsp
@@ -108,9 +108,9 @@ ingredients:
     raw: 1 tablespoon cold unsalted butter
   - name: salt
     raw: Salt to taste
-  - name: stamppot boerenkool or hutspot or 800 g boiled new potatoes
+  - name: stamppot boerenkool
     raw: Stamppot boerenkool OR Hutspot OR 800 g boiled new potatoes
   - name: side of braised red cabbage
     raw: A side of braised red cabbage
-  - name: glass of cold dutch lager or a dark abbey-style beer
+  - name: glass of cold dutch lager
     raw: A glass of cold Dutch lager OR a dark abbey-style beer

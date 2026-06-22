@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef shin or short rib on the bone
+    name: beef shin
     raw: 600 g beef shin or short rib on the bone, cut into pieces
   - qty: 200
     unit: g
@@ -79,7 +79,7 @@ ingredients:
     raw: 400 g floury potatoes for chips
   - name: oil
     raw: Oil for frying
-  - name: oregano or parsley
+  - name: oregano
     raw: Fresh oregano or parsley
   - name: salt
     raw: Salt

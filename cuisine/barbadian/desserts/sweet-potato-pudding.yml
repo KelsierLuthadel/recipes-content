@@ -29,7 +29,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: orange-fleshed sweet potato
+    name: orange fleshed sweet potato
     raw: 1 kg orange-fleshed sweet potato , peeled and grated coarsely
   - qty: 200
     unit: g
@@ -81,7 +81,7 @@ ingredients:
     unit: tbsp
     name: thyme leaves
     raw: 1 tablespoon fresh thyme leaves
-  - name: zest of 1 lime
+  - name: lime
     raw: Finely grated zest of 1 lime
   - qty: 100
     unit: g
@@ -89,11 +89,11 @@ ingredients:
     raw: 100 g raisins
   - qty: 50
     unit: g
-    name: cherries or dried cranberries
+    name: cherries
     raw: 50 g chopped dried cherries or dried cranberries
   - qty: 50
     unit: g
-    name: pecans or walnuts
+    name: pecans
     raw: 50 g chopped pecans or walnuts
   - qty: 2
     unit: tbsp
@@ -107,7 +107,7 @@ ingredients:
     unit: tbsp
     name: unsalted butter
     raw: 2 tablespoons unsalted butter, in small dabs
-  - name: bajan tea or a thick pouring custard
+  - name: bajan tea
     raw: A cup of strong Bajan tea OR a thick pouring custard
   - qty: 1
     unit: small drizzle

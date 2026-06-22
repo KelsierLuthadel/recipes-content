@@ -37,24 +37,24 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 0.5
     name: green pepper
     raw: ½ green pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: bay leaf
     raw: 1 bay leaf
   - qty: 200
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 200 g cooked long-grain rice
   - qty: 30
     unit: g
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 30 g flat-leaf parsley
   - qty: 3
     name: spring onions

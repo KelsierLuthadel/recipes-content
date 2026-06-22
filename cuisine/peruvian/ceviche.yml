@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: firm white-fleshed sea fish
+    name: firm white fleshed sea fish
     raw: "600 g very fresh firm white-fleshed sea fish, sashimi-grade. Best options: corvina, sea bass, halibut, sole, red snapper, sea bream. Cut against the grain into 1.5 cm cubes."
   - qty: 200
     unit: ml
@@ -33,7 +33,7 @@ ingredients:
     name: red onion
     raw: 1 large red onion, halved and sliced into 2 mm half-moons
   - qty: 1
-    name: aji limo or aji amarillo chilli
+    name: aji limo
     raw: 1 aji limo OR aji amarillo chilli , deseeded and very finely chopped
   - qty: 4
     name: cilantro stems
@@ -63,7 +63,7 @@ ingredients:
     name: sweet potato
     raw: 200 g sweet potato , peeled, boiled in salted water 15 minutes till tender, sliced into 1 cm rounds
   - qty: 1.5
-    name: ears of choclo or regular sweetcorn
+    name: ears of choclo
     raw: 1-2 ears of choclo OR regular sweetcorn, boiled and cut into 3 cm rounds
   - qty: 100
     unit: g

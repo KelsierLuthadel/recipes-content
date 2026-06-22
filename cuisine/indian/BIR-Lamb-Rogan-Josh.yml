@@ -33,7 +33,7 @@ mentions:
 ingredients:
   - qty: 4
     unit: tbsp
-    name: rapeseed oil or seasoned oil
+    name: rapeseed oil
     raw: 4 tbsp rapeseed oil or seasoned oil
   - qty: 2
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 500 ml Curry Base Gravy
   - qty: 750
     unit: g
-    name: pre-cooked lamb
+    name: pre cooked lamb
     raw: 750 g Pre-cooked Lamb
   - qty: 200
     unit: ml
@@ -94,5 +94,5 @@ ingredients:
     raw: Salt, to taste
   - qty: 3
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 3 tbsp chopped coriander leaves

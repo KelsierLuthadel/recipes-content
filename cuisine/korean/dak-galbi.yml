@@ -50,7 +50,7 @@ ingredients:
     name: brown sugar
     raw: 2 tablespoons brown sugar
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -88,7 +88,7 @@ ingredients:
     unit: g
     name: mozzarella
     raw: 100 g mozzarella
-  - name: short-grain rice
+  - name: short grain rice
     raw: Cooked short-grain rice
   - name: lettuce leaves
     raw: Lettuce leaves

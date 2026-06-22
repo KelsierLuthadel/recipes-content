@@ -25,7 +25,7 @@ ingredients:
     unit: g
     name: caster sugar
     raw: 100 g caster sugar
-  - name: juice of 3 lemons
+  - name: lemons
     raw: Juice of 3 lemons
   - qty: 1
     unit: tbsp

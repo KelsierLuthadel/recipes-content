@@ -23,10 +23,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 12.5
-    name: bird's-eye chillies
+    name: bird's eye chillies
     raw: 10-15 bird's-eye chillies
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tsp

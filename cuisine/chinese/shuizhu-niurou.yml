@@ -75,7 +75,7 @@ ingredients:
     name: ginger
     raw: 25 g fresh ginger
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: spring onions
@@ -113,7 +113,7 @@ ingredients:
     name: sichuan peppercorn powder
     raw: 1 teaspoon Sichuan peppercorn powder
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: spring onions

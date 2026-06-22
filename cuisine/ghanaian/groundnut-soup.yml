@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: chicken pieces or goat shoulder
+    name: chicken pieces
     raw: 1 kg bone-in chicken pieces or goat shoulder, cut into chunks
   - qty: 200
     unit: g
@@ -48,7 +48,7 @@ ingredients:
     name: ginger
     raw: 4 cm ginger
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     raw: 2 tbsp tomato paste
   - qty: 1.5
     unit: l
-    name: stock or water
+    name: stock
     raw: 1.5 litres stock or water
   - qty: 2
     name: bay leaves

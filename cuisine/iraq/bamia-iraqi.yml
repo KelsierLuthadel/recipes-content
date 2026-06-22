@@ -36,7 +36,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
     unit: tbsp
@@ -77,13 +77,13 @@ ingredients:
     name: samna
     raw: 3 tablespoons samna
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
   - qty: 4
-    name: timman ahmar or plain basmati
+    name: timman ahmar
     raw: 4 servings cooked timman ahmar or plain basmati
   - name: lemon wedges
     raw: Lemon wedges

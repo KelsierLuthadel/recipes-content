@@ -37,10 +37,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: leek or 4 spring onions
+    name: leek
     raw: 1 leek OR 4 spring onions
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 1
     name: parsley

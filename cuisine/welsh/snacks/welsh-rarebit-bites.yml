@@ -25,7 +25,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 24
-    name: rounds cut from a slightly stale white loaf or sourdough
+    name: rounds cut from a slightly stale white loaf
     raw: 24 small rounds cut from a slightly stale white loaf or sourdough
   - qty: 25
     unit: g
@@ -37,7 +37,7 @@ ingredients:
     raw: 25 g plain flour
   - qty: 100
     unit: ml
-    name: brown ale or stout
+    name: brown ale
     raw: 100 ml brown ale or stout
   - qty: 200
     unit: g
@@ -60,5 +60,5 @@ ingredients:
     raw: Pinch of cayenne pepper
   - name: black pepper
     raw: Black pepper
-  - name: "optional: finely sliced spring onion or chives"
+  - name: "optional: finely sliced spring onion"
     raw: "Optional: finely sliced spring onion or chives, to scatter"

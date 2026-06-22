@@ -18,9 +18,9 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - name: "option a: 8 shop-bought tartlet shells"
+  - name: "option a: 8 shop bought tartlet shells"
     raw: "Option A: 8 shop-bought tartlet shells"
-  - name: "option b : 1 sheet good-quality butter puff pastry"
+  - name: "option b : 1 sheet good quality butter puff pastry"
     raw: "Option B : 1 sheet good-quality butter puff pastry, baked into 8 tartlet shells"
   - qty: 500
     unit: g
@@ -61,7 +61,7 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: juice of ½ lemon
+  - name: ½ lemon
     raw: Juice of ½ lemon
   - qty: 0.5
     unit: tsp
@@ -79,7 +79,7 @@ ingredients:
     raw: A few pickled white asparagus tips
   - qty: 1
     unit: sprig
-    name: dill or parsley
+    name: dill
     raw: Sprigs of fresh dill or parsley
   - name: black pepper
     raw: Ground black pepper

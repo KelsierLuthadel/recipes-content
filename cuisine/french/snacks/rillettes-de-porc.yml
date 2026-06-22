@@ -24,13 +24,13 @@ ingredients:
     raw: 1.2 kg boneless pork shoulder
   - qty: 200
     unit: g
-    name: pork back fat or lard
+    name: pork back fat
     raw: 200 g pork back fat OR lard
   - qty: 2
     name: shallots
     raw: 2 shallots
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     unit: sprig
@@ -78,5 +78,5 @@ ingredients:
     raw: Cornichons
   - name: dijon mustard
     raw: Dijon mustard
-  - name: dry white wine or sparkling cider
+  - name: dry white wine
     raw: A dry white wine or sparkling cider

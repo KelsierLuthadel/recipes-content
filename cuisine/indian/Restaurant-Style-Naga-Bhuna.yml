@@ -54,7 +54,7 @@ ingredients:
     name: to 2 garlic cloves
     raw: 1 to 2 garlic cloves, thinly sliced
   - qty: 1.5
-    name: to 2 tsp ginger-garlic paste
+    name: to 2 tsp ginger garlic paste
     raw: 1.5 to 2 tsp ginger-garlic paste
   - qty: 1.25
     unit: tsp
@@ -62,7 +62,7 @@ ingredients:
     raw: 1.25 tsp Mix Powder
   - qty: 1
     unit: tsp
-    name: extra-hot chilli powder
+    name: extra hot chilli powder
     raw: 1 tsp extra-hot chilli powder, or Deggi Mirch
   - qty: 1
     unit: tsp
@@ -95,7 +95,7 @@ ingredients:
     name: to 2 fresh naga chillies
     raw: 1 to 2 fresh naga chillies, very finely chopped, or 1 tbsp naga pickle
   - qty: 175
-    name: to 200 g pre-cooked chicken
+    name: to 200 g pre cooked chicken
     raw: 175 to 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, chicken tikka, or vegetables
   - qty: 250
     name: ml+ curry base gravy
@@ -112,8 +112,8 @@ ingredients:
     raw: 1.5 tsp mango chutney
   - qty: 1
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 1 tbsp finely chopped fresh coriander leaves
   - qty: 1
-    name: tomato or cucumber
+    name: tomato
     raw: 1 slice tomato or cucumber, to garnish

@@ -31,10 +31,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: white-fleshed fish
+    name: white fleshed fish
     raw: 1 large whole white-fleshed fish
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: coriander
@@ -53,7 +53,7 @@ ingredients:
     unit: tbsp
     name: lemon juice
     raw: 3 tablespoons fresh lemon juice
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 2
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 tablespoon hot paprika
   - qty: 2
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 2 tablespoons piri-piri sauce
   - qty: 2
     unit: tsp
@@ -87,11 +87,11 @@ ingredients:
     name: unsalted butter
     raw: 80 g unsalted butter
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 2 tablespoons piri-piri sauce
   - qty: 1
     unit: tbsp
@@ -111,9 +111,9 @@ ingredients:
     raw: Salada Mozambicana
   - name: lemon wedges
     raw: Lemon wedges
-  - name: crispy chips or boiled new potatoes
+  - name: crispy chips
     raw: Crispy chips or boiled new potatoes
-  - name: piri-piri sauce
+  - name: piri piri sauce
     raw: Extra piri-piri sauce
-  - name: beer or vinho verde
+  - name: beer
     raw: Cold beer or vinho verde

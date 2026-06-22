@@ -57,7 +57,7 @@ ingredients:
     raw: 200 ml evaporated milk
   - qty: 400
     unit: g
-    name: caribbean-style or extra-mature cheddar
+    name: caribbean style
     raw: 400 g mature Caribbean-style or extra-mature cheddar, grated
   - qty: 100
     unit: g
@@ -102,5 +102,5 @@ ingredients:
     raw: 2 tablespoons unsalted butter, in small dabs
   - name: goes alongside bajan stew chicken
     raw: Goes alongside Bajan stew chicken, fried chicken, rice and peas, fried plantain.
-  - name: cold banks lager or a glass of sorrel or mauby.
+  - name: cold banks lager
     raw: Cold Banks lager OR a glass of sorrel or mauby.

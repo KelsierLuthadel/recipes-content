@@ -27,7 +27,7 @@ ingredients:
     name: unsalted butter
     raw: 60 g unsalted butter, soft
   - qty: 4
-    name: belgian ardennes ham or good cooked jambon d'ardenne
+    name: belgian ardennes ham
     raw: 4 slices Belgian Ardennes ham OR good cooked jambon d'Ardenne
   - qty: 80
     unit: g
@@ -39,7 +39,7 @@ ingredients:
     raw: 80 g Emmental, finely grated
   - qty: 30
     unit: g
-    name: bruges vieux or aged gouda
+    name: bruges vieux
     raw: 30 g Bruges Vieux OR aged Gouda, finely grated
   - qty: 1
     unit: pinch
@@ -80,11 +80,11 @@ ingredients:
     unit: g
     name: emmental
     raw: 40 g Emmental, finely grated
-  - name: green salad with a lemon-dijon vinaigrette
+  - name: green salad with a lemon dijon vinaigrette
     raw: A small green salad with a lemon-Dijon vinaigrette
   - qty: 1
     unit: handful
-    name: belgian frites or a few cornichons
+    name: belgian frites
     raw: A handful of Belgian frites OR a few cornichons
-  - name: cold belgian lager or a witbier
+  - name: cold belgian lager
     raw: A cold Belgian lager OR a witbier

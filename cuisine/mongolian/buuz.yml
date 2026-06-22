@@ -40,7 +40,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tsp
@@ -73,5 +73,5 @@ ingredients:
     raw: Soured cream
   - name: pickled cabbage
     raw: Pickled cabbage
-  - name: bowl of soy-vinegar dipping sauce
+  - name: bowl of soy vinegar dipping sauce
     raw: A small bowl of soy-vinegar dipping sauce

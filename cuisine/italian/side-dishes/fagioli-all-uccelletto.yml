@@ -19,14 +19,14 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: cannellini beans ; or 250 g dried beans soaked overnight and pre-cooked
+    name: cannellini beans ;
     raw: 600 g cooked cannellini beans ; or 250 g dried beans soaked overnight and pre-cooked
   - qty: 6
     unit: tbsp
     name: virgin olive oil
     raw: 6 tablespoons extra virgin olive oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 14
     name: sage leaves
@@ -36,7 +36,7 @@ ingredients:
     name: red pepper flakes
     raw: 1 teaspoon red pepper flakes
   - qty: 1
-    name: tomatoes; or 4 fresh tomatoes
+    name: tomatoes;
     raw: 1 tin chopped tomatoes; or 4 fresh tomatoes
   - qty: 1.5
     unit: tsp

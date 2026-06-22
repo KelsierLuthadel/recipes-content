@@ -34,7 +34,7 @@ ingredients:
     name: eggs
     raw: 2 large eggs
   - qty: 2
-    name: white bloomer or sourdough
+    name: white bloomer
     raw: 2 thick slices white bloomer or sourdough
   - qty: 2
     name: tomatoes
@@ -61,7 +61,7 @@ ingredients:
     raw: bacon fat from the rashers
   - name: black pepper
     raw: black pepper
-  - name: hp sauce or brown sauce
+  - name: hp sauce
     raw: HP sauce or brown sauce
   - name: buttered toast
     raw: buttered toast

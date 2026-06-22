@@ -53,7 +53,7 @@ ingredients:
     raw: 4 tbsp oil , the remainder after the scorch
   - qty: 1.5
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1.5 tsp ginger-garlic paste
   - qty: 1.25
     unit: tsp
@@ -76,7 +76,7 @@ ingredients:
     raw: 4 tbsp tomato paste
   - qty: 200
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, chicken tikka, or Pre-Cooked Lamb
   - qty: 1
     unit: tbsp
@@ -94,5 +94,5 @@ ingredients:
     raw: 1 tbsp onion paste / bunjarra
   - qty: 1
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

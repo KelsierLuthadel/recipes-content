@@ -30,7 +30,7 @@ ingredients:
     name: prawns
     raw: 16 large fresh prawns
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     name: red chillies
@@ -43,7 +43,7 @@ ingredients:
     unit: tbsp
     name: lemon juice
     raw: 2 tablespoons fresh lemon juice
-  - name: zest of 2 lemons
+  - name: lemons
     raw: Zest of 2 lemons
   - qty: 2
     unit: tbsp
@@ -71,18 +71,18 @@ ingredients:
     raw: 1 tablespoon Worcestershire sauce
   - qty: 4
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 4 tablespoons piri-piri sauce
   - qty: 100
     unit: g
     name: unsalted butter
     raw: 100 g unsalted butter
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 2 tablespoons piri-piri sauce
   - qty: 1
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     unit: tbsp
     name: parsley
     raw: 1 tablespoon fresh parsley
-  - name: arroz blanco or arroz de coco
+  - name: arroz blanco
     raw: Arroz blanco or arroz de coco
   - name: salada mozambicana
     raw: Salada Mozambicana
@@ -102,5 +102,5 @@ ingredients:
     raw: Lemon wedges
   - name: coriander
     raw: Fresh coriander
-  - name: piri-piri sauce
+  - name: piri piri sauce
     raw: Extra piri-piri sauce

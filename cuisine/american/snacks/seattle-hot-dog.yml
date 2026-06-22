@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: bratwurst sausages or chunky all-beef frankfurters
+    name: bratwurst sausages
     raw: 4 bratwurst sausages or chunky all-beef frankfurters
   - qty: 4
     name: hot dog buns
@@ -70,7 +70,7 @@ ingredients:
     raw: Sriracha hot sauce
   - name: "optional: chopped fresh chives"
     raw: "Optional: chopped fresh chives"
-  - name: local ipa or pale ale
+  - name: local ipa
     raw: Local IPA or pale ale
   - name: kettle chips
     raw: Kettle chips

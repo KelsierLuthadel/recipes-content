@@ -38,7 +38,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: celery stick
+    name: celery
     raw: 1 celery stick
   - qty: 1
     name: carrot
@@ -58,7 +58,7 @@ ingredients:
     name: silverbeet leaves
     raw: 80 grams silverbeet leaves
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 3
     unit: tbsp
@@ -96,7 +96,7 @@ ingredients:
     name: pine nuts
     raw: 20 grams pine nuts
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 100
     unit: ml

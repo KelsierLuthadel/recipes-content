@@ -50,7 +50,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 2
     unit: tbsp
@@ -66,7 +66,7 @@ ingredients:
     raw: 1 teaspoon paprika
   - qty: 0.5
     unit: tsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: ½ teaspoon piri-piri sauce
   - qty: 1
     unit: tbsp

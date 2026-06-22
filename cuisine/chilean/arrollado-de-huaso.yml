@@ -38,7 +38,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: parsley
@@ -88,7 +88,7 @@ ingredients:
     name: celery
     raw: 1 stalk celery
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     unit: tbsp

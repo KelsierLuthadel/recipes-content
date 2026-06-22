@@ -34,7 +34,7 @@ ingredients:
     name: chipotle peppers
     raw: 2 dried chipotle peppers
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 100
     unit: g
@@ -74,5 +74,5 @@ ingredients:
     raw: 1 tablespoon toasted nori
   - qty: 30
     unit: g
-    name: toasted almonds or pine nuts
+    name: toasted almonds
     raw: 30 g toasted almonds or pine nuts

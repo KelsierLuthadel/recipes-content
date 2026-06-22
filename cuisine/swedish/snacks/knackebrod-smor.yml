@@ -31,7 +31,7 @@ ingredients:
     raw: 1 teaspoon flaky sea salt
   - qty: 1
     unit: tsp
-    name: caraway seeds or whole cumin seeds
+    name: caraway seeds
     raw: 1 teaspoon caraway seeds OR whole cumin seeds
   - qty: 0.5
     unit: tsp
@@ -49,7 +49,7 @@ ingredients:
     name: smoked salmon
     raw: 4 slices smoked salmon
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs
   - name: pickled herring fillets
     raw: Pickled herring fillets

@@ -30,14 +30,14 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: lamb shoulder or leg
+    name: lamb shoulder
     raw: 1.2 kg boneless lamb shoulder or leg
   - qty: 300
     unit: g
     name: plain yogurt
     raw: 300 g plain yogurt
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     unit: tbsp
@@ -104,9 +104,9 @@ ingredients:
     raw: 12 small cherry tomatoes
   - name: olive oil for brushing the vegetables
     raw: Olive oil for brushing the vegetables
-  - name: warm pide bread or lavash flatbread
+  - name: warm pide bread
     raw: Warm pide bread or lavash flatbread
-  - name: "yogurt-garlic sauce: 300 g yogurt + 2 crushed garlic cloves + salt + 1 teaspoon dried mint"
+  - name: "yogurt garlic sauce: 300 g yogurt + 2 crushed garlic cloves + salt + 1 teaspoon dried mint"
     raw: "Yogurt-garlic sauce: 300 g yogurt + 2 crushed garlic cloves + salt + 1 teaspoon dried mint"
   - name: "sumac onions: 1 large red onion tossed with 1 tablespoon sumac"
     raw: "Sumac onions: 1 large red onion tossed with 1 tablespoon sumac, 1 tablespoon olive oil and a pinch of salt"

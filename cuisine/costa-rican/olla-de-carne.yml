@@ -37,7 +37,7 @@ ingredients:
     name: red sweet pepper
     raw: 1 red sweet pepper, halved and seeded
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, smashed
   - qty: 2
     unit: stick
@@ -72,7 +72,7 @@ ingredients:
     name: green plantain
     raw: 1 large green plantain, peeled and cut into thick rings
   - qty: 2
-    name: corn-on-the-cob
+    name: corn on the cob
     raw: 2 corn-on-the-cob, cut into 4 cm rings
   - qty: 2
     name: carrots

@@ -25,7 +25,7 @@ ingredients:
     raw: 100 g plain rice flour
   - qty: 250
     unit: g
-    name: dark muscovado or palm sugar
+    name: dark muscovado
     raw: 250 g dark muscovado or palm sugar
   - qty: 400
     unit: ml
@@ -40,7 +40,7 @@ ingredients:
     name: sea salt
     raw: A small pinch of fine sea salt
   - qty: 4
-    name: jujubes or pitted dates
+    name: jujubes
     raw: 4 dried jujubes or pitted dates
   - qty: 1
     unit: tsp

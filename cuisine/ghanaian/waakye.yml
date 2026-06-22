@@ -20,11 +20,11 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black-eyed peas or cowpeas
+    name: black eyed peas
     raw: 300 g black-eyed peas or cowpeas, soaked overnight
   - qty: 350
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 350 g long-grain rice, rinsed
   - qty: 7
     name: waakye leaves
@@ -49,10 +49,10 @@ ingredients:
     name: gari
     raw: 2 tbsp gari
   - qty: 1
-    name: hard-boiled egg
+    name: hard boiled egg
     raw: 1 hard-boiled egg, halved
   - qty: 2
     name: fried plantain
     raw: 2 slices fried plantain
-  - name: ladle of tomato stew or salad
+  - name: ladle of tomato stew
     raw: A ladle of tomato stew or salad

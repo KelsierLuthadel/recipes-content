@@ -21,7 +21,7 @@ ingredients:
     name: cervelat sausages
     raw: 8 cervelat sausages
   - qty: 1
-    name: baguette or 8 small bread rolls
+    name: baguette
     raw: 1 baguette or 8 small bread rolls
   - name: yellow mustard
     raw: Strong yellow mustard
@@ -29,5 +29,5 @@ ingredients:
     raw: Wholegrain mustard
   - name: salted butter
     raw: Salted butter for the bread
-  - name: "optional: pickled gherkins or onions"
+  - name: "optional: pickled gherkins"
     raw: "Optional: pickled gherkins or onions to serve"

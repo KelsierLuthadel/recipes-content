@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 12
-    name: red yellow or orange bell peppers
+    name: red yellow
     raw: 12 medium red, yellow or orange bell peppers
   - qty: 3
     unit: tbsp
@@ -37,7 +37,7 @@ ingredients:
     raw: 500 g minced beef
   - qty: 200
     unit: g
-    name: short-grain or medium-grain rice
+    name: short grain
     raw: 200 g short-grain or medium-grain rice
   - qty: 2
     unit: clove
@@ -52,7 +52,7 @@ ingredients:
     raw: 1/2 tsp ground allspice
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of flat-leaf parsley, chopped
   - qty: 1
     unit: small handful
@@ -82,7 +82,7 @@ ingredients:
     raw: 1 tbsp tomato puree
   - qty: 500
     unit: ml
-    name: chicken or beef stock
+    name: chicken
     raw: 500 ml chicken or beef stock
   - qty: 1
     unit: tsp
@@ -94,7 +94,7 @@ ingredients:
     raw: 1 tsp sugar
   - name: bay leaf
     raw: A bay leaf
-  - name: greek-style yoghurt
+  - name: greek style yoghurt
     raw: Thick Greek-style yoghurt
   - name: crusty country bread
     raw: Crusty country bread

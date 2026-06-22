@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: madeira cake or sponge cake
+    name: madeira cake
     raw: 250 g Madeira cake or sponge cake
   - qty: 4
     unit: tbsp
@@ -30,7 +30,7 @@ ingredients:
     raw: 4 tablespoons Drambuie
   - qty: 4
     unit: tbsp
-    name: single-malt scotch
+    name: single malt scotch
     raw: 4 tablespoons single-malt Scotch
   - qty: 6
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     unit: handful
     name: raspberries
     raw: A handful of extra whole raspberries
-  - name: crystallised mint leaves or small sprigs of fresh mint
+  - name: crystallised mint leaves
     raw: A few crystallised mint leaves or small sprigs of fresh mint
   - name: dusting of icing sugar
     raw: A dusting of icing sugar

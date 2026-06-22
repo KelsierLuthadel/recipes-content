@@ -51,11 +51,11 @@ ingredients:
     unit: tbsp
     name: vanilla extract
     raw: 1 tbsp vanilla extract
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 250
     unit: g
-    name: plum or rose-hip jam
+    name: plum
     raw: 250 g thick plum or rose-hip jam
   - qty: 1.5
     unit: l

@@ -39,7 +39,7 @@ ingredients:
     name: water
     raw: 350 ml cold water
   - qty: 2
-    name: heaped teaspoons loose-leaf strong black tea
+    name: heaped teaspoons loose leaf strong black tea
     raw: 2 heaped teaspoons loose-leaf strong black tea
   - qty: 250
     unit: ml
@@ -48,5 +48,5 @@ ingredients:
   - qty: 2
     name: to 3 teaspoons sugar
     raw: 2 to 3 teaspoons sugar
-  - name: pour straight into small glasses or steel tumblers
+  - name: pour straight into small glasses
     raw: Pour straight into small glasses or steel tumblers

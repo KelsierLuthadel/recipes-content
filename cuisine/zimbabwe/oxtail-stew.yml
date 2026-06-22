@@ -35,13 +35,13 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 4
-    name: tomatoes or 1 tin
+    name: tomatoes
     raw: 4 tomatoes or 1 tin
   - qty: 2
     unit: tbsp

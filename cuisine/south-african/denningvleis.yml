@@ -44,7 +44,7 @@ ingredients:
     name: onions
     raw: 3 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -97,7 +97,7 @@ ingredients:
     raw: Salt and pepper
   - name: yellow rice
     raw: Yellow rice
-  - name: "sambals: chopped tomato-and-onion relish"
+  - name: "sambals: chopped tomato and onion relish"
     raw: "Sambals: chopped tomato-and-onion relish"
   - name: bowl of chopped fresh coriander
     raw: A bowl of chopped fresh coriander

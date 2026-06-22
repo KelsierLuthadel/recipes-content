@@ -45,17 +45,17 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 110
     unit: ml
-    name: milk or water
+    name: milk
     raw: 100-120 ml whole milk OR water, lukewarm
   - qty: 400
     unit: g
-    name: halloumi or peruvian queso paria or queso fresco
+    name: halloumi
     raw: 400 g halloumi OR Peruvian queso paria OR queso fresco
   - name: cut into batons about 6 cm × 1 cm × 1 cm
     raw: Cut into batons about 6 cm × 1 cm × 1 cm
   - qty: 1.5
     unit: l
-    name: sunflower or groundnut oil
+    name: sunflower
     raw: 1.5 litres sunflower or groundnut oil
   - qty: 4
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     name: saltines
     raw: 2 saltines
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     unit: tbsp
@@ -105,5 +105,5 @@ ingredients:
     raw: A small platter
   - name: wooden toothpicks
     raw: Wooden toothpicks
-  - name: beer or chicha morada to drink
+  - name: beer
     raw: Cold beer or chicha morada to drink

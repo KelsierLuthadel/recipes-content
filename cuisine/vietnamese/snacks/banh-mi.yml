@@ -37,13 +37,13 @@ ingredients:
     name: kewpie
     raw: 4 tablespoons Kewpie
   - qty: 8
-    name: vietnamese pork roll or cooked ham
+    name: vietnamese pork roll
     raw: 8 thin slices of Vietnamese pork roll or cooked ham
   - qty: 4
-    name: vietnamese head cheese or cooked pork shoulder
+    name: vietnamese head cheese
     raw: 4 slices of Vietnamese head cheese or cooked pork shoulder
   - qty: 4
-    name: char siu or grilled pork belly
+    name: char siu
     raw: 4 slices of char siu or grilled pork belly
   - qty: 1
     name: cucumber
@@ -53,7 +53,7 @@ ingredients:
     name: dua chua
     raw: 150 g dưa chua
   - qty: 1
-    name: bird's-eye chilli
+    name: bird's eye chilli
     raw: 1 bird's-eye chilli
   - qty: 1
     unit: large handful

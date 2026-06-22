@@ -28,17 +28,17 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: navy beans ; or 3 tins navy beans
+    name: navy beans ;
     raw: 500 g dried navy beans ; or 3 tins navy beans
   - qty: 300
     unit: g
-    name: thick-cut bacon
+    name: thick cut bacon
     raw: 300 g thick-cut bacon
   - qty: 2
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: green bell pepper

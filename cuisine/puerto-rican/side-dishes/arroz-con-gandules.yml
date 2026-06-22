@@ -24,10 +24,10 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: medium-grain rice
+    name: medium grain rice
     raw: 500 g medium-grain rice
   - qty: 1
-    name: pigeon peas / gandules ; or 250 g dried pigeon peas pre-soaked and pre-cooked
+    name: pigeon peas / gandules ;
     raw: 1 tin pigeon peas / gandules ; or 250 g dried pigeon peas pre-soaked and pre-cooked
   - qty: 4
     unit: tbsp
@@ -48,7 +48,7 @@ ingredients:
     name: green bell pepper
     raw: 1 medium green bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp

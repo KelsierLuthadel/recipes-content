@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: low-protein cake flour
+    name: low protein cake flour
     raw: 400 g low-protein cake flour
   - qty: 30
     unit: g
@@ -34,7 +34,7 @@ ingredients:
     raw: 30 g caster sugar
   - qty: 1.5
     unit: tsp
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 ½ teaspoons fast-action yeast
   - qty: 1
     unit: tsp

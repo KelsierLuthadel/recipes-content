@@ -38,7 +38,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: parsley
@@ -71,7 +71,7 @@ ingredients:
     name: butter
     raw: 6 tablespoons butter
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 2
     name: tomatoes
@@ -116,7 +116,7 @@ ingredients:
     unit: ml
     name: olive oil
     raw: 100 ml olive oil
-  - name: cold ayran or coca-cola
+  - name: cold ayran
     raw: Cold ayran or Coca-Cola
   - name: pickled green chillies
     raw: Pickled green chillies

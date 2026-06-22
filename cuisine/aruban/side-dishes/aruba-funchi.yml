@@ -15,7 +15,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: medium-grind yellow cornmeal
+    name: medium grind yellow cornmeal
     raw: 250 g medium-grind yellow cornmeal
   - qty: 900
     unit: ml
@@ -29,5 +29,5 @@ ingredients:
     unit: g
     name: butter
     raw: 30 g butter
-  - name: flat wooden paddle or sturdy wooden spoon
+  - name: flat wooden paddle
     raw: A flat wooden paddle or sturdy wooden spoon

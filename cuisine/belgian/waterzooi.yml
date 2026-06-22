@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: free-range chicken
+    name: free range chicken
     raw: 1 whole free-range chicken , jointed into 8 pieces
   - qty: 2
     name: leeks
@@ -81,7 +81,7 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter, cubed and cold
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley , leaves only, chopped
   - qty: 1
     unit: pinch
@@ -95,5 +95,5 @@ ingredients:
     name: country bread
     raw: 6 thick slices of country bread
   - qty: 1
-    name: belgian witbier or a glass of dry riesling
+    name: belgian witbier
     raw: 1 bottle of Belgian witbier OR a glass of dry Riesling

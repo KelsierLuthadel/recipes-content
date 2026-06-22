@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: "black-eyed peas : or 1 tin"
+    name: "black eyed peas :"
     raw: "200 g dried black-eyed peas : or 1 tin , drained"
   - qty: 500
     unit: g
@@ -39,21 +39,21 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 25
     unit: g
     name: ginger
     raw: 25 g fresh ginger
   - qty: 2
-    name: tomatoes or 200 g tinned tomatoes
+    name: tomatoes
     raw: 2 fresh tomatoes or 200 g tinned tomatoes
   - qty: 2
     name: red chillies
     raw: 2 dried red chillies
   - qty: 3
     unit: tbsp
-    name: neutral oil or mustard oil
+    name: neutral oil
     raw: 3 tbsp neutral oil or mustard oil
   - qty: 1
     unit: tsp

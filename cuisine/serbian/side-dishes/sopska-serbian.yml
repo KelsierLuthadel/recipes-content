@@ -30,7 +30,7 @@ ingredients:
     name: roasted red pepper
     raw: 1 roasted red pepper, peeled and torn
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch of flat-leaf parsley, chopped
   - qty: 3
     unit: tbsp
@@ -48,7 +48,7 @@ ingredients:
     raw: 1/4 tsp ground black pepper
   - qty: 150
     unit: g
-    name: sirene or a firm greek feta
+    name: sirene
     raw: 150 g sirene or a firm Greek feta, very cold, grated on the large holes of a box grater
   - qty: 1
     unit: handful

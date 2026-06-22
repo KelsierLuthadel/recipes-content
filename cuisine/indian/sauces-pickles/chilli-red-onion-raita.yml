@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 150
     unit: ml
@@ -49,7 +49,7 @@ ingredients:
     raw: ½ tablespoon granulated sugar
   - name: salt
     raw: Salt to taste
-  - name: paper-thin red onion slices
+  - name: paper thin red onion slices
     raw: Paper-thin red onion slices
-  - name: coriander leaves
+  - name: coriander
     raw: Extra fresh coriander leaves

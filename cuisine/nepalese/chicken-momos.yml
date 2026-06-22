@@ -53,7 +53,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 25
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     raw: ½ tsp ground coriander
   - qty: 0.5
     unit: tsp
-    name: timur or black pepper
+    name: timur
     raw: ½ tsp ground timur or black pepper
   - qty: 0.5
     unit: tsp
@@ -98,7 +98,7 @@ ingredients:
     name: red chillies
     raw: 2 dried red chillies
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 2
     name: ginger

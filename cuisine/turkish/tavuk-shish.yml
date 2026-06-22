@@ -41,9 +41,9 @@ ingredients:
     name: olive oil
     raw: 4 tablespoons olive oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
-  - name: juice of 2 lemons
+  - name: lemons
     raw: Juice of 2 lemons
   - qty: 2
     unit: tbsp
@@ -101,15 +101,15 @@ ingredients:
   - qty: 10
     name: cherry tomatoes
     raw: 10 small cherry tomatoes
-  - name: warm pide bread or lavash
+  - name: warm pide bread
     raw: Warm pide bread or lavash
-  - name: yogurt-garlic sauce
+  - name: yogurt garlic sauce
     raw: Yogurt-garlic sauce
   - name: sumac onions
     raw: Sumac onions
   - name: grilled tomatoes and chillies
     raw: Grilled tomatoes and chillies
-  - name: bulgur or rice pilav
+  - name: bulgur
     raw: Bulgur or rice pilav
   - name: parsley
     raw: Fresh parsley

@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: pinhead oatmeal or 300 g medium oatmeal
+    name: pinhead oatmeal
     raw: 300 g pinhead oatmeal OR 300 g medium oatmeal
   - qty: 50
     unit: g
@@ -35,11 +35,11 @@ ingredients:
     raw: 1/2 teaspoon bicarbonate of soda
   - qty: 220
     unit: ml
-    name: just-boiled water
+    name: just boiled water
     raw: 220 ml just-boiled water
   - qty: 100
     unit: g
-    name: welsh cheddar or caerphilly cheese
+    name: welsh cheddar
     raw: 100 g mature Welsh cheddar OR Caerphilly cheese
   - name: pickled red cabbage
     raw: A small jar of pickled red cabbage

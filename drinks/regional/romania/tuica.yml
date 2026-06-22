@@ -22,9 +22,9 @@ ingredients:
     unit: ml
     name: tuica
     raw: 50 ml țuică
-  - name: thick-walled shot glass
+  - name: thick walled shot glass
     raw: A small thick-walled shot glass, chilled
-  - name: "optional: a strip of smoked bacon or a pickled chilli to chase"
+  - name: "optional: a strip of smoked bacon"
     raw: "Optional: a strip of smoked bacon or a pickled chilli to chase"
   - qty: 600
     unit: ml

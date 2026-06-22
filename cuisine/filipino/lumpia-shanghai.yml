@@ -36,7 +36,7 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: spring onions
@@ -70,7 +70,7 @@ ingredients:
   - qty: 1
     name: bowl of water
     raw: 1 small bowl of water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 4
     unit: tbsp

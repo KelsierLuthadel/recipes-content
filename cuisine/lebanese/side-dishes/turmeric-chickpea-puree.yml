@@ -34,7 +34,7 @@ ingredients:
     name: sunflower oil
     raw: 1 tablespoon sunflower oil
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.5
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     unit: ml
     name: olive oil
     raw: 20 milliliters olive oil
-  - name: juice of approximately ½ lemon
+  - name: approximately ½ lemon
     raw: Fresh juice of approximately ½ lemon
   - name: black pepper
     raw: Freshly ground black pepper to taste

@@ -59,7 +59,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: thyme
@@ -70,7 +70,7 @@ ingredients:
     raw: 500 ml dark German beer
   - qty: 500
     unit: ml
-    name: chicken stock or water
+    name: chicken stock
     raw: 500 ml chicken stock or water
   - qty: 1
     unit: tbsp
@@ -91,7 +91,7 @@ ingredients:
   - name: sauerkraut
     raw: Sauerkraut
   - qty: 4
-    name: kartoffelknodel or semmelknodel
+    name: kartoffelknodel
     raw: 4 large kartoffelknödel or semmelknödel
   - name: jug of dark gravy
     raw: A jug of dark gravy

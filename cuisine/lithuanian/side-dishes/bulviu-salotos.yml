@@ -24,7 +24,7 @@ ingredients:
     name: waxy potatoes
     raw: 800 g waxy potatoes
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, peeled
   - qty: 200
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: 1 tsp Dijon mustard
   - qty: 1
     unit: tsp
-    name: white-wine vinegar
+    name: white wine vinegar
     raw: 1 tsp white-wine vinegar
   - qty: 1
     unit: tsp

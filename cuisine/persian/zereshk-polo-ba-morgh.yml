@@ -33,7 +33,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1.5
     unit: tsp
@@ -68,7 +68,7 @@ ingredients:
     raw: ½ lemon
   - qty: 500
     unit: g
-    name: long-grain basmati rice
+    name: long grain basmati rice
     raw: 500 g long-grain basmati rice
   - qty: 3
     unit: l

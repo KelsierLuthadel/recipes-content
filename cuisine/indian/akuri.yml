@@ -29,17 +29,17 @@ ingredients:
     unit: tbsp
     name: butter
     raw: 1 tablespoon butter
-  - name: half teaspoon garlic
+  - name: garlic
     raw: half teaspoon garlic
-  - name: half teaspoon fresh ginger root
+  - name: ginger root
     raw: half teaspoon fresh ginger root
   - qty: 1
     unit: tbsp
     name: onion
     raw: 1 tablespoon onion
-  - name: half teaspoon fresh chilli
+  - name: chilli
     raw: half teaspoon fresh chilli
-  - name: half teaspoon ground turmeric
+  - name: turmeric
     raw: half teaspoon ground turmeric
   - qty: 1
     name: tomato
@@ -48,5 +48,5 @@ ingredients:
     raw: salt
   - name: pepper
     raw: pepper
-  - name: half teaspoon coriander leaves
+  - name: coriander
     raw: half teaspoon coriander leaves

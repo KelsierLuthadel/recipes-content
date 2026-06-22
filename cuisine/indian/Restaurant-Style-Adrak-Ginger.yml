@@ -36,7 +36,7 @@ mentions:
 ingredients:
   - qty: 4
     unit: tbsp
-    name: oil or ghee
+    name: oil
     raw: 4 tbsp oil or ghee , butter ghee or vegetable ghee in part rounds the flavour
   - qty: 10
     name: cassia bark
@@ -56,7 +56,7 @@ ingredients:
     raw: 75 g green pepper, cut into small triangles
   - qty: 1.5
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1.5 tsp ginger-garlic paste
   - qty: 1.25
     unit: tbsp
@@ -89,7 +89,7 @@ ingredients:
     raw: 1 to 2 tbsp finely chopped fresh coriander stalks
   - qty: 200
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, prawns, or vegetables
   - qty: 330
     name: ml+ curry base gravy
@@ -100,12 +100,12 @@ ingredients:
     raw: 80 g pineapple chunks
   - qty: 1.25
     unit: tsp
-    name: lemon or lime juice
+    name: lemon
     raw: 1.25 tsp lemon or lime juice
   - qty: 2
     name: to 3 tsp mango chutney
     raw: 2 to 3 tsp mango chutney
-  - name: coriander leaves
+  - name: coriander
     raw: finely chopped fresh coriander leaves, to garnish
   - name: the reserved ginger cubes
     raw: the reserved ginger cubes, to garnish

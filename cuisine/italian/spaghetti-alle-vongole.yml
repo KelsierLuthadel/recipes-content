@@ -37,7 +37,7 @@ ingredients:
     name: virgin olive oil
     raw: 100 ml extra virgin olive oil
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 1
     unit: tsp
@@ -48,7 +48,7 @@ ingredients:
     name: dry white wine
     raw: 200 ml dry white wine
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
   - qty: 0.5
     unit: tsp

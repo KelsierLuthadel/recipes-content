@@ -23,10 +23,10 @@ ingredients:
     name: virgin olive oil
     raw: 6 tablespoons extra virgin olive oil
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 2
-    name: medium-hot red chillies
+    name: medium hot red chillies
     raw: 2 medium-hot red chillies
   - qty: 800
     unit: g
@@ -34,7 +34,7 @@ ingredients:
     raw: 800 grams chopped tomatoes
   - qty: 4
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 4 tablespoons fresh flat-leaf parsley
   - name: salt
     raw: Salt to taste

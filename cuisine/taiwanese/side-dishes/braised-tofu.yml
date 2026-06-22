@@ -27,17 +27,17 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: firm or extra-firm tofu
+    name: firm
     raw: 800 g firm or extra-firm tofu
   - qty: 3
     unit: tbsp
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 4
-    name: thumb-sized pieces fresh ginger
+    name: thumb sized pieces fresh ginger
     raw: 4 thumb-sized pieces fresh ginger
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: spring onions
@@ -88,7 +88,7 @@ ingredients:
     raw: 1 litre water
   - qty: 1
     unit: tsp
-    name: five-spice powder
+    name: five spice powder
     raw: 1 teaspoon five-spice powder
   - qty: 2
     name: spring onions
@@ -97,7 +97,7 @@ ingredients:
     unit: tbsp
     name: toasted sesame oil
     raw: 1 tablespoon toasted sesame oil
-  - name: coriander leaves
+  - name: coriander
     raw: Fresh coriander leaves
   - qty: 1
     name: red chilli

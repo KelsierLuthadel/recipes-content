@@ -22,7 +22,7 @@ ingredients:
     name: sweet onions
     raw: 2 large sweet onions
   - qty: 1
-    name: "swedish ansjovis : about 12-16 fillets"
+    name: "swedish ansjovis : about 12 16 fillets"
     raw: "1 tin Swedish ansjovis : about 12-16 fillets, plus 4 tablespoons of the spiced pickling brine reserved"
   - qty: 50
     unit: g
@@ -54,5 +54,5 @@ ingredients:
     raw: A green salad with vinaigrette
   - name: cold swedish lager
     raw: Cold Swedish lager
-  - name: or a small glass of ice-cold akvavit
+  - name: or a small glass of ice cold akvavit
     raw: Or a small glass of ice-cold akvavit

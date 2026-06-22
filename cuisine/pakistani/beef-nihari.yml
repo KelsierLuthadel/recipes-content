@@ -35,14 +35,14 @@ ingredients:
     name: onions
     raw: 3 onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     name: ginger
     raw: 4 cm fresh ginger
   - qty: 2
     unit: tbsp
-    name: nihari masala or store-bought
+    name: nihari masala
     raw: 2 tablespoons nihari masala or store-bought
   - qty: 1
     unit: tbsp
@@ -101,7 +101,7 @@ ingredients:
     raw: ½ teaspoon ground ginger
   - qty: 4
     unit: tbsp
-    name: wheat flour or plain flour
+    name: wheat flour
     raw: 4 tablespoons wheat flour or plain flour
   - qty: 100
     unit: ml
@@ -112,7 +112,7 @@ ingredients:
     name: ghee
     raw: 4 tablespoons ghee
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp

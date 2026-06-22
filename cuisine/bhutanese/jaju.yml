@@ -52,7 +52,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: ginger
@@ -64,7 +64,7 @@ ingredients:
     unit: ml
     name: vegetable stock
     raw: 600 ml hot vegetable stock
-  - name: the reserved mushroom-soaking liquid
+  - name: the reserved mushroom soaking liquid
     raw: The reserved mushroom-soaking liquid
   - qty: 1
     unit: tsp

@@ -61,12 +61,12 @@ ingredients:
     raw: 100 g sultanas
   - qty: 100
     unit: ml
-    name: dark rum or strong tea
+    name: dark rum
     raw: 100 ml dark rum OR strong tea
   - qty: 2
     name: eating apples
     raw: 2 large eating apples , peeled, cored and chopped into 1 cm dice
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Finely grated zest of 1 lemon
   - qty: 80
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     raw: 80 g chopped candied orange peel
   - qty: 2
     unit: l
-    name: sunflower oil or groundnut oil
+    name: sunflower oil
     raw: 2 litres sunflower oil OR groundnut oil
   - qty: 150
     unit: g

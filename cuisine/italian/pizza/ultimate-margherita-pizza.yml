@@ -20,11 +20,11 @@ mentions:
 ingredients:
   - qty: 3.5
     unit: g
-    name: fast-action dried yeast
+    name: fast action dried yeast
     raw: 3 ½ grams fast-action dried yeast
   - qty: 2
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 2 tablespoons extra-virgin olive oil
   - qty: 0.5
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     name: shallots
     raw: 3 shallots
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 100
     unit: ml
@@ -77,5 +77,5 @@ ingredients:
     unit: g
     name: mozzarella
     raw: 300 grams grated mozzarella
-  - name: extra-virgin olive oil
+  - name: extra virgin olive oil
     raw: Extra-virgin olive oil

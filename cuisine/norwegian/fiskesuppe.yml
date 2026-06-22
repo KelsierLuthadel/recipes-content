@@ -80,7 +80,7 @@ ingredients:
     raw: 300 g salmon fillet, skinned, cut into 3 cm chunks
   - qty: 200
     unit: g
-    name: prawns or shelled mussels
+    name: prawns
     raw: 200 g raw peeled prawns or shelled mussels
   - qty: 1
     unit: small handful
@@ -90,13 +90,13 @@ ingredients:
     unit: small handful
     name: chives
     raw: A small handful of fresh chives, finely chopped
-  - name: juice of half a lemon
+  - name: lemon
     raw: Juice of half a lemon
   - name: salt and freshly ground white pepper
     raw: Salt and freshly ground white pepper
-  - name: "optional: 1 tbsp vermouth or aquavit"
+  - name: "optional: 1 tbsp vermouth"
     raw: "Optional: 1 tbsp vermouth or aquavit"
-  - name: crusty bread or rye bread
+  - name: crusty bread
     raw: Crusty bread or rye bread, sliced
   - name: salted butter
     raw: Salted butter

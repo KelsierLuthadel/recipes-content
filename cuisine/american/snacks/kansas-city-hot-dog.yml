@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: all-beef natural-casing frankfurters
+    name: all beef natural casing frankfurters
     raw: 4 all-beef natural-casing frankfurters
   - qty: 4
     name: sesame seed hot dog buns
@@ -55,17 +55,17 @@ ingredients:
     raw: 4 slices Swiss cheese
   - name: brown mustard
     raw: Spicy brown mustard
-  - name: thousand-island dressing
+  - name: thousand island dressing
     raw: Thousand-island dressing
   - qty: 4
     unit: tbsp
-    name: thousand-island dressing
+    name: thousand island dressing
     raw: 4 tablespoons thousand-island dressing
   - name: chives
     raw: Chopped fresh chives
   - name: caraway seeds
     raw: Caraway seeds for sprinkling
-  - name: crinkle-cut fries
+  - name: crinkle cut fries
     raw: Crinkle-cut fries
   - name: boulevard wheat beer
     raw: A cold Boulevard wheat beer

@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: carrots
@@ -44,7 +44,7 @@ ingredients:
     name: celery
     raw: 1 stick celery
   - qty: 2
-    name: tomatoes or 1 small tin chopped tomatoes
+    name: tomatoes
     raw: 2 fresh tomatoes or 1 small tin chopped tomatoes
   - qty: 2
     unit: tbsp

@@ -37,7 +37,7 @@ ingredients:
     name: water
     raw: 100 ml cold water
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, peeled
   - qty: 1
     name: green chilli
@@ -48,13 +48,13 @@ ingredients:
     raw: 1 teaspoon cumin seeds, dry-toasted
   - qty: 1
     unit: small handful
-    name: coriander leaves
+    name: coriander
     raw: A small handful of fresh coriander leaves
   - qty: 1
     unit: pinch
     name: asafoetida
     raw: Pinch of asafoetida
-  - name: coriander leaves
+  - name: coriander
     raw: Fresh coriander leaves
-  - name: glasses or katoris
+  - name: glasses
     raw: Small glasses or katoris

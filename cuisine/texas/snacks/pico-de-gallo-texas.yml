@@ -30,7 +30,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 large bunch fresh coriander
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 1.5
     unit: tsp
@@ -45,5 +45,5 @@ ingredients:
     name: cumin
     raw: 1 teaspoon ground cumin
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove

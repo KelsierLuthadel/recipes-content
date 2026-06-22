@@ -33,7 +33,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves
@@ -52,7 +52,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2.5
     name: chipotle chillies in adobo
@@ -85,7 +85,7 @@ ingredients:
     raw: 100 g queso fresco
   - name: mexican crema
     raw: Mexican crema
-  - name: coriander leaves
+  - name: coriander
     raw: Coriander leaves
   - name: lime wedges
     raw: Lime wedges

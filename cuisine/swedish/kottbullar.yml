@@ -33,7 +33,7 @@ ingredients:
     raw: 300 g ground pork shoulder
   - qty: 100
     unit: g
-    name: panko or fresh white breadcrumbs
+    name: panko
     raw: 100 g panko or fresh white breadcrumbs
   - qty: 200
     unit: ml
@@ -91,7 +91,7 @@ ingredients:
     raw: 1 teaspoon Dijon mustard
   - qty: 1
     unit: tbsp
-    name: redcurrant jelly or lingonberry preserve
+    name: redcurrant jelly
     raw: 1 tablespoon redcurrant jelly or lingonberry preserve
   - qty: 0.5
     unit: tsp
@@ -107,5 +107,5 @@ ingredients:
     raw: Lingonberry preserve
   - name: pressgurka
     raw: Pressgurka
-  - name: glass of cold milk or a small cold lager or akvavit shots
+  - name: glass of cold milk
     raw: A glass of cold milk OR a small cold lager OR akvavit shots

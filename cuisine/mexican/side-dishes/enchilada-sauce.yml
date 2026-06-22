@@ -37,7 +37,7 @@ ingredients:
     name: tomatoes
     raw: 2 ripe tomatoes
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: l
@@ -55,7 +55,7 @@ ingredients:
     unit: tsp
     name: cumin
     raw: 1 teaspoon ground cumin
-  - name: semi-sweet chocolate
+  - name: semi sweet chocolate
     raw: Small piece of semi-sweet chocolate
   - qty: 1
     unit: pinch

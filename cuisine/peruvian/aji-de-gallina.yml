@@ -32,7 +32,7 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: chicken or 6 large bone-in skin-on chicken thighs
+    name: chicken
     raw: 1.2 kg whole chicken OR 6 large bone-in skin-on chicken thighs
   - qty: 1
     name: onion
@@ -104,7 +104,7 @@ ingredients:
   - name: salt
     raw: Salt to taste
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, halved
   - qty: 8
     name: botija olives
@@ -112,13 +112,13 @@ ingredients:
   - qty: 4
     name: yellow potatoes
     raw: 4 medium yellow potatoes , boiled till tender and sliced 1 cm thick
-  - name: flat-leaf parsley
+  - name: flat leaf parsley
     raw: Fresh flat-leaf parsley, leaves picked
   - name: aji amarillo paste swirled on top
     raw: An extra teaspoon of aji amarillo paste swirled on top
   - qty: 600
     unit: g
-    name: plain white long-grain rice
+    name: plain white long grain rice
     raw: 600 g cooked plain white long-grain rice
-  - name: lime per plate
+  - name: lime
     raw: A wedge of lime per plate

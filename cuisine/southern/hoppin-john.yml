@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: black-eyed peas
+    name: black eyed peas
     raw: 500 g dried black-eyed peas
   - qty: 1
     name: smoked ham hock
@@ -42,7 +42,7 @@ ingredients:
     name: red bell pepper
     raw: 1 medium red bell pepper
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: jalapeno
@@ -76,7 +76,7 @@ ingredients:
     raw: 2 tablespoons apple cider vinegar
   - qty: 400
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 400 g long-grain white rice
   - qty: 800
     unit: ml

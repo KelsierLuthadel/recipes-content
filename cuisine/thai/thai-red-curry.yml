@@ -36,7 +36,7 @@ ingredients:
     name: shallots
     raw: 4 shallots
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: tbsp
@@ -49,7 +49,7 @@ ingredients:
     name: kaffir lime leaves
     raw: 3 kaffir lime leaves
   - qty: 4
-    name: coriander roots
+    name: coriander
     raw: 4 coriander roots
   - qty: 10
     name: black peppercorns

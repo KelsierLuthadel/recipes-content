@@ -32,7 +32,7 @@ ingredients:
     raw: 4 large eggs
   - qty: 250
     unit: g
-    name: self-raising flour
+    name: self raising flour
     raw: 250 g self-raising flour
   - qty: 0.5
     unit: tsp
@@ -58,9 +58,9 @@ ingredients:
     unit: g
     name: glace cherries
     raw: 60 g glacé cherries
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 2
     unit: tbsp
@@ -76,7 +76,7 @@ ingredients:
     raw: 100 g whole blanched almonds
   - qty: 1
     unit: tbsp
-    name: milk or beaten egg white
+    name: milk
     raw: 1 tablespoon milk or beaten egg white
   - qty: 2
     unit: tbsp

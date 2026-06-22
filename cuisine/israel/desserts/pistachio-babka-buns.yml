@@ -30,7 +30,7 @@ ingredients:
     name: sea salt
     raw: ¼ teaspoon fine sea salt
   - qty: 1
-    name: fast-action dried yeast
+    name: fast action dried yeast
     raw: 1 sachet fast-action dried yeast
   - qty: 85
     unit: ml
@@ -51,7 +51,7 @@ ingredients:
     raw: 250 g pitted Medjool dates
   - qty: 90
     unit: ml
-    name: just-boiled water
+    name: just boiled water
     raw: 90 ml just-boiled water
   - qty: 2
     unit: tsp

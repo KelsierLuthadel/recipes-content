@@ -32,7 +32,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     name: red chillies
@@ -56,5 +56,5 @@ ingredients:
     name: red chillies
     raw: 2 fresh red chillies
   - qty: 20
-    name: deep-fried holy basil leaves
+    name: deep fried holy basil leaves
     raw: 20 deep-fried holy basil leaves

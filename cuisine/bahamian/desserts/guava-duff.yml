@@ -50,7 +50,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
-  - name: zest of 1 lime
+  - name: lime
     raw: Zest of 1 lime
   - qty: 600
     unit: g

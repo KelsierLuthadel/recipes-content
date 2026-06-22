@@ -59,7 +59,7 @@ ingredients:
     name: dill
     raw: 1 small bunch fresh dill
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs
   - qty: 1.5
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     raw: A small bowl of sour cream
   - name: dill
     raw: Extra dill sprigs
-  - name: dark rye bread per person
+  - name: dark rye bread
     raw: A wedge of dark rye bread per person
-  - name: "optional: chopped cooked beef ham or smoked salmon"
+  - name: "optional: chopped cooked beef ham"
     raw: "Optional: chopped cooked beef ham or smoked salmon"

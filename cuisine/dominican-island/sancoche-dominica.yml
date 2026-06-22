@@ -41,7 +41,7 @@ ingredients:
     name: onion
     raw: 1 large onion, chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 2
     name: spring onions
@@ -76,7 +76,7 @@ ingredients:
     raw: 400 g breadfruit, peeled and cubed
   - qty: 300
     unit: g
-    name: yellow yam or white yam
+    name: yellow yam
     raw: 300 g yellow yam or white yam, peeled and cubed
   - qty: 1
     name: dasheen
@@ -101,5 +101,5 @@ ingredients:
     unit: handful
     name: parsley
     raw: A handful of fresh parsley, chopped
-  - name: lime per bowl
+  - name: lime
     raw: A wedge of lime per bowl

@@ -42,7 +42,7 @@ ingredients:
     name: unsalted butter
     raw: 200 g unsalted butter, softened to room temperature
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     raw: 2 tbsp finely chopped fresh rosemary leaves
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tbsp finely chopped flat-leaf parsley
   - qty: 1
     name: lemon
@@ -74,7 +74,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 3
-    name: celery sticks
+    name: celery
     raw: 3 celery sticks
   - qty: 1
     name: garlic

@@ -28,7 +28,7 @@ ingredients:
     name: olive oil
     raw: 2 tbsp olive oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed to a paste
   - qty: 1
     name: green chilli
@@ -44,7 +44,7 @@ ingredients:
   - qty: 0.5
     name: /2 tsp salt
     raw: 1/2 tsp salt
-  - name: juice of 1/2 lime
+  - name: 1/2 lime
     raw: Juice of 1/2 lime
   - qty: 1
     unit: large handful

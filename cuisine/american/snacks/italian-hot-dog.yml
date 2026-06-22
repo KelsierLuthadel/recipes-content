@@ -16,12 +16,12 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: natural-casing all-beef hot dogs
+    name: natural casing all beef hot dogs
     raw: 4 large natural-casing all-beef hot dogs
   - qty: 2
     name: rounds italian pizza bread
     raw: 2 rounds Italian pizza bread , halved through the middle
-  - name: "or substitute: 4 half-rounds of soft italian focaccia"
+  - name: "or substitute: 4 half rounds of soft italian focaccia"
     raw: "Or substitute: 4 half-rounds of soft Italian focaccia, similar size, hollowed out"
   - qty: 2
     name: potatoes
@@ -35,7 +35,7 @@ ingredients:
   - qty: 1
     name: onion
     raw: 1 large onion
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 4
     unit: tbsp

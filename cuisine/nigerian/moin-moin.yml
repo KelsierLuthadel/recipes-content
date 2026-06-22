@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black-eyed beans
+    name: black eyed beans
     raw: 300 g dried black-eyed beans
   - qty: 250
     unit: ml
@@ -43,7 +43,7 @@ ingredients:
     name: scotch bonnet chillies
     raw: 1-2 Scotch bonnet chillies
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: ginger
@@ -76,11 +76,11 @@ ingredients:
     name: breadcrumbs
     raw: 2 tablespoons fine breadcrumbs
   - qty: 3
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 3 hard-boiled eggs
   - qty: 100
     unit: g
-    name: smoked fish or 100 g cooked minced beef
+    name: smoked fish
     raw: 100 g cooked smoked fish OR 100 g cooked minced beef
   - name: or a mix
     raw: Or a mix

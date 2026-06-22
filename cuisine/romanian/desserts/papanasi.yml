@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: cottage cheese or ricotta
+    name: cottage cheese
     raw: 500 g fresh cottage cheese or ricotta
   - qty: 2
     name: eggs
@@ -35,7 +35,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 tsp vanilla extract
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 1
     unit: tbsp

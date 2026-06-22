@@ -33,7 +33,7 @@ ingredients:
     name: bourbon
     raw: 2 tablespoons bourbon
   - qty: 12
-    name: thick-cut bacon
+    name: thick cut bacon
     raw: 12 slices thick-cut bacon
   - qty: 1
     unit: kg
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 large onion
   - qty: 2
     unit: tbsp
-    name: country-style dijon mustard
+    name: country style dijon mustard
     raw: 2 tablespoons country-style Dijon mustard
   - qty: 1
     unit: tbsp

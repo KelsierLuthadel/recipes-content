@@ -17,11 +17,11 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: raclette cheese ; substitute gruyere or another semi-firm melting cheese only as a last resort
+    name: raclette cheese ; substitute gruyere
     raw: 1.5 kg raclette cheese ; substitute Gruyère or another semi-firm melting cheese only as a last resort
   - qty: 200
     unit: g
-    name: bundnerfleisch or any thinly-sliced cured meat
+    name: bundnerfleisch
     raw: 200 g Bündnerfleisch or any thinly-sliced cured meat
   - qty: 1.5
     unit: kg

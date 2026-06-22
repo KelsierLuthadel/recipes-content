@@ -75,7 +75,7 @@ ingredients:
     name: clams
     raw: 200 g fresh clams
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: spring onions
@@ -84,7 +84,7 @@ ingredients:
     unit: tsp
     name: toasted sesame oil
     raw: 1 teaspoon toasted sesame oil
-  - name: steamed short-grain rice
+  - name: steamed short grain rice
     raw: Steamed short-grain rice
   - name: banchan
     raw: Banchan

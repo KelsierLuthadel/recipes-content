@@ -32,7 +32,7 @@ ingredients:
     name: unsalted butter
     raw: 250 g unsalted butter
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     name: ginger
@@ -69,7 +69,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     unit: tbsp
@@ -95,7 +95,7 @@ ingredients:
     name: lemon
     raw: 1 lemon
   - qty: 6
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 6 hard-boiled eggs
   - name: salt
     raw: Salt

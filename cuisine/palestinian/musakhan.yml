@@ -19,7 +19,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: chicken or 8 bone-in chicken thighs and drumsticks
+    name: chicken
     raw: 1 whole chicken or 8 bone-in chicken thighs and drumsticks
   - qty: 4
     unit: tbsp
@@ -75,5 +75,5 @@ ingredients:
     name: pine nuts
     raw: 100 g pine nuts
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley

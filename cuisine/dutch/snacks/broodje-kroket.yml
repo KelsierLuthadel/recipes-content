@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef shin or chuck
+    name: beef shin
     raw: 600 g beef shin OR chuck, in 5 cm chunks
   - qty: 1
     unit: tbsp
@@ -91,7 +91,7 @@ ingredients:
     raw: 1 teaspoon Maggi liquid seasoning
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - qty: 1
     unit: generous pinch
@@ -106,14 +106,14 @@ ingredients:
     raw: 4 large eggs, beaten
   - qty: 250
     unit: g
-    name: panko-style breadcrumbs
+    name: panko style breadcrumbs
     raw: 250 g fine panko-style breadcrumbs
   - qty: 2
     unit: l
-    name: sunflower or groundnut oil
+    name: sunflower
     raw: 2 litres sunflower or groundnut oil
   - qty: 1
-    name: "\"zachte witte bol\" or a fresh kaiser roll or a soft bap"
+    name: "\"zachte witte bol\""
     raw: 1 fresh "zachte witte bol" OR a fresh kaiser roll OR a soft bap
   - qty: 1.5
     unit: tbsp

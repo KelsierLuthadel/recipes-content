@@ -32,7 +32,7 @@ ingredients:
     name: beef brisket
     raw: 2 kg beef brisket
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 4
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: 1 teaspoon ground black pepper
-  - name: juice of 2 lemons
+  - name: lemons
     raw: Juice of 2 lemons
   - qty: 3
     unit: tbsp
@@ -74,7 +74,7 @@ ingredients:
     name: celery
     raw: 1 stalk celery
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     unit: tbsp

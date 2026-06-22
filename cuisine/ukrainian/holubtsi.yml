@@ -31,7 +31,7 @@ ingredients:
     raw: 1 tablespoon salt
   - qty: 100
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 100 g long-grain rice
   - qty: 300
     unit: ml
@@ -49,7 +49,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: egg
@@ -84,7 +84,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 2
     unit: tbsp

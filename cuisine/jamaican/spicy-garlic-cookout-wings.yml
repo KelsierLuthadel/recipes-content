@@ -24,11 +24,11 @@ ingredients:
     name: unsalted butter
     raw: 4 tablespoons unsalted butter
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 700
     unit: ml
     name: frank's redhot sauce
     raw: 700 ml Frank's RedHot sauce
-  - name: all-purpose seasoning
+  - name: all purpose seasoning
     raw: All-purpose seasoning , optional

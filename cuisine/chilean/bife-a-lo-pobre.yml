@@ -38,7 +38,7 @@ ingredients:
   - qty: 6
     name: potatoes
     raw: 6 large potatoes
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 1
     unit: tsp
@@ -76,5 +76,5 @@ ingredients:
     raw: Marraqueta bread
   - name: salad
     raw: Salad
-  - name: beer or red wine
+  - name: beer
     raw: Cold beer or red wine

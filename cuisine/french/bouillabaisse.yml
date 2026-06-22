@@ -37,7 +37,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: tomatoes
@@ -82,7 +82,7 @@ ingredients:
     name: white bread
     raw: 1 thick slice white bread
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: red chilli
@@ -104,5 +104,5 @@ ingredients:
     name: baguette
     raw: 1 baguette
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove

@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 30
     unit: g
-    name: red chillies or thai red dried chillies)
+    name: red chillies
     raw: 30 g dried red chillies or Thai red dried chillies)
   - qty: 1
     name: garlic
@@ -33,7 +33,7 @@ ingredients:
     raw: 6 large shallots, peeled and halved
   - qty: 30
     unit: g
-    name: buffalo skin or dried pork skin
+    name: buffalo skin
     raw: 30 g dried buffalo skin OR dried pork skin
   - qty: 4
     unit: tbsp
@@ -61,5 +61,5 @@ ingredients:
     raw: 2 tablespoons vegetable oil
   - name: spooned alongside sticky rice
     raw: Spooned alongside sticky rice, sai oua, grilled meat, raw vegetables, steamed greens.
-  - name: spread on toast or used as a sandwich condiment
+  - name: spread on toast
     raw: Spread on toast or used as a sandwich condiment, the modern Lao kitchen variant.

@@ -33,7 +33,7 @@ ingredients:
     raw: 1 egg yolk
   - qty: 2
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 2 tablespoons ice-cold water
   - qty: 1
     unit: pinch
@@ -70,5 +70,5 @@ ingredients:
     unit: g
     name: pecan halves
     raw: 300 g pecan halves
-  - name: whipped cream or vanilla ice cream
+  - name: whipped cream
     raw: Lightly whipped cream OR vanilla ice cream

@@ -57,7 +57,7 @@ ingredients:
     name: red asian shallots
     raw: 6 red Asian shallots
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 4
     name: turmeric
@@ -91,7 +91,7 @@ ingredients:
     unit: g
     name: rice vermicelli
     raw: 200 grams dried rice vermicelli
-  - name: coriander leaves
+  - name: coriander
     raw: Coriander leaves
   - name: sambal oelek
     raw: Sambal oelek

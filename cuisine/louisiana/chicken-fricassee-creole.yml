@@ -55,7 +55,7 @@ ingredients:
     name: green bell pepper
     raw: 1 green bell pepper
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 250
     unit: g
@@ -110,9 +110,9 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
-  - name: steamed long-grain rice
+  - name: steamed long grain rice
     raw: Steamed long-grain rice
   - name: french bread
     raw: French bread

@@ -17,11 +17,11 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: branza de oi or feta
+    name: branza de oi
     raw: 400 g brânză de oi or feta, crumbled
   - qty: 200
     unit: g
-    name: branza dulce de vaci or ricotta
+    name: branza dulce de vaci
     raw: 200 g brânză dulce de vaci or ricotta
   - qty: 2
     name: eggs
@@ -35,7 +35,7 @@ ingredients:
   - name: black pepper
     raw: Black pepper to taste
   - qty: 1
-    name: ready-rolled filo pastry
+    name: ready rolled filo pastry
     raw: 1 packet ready-rolled filo pastry, thawed
   - qty: 80
     unit: g

@@ -37,7 +37,7 @@ ingredients:
     name: mixed fresh herbs
     raw: 30 grams mixed fresh herbs
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 2
     unit: tsp
@@ -52,7 +52,7 @@ ingredients:
     name: caster sugar
     raw: Pinch of caster sugar
   - qty: 75
-    name: to 100 ml extra-virgin olive oil
+    name: to 100 ml extra virgin olive oil
     raw: 75 to 100 ml extra-virgin olive oil
   - qty: 200
     unit: g

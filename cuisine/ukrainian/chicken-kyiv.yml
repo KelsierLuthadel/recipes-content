@@ -25,7 +25,7 @@ ingredients:
     name: unsalted butter
     raw: 150 g unsalted butter
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -80,7 +80,7 @@ ingredients:
     raw: Lemon wedges
   - name: simple green salad
     raw: A simple green salad
-  - name: mashed potato or boiled new potatoes
+  - name: mashed potato
     raw: Mashed potato or boiled new potatoes
   - name: steamed seasonal vegetables
     raw: Steamed seasonal vegetables

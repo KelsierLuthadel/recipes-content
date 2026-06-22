@@ -30,7 +30,7 @@ ingredients:
     raw: 2 large onions, sliced
   - qty: 3
     unit: tbsp
-    name: pork lard or sunflower oil
+    name: pork lard
     raw: 3 tbsp pork lard or sunflower oil
   - qty: 2
     name: bay leaves
@@ -43,7 +43,7 @@ ingredients:
     raw: 3 allspice berries
   - qty: 500
     unit: ml
-    name: water or light pork stock
+    name: water
     raw: 500 ml water or light pork stock
   - name: salt
     raw: Salt

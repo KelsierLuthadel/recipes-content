@@ -90,15 +90,15 @@ ingredients:
     name: peanuts
     raw: 50 g raw peanuts, roughly chopped
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs, finely chopped
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - qty: 2
     unit: tbsp
-    name: milk or beef stock
+    name: milk
     raw: 2 tablespoons milk OR beef stock
   - qty: 200
     unit: g
@@ -108,7 +108,7 @@ ingredients:
     name: egg yolk
     raw: 1 large egg yolk
   - qty: 1
-    name: batch pastel de papa or 600 g boiled new potatoes
+    name: batch pastel de papa
     raw: 1 batch pastel de papa OR 600 g boiled new potatoes, buttered
   - qty: 1
     name: batch white rice

@@ -29,11 +29,11 @@ ingredients:
     raw: 200 g butter
   - qty: 400
     unit: g
-    name: feta or sirenje
+    name: feta
     raw: 400 g feta or sirenje
   - qty: 200
     unit: g
-    name: ricotta or cottage cheese
+    name: ricotta
     raw: 200 g ricotta or cottage cheese
   - qty: 3
     name: eggs
@@ -70,7 +70,7 @@ ingredients:
     unit: handful
     name: sesame seeds
     raw: A handful of sesame seeds
-  - name: plain yogurt or ayran
+  - name: plain yogurt
     raw: Plain yogurt or ayran
   - name: pickled chillies
     raw: Pickled chillies

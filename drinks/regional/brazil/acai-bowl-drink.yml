@@ -28,7 +28,7 @@ ingredients:
     raw: 2 ripe bananas
   - qty: 75
     unit: ml
-    name: water or cold coconut water or cold whole milk
+    name: water
     raw: 50-100 ml water OR cold coconut water OR cold whole milk
   - qty: 2
     unit: tsp
@@ -40,7 +40,7 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 100
     unit: g
-    name: granola or muesli
+    name: granola
     raw: 100 g good granola or muesli
   - qty: 1
     name: banana
@@ -77,7 +77,7 @@ ingredients:
     unit: drizzle
     name: guarana syrup over the top
     raw: A drizzle of guaraná syrup over the top
-  - name: spoonful of brazil-nut butter
+  - name: spoonful of brazil nut butter
     raw: A spoonful of Brazil-nut butter
-  - name: acai-berry-style superfood toppings
+  - name: acai berry style superfood toppings
     raw: Sliced acai-berry-style superfood toppings

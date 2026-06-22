@@ -13,7 +13,7 @@ mentions:
 ingredients:
   - qty: 30
     unit: g
-    name: thai oliang powder or 4 tablespoons strong dark-roast ground coffee + 1 tablespoon toasted black sesame seeds + 1 tablespoon roasted soybean flour
+    name: thai oliang powder
     raw: 30 g Thai oliang powder OR 4 tablespoons strong dark-roast ground coffee + 1 tablespoon toasted black sesame seeds + 1 tablespoon roasted soybean flour
   - qty: 600
     unit: ml
@@ -36,5 +36,5 @@ ingredients:
   - qty: 2
     name: tall glasses
     raw: 2 tall glasses, chilled
-  - name: long-handled spoons or wide straws
+  - name: long handled spoons
     raw: Long-handled spoons or wide straws

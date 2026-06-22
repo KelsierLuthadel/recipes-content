@@ -31,7 +31,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: goat or mutton
+    name: goat
     raw: 1 kg goat or mutton
   - qty: 100
     unit: g

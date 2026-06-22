@@ -52,7 +52,7 @@ ingredients:
     name: olive oil
     raw: 1 tablespoon olive oil
   - qty: 8
-    name: all-beef frankfurters
+    name: all beef frankfurters
     raw: 8 all-beef frankfurters
   - qty: 2
     unit: l
@@ -88,7 +88,7 @@ ingredients:
     raw: 1 tablespoon dried minced onion
   - qty: 1
     unit: tbsp
-    name: sea salt or kosher salt
+    name: sea salt
     raw: 1 tablespoon coarse sea salt or kosher salt
   - qty: 1
     name: egg

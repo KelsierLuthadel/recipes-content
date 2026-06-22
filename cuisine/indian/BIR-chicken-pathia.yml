@@ -31,7 +31,7 @@ mentions:
 ingredients:
   - qty: 4
     unit: tbsp
-    name: rapeseed oil or seasoned oil
+    name: rapeseed oil
     raw: 4 tbsp rapeseed oil or seasoned oil
   - qty: 1
     name: onion
@@ -64,7 +64,7 @@ ingredients:
     raw: 500 ml Curry Base Gravy
   - qty: 800
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 800 g Pre-Cooked Chicken
   - qty: 125
     unit: ml

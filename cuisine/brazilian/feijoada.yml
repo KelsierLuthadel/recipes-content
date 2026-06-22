@@ -61,7 +61,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     name: bay leaves
@@ -87,7 +87,7 @@ ingredients:
     raw: 1 small chilli
   - qty: 600
     unit: g
-    name: white long-grain rice
+    name: white long grain rice
     raw: 600 g white long-grain rice
   - qty: 1
     name: couve a mineira
@@ -102,5 +102,5 @@ ingredients:
   - qty: 1
     name: red onion
     raw: 1 small red onion
-  - name: pinga or several cold beers
+  - name: pinga
     raw: A bottle of pinga or several cold beers

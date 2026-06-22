@@ -29,7 +29,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 500
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     name: macaroni
     raw: 500 g macaroni
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs
   - qty: 200
     unit: g
@@ -82,7 +82,7 @@ ingredients:
     raw: 200 g frozen peas
   - qty: 200
     unit: g
-    name: cheddar or pecorino
+    name: cheddar
     raw: 200 g grated mature Cheddar OR pecorino
   - qty: 50
     unit: g

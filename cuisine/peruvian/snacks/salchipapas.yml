@@ -35,7 +35,7 @@ ingredients:
     unit: kg
     name: starchy potatoes
     raw: 1 kg starchy potatoes
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 1
     unit: tsp
@@ -48,7 +48,7 @@ ingredients:
     name: cilantro
     raw: 1 large bunch fresh cilantro
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 80
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     unit: tbsp
     name: mayonnaise
     raw: 4 tablespoons mayonnaise
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 4
     unit: tbsp
@@ -78,7 +78,7 @@ ingredients:
     raw: Yellow mustard
   - name: mayonnaise
     raw: Mayonnaise
-  - name: cold cusquena or pilsen callao
+  - name: cold cusquena
     raw: A cold Cusqueña or Pilsen Callao
   - name: or an inca kola
     raw: Or an Inca Kola

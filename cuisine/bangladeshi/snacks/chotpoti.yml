@@ -57,7 +57,7 @@ ingredients:
     raw: 1 tsp roasted cumin powder
   - qty: 1
     unit: tsp
-    name: jaggery or brown sugar
+    name: jaggery
     raw: 1 tsp jaggery or brown sugar
   - qty: 0.5
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     name: black pepper
     raw: ½ tsp ground black pepper
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, peeled and roughly chopped
   - qty: 1
     name: red onion

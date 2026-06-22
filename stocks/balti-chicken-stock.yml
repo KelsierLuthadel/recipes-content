@@ -18,21 +18,21 @@ mentions:
   - tutorials/stocks-sauces/stocks
 ingredients:
   - qty: 1
-    name: oven-ready chicken
+    name: oven ready chicken
     raw: 1 oven-ready chicken
   - qty: 1
     unit: l
     name: water
     raw: 1 litre cold water
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 100
     unit: g
     name: onion
     raw: 100 grams onion
   - qty: 2
-    name: celery sticks
+    name: celery
     raw: 2 celery sticks
   - qty: 1
     name: carrot

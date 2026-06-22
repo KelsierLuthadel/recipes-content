@@ -28,22 +28,22 @@ ingredients:
     raw: 200 g coarse sea salt
   - qty: 250
     unit: ml
-    name: white-wine vinegar
+    name: white wine vinegar
     raw: 250 ml white-wine vinegar
   - qty: 250
     unit: ml
     name: water
     raw: 250 ml water
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 30
     unit: g
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 30 g flat-leaf parsley
   - qty: 200
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 200 ml extra-virgin olive oil
   - qty: 0.5
     unit: tsp

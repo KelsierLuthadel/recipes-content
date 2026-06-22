@@ -25,7 +25,7 @@ ingredients:
     raw: 800 ml water
   - qty: 30
     unit: g
-    name: palm sugar or 2 tablespoons honey
+    name: palm sugar
     raw: 30 g palm sugar OR 2 tablespoons honey
   - qty: 1
     name: pandan leaf
@@ -35,5 +35,5 @@ ingredients:
     name: lime juice
     raw: A squeeze of lime juice
   - qty: 4
-    name: heatproof glasses or teacups
+    name: heatproof glasses
     raw: 4 small heatproof glasses or teacups

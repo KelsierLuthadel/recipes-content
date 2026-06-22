@@ -68,7 +68,7 @@ ingredients:
     name: onion
     raw: 1 large onion, chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 1
     unit: tbsp
@@ -87,7 +87,7 @@ ingredients:
     raw: 1 scotch bonnet, whole
   - qty: 1
     unit: tbsp
-    name: chadon beni or coriander
+    name: chadon beni
     raw: 1 tbsp chadon beni or coriander, chopped
   - qty: 400
     unit: ml

@@ -39,10 +39,10 @@ ingredients:
     name: onion
     raw: 1 onion, finely diced
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks, finely diced
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, grated
   - qty: 400
     unit: g
@@ -104,7 +104,7 @@ ingredients:
     raw: 50 grams caster sugar
   - qty: 500
     unit: g
-    name: red-skinned potatoes
+    name: red skinned potatoes
     raw: 500 grams red-skinned potatoes
   - qty: 1
     name: egg yolk

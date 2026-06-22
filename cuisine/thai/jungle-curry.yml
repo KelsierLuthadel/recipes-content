@@ -40,7 +40,7 @@ ingredients:
     raw: 6 tbsp Thai Red Curry Paste
   - qty: 500
     unit: ml
-    name: thai chicken stock or water
+    name: thai chicken stock
     raw: 500 ml Thai chicken stock or water
   - qty: 10
     name: green beans
@@ -70,7 +70,7 @@ ingredients:
     unit: tsp
     name: palm sugar
     raw: 1 tsp palm sugar
-  - name: coriander leaves
+  - name: coriander
     raw: Coriander leaves
   - name: thai sweet basil leaves
     raw: Thai sweet basil leaves

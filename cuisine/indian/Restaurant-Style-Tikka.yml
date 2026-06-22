@@ -31,11 +31,11 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: chicken breast or thigh
+    name: chicken breast
     raw: 1.5 kg chicken breast or thigh, boneless and skinless, cut into 5 cm chunks
   - qty: 1
     unit: tbsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1 tbsp ginger-garlic paste
   - qty: 1
     unit: tbsp
@@ -103,9 +103,9 @@ ingredients:
     raw: 120 ml natural yoghurt, full fat
   - qty: 0.25
     unit: tsp
-    name: orange or red food colour
+    name: orange
     raw: 0.25 tsp orange or red food colour
-  - name: metal or pre-soaked bamboo skewers
+  - name: metal
     raw: metal or pre-soaked bamboo skewers
   - qty: 1
     unit: tbsp

@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: tetovec or large white beans
+    name: tetovec
     raw: 500 g dried tetovec or large white beans
   - qty: 3
     name: bay leaves
@@ -29,7 +29,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     name: cracked black pepper
     raw: 1 teaspoon coarsely cracked black pepper
   - qty: 2
-    name: tomatoes or 200 g tinned tomatoes
+    name: tomatoes
     raw: 2 fresh tomatoes OR 200 g tinned tomatoes
   - qty: 1
     name: parsley

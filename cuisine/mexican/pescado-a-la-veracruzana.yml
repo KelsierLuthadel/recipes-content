@@ -33,7 +33,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: 1 teaspoon ground black pepper
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 1
     unit: tbsp
@@ -47,10 +47,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 6
-    name: tomatoes ; or 1 tin chopped tomatoes + 200 g fresh tomato
+    name: tomatoes ;
     raw: 6 medium ripe tomatoes ; or 1 tin chopped tomatoes + 200 g fresh tomato
   - qty: 4
     unit: tbsp

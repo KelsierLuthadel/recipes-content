@@ -30,11 +30,11 @@ ingredients:
     name: pork shoulder picnic roast
     raw: 1 bone-in pork shoulder picnic roast
   - qty: 20
-    name: garlic cloves
+    name: garlic
     raw: 20 garlic cloves
   - qty: 250
     unit: ml
-    name: sour orange juice ; or 125 ml fresh orange juice + 125 ml fresh lime juice as substitute
+    name: sour orange juice ;
     raw: 250 ml fresh sour orange juice ; OR 125 ml fresh orange juice + 125 ml fresh lime juice as substitute
   - qty: 100
     unit: ml
@@ -75,7 +75,7 @@ ingredients:
     name: flaky sea salt
     raw: 1 teaspoon flaky sea salt
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 80
     unit: ml

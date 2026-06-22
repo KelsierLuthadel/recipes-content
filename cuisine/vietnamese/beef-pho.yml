@@ -49,7 +49,7 @@ ingredients:
     name: lemon grass stems
     raw: 2 lemon grass stems
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 0.25
     unit: tsp
@@ -72,7 +72,7 @@ ingredients:
     raw: 2 spring onions
   - qty: 25
     unit: g
-    name: coriander leaves
+    name: coriander
     raw: 25 grams coriander leaves
   - qty: 25
     unit: g
@@ -83,7 +83,7 @@ ingredients:
     raw: 2 fresh red chillies
   - name: mint leaves
     raw: mint leaves
-  - name: coriander leaves
+  - name: coriander
     raw: coriander leaves
   - qty: 2
     name: limes

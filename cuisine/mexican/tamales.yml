@@ -33,7 +33,7 @@ ingredients:
     name: ancho chillies
     raw: 2 dried ancho chillies
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: onion
@@ -60,7 +60,7 @@ ingredients:
     raw: 500 g masa harina
   - qty: 200
     unit: g
-    name: lard or unsalted butter
+    name: lard
     raw: 200 g lard or unsalted butter
   - qty: 1
     unit: tsp

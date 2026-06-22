@@ -37,7 +37,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -92,7 +92,7 @@ ingredients:
     name: lemon
     raw: 1 lemon
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.5
     unit: tsp

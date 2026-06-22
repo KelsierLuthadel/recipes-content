@@ -68,7 +68,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: spring onions
@@ -120,7 +120,7 @@ ingredients:
     raw: 300 g thinly sliced lamb
   - qty: 200
     unit: g
-    name: shell-off prawns
+    name: shell off prawns
     raw: 200 g raw shell-off prawns
   - qty: 200
     unit: g
@@ -153,7 +153,7 @@ ingredients:
     name: toasted sesame oil
     raw: 2 tablespoons toasted sesame oil
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     unit: tbsp

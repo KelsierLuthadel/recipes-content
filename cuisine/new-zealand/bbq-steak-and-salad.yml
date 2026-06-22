@@ -26,7 +26,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: sirloin or ribeye steaks
+    name: sirloin
     raw: 4 sirloin or ribeye steaks, 250 g each, about 2.5 cm thick
   - qty: 2
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 3 cloves garlic, minced
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tbsp finely chopped flat-leaf parsley
   - qty: 1
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 80 g walnuts, toasted and roughly chopped
   - qty: 80
     unit: g
-    name: feta or blue cheese
+    name: feta
     raw: 80 g feta or blue cheese, crumbled
   - qty: 3
     unit: tbsp

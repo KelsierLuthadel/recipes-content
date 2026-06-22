@@ -18,17 +18,17 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: all-butter puff pastry
+    name: all butter puff pastry
     raw: 500 g all-butter puff pastry, defrosted
   - name: flour for rolling
     raw: Flour for rolling
   - qty: 300
     unit: g
-    name: telemea or feta cheese
+    name: telemea
     raw: 300 g telemea or feta cheese, crumbled
   - qty: 100
     unit: g
-    name: cottage cheese or ricotta
+    name: cottage cheese
     raw: 100 g cottage cheese or ricotta
   - qty: 1
     name: egg
@@ -52,5 +52,5 @@ ingredients:
     raw: 1 egg, beaten with 1 tbsp milk
   - qty: 1
     unit: tbsp
-    name: sesame or nigella seeds
+    name: sesame
     raw: 1 tbsp sesame or nigella seeds

@@ -43,15 +43,15 @@ ingredients:
     raw: 1 bay leaf
   - qty: 2
     unit: tbsp
-    name: lard or vegetable oil
+    name: lard
     raw: 2 tbsp lard or vegetable oil
   - qty: 200
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 200 g long-grain white rice, rinsed
   - qty: 2
     unit: l
-    name: beef stock or water
+    name: beef stock
     raw: 2 litres beef stock or water
   - qty: 2
     unit: tsp
@@ -61,7 +61,7 @@ ingredients:
     raw: Black pepper
   - qty: 1
     unit: large handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large handful flat-leaf parsley, chopped
   - qty: 2
     name: spring onions

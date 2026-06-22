@@ -48,7 +48,7 @@ ingredients:
     raw: A small handful of dill, chopped
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of flat-leaf parsley, chopped
   - name: salt and freshly ground black pepper
     raw: Salt and freshly ground black pepper
@@ -64,5 +64,5 @@ ingredients:
     raw: 1 egg yolk and 2 tbsp yoghurt
   - qty: 1
     unit: tsp
-    name: sesame or nigella seeds
+    name: sesame
     raw: 1 tsp sesame or nigella seeds

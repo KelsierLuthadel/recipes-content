@@ -32,7 +32,7 @@ ingredients:
     name: sea salt
     raw: 1 teaspoon fine sea salt
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     raw: 1 teaspoon sumac
   - name: pomegranate molasses
     raw: A few drops of pomegranate molasses
-  - name: warm pide bread or turkish flatbread
+  - name: warm pide bread
     raw: Warm pide bread or Turkish flatbread
   - name: vegetables for dipping
     raw: Sliced raw vegetables for dipping

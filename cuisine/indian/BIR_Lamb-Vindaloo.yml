@@ -30,7 +30,7 @@ mentions:
 ingredients:
   - qty: 3
     unit: tbsp
-    name: rapeseed oil or seasoned oil
+    name: rapeseed oil
     raw: 3 tbsp rapeseed oil or seasoned oil
   - qty: 6
     name: green cardamom pods
@@ -77,7 +77,7 @@ ingredients:
     raw: 600 ml Curry Base Gravy
   - qty: 800
     unit: g
-    name: pre-cooked lamb
+    name: pre cooked lamb
     raw: 800 g Pre-cooked Lamb
   - qty: 175
     unit: ml
@@ -92,7 +92,7 @@ ingredients:
     name: fenugreek leaves
     raw: 1 tsp dried fenugreek leaves
   - qty: 2
-    name: pre-cooked stewed potatoes
+    name: pre cooked stewed potatoes
     raw: 2 pre-cooked stewed potatoes
   - qty: 3
     unit: tbsp

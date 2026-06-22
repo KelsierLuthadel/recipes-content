@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 0.5
-    name: "-1 tsp cayenne"
+    name: 1 tsp cayenne
     raw: ½-1 tsp cayenne
   - qty: 0.5
     unit: tsp
@@ -89,15 +89,15 @@ ingredients:
     raw: ½ tsp cayenne
   - qty: 150
     unit: ml
-    name: beef stock or hot water
+    name: beef stock
     raw: 150 ml beef stock or hot water
   - qty: 75
     unit: ml
-    name: vegetable oil or lard
+    name: vegetable oil
     raw: 75 ml vegetable oil or lard
   - qty: 1.5
     unit: l
-    name: beef stock or water
+    name: beef stock
     raw: 1.5 litres beef stock or water
   - qty: 2
     unit: tbsp

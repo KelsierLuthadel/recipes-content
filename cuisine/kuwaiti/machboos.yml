@@ -29,7 +29,7 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: chicken or 1.5 kg lamb shoulder on the bone
+    name: chicken
     raw: 1.5 kg chicken or 1.5 kg lamb shoulder on the bone
   - qty: 2
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     name: onions
     raw: 2 large onions, finely chopped
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves, crushed
   - qty: 30
     unit: g

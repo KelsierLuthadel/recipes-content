@@ -35,7 +35,7 @@ ingredients:
     name: flaked almonds
     raw: 50 g flaked almonds
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     unit: tsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 1 tablespoon fresh lemon juice
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons fresh flat-leaf parsley
   - name: salt
     raw: salt

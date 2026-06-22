@@ -30,7 +30,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: flat rice noodles - or 200 g dried
+    name: flat rice noodles
     raw: 400 g fresh flat rice noodles - or 200 g dried, soaked
   - qty: 200
     unit: g
@@ -80,7 +80,7 @@ ingredients:
     raw: 1 tsp sugar
   - qty: 1
     unit: tsp
-    name: sambal oelek -
+    name: sambal oelek
     raw: 1 tsp sambal oelek - optional
   - qty: 4
     unit: tbsp

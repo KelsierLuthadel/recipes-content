@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: lamb shoulder or neck on the bone
+    name: lamb shoulder
     raw: 400 g lamb shoulder or neck on the bone, cut into 2 cm cubes
   - qty: 2
     unit: tbsp
@@ -71,7 +71,7 @@ ingredients:
     raw: 100 g frik ; rinse twice in cold water
   - qty: 2
     unit: l
-    name: water or light lamb stock
+    name: water
     raw: 2 litres water or light lamb stock
   - qty: 1.5
     unit: tsp

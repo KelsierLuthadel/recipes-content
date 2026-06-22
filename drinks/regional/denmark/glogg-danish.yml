@@ -24,7 +24,7 @@ ingredients:
     raw: 1.5 litres dry red wine
   - qty: 300
     unit: ml
-    name: dark rum or brandy or aalborg akvavit
+    name: dark rum
     raw: 300 ml dark rum OR brandy OR Aalborg akvavit
   - qty: 150
     unit: ml
@@ -49,9 +49,9 @@ ingredients:
   - qty: 1
     name: ginger
     raw: 1 thumb fresh ginger
-  - name: peel of 1 large orange
+  - name: orange
     raw: Peel of 1 large orange
-  - name: peel of ½ lemon
+  - name: ½ lemon
     raw: Peel of ½ lemon
   - qty: 1
     name: star anise
@@ -67,11 +67,11 @@ ingredients:
   - qty: 1
     name: orange peel
     raw: 1 small piece of orange peel
-  - name: æbleskiver dusted with icing sugar and served with raspberry or strawberry jam
+  - name: æbleskiver dusted with icing sugar and served with raspberry
     raw: Æbleskiver dusted with icing sugar and served with raspberry or strawberry jam, the traditional pairing
   - name: pebernødder
     raw: Pebernødder
   - name: klejner
     raw: Klejner
-  - name: or just a plate of fika-style christmas biscuits
+  - name: or just a plate of fika style christmas biscuits
     raw: Or just a plate of fika-style Christmas biscuits

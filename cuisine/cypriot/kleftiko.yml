@@ -35,7 +35,7 @@ ingredients:
     name: lemon juice
     raw: 4 tablespoons lemon juice
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 2
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 2 onions
   - qty: 200
     unit: g
-    name: feta or halloumi
+    name: feta
     raw: 200 g feta or halloumi
   - qty: 1
     name: lemon

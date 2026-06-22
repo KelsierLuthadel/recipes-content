@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 150
     unit: g
-    name: dark molasses or black treacle
+    name: dark molasses
     raw: 150 g dark molasses or black treacle
   - qty: 150
     unit: g
@@ -63,7 +63,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: ½ teaspoon freshly ground black pepper
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 0.25
     unit: tsp

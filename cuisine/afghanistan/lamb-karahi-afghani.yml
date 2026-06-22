@@ -34,7 +34,7 @@ ingredients:
     name: onions
     raw: 3 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -56,7 +56,7 @@ ingredients:
     name: kashmiri chilli powder
     raw: 1 teaspoon Kashmiri chilli powder
   - qty: 4
-    name: tomatoes or 1 tin chopped tomatoes
+    name: tomatoes
     raw: 4 fresh tomatoes or 1 tin chopped tomatoes
   - qty: 2
     unit: tbsp

@@ -33,7 +33,7 @@ ingredients:
     name: pork
     raw: 300 g minced pork
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs
   - qty: 100
     unit: g
@@ -44,7 +44,7 @@ ingredients:
     name: parmesan
     raw: 60 g grated Parmesan
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -69,7 +69,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
@@ -99,7 +99,7 @@ ingredients:
     raw: 1 teaspoon ground cinnamon
   - qty: 500
     unit: g
-    name: spaghetti or boiled potatoes
+    name: spaghetti
     raw: 500 g cooked spaghetti or boiled potatoes
   - qty: 200
     unit: g

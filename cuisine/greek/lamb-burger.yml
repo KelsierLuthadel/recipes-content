@@ -31,7 +31,7 @@ ingredients:
     name: red onion
     raw: 1 red onion , finely grated
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, finely grated
   - qty: 1
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     name: cucumber
     raw: ½ cucumber, grated and squeezed dry
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove, grated
   - qty: 1
     unit: tbsp

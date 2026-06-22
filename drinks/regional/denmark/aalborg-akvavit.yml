@@ -18,7 +18,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: aalborg taffel akvavit or aalborg jubilæum
+    name: aalborg taffel akvavit
     raw: 1 bottle Aalborg Taffel Akvavit OR Aalborg Jubilæum
   - qty: 700
     unit: ml
@@ -40,9 +40,9 @@ ingredients:
     unit: tsp
     name: coriander seeds
     raw: 1 teaspoon coriander seeds
-  - name: peel of 1 lemon
+  - name: lemon
     raw: Peel of 1 lemon
-  - name: sweet-gale if available
+  - name: sweet gale if available
     raw: A small piece of sweet-gale if available, the Danish bog plant; or substitute juniper berries
   - qty: 1
     unit: tbsp

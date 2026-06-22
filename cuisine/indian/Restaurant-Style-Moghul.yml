@@ -87,13 +87,13 @@ ingredients:
     raw: 300 ml+ Curry Base Gravy, heated through
   - qty: 200
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, or other main
   - name: worcestershire sauce
     raw: a few splashes Worcestershire sauce
   - qty: 1
     unit: tsp
-    name: lemon or lime juice
+    name: lemon
     raw: 1 tsp lemon or lime juice
   - qty: 10
     name: to 15 sultanas
@@ -110,5 +110,5 @@ ingredients:
     raw: a small pinch of Garam Masala
   - name: coriander
     raw: fresh coriander, finely chopped
-  - name: half a hard-boiled egg
+  - name: hard boiled egg
     raw: half a hard-boiled egg

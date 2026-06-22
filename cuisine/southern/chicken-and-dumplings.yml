@@ -27,10 +27,10 @@ ingredients:
     name: carrots
     raw: 4 carrots
   - qty: 3
-    name: celery stalks
+    name: celery
     raw: 3 celery stalks
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: bay leaves

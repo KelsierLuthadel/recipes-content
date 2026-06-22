@@ -15,7 +15,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: medium-coarse cornmeal
+    name: medium coarse cornmeal
     raw: 300 g medium-coarse cornmeal
   - qty: 200
     unit: g
@@ -41,7 +41,7 @@ ingredients:
     unit: tbsp
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
-  - name: flour or cornmeal
+  - name: flour
     raw: Extra flour or cornmeal
   - qty: 1
     unit: tbsp

@@ -26,7 +26,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: flour tortilla or 2 corn tortillas overlapped
+    name: flour tortilla
     raw: 1 flour tortilla OR 2 corn tortillas overlapped
   - qty: 80
     unit: g
@@ -50,7 +50,7 @@ ingredients:
     raw: 1 teaspoon chilli powder
   - qty: 2
     unit: tsp
-    name: vegetable oil or butter
+    name: vegetable oil
     raw: 2 teaspoons vegetable oil OR butter
   - name: salsa verde
     raw: Salsa verde

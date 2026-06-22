@@ -21,7 +21,7 @@ ingredients:
     name: caster sugar
     raw: 2 tablespoons caster sugar
   - qty: 1
-    name: fast-action yeast
+    name: fast action yeast
     raw: 1 sachet fast-action yeast
   - qty: 1
     unit: tsp
@@ -35,7 +35,7 @@ ingredients:
     unit: ml
     name: water
     raw: 350 ml warm water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: caster sugar
     raw: Caster sugar, for rolling

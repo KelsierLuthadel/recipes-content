@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 45
     unit: ml
-    name: canadian rye whisky or bourbon or canadian dark rum
+    name: canadian rye whisky
     raw: 45 ml Canadian rye whisky OR bourbon OR Canadian dark rum
   - qty: 2
     unit: tbsp
@@ -45,7 +45,7 @@ ingredients:
   - qty: 1
     name: ginger
     raw: 1 thin slice of fresh ginger
-  - name: heatproof glass - 250-300 ml capacity
+  - name: heatproof glass 250 300 ml capacity
     raw: A heatproof glass - 250-300 ml capacity
   - name: biscuit
     raw: A small biscuit

@@ -31,11 +31,11 @@ ingredients:
     name: rosemary
     raw: 2 sprigs rosemary
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 50
     unit: g
-    name: pork rind or pancetta in one piece
+    name: pork rind
     raw: 50 g pork rind or pancetta in one piece
   - qty: 100
     unit: ml
@@ -45,7 +45,7 @@ ingredients:
     name: onion
     raw: 1 small onion, finely chopped
   - qty: 1
-    name: celery stalk
+    name: celery
     raw: 1 small celery stalk, finely chopped
   - qty: 2
     unit: tbsp
@@ -53,7 +53,7 @@ ingredients:
     raw: 2 tbsp tomato paste
   - qty: 1.5
     unit: l
-    name: water or light chicken stock
+    name: water
     raw: 1.5 litres water or light chicken stock
   - qty: 200
     unit: g

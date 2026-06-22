@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: "side of scottish salmon : farmed loch-reared or wild"
+    name: "side of scottish salmon : farmed loch reared"
     raw: "1 side of Scottish salmon : farmed loch-reared or wild"
   - qty: 200
     unit: g
@@ -43,9 +43,9 @@ ingredients:
     raw: 1 tablespoon coarsely cracked black pepper
   - qty: 60
     unit: ml
-    name: single-malt scotch whisky
+    name: single malt scotch whisky
     raw: 60 ml single-malt Scotch whisky
-  - name: zest of 2 lemons
+  - name: lemons
     raw: Zest of 2 lemons
   - qty: 1
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 3 tablespoons finely chopped dill
   - name: sea salt and pepper
     raw: Sea salt and pepper to taste
-  - name: pumpernickel or rye bread
+  - name: pumpernickel
     raw: Pumpernickel or rye bread, sliced thin and lightly toasted
   - name: bowl of creme fraiche
     raw: A small bowl of crème fraîche

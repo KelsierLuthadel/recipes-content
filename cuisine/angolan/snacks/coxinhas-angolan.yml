@@ -49,7 +49,7 @@ ingredients:
     name: onion
     raw: 1 small onion, very finely chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, very finely chopped
   - qty: 2
     unit: tbsp
@@ -64,7 +64,7 @@ ingredients:
     name: paprika
     raw: 1 tsp paprika
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley, chopped
   - qty: 1
     unit: pinch

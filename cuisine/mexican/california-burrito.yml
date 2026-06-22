@@ -24,10 +24,10 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: flank or skirt steak
+    name: flank
     raw: 500 g flank or skirt steak
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 2
     name: limes

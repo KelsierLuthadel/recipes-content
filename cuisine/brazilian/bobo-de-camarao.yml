@@ -35,7 +35,7 @@ ingredients:
     raw: 800 g fresh cassava
   - qty: 600
     unit: ml
-    name: chicken or fish stock
+    name: chicken
     raw: 600 ml chicken or fish stock
   - qty: 1
     unit: tsp
@@ -53,7 +53,7 @@ ingredients:
     name: onions
     raw: 2 medium onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: 1 teaspoon fine sea salt
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 1
     name: coriander
@@ -82,10 +82,10 @@ ingredients:
     unit: g
     name: prawns
     raw: 600 g large prawns
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: tsp
@@ -97,7 +97,7 @@ ingredients:
     raw: 1 teaspoon coarsely cracked black pepper
   - qty: 600
     unit: g
-    name: white long-grain rice
+    name: white long grain rice
     raw: 600 g white long-grain rice
   - qty: 200
     unit: g

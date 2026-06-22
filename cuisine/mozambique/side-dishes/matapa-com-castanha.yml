@@ -54,7 +54,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: ginger
@@ -78,7 +78,7 @@ ingredients:
     raw: 30 g dried small shrimp
   - qty: 2
     unit: tbsp
-    name: fish sauce or worcestershire sauce
+    name: fish sauce
     raw: 2 tablespoons fish sauce or Worcestershire sauce
   - qty: 1.5
     unit: tsp

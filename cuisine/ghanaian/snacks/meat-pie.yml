@@ -63,7 +63,7 @@ ingredients:
     name: carrot
     raw: 1 carrot, peeled and finely diced
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, minced
   - qty: 2
     name: ginger
@@ -95,7 +95,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 200
     unit: ml
-    name: beef stock or water
+    name: beef stock
     raw: 200 ml beef stock or water
   - qty: 2
     unit: tbsp

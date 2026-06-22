@@ -59,7 +59,7 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 2
     unit: l
-    name: sunflower oil or rapeseed oil
+    name: sunflower oil
     raw: 2 litres sunflower oil OR rapeseed oil
   - qty: 150
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     unit: small pinch
     name: sea salt
     raw: A small pinch of fine sea salt
-  - name: the same cinnamon-sugar as above
+  - name: the same cinnamon sugar as above
     raw: The same cinnamon-sugar as above
   - qty: 2
     unit: tbsp
@@ -91,5 +91,5 @@ ingredients:
     raw: Whisk together; spread on the hot BeaverTail
   - qty: 4
     unit: tbsp
-    name: nutella or chocolate-hazelnut spread
+    name: nutella
     raw: 4 tablespoons Nutella OR chocolate-hazelnut spread, warmed slightly

@@ -34,7 +34,7 @@ ingredients:
     raw: 4 allspice berries
   - qty: 2
     unit: l
-    name: just-boiled water
+    name: just boiled water
     raw: 2 litres just-boiled water
   - qty: 300
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     raw: 60 ml dark rum
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: orange or lime
+  - name: orange
     raw: Sliced orange or lime
   - name: mint
     raw: Mint sprigs

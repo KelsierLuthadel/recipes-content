@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 750
     unit: ml
-    name: medium-bodied red wine
+    name: medium bodied red wine
     raw: 750 ml medium-bodied red wine
   - qty: 1
     name: orange sliced into rounds
@@ -26,7 +26,7 @@ ingredients:
     raw: 1 lemon, sliced into rounds
   - qty: 100
     unit: g
-    name: caster sugar or 80 ml clear honey
+    name: caster sugar
     raw: 100 g caster sugar or 80 ml clear honey
   - qty: 1
     name: cinnamon stick

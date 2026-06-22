@@ -63,7 +63,7 @@ ingredients:
     name: green bell pepper
     raw: 1 medium green bell pepper
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 200
     unit: ml
@@ -111,7 +111,7 @@ ingredients:
     raw: Plain white rice
   - name: habichuelas guisadas
     raw: Habichuelas guisadas
-  - name: tostones or maduros
+  - name: tostones
     raw: Tostones or maduros
   - name: pique
     raw: Pique

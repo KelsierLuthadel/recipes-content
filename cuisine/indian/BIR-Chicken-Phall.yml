@@ -56,7 +56,7 @@ ingredients:
     name: neutral oil
     raw: 3 tbsp neutral oil
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 10
     unit: g
@@ -69,10 +69,10 @@ ingredients:
     name: green chillies
     raw: 2 fresh green chillies
   - qty: 1
-    name: scotch bonnet or 1 naga chilli
+    name: scotch bonnet
     raw: 1 scotch bonnet or 1 naga chilli
   - qty: 1
-    name: tomato or 2 tbsp tinned chopped tomato
+    name: tomato
     raw: 1 tomato or 2 tbsp tinned chopped tomato
   - qty: 1
     unit: tbsp
@@ -88,7 +88,7 @@ ingredients:
     raw: 200 ml Curry Base Gravy, hot
   - qty: 150
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 150 g Pre-Cooked Chicken, warmed in its stock
   - qty: 0.5
     unit: tsp

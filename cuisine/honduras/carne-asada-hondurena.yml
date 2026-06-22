@@ -32,7 +32,7 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: flank steak or skirt steak
+    name: flank steak
     raw: 1.2 kg flank steak or skirt steak
   - qty: 120
     unit: ml
@@ -47,7 +47,7 @@ ingredients:
     name: olive oil
     raw: 6 tablespoons olive oil
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     name: coriander
     raw: 1 small handful fresh coriander
   - qty: 1
-    name: jalapeno or serrano chilli
+    name: jalapeno
     raw: 1 fresh jalapeño or serrano chilli
   - qty: 4
     name: tomatoes
@@ -102,7 +102,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 large bunch fresh coriander
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 2
     unit: tbsp
@@ -128,7 +128,7 @@ ingredients:
     raw: Arroz blanco
   - name: frijoles fritos
     raw: Frijoles fritos
-  - name: queso fresco or feta
+  - name: queso fresco
     raw: Queso fresco or feta
   - name: avocado
     raw: Sliced avocado

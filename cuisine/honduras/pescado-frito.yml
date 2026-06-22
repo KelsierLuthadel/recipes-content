@@ -22,14 +22,14 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: white-fleshed fish
+    name: white fleshed fish
     raw: 2 whole white-fleshed fish
   - qty: 100
     unit: ml
     name: lime juice
     raw: 100 ml fresh lime juice
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
@@ -91,11 +91,11 @@ ingredients:
     unit: tsp
     name: cumin
     raw: ½ teaspoon ground cumin
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: tajadas
     raw: Tajadas
-  - name: arroz con coco or arroz blanco
+  - name: arroz con coco
     raw: Arroz con coco or arroz blanco
   - name: encurtido
     raw: Encurtido
@@ -107,5 +107,5 @@ ingredients:
     raw: Avocado slices
   - name: coriander
     raw: Fresh coriander
-  - name: corn tortillas or hot bread
+  - name: corn tortillas
     raw: Corn tortillas or hot bread

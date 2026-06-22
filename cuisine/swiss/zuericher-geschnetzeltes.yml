@@ -57,9 +57,9 @@ ingredients:
     unit: tbsp
     name: dijon mustard
     raw: 1 tbsp Dijon mustard
-  - name: juice of half a lemon
+  - name: lemon
     raw: Juice of half a lemon
   - qty: 1
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 tbsp finely chopped flat-leaf parsley

@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: rib-eye
+    name: rib eye
     raw: 600 g rib-eye
   - qty: 1
     name: asian pear
@@ -44,7 +44,7 @@ ingredients:
     name: toasted sesame oil
     raw: 2 tablespoons toasted sesame oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -64,7 +64,7 @@ ingredients:
     unit: tbsp
     name: mirin
     raw: 1 tablespoon mirin
-  - name: short-grain rice
+  - name: short grain rice
     raw: Cooked short-grain rice
   - qty: 1
     name: head butter lettuce

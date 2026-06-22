@@ -46,11 +46,11 @@ ingredients:
     raw: 200 g sliced prosciutto cotto
   - qty: 200
     unit: g
-    name: fontina or scamorza
+    name: fontina
     raw: 200 g fontina or scamorza, coarsely grated
   - qty: 80
     unit: g
-    name: pecorino or parmesan
+    name: pecorino
     raw: 80 g aged pecorino or parmesan, finely grated
   - qty: 1
     unit: small handful

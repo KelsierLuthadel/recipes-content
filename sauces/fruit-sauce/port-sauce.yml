@@ -33,7 +33,7 @@ ingredients:
     unit: ml
     name: ruby port
     raw: 250 ml ruby port
-  - name: zest of ¼ of an orange
+  - name: ¼ of an orange
     raw: dried zest of ¼ of an orange
   - qty: 300
     unit: ml

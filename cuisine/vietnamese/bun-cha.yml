@@ -34,7 +34,7 @@ ingredients:
     name: asian shallots
     raw: 4 Asian shallots
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -102,7 +102,7 @@ ingredients:
     name: red chillies
     raw: 3 red chillies
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - name: mint
     raw: Fresh mint

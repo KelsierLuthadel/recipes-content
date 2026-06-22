@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: grass-fed beef mince
+    name: grass fed beef mince
     raw: 500 g grass-fed beef mince
   - qty: 1
     name: white onion
@@ -35,7 +35,7 @@ ingredients:
     name: spring onions
     raw: 2 spring onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 25
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon ground black pepper
   - qty: 4
-    name: whole-wheat english muffins
+    name: whole wheat english muffins
     raw: 4 whole-wheat English muffins
   - qty: 3
     unit: tbsp

@@ -29,7 +29,7 @@ ingredients:
     raw: 250 g chickpea flour
   - qty: 150
     unit: g
-    name: split-yellow-pea flour
+    name: split yellow pea flour
     raw: 150 g split-yellow-pea flour
   - qty: 1
     unit: tsp
@@ -56,7 +56,7 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon ground black pepper
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: ginger
@@ -79,7 +79,7 @@ ingredients:
     unit: ml
     name: water
     raw: 350-400 ml warm water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 2
     name: mangoes

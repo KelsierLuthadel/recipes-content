@@ -48,7 +48,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -62,7 +62,7 @@ ingredients:
     name: red chilli
     raw: 1 dried red chilli
   - qty: 12
-    name: burmese-style samusas
+    name: burmese style samusas
     raw: 12 Burmese-style samusas
   - qty: 500
     unit: ml

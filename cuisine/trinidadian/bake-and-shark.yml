@@ -60,10 +60,10 @@ ingredients:
   - qty: 4
     name: shark fillets
     raw: 4 shark fillets
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -104,7 +104,7 @@ ingredients:
     name: coriander
     raw: 1 small bunch fresh coriander
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: scotch bonnet pepper
@@ -128,7 +128,7 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 200
     unit: ml
@@ -170,7 +170,7 @@ ingredients:
     name: cumin
     raw: ½ teaspoon ground cumin
   - qty: 1
-    name: head iceberg or romaine lettuce
+    name: head iceberg
     raw: 1 small head iceberg or romaine lettuce
   - qty: 2
     name: tomatoes

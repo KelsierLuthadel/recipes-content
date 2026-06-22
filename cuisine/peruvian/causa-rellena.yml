@@ -32,7 +32,7 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: yellow peruvian potatoes or yukon gold or another yellow waxy potato
+    name: yellow peruvian potatoes
     raw: 1.2 kg yellow Peruvian potatoes OR Yukon Gold OR another yellow waxy potato
   - qty: 4
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 4 tablespoons fresh lime juice
   - qty: 4
     unit: tbsp
-    name: sunflower oil or vegetable oil
+    name: sunflower oil
     raw: 4 tablespoons sunflower oil OR vegetable oil
   - qty: 2
     unit: tsp
@@ -54,7 +54,7 @@ ingredients:
     name: /2 teaspoon white pepper
     raw: 1/2 teaspoon white pepper
   - qty: 2
-    name: tuna in olive oil or brine
+    name: tuna in olive oil
     raw: 2 tins of good tuna in olive oil OR brine, drained
   - qty: 6
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 small red onion, very finely chopped
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
   - qty: 1
     unit: tbsp
@@ -118,7 +118,7 @@ ingredients:
     name: /4 teaspoon black pepper
     raw: 1/4 teaspoon black pepper
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs, sliced or quartered
   - qty: 9
     name: botija olives
@@ -126,7 +126,7 @@ ingredients:
   - qty: 1
     name: avocado
     raw: 1 ripe avocado, sliced thin
-  - name: cilantro or flat-leaf parsley
+  - name: cilantro
     raw: A few sprigs of fresh cilantro OR flat-leaf parsley
   - qty: 1
     name: lime

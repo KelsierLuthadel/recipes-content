@@ -31,7 +31,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     name: cinnamon stick
@@ -71,9 +71,9 @@ ingredients:
     raw: 50 g raw cashews
   - qty: 30
     unit: g
-    name: raisins or sultanas
+    name: raisins
     raw: 30 g raisins or sultanas
   - qty: 1
     unit: tbsp
-    name: ghee or coconut oil
+    name: ghee
     raw: 1 tablespoon ghee or coconut oil

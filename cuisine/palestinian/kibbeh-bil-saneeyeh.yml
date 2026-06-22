@@ -102,7 +102,7 @@ ingredients:
     raw: 60 g pine nuts
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons fresh flat-leaf parsley
   - qty: 2
     unit: tbsp
@@ -114,5 +114,5 @@ ingredients:
     raw: 30 g butter
   - name: greek yogurt with a sprinkle of dried mint
     raw: Greek yogurt with a sprinkle of dried mint
-  - name: cucumber-tomato-mint salad
+  - name: cucumber tomato mint salad
     raw: Cucumber-tomato-mint salad

@@ -46,7 +46,7 @@ ingredients:
     name: ginger
     raw: 3 cm fresh ginger
   - qty: 5
-    name: garlic cloves
+    name: garlic
     raw: 5 garlic cloves
   - qty: 2
     name: green chillies
@@ -98,7 +98,7 @@ ingredients:
     raw: 1 small bunch fresh coriander
   - qty: 6
     unit: tbsp
-    name: mint-coriander chutney
+    name: mint coriander chutney
     raw: 6 tablespoons mint-coriander chutney
   - qty: 2
     name: lemons

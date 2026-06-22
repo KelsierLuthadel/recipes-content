@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: cup
-    name: greek-style yogurt
+    name: greek style yogurt
     raw: 1 cup full-fat Greek-style yogurt
   - qty: 0.25
     unit: tsp
@@ -31,7 +31,7 @@ ingredients:
     raw: 1 tablespoon lemon juice
   - qty: 1
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 1 tablespoon extra-virgin olive oil
   - qty: 0.25
     unit: tsp
@@ -39,5 +39,5 @@ ingredients:
     raw: ¼ teaspoon fine sea salt
   - qty: 1
     unit: pinch
-    name: black or white pepper
+    name: black
     raw: A pinch of black or white pepper

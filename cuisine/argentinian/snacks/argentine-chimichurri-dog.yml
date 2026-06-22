@@ -25,13 +25,13 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: argentine-style chorizo sausages
+    name: argentine style chorizo sausages
     raw: 4 Argentine-style chorizo sausages
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 100 ml red wine vinegar
   - qty: 150
     unit: ml
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 150 ml extra-virgin olive oil
   - qty: 1
     unit: tsp
@@ -91,13 +91,13 @@ ingredients:
     name: black pepper
     raw: ½ teaspoon ground black pepper
   - qty: 4
-    name: long soft french-style rolls
+    name: long soft french style rolls
     raw: 4 long soft French-style rolls
   - qty: 2
     unit: tbsp
     name: olive oil
     raw: 2 tablespoons olive oil
-  - name: cold quilmes or patagonia beer
+  - name: cold quilmes
     raw: A cold Quilmes or Patagonia beer
   - name: or a glass of argentine malbec
     raw: Or a glass of Argentine Malbec

@@ -32,7 +32,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: lao or vietnamese baguette rolls
+    name: lao
     raw: 4 small Lao or Vietnamese baguette rolls
   - qty: 1
     name: carrot
@@ -63,7 +63,7 @@ ingredients:
     raw: 4 tablespoons pâté
   - qty: 4
     unit: tbsp
-    name: mayonnaise or butter
+    name: mayonnaise
     raw: 4 tablespoons mayonnaise OR butter
   - qty: 1
     unit: tbsp
@@ -74,7 +74,7 @@ ingredients:
     raw: 4 thick slices of cooked Lao sai oua sausage
   - name: or 4 slices of cold roast pork
     raw: OR 4 slices of cold roast pork
-  - name: or 4 slices of cooked lao-style cured pork
+  - name: or 4 slices of cooked lao style cured pork
     raw: OR 4 slices of cooked Lao-style cured pork
   - name: or 200 g shredded cold poached chicken
     raw: OR 200 g shredded cold poached chicken

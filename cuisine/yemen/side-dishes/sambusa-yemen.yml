@@ -36,7 +36,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: ginger
@@ -80,7 +80,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 24
-    name: spring-roll pastry sheets
+    name: spring roll pastry sheets
     raw: 24 spring-roll pastry sheets
   - qty: 2
     unit: tbsp

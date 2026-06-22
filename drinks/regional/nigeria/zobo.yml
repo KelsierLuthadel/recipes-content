@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 100
     unit: g
-    name: "hibiscus calyces : from any african or caribbean grocery"
+    name: "hibiscus calyces : from any african"
     raw: "100 g dried hibiscus calyces : from any African or Caribbean grocery, or health food shop"
   - qty: 2
     unit: l
@@ -32,7 +32,7 @@ ingredients:
   - qty: 1
     name: cinnamon stick
     raw: 1 cinnamon stick
-  - name: the skin and core of 1 fresh pineapple or 200 g pineapple chunks
+  - name: the skin and core of 1 fresh pineapple
     raw: The skin and core of 1 fresh pineapple OR 200 g pineapple chunks
   - qty: 200
     unit: g
@@ -44,10 +44,10 @@ ingredients:
     raw: 1 tablespoon fresh lemon juice
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: pineapple per glass
+  - name: pineapple
     raw: A small slice of fresh pineapple per glass
   - qty: 6
     name: to 8 tall glasses
     raw: 6 to 8 tall glasses, chilled
-  - name: "optional: a sprig of fresh mint per glass"
+  - name: "optional: a sprig of fresh mint"
     raw: "Optional: a sprig of fresh mint per glass"

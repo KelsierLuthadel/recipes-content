@@ -38,14 +38,14 @@ ingredients:
     raw: A strip of unwaxed orange peel
   - qty: 250
     unit: ml
-    name: brandy or sherry
+    name: brandy
     raw: 250 ml brandy or sherry
-  - name: warm punch bowl or a heatproof jug
+  - name: warm punch bowl
     raw: A large warm punch bowl or a heatproof jug
   - qty: 8
-    name: mugs or heatproof glasses
+    name: mugs
     raw: 8 mugs or heatproof glasses, warmed
   - name: ladle
     raw: A ladle
-  - name: "optional: extra clove-studded apple pieces"
+  - name: "optional: extra clove studded apple pieces"
     raw: "Optional: extra clove-studded apple pieces for garnish"

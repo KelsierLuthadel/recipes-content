@@ -37,7 +37,7 @@ ingredients:
     unit: tsp
     name: cumin
     raw: 1 teaspoon ground cumin
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 4
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: tomatoes
@@ -82,7 +82,7 @@ ingredients:
     raw: 1 tablespoon dried oregano
   - qty: 1
     unit: tsp
-    name: aleppo pepper or merken
+    name: aleppo pepper
     raw: 1 teaspoon Aleppo pepper or merkén
   - qty: 1.5
     unit: tsp

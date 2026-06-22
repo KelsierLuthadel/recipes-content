@@ -54,13 +54,13 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: ginger
     raw: 2 cm fresh ginger
   - qty: 2
-    name: bird's-eye chillies
+    name: bird's eye chillies
     raw: 2 bird's-eye chillies
   - qty: 100
     unit: ml

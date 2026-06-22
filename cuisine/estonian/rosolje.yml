@@ -42,7 +42,7 @@ ingredients:
     name: red onion
     raw: 1 small red onion, finely chopped
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs, peeled
   - qty: 200
     unit: ml
@@ -54,7 +54,7 @@ ingredients:
     raw: 2 tbsp mayonnaise
   - qty: 2
     unit: tsp
-    name: estonian or dijon mustard
+    name: estonian
     raw: 2 tsp Estonian or Dijon mustard
   - qty: 1
     unit: tbsp

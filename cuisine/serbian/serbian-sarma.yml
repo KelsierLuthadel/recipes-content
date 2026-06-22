@@ -24,7 +24,7 @@ ingredients:
     raw: 1 whole sour cabbage
   - qty: 500
     unit: g
-    name: smoked pork ribs or smoked pork hock
+    name: smoked pork ribs
     raw: 500 g smoked pork ribs or smoked pork hock
   - qty: 2
     name: smoked pork sausages
@@ -35,13 +35,13 @@ ingredients:
     raw: 700 g minced pork shoulder
   - qty: 100
     unit: g
-    name: short-grain rice
+    name: short grain rice
     raw: 100 g short-grain rice, rinsed
   - qty: 2
     name: onions
     raw: 2 large onions, very finely chopped
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, minced
   - qty: 2
     unit: tbsp
@@ -53,7 +53,7 @@ ingredients:
     raw: 1 tsp ground black pepper
   - qty: 1
     unit: tsp
-    name: savory or marjoram
+    name: savory
     raw: 1 tsp dried savory or marjoram
   - qty: 1
     unit: tsp
@@ -68,7 +68,7 @@ ingredients:
     raw: 1 tbsp tomato paste
   - qty: 3
     unit: tbsp
-    name: lard or sunflower oil
+    name: lard
     raw: 3 tbsp lard or sunflower oil
   - qty: 3
     unit: tbsp

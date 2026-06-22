@@ -38,7 +38,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 7
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 6-8 tablespoons ice-cold water
   - qty: 50
     unit: g
@@ -52,13 +52,13 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 0.5
     name: green pepper
     raw: ½ green pepper
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 300
     unit: g

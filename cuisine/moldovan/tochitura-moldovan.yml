@@ -39,7 +39,7 @@ ingredients:
     raw: 4 cloves garlic, finely chopped
   - qty: 2
     unit: tbsp
-    name: lard or sunflower oil
+    name: lard
     raw: 2 tbsp lard or sunflower oil
   - qty: 250
     unit: ml
@@ -47,7 +47,7 @@ ingredients:
     raw: 250 ml dry white wine
   - qty: 200
     unit: ml
-    name: water or pork stock
+    name: water
     raw: 200 ml hot water or pork stock
   - qty: 2
     name: bay leaves
@@ -78,7 +78,7 @@ ingredients:
     raw: 4 eggs
   - qty: 200
     unit: g
-    name: branza de oi or feta
+    name: branza de oi
     raw: 200 g brânză de oi or feta, crumbled
   - qty: 1
     unit: small handful

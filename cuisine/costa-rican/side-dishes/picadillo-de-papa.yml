@@ -31,7 +31,7 @@ ingredients:
     name: red sweet pepper
     raw: 1 red sweet pepper, finely diced
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, finely chopped
   - qty: 1
     unit: tsp
@@ -51,7 +51,7 @@ ingredients:
     raw: 100 g frozen green peas
   - qty: 1
     unit: large handful
-    name: coriander leaves
+    name: coriander
     raw: 1 large handful coriander leaves, chopped
   - name: salt and black pepper
     raw: Salt and black pepper

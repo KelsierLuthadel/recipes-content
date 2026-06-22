@@ -39,7 +39,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     name: tomatoes
     raw: 1 tin chopped tomatoes
   - qty: 4
-    name: all-beef frankfurters
+    name: all beef frankfurters
     raw: 4 all-beef frankfurters
   - qty: 4
     name: soft hot dog buns
@@ -98,13 +98,13 @@ ingredients:
     name: sour cream
     raw: 200 ml sour cream
   - qty: 2
-    name: jalapenos or 100 g pickled jalapeno rings
+    name: jalapenos
     raw: 2 fresh jalapeños OR 100 g pickled jalapeño rings
   - name: yellow mustard
     raw: Yellow mustard
   - name: coriander
     raw: Fresh chopped coriander
-  - name: cold coors or a colorado ipa
+  - name: cold coors
     raw: A cold Coors or a Colorado IPA
   - name: crinkle fries
     raw: Crinkle fries

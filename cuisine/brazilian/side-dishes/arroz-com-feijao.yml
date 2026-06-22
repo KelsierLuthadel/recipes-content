@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 400 g long-grain white rice
   - qty: 2
     unit: tbsp
@@ -38,7 +38,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 800
     unit: ml
@@ -50,19 +50,19 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 300
     unit: g
-    name: black beans or feijao carioca
+    name: black beans
     raw: 300 g dried black beans OR feijão carioca , soaked overnight
   - qty: 1
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: ham hock or 100 g smoked bacon or 1 smoked sausage
+    name: ham hock
     raw: 1 small piece of ham hock OR 100 g smoked bacon OR 1 smoked sausage
   - qty: 2
     unit: tbsp
@@ -89,7 +89,7 @@ ingredients:
     raw: A spoon of farofa
   - name: brazilian hot sauce
     raw: A small dish of Brazilian hot sauce
-  - name: bowl of slow-cooked black beans
+  - name: bowl of slow cooked black beans
     raw: A bowl of slow-cooked black beans
   - name: "optional: orange segments alongside"
     raw: "Optional: orange segments alongside"

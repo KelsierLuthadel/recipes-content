@@ -27,14 +27,14 @@ ingredients:
     raw: 300 g basmati rice
   - qty: 450
     unit: ml
-    name: hot chicken or vegetable stock
+    name: hot chicken
     raw: 450 ml hot chicken or vegetable stock
   - qty: 1
     name: onion
     raw: 1 small onion
   - qty: 250
     unit: g
-    name: button or chestnut mushrooms
+    name: button
     raw: 250 g button or chestnut mushrooms
   - qty: 2
     unit: tbsp

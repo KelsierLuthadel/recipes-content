@@ -31,7 +31,7 @@ ingredients:
     name: groundnut oil
     raw: 1 tablespoon groundnut oil
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 120
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     raw: 30 milliliters fresh parsley
   - qty: 225
     unit: g
-    name: all-purpose flour
+    name: all purpose flour
     raw: 225 grams all-purpose flour
   - qty: 1
     unit: tsp

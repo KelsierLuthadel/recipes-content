@@ -30,7 +30,7 @@ ingredients:
     name: onion
     raw: 1 large onion, finely chopped
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, crushed
   - qty: 1
     unit: tsp
@@ -51,11 +51,11 @@ ingredients:
     unit: tbsp
     name: parsley
     raw: 2 tbsp chopped parsley
-  - name: juice of 1/2 lemon
+  - name: 1/2 lemon
     raw: Juice of 1/2 lemon
   - qty: 200
     unit: g
-    name: akkawi or halloumi
+    name: akkawi
     raw: 200 g akkawi or halloumi, grated
   - qty: 2
     unit: tbsp

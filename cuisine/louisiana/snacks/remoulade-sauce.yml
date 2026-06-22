@@ -48,10 +48,10 @@ ingredients:
     unit: tbsp
     name: hot sauce
     raw: 1 tablespoon hot sauce
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp

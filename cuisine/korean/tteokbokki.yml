@@ -46,7 +46,7 @@ ingredients:
     name: mirin
     raw: 1 tablespoon mirin
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 600
     unit: g
@@ -57,7 +57,7 @@ ingredients:
     name: fish cakes
     raw: 200 g fish cakes
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs
   - qty: 1
     name: onion

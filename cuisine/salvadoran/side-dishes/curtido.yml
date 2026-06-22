@@ -38,7 +38,7 @@ ingredients:
     name: oregano
     raw: 2 tsp dried oregano
   - qty: 0.5
-    name: /2-1 tsp dried chilli flakes
+    name: /2 1 tsp dried chilli flakes
     raw: 1/2-1 tsp dried chilli flakes
   - qty: 250
     unit: ml
@@ -50,5 +50,5 @@ ingredients:
     raw: 250 ml hot water
   - qty: 1
     unit: tbsp
-    name: panela or light brown sugar
+    name: panela
     raw: 1 tbsp panela or light brown sugar

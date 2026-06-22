@@ -38,9 +38,9 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 2
     unit: tsp
@@ -86,10 +86,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
-    name: tomatoes ; or 1 can of chopped tomatoes
+    name: tomatoes ;
     raw: 3 medium tomatoes ; or 1 can of chopped tomatoes
   - qty: 3
     unit: tbsp
@@ -152,7 +152,7 @@ ingredients:
     raw: 40 g pine nuts
   - qty: 30
     unit: g
-    name: raisins or sultanas
+    name: raisins
     raw: 30 g raisins or sultanas
   - qty: 2
     unit: tbsp
@@ -166,10 +166,10 @@ ingredients:
     raw: 1 lemon
   - qty: 300
     unit: g
-    name: greek-style yogurt
+    name: greek style yogurt
     raw: 300 g thick Greek-style yogurt
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: tsp

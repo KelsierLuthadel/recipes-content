@@ -53,10 +53,10 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: 1 teaspoon ground black pepper
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 3
     unit: tbsp
@@ -72,7 +72,7 @@ ingredients:
     name: red bell pepper
     raw: 1 medium red bell pepper
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -88,11 +88,11 @@ ingredients:
     raw: 200 ml tomato sauce
   - qty: 500
     unit: g
-    name: medium-grain rice
+    name: medium grain rice
     raw: 500 g medium-grain rice
   - qty: 350
     unit: ml
-    name: cuban or light lager beer
+    name: cuban
     raw: 350 ml Cuban or light lager beer
   - qty: 500
     unit: ml
@@ -145,5 +145,5 @@ ingredients:
     raw: Sliced avocado
   - name: green salad
     raw: Fresh green salad
-  - name: cristal beer or mojito
+  - name: cristal beer
     raw: Cristal beer or mojito

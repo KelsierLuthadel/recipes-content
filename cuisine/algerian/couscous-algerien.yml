@@ -80,7 +80,7 @@ ingredients:
     raw: 2 courgettes, cut into thick rounds
   - qty: 300
     unit: g
-    name: pumpkin or butternut squash
+    name: pumpkin
     raw: 300 g pumpkin or butternut squash, peeled and cut into chunks
   - qty: 1
     name: green cabbage wedge
@@ -89,7 +89,7 @@ ingredients:
     name: coriander
     raw: 1 small bunch fresh coriander, tied with string
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley, tied with string
   - qty: 500
     unit: g
@@ -111,5 +111,5 @@ ingredients:
     unit: tbsp
     name: harissa stirred into a small bowl of hot broth
     raw: 1 tbsp harissa stirred into a small bowl of hot broth
-  - name: smen or extra olive oil
+  - name: smen
     raw: A small dish of smen or extra olive oil

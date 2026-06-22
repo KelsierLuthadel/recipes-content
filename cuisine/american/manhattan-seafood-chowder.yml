@@ -48,7 +48,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 3
     name: potatoes
@@ -58,7 +58,7 @@ ingredients:
     name: tomatoes
     raw: 400 grams tinned tomatoes
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 3
     unit: tsp

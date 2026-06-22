@@ -42,7 +42,7 @@ ingredients:
     raw: 4 tablespoons natural yogurt
   - qty: 2
     unit: tbsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 2 tablespoons ginger-garlic paste
   - qty: 2
     unit: tbsp
@@ -91,7 +91,7 @@ ingredients:
     name: kashmiri red chillies
     raw: 3 dried Kashmiri red chillies
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: green chillies

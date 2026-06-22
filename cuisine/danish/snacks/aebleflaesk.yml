@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: thick-cut streaky bacon
+    name: thick cut streaky bacon
     raw: 400 g thick-cut streaky bacon
   - qty: 800
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     raw: Cold salted butter
   - qty: 4
     unit: tbsp
-    name: dijon mustard or coarse-grain mustard
+    name: dijon mustard
     raw: 4 tablespoons Dijon mustard or coarse-grain mustard
   - qty: 1
     name: chives

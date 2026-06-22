@@ -40,7 +40,7 @@ ingredients:
     name: garlic
     raw: 4 cloves garlic
   - qty: 1
-    name: scotch bonnet or habanero chilli
+    name: scotch bonnet
     raw: 1 Scotch bonnet OR habanero chilli, deseeded
   - qty: 1
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 2
     unit: tbsp
-    name: sunflower oil or olive oil
+    name: sunflower oil
     raw: 2 tablespoons sunflower oil OR olive oil
   - qty: 2
     unit: tbsp
@@ -78,10 +78,10 @@ ingredients:
     unit: g
     name: unsalted butter
     raw: 60 g unsalted butter
-  - name: cou-cou stick / wooden paddle / sturdy wooden spoon
+  - name: cou cou stick / wooden paddle / sturdy wooden spoon
     raw: A cou-cou stick / wooden paddle / sturdy wooden spoon
   - qty: 4
-    name: "flying-fish fillets : sold at bajan / caribbean markets"
+    name: "flying fish fillets : sold at bajan / caribbean markets"
     raw: "4 large flying-fish fillets : sold at Bajan / Caribbean markets, frozen in some specialty shops"
   - name: or 8 small whole sardines
     raw: OR 8 small whole sardines, gutted
@@ -131,7 +131,7 @@ ingredients:
     raw: 1 tablespoon tomato ketchup
   - qty: 250
     unit: ml
-    name: fish stock or water
+    name: fish stock
     raw: 250 ml fish stock OR water
   - name: salt and pepper
     raw: Salt and pepper
@@ -139,5 +139,5 @@ ingredients:
     raw: Lime wedges
   - name: bajan pepper sauce for those who want extra heat
     raw: A small dish of Bajan pepper sauce for those who want extra heat
-  - name: cold caribbean lager or a glass of cold mauby
+  - name: cold caribbean lager
     raw: A cold Caribbean lager OR a glass of cold mauby

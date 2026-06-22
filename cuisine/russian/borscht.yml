@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef shin or short rib
+    name: beef shin
     raw: 1 kg beef shin or short rib
   - qty: 2
     name: onions
@@ -30,7 +30,7 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: celery stick
+    name: celery
     raw: 1 celery stick
   - qty: 2
     name: bay leaves
@@ -47,7 +47,7 @@ ingredients:
     name: beetroots
     raw: 4 beetroots
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 0.25
     name: white cabbage

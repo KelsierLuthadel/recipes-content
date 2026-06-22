@@ -31,7 +31,7 @@ ingredients:
     name: onion
     raw: 1 onion, halved
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves
@@ -71,7 +71,7 @@ ingredients:
     name: white onion
     raw: 1 large white onion, halved
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: cinnamon stick

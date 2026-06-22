@@ -40,13 +40,13 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: thyme
     raw: 1 large bunch fresh thyme
   - qty: 1
-    name: chive or scallion
+    name: chive
     raw: 1 small bunch fresh chive or scallion
   - qty: 1
     name: scotch bonnet pepper
@@ -56,7 +56,7 @@ ingredients:
     raw: 1 large green seasoning bouquet
   - qty: 200
     unit: g
-    name: salt pork or salt beef ; or
+    name: salt pork
     raw: 200 g salt pork or salt beef ; OR
   - qty: 1
     name: crab ; or

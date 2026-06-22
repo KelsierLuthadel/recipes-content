@@ -32,7 +32,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 200
     unit: g
-    name: frijoles molidos or refried black beans
+    name: frijoles molidos
     raw: 200 g frijoles molidos or refried black beans, warm
   - qty: 100
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     raw: 1/4 small white onion, finely chopped
   - qty: 1
     unit: small handful
-    name: coriander leaves
+    name: coriander
     raw: 1 small handful coriander leaves
   - qty: 1
     name: lime

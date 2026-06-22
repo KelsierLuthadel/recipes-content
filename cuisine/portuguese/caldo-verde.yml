@@ -22,7 +22,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 800
     unit: g
@@ -50,5 +50,5 @@ ingredients:
     raw: 200 g chouriço
   - name: crusty country bread
     raw: Crusty country bread
-  - name: extra-virgin olive oil
+  - name: extra virgin olive oil
     raw: Extra-virgin olive oil

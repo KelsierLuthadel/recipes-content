@@ -18,7 +18,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long mild parek-style sausages
+    name: long mild parek style sausages
     raw: 4 long mild párek-style sausages
   - qty: 1.5
     unit: l
@@ -29,7 +29,7 @@ ingredients:
     raw: 4 long crusty Czech rohlík rolls
   - qty: 6
     unit: tbsp
-    name: brown mustard or czech mustard
+    name: brown mustard
     raw: 6 tablespoons spicy brown mustard or Czech mustard
   - qty: 6
     unit: tbsp
@@ -37,7 +37,7 @@ ingredients:
     raw: 6 tablespoons tomato ketchup
   - name: "optional: 2 tablespoons mayonnaise"
     raw: "Optional: 2 tablespoons mayonnaise"
-  - name: fried onions or chopped raw onion on top
+  - name: fried onions
     raw: A sprinkle of fried onions or chopped raw onion on top
   - name: czech beer
     raw: A cold Czech beer

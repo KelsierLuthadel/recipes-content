@@ -25,14 +25,14 @@ mentions:
 ingredients:
   - qty: 15
     unit: g
-    name: mixed mild-to-medium dried chillies
+    name: mixed mild to medium dried chillies
     raw: 15 g mixed mild-to-medium dried chillies
   - qty: 15
     unit: g
     name: ginger
     raw: 15 g fresh ginger, peeled
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 240
     unit: ml
@@ -50,7 +50,7 @@ ingredients:
     name: ginger
     raw: 15 g fresh ginger, roughly chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, smashed
   - qty: 1
     name: spring onion

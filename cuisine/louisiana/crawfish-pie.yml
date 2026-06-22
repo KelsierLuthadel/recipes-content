@@ -48,7 +48,7 @@ ingredients:
     raw: 2 large egg yolks
   - qty: 7
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 6-8 tablespoons ice-cold water
   - qty: 800
     unit: g
@@ -69,7 +69,7 @@ ingredients:
     name: green bell pepper
     raw: 1 green bell pepper
   - qty: 10
-    name: garlic cloves
+    name: garlic
     raw: 10 garlic cloves
   - qty: 60
     unit: g
@@ -77,7 +77,7 @@ ingredients:
     raw: 60 g plain flour
   - qty: 400
     unit: ml
-    name: hot seafood or chicken stock
+    name: hot seafood
     raw: 400 ml hot seafood or chicken stock
   - qty: 100
     unit: ml
@@ -121,7 +121,7 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - qty: 1
     name: egg

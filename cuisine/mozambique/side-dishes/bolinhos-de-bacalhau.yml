@@ -38,7 +38,7 @@ ingredients:
     name: eggs
     raw: 2 eggs
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.25
     unit: tsp

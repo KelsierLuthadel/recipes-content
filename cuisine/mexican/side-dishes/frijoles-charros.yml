@@ -30,7 +30,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves
@@ -56,7 +56,7 @@ ingredients:
     name: jalapenos
     raw: 2 jalapeños
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: tomatoes

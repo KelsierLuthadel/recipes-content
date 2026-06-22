@@ -33,7 +33,7 @@ ingredients:
     name: red pepper
     raw: 1 red pepper
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: red chilli
@@ -79,7 +79,7 @@ ingredients:
     raw: 100 g feta cheese
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of flat-leaf parsley
   - name: crusty bread
     raw: Crusty bread, to serve

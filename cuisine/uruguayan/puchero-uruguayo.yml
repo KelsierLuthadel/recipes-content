@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: beef shin or brisket
+    name: beef shin
     raw: 1 kg beef shin or brisket, in 4 pieces
   - qty: 2
     name: marrow bones
@@ -65,16 +65,16 @@ ingredients:
     name: carrots
     raw: 4 large carrots, peeled, halved lengthways
   - qty: 1
-    name: green or savoy cabbage
+    name: green
     raw: 1 small green or savoy cabbage, cut into 6 wedges through the core
   - qty: 600
     unit: g
-    name: butternut or kabocha squash
+    name: butternut
     raw: 600 g butternut or kabocha squash, peeled, in big chunks
   - qty: 3
     name: corn on the cob
     raw: 3 corn on the cob, halved across
-  - name: hot cooked rice or short pasta
+  - name: hot cooked rice
     raw: Hot cooked rice or short pasta
   - name: chimichurri
     raw: Chimichurri

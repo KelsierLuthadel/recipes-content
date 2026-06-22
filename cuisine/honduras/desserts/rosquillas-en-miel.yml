@@ -38,7 +38,7 @@ ingredients:
     raw: 80 g caster sugar
   - qty: 150
     unit: g
-    name: queso seco or aged feta
+    name: queso seco
     raw: 150 g queso seco or aged feta
   - qty: 2
     name: eggs
@@ -77,7 +77,7 @@ ingredients:
   - qty: 4
     name: cloves
     raw: 4 whole cloves
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 0.25
     unit: tsp

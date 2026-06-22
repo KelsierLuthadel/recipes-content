@@ -29,7 +29,7 @@ mentions:
 ingredients:
   - qty: 700
     unit: g
-    name: beef chuck or lamb shoulder
+    name: beef chuck
     raw: 700 g beef chuck or lamb shoulder
   - qty: 1.5
     unit: tsp
@@ -47,7 +47,7 @@ ingredients:
     name: onions
     raw: 3 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: ginger
@@ -85,7 +85,7 @@ ingredients:
     raw: 1 bay leaf
   - qty: 600
     unit: g
-    name: long-grain basmati rice
+    name: long grain basmati rice
     raw: 600 g long-grain basmati rice
   - qty: 1.2
     unit: l

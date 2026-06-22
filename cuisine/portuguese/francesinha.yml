@@ -30,11 +30,11 @@ ingredients:
     raw: 4 thin steaks
   - qty: 200
     unit: g
-    name: linguica or smoked portuguese sausage ; or substitute with spanish chorizo
+    name: linguica
     raw: 200 g linguiça or smoked Portuguese sausage ; or substitute with Spanish chorizo
   - qty: 200
     unit: g
-    name: chourico ; or other spicy smoked sausage
+    name: chourico ;
     raw: 200 g chouriço ; or other spicy smoked sausage
   - qty: 200
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     raw: 8 thick slices white bread
   - qty: 300
     unit: g
-    name: gouda or edam cheese
+    name: gouda
     raw: 300 g sliced Gouda or Edam cheese
   - qty: 200
     unit: g
@@ -59,7 +59,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
@@ -97,7 +97,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 1 tablespoon piri-piri sauce
   - qty: 1
     unit: tbsp

@@ -27,11 +27,11 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: beef sirloin or topside
+    name: beef sirloin
     raw: 1.2 kg beef sirloin or topside, in one piece
   - qty: 100
     unit: g
-    name: smoked bacon or pancetta
+    name: smoked bacon
     raw: 100 g smoked bacon or pancetta, cut into long strips
   - qty: 2
     unit: tsp
@@ -124,11 +124,11 @@ ingredients:
     raw: 6 thin lemon slices
   - qty: 6
     unit: tbsp
-    name: cranberry sauce or lingonberry preserves
+    name: cranberry sauce
     raw: 6 tbsp cranberry sauce or lingonberry preserves
   - name: unwhipped double cream
     raw: A few extra tablespoons of unwhipped double cream
   - qty: 1
     unit: handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A handful of flat-leaf parsley, chopped

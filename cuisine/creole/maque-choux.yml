@@ -37,13 +37,13 @@ ingredients:
     name: red pepper
     raw: 1 red pepper
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
-    name: tomatoes or 200 g tinned chopped
+    name: tomatoes
     raw: 2 tomatoes or 200 g tinned chopped
   - qty: 1
-    name: long green chilli or ½ teaspoon cayenne
+    name: long green chilli
     raw: 1 long green chilli or ½ teaspoon cayenne
   - qty: 1
     unit: tsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 4 spring onions
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of flat-leaf parsley
   - name: hot sauce
     raw: Hot sauce

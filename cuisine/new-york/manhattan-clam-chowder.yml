@@ -33,7 +33,7 @@ ingredients:
     raw: 2 kg fresh clams
   - qty: 200
     unit: g
-    name: thick-cut bacon
+    name: thick cut bacon
     raw: 200 g thick-cut bacon
   - qty: 1
     name: onion
@@ -46,7 +46,7 @@ ingredients:
     name: green bell pepper
     raw: 1 green bell pepper
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: tomatoes
@@ -61,7 +61,7 @@ ingredients:
     raw: 600 g potatoes
   - qty: 1.5
     unit: l
-    name: clam juice or seafood stock
+    name: clam juice
     raw: 1.5 litres clam juice or seafood stock
   - qty: 2
     name: bay leaves

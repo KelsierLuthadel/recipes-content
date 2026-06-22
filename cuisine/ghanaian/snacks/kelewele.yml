@@ -31,7 +31,7 @@ ingredients:
     name: scotch bonnets
     raw: 1-2 scotch bonnets, deseeded and finely chopped
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves, grated
   - qty: 1
     unit: tsp
@@ -54,7 +54,7 @@ ingredients:
     unit: tbsp
     name: water
     raw: 2 tbsp water
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 80
     unit: g

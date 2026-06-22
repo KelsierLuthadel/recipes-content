@@ -36,7 +36,7 @@ ingredients:
     name: onion
     raw: 1 medium onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: apple
@@ -81,7 +81,7 @@ ingredients:
     name: nutmeg
     raw: ½ teaspoon ground nutmeg
   - qty: 2
-    name: sheets ready-made all-butter puff pastry
+    name: sheets ready made all butter puff pastry
     raw: 2 sheets ready-made all-butter puff pastry
   - qty: 1
     name: egg

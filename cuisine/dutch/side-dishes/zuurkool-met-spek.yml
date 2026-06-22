@@ -56,7 +56,7 @@ ingredients:
     raw: 1/4 teaspoon ground white pepper
   - qty: 200
     unit: ml
-    name: unsweetened apple juice or a mix of 100 ml chicken stock + 100 ml white wine
+    name: unsweetened apple juice
     raw: 200 ml unsweetened apple juice OR a mix of 100 ml chicken stock + 100 ml white wine
   - qty: 1
     unit: tbsp
@@ -64,13 +64,13 @@ ingredients:
     raw: "1 tablespoon Dutch grainy mustard : some cooks add a small amount at the end"
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley or a pinch of dried thyme
+    name: flat leaf parsley
     raw: A small handful of chopped fresh flat-leaf parsley OR a pinch of dried thyme
   - name: black pepper
     raw: A small grind of black pepper
   - name: goes alongside gelderse rookworst
     raw: Goes alongside Gelderse rookworst , grilled pork chops, slow-roast pork belly, smoked German würst, or as a base for zuurkoolstamppot.
-  - name: mashed potato or boiled potatoes alongside
+  - name: mashed potato
     raw: Mashed potato or boiled potatoes alongside
-  - name: glass of cold dutch lager or a glass of riesling
+  - name: glass of cold dutch lager
     raw: A glass of cold Dutch lager OR a glass of Riesling

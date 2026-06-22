@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 100
     unit: g
-    name: mung-bean flour
+    name: mung bean flour
     raw: 100 g mung-bean flour
   - qty: 50
     unit: g
@@ -42,7 +42,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: chinese five-spice powder
+    name: chinese five spice powder
     raw: ½ teaspoon Chinese five-spice powder
   - qty: 0.25
     unit: tsp
@@ -80,7 +80,7 @@ ingredients:
     name: chilli sauce
     raw: 1 teaspoon chilli sauce
   - qty: 1
-    name: sheet crisp fried wonton or a piece of churro-like fried chinese doughstick
+    name: sheet crisp fried wonton
     raw: 1 sheet crisp fried wonton OR a piece of churro-like fried Chinese doughstick
   - qty: 4
     name: wonton wrappers

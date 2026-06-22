@@ -33,7 +33,7 @@ ingredients:
     name: onion
     raw: 1 onion, halved
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves
@@ -56,7 +56,7 @@ ingredients:
     name: green chilli
     raw: 1 green chilli , seeded for milder, seeds in for heat
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 80
     unit: g
@@ -79,7 +79,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 2
     unit: tbsp
-    name: vegetable oil or lard
+    name: vegetable oil
     raw: 2 tbsp vegetable oil or lard
   - qty: 1
     name: coriander

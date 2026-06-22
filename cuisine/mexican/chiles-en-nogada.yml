@@ -45,7 +45,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: tomatoes
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 medium peach
   - qty: 100
     unit: g
-    name: raisins or sultanas
+    name: raisins
     raw: 100 g raisins or sultanas
   - qty: 60
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     raw: 60 g blanched slivered almonds
   - qty: 60
     unit: g
-    name: candied citron or candied orange peel
+    name: candied citron
     raw: 60 g candied citron or candied orange peel
   - qty: 2
     unit: tbsp
@@ -143,7 +143,7 @@ ingredients:
     name: pomegranate
     raw: 1 large pomegranate
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley
   - qty: 2
     unit: tbsp

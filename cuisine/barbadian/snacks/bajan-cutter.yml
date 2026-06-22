@@ -30,10 +30,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: bajan salt-bread rolls or small soft white bread rolls
+    name: bajan salt bread rolls
     raw: 4 fresh Bajan salt-bread rolls OR small soft white bread rolls
   - qty: 4
-    name: bajan fish cakes - 2 per cutter
+    name: bajan fish cakes 2
     raw: 4 fresh Bajan fish cakes - 2 per cutter
   - name: or 4 small fried flying fish fillets
     raw: OR 4 small fried flying fish fillets
@@ -43,18 +43,18 @@ ingredients:
     name: bajan cooked ham
     raw: 4 slices Bajan cooked ham
   - qty: 4
-    name: bajan cheddar or a bajan-style processed cheese
+    name: bajan cheddar
     raw: 4 slices mature Bajan cheddar OR a Bajan-style processed cheese
   - qty: 200
     unit: g
-    name: bajan corned beef or thinly sliced cold roast beef
+    name: bajan corned beef
     raw: 200 g cooked Bajan corned beef OR thinly sliced cold roast beef
   - qty: 4
     name: eggs
     raw: 4 large eggs, fried
   - qty: 1
     unit: pinch
-    name: salt and pepper per egg
+    name: salt and pepper
     raw: A pinch of salt and pepper per egg
   - qty: 1
     name: tuna in olive oil
@@ -95,7 +95,7 @@ ingredients:
     raw: 8 slices of cucumber
   - name: pepper sauce
     raw: A small dish of extra pepper sauce
-  - name: cold banks lager or a bajan rum punch
+  - name: cold banks lager
     raw: A cold Banks lager OR a Bajan rum punch
   - qty: 1
     unit: handful

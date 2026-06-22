@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: goat shoulder or leg
+    name: goat shoulder
     raw: 1.5 kg bone-in goat shoulder or leg, cut into 4-5 cm pieces
   - qty: 4
     unit: tbsp
@@ -78,7 +78,7 @@ ingredients:
     name: tomato paste
     raw: 2 tbsp tomato paste
   - qty: 1
-    name: aji or madame jeanette pepper
+    name: aji
     raw: 1 small aji or Madame Jeanette pepper, deseeded and chopped
   - qty: 2
     name: bay leaves
@@ -97,7 +97,7 @@ ingredients:
     raw: 1 tbsp Worcestershire sauce
   - qty: 500
     unit: ml
-    name: water or light beef stock
+    name: water
     raw: 500 ml water or light beef stock
   - name: salt and black pepper
     raw: Salt and black pepper

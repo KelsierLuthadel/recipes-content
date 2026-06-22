@@ -29,7 +29,7 @@ mentions:
   - tutorials/vegetable-cookery/braising
 ingredients:
   - qty: 6
-    name: top-round beef
+    name: top round beef
     raw: 6 thin slices of top-round beef
   - qty: 6
     unit: tbsp
@@ -61,7 +61,7 @@ ingredients:
     name: celery
     raw: 2 sticks celery
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     name: bay leaves

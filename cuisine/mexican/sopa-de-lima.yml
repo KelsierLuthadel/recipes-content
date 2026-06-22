@@ -35,10 +35,10 @@ ingredients:
     name: white onion
     raw: 1 large white onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 6
-    name: tomatoes ; or 1 tin chopped tomatoes
+    name: tomatoes ;
     raw: 6 ripe tomatoes ; or 1 tin chopped tomatoes
   - qty: 1
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     raw: 2 tablespoons ground cumin
   - qty: 1
     unit: tbsp
-    name: coriander seed
+    name: coriander seeds
     raw: 1 tablespoon ground coriander seed
   - qty: 4
     name: bay leaves
@@ -70,7 +70,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: 1 teaspoon ground black pepper
-  - name: juice of 4 yucatecan limas agrias ; or juice of 4 regular limes + juice of 1 sour orange + zest of 2 limes
+  - name: yucatecan limas agrias ;
     raw: Juice of 4 Yucatecan limas agrias ; OR juice of 4 regular limes + juice of 1 sour orange + zest of 2 limes
   - qty: 6
     name: corn tortillas
@@ -84,7 +84,7 @@ ingredients:
     name: sea salt
     raw: 1 teaspoon fine sea salt
   - qty: 1
-    name: habanero or jalapeno chilli
+    name: habanero
     raw: 1 small fresh habanero or jalapeño chilli
   - qty: 1
     name: coriander

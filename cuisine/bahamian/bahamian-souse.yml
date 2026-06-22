@@ -35,10 +35,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     name: spring onions
@@ -72,7 +72,7 @@ ingredients:
     name: limes
     raw: 4-5 limes
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley
   - name: bahamian hot sauce
     raw: Bahamian hot sauce

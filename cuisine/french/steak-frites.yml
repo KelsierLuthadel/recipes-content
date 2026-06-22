@@ -29,7 +29,7 @@ ingredients:
   - name: sea salt
     raw: Sea salt
   - qty: 2
-    name: rib-eye
+    name: rib eye
     raw: 2 rib-eye
   - qty: 1
     unit: tbsp
@@ -43,7 +43,7 @@ ingredients:
     name: thyme
     raw: 2 thyme sprigs
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - name: salt
     raw: salt

@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: beef chuck or shin
+    name: beef chuck
     raw: 1.2 kg beef chuck or shin, cut into 4 cm chunks
   - qty: 600
     unit: g
@@ -36,7 +36,7 @@ ingredients:
     raw: 4 tbsp lard, duck fat or vegetable oil
   - qty: 3
     unit: tbsp
-    name: sweet hungarian or czech paprika
+    name: sweet hungarian
     raw: 3 tbsp sweet Hungarian or Czech paprika
   - qty: 1
     unit: tsp
@@ -91,5 +91,5 @@ ingredients:
     raw: Sliced raw onion
   - qty: 1
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 tbsp finely chopped flat-leaf parsley

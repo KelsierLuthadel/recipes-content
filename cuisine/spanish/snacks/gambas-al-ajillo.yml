@@ -21,7 +21,7 @@ ingredients:
     name: prawns
     raw: 400 g raw peeled prawns
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     name: red chilli
@@ -40,7 +40,7 @@ ingredients:
     raw: 1 teaspoon flaky sea salt
   - qty: 2
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 2 tablespoons fresh flat-leaf parsley
   - name: crusty bread
     raw: Crusty bread

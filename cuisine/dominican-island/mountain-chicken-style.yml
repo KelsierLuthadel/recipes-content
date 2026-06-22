@@ -36,7 +36,7 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves, crushed
   - qty: 6
     unit: sprig
@@ -103,7 +103,7 @@ ingredients:
     raw: 1/2 tsp ground allspice
   - qty: 500
     unit: ml
-    name: chicken stock or water
+    name: chicken stock
     raw: 500 ml chicken stock or water
   - qty: 1
     name: scotch bonnet

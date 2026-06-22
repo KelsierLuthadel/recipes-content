@@ -17,15 +17,15 @@ mentions:
   - equipment/food-processor
   - tutorials/spices/storage
 ingredients:
-  - name: zest of 2 large lemons
+  - name: lemons
     raw: Zest of 2 large lemons
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 1
     unit: tbsp

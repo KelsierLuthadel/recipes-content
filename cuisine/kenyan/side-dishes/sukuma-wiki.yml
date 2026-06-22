@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: collard greens or cavolo nero
+    name: collard greens
     raw: 500 g collard greens or cavolo nero, de-stemmed and very finely shredded
   - qty: 1
     name: onion
@@ -51,5 +51,5 @@ ingredients:
   - qty: 1
     name: green chilli
     raw: 1 small green chilli, finely chopped
-  - name: juice of half a lemon
+  - name: lemon
     raw: Juice of half a lemon

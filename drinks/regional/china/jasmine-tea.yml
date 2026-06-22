@@ -12,13 +12,13 @@ mentions:
 ingredients:
   - qty: 6
     unit: g
-    name: loose-leaf jasmine tea
+    name: loose leaf jasmine tea
     raw: 6 g loose-leaf jasmine tea
   - qty: 600
     unit: ml
     name: water at 75 to 80°c
     raw: 600 ml water at 75 to 80°C
-  - name: gaiwan or small teapot
+  - name: gaiwan
     raw: A gaiwan or small teapot
   - name: handleless cups
     raw: Small handleless cups

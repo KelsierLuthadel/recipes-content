@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 16
-    name: sheets warqa pastry or filo
+    name: sheets warqa pastry
     raw: 16 sheets warqa pastry or filo
   - qty: 2
     unit: tbsp
@@ -55,12 +55,12 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, finely chopped
   - qty: 1
     name: egg
     raw: 1 egg, lightly beaten
   - qty: 80
     unit: g
-    name: mozzarella or kashkaval cheese
+    name: mozzarella
     raw: 80 g grated mozzarella or kashkaval cheese

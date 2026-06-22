@@ -60,7 +60,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: tomato
@@ -77,7 +77,7 @@ ingredients:
     name: turkish red pepper paste
     raw: 2 tablespoons Turkish red pepper paste
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley
   - qty: 1
     unit: tbsp
@@ -105,7 +105,7 @@ ingredients:
     raw: 1 teaspoon ground black pepper
   - qty: 400
     unit: g
-    name: spinach ; or 200 g frozen spinach
+    name: spinach ;
     raw: 400 g fresh spinach ; or 200 g frozen spinach
   - qty: 200
     unit: g

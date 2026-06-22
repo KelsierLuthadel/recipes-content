@@ -27,7 +27,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: small handful
@@ -42,7 +42,7 @@ ingredients:
     raw: 300 ml chicken stock
   - qty: 300
     unit: g
-    name: long-grain white rice
+    name: long grain white rice
     raw: 300 g long-grain white rice
   - qty: 3
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 1
     unit: tsp

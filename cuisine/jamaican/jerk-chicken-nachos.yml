@@ -87,7 +87,7 @@ ingredients:
     name: orange juice
     raw: 60 ml orange juice
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tsp
@@ -122,7 +122,7 @@ ingredients:
     name: lime juice
     raw: 60 ml fresh lime juice
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 2
     unit: tsp

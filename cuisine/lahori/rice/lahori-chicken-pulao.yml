@@ -35,7 +35,7 @@ ingredients:
     name: ginger
     raw: 30 g fresh ginger
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tbsp
@@ -103,7 +103,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 25
     unit: g

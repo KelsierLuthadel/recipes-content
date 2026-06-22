@@ -28,14 +28,14 @@ ingredients:
     name: leeks
     raw: 3 leeks
   - qty: 1
-    name: celery stalk
+    name: celery
     raw: 1 celery stalk
   - qty: 200
     unit: g
     name: potatoes
     raw: 200 grams potatoes
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 750
     unit: ml

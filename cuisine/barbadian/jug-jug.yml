@@ -25,11 +25,11 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: salt-cured beef or corned beef
+    name: salt cured beef
     raw: 300 g salt-cured beef OR corned beef
   - qty: 300
     unit: g
-    name: salt-cured pork or ham hock
+    name: salt cured pork
     raw: 300 g salt-cured pork OR ham hock
   - name: water for soaking
     raw: Cold water for soaking
@@ -39,7 +39,7 @@ ingredients:
     raw: 250 g dried pigeon peas , soaked overnight in cold water
   - qty: 200
     unit: g
-    name: millet flour or guinea corn flour
+    name: millet flour
     raw: 200 g millet flour OR Guinea corn flour
   - qty: 1
     name: onion
@@ -71,7 +71,7 @@ ingredients:
     raw: 1 teaspoon black pepper
   - qty: 2
     unit: tbsp
-    name: sunflower oil or rendered pork fat
+    name: sunflower oil
     raw: 2 tablespoons sunflower oil OR rendered pork fat
   - qty: 1.75
     unit: l
@@ -86,13 +86,13 @@ ingredients:
   - qty: 2
     name: scallion
     raw: 2 stalks scallion , sliced
-  - name: baked ham or a bajan roast pork
+  - name: baked ham
     raw: A whole baked ham OR a Bajan roast pork
-  - name: baked sweet potato or caramelised pumpkin
+  - name: baked sweet potato
     raw: Sliced baked sweet potato OR caramelised pumpkin
   - name: green salad
     raw: A green salad
-  - name: bajan rum punch or sorrel
+  - name: bajan rum punch
     raw: Bajan rum punch OR sorrel
   - name: bajan rum cake for dessert
     raw: A slice of Bajan rum cake for dessert

@@ -39,7 +39,7 @@ ingredients:
     raw: 1 tablespoon lemon juice
   - qty: 200
     unit: ml
-    name: chicken stock or water
+    name: chicken stock
     raw: 200 ml chicken stock OR water
   - name: black pepper
     raw: A grating of black pepper
@@ -73,11 +73,11 @@ ingredients:
     raw: 1/2 teaspoon grated nutmeg
   - qty: 100
     unit: g
-    name: emmental or gruyere
+    name: emmental
     raw: 100 g Emmental or Gruyère, grated
   - qty: 80
     unit: g
-    name: emmental or gruyere
+    name: emmental
     raw: 80 g Emmental or Gruyère, grated
   - qty: 2
     unit: tbsp
@@ -91,5 +91,5 @@ ingredients:
     unit: g
     name: boiled new potatoes
     raw: 800 g small boiled new potatoes, buttered and parsleyed
-  - name: glass of dry riesling or a belgian witbier
+  - name: glass of dry riesling
     raw: A glass of dry Riesling or a Belgian witbier

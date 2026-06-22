@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: beef sirloin or lamb leg
+    name: beef sirloin
     raw: 600 g beef sirloin or lamb leg
   - qty: 1
     unit: tsp
@@ -45,7 +45,7 @@ ingredients:
     name: red onion
     raw: 1 large red onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     name: rosemary
     raw: 2 fresh rosemary sprigs
   - qty: 2.5
-    name: jalapeno or other fresh green chillies
+    name: jalapeno
     raw: 2-3 jalapeño or other fresh green chillies
   - qty: 2
     unit: tbsp
@@ -77,5 +77,5 @@ ingredients:
     raw: 1-2 large rounds of injera
   - name: timatim salata
     raw: Timatim salata
-  - name: ayib or any fresh mild cottage cheese
+  - name: ayib
     raw: Ayib or any fresh mild cottage cheese

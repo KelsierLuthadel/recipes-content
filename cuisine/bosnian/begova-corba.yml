@@ -79,7 +79,7 @@ ingredients:
     unit: ml
     name: soured cream
     raw: 200 ml soured cream
-  - name: juice of half a lemon
+  - name: lemon
     raw: Juice of half a lemon
   - qty: 1
     unit: handful

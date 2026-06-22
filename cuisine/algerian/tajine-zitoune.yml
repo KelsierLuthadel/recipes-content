@@ -53,11 +53,11 @@ ingredients:
     name: ginger
     raw: 0.5 tsp ground ginger
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, finely chopped
   - qty: 600
     unit: ml
-    name: water or light chicken stock
+    name: water
     raw: 600 ml water or light chicken stock
   - qty: 250
     unit: g
@@ -70,7 +70,7 @@ ingredients:
     unit: g
     name: blanched whole almonds
     raw: 100 g blanched whole almonds
-  - name: juice of 1 fresh lemon
+  - name: lemon
     raw: Juice of 1 fresh lemon
   - qty: 1
     unit: tsp

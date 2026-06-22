@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black-eyed peas
+    name: black eyed peas
     raw: 300 g dried black-eyed peas
   - qty: 1
     name: onion
@@ -29,7 +29,7 @@ ingredients:
     name: garlic
     raw: 3 cloves garlic
   - qty: 1
-    name: aji or madame jeanette pepper
+    name: aji
     raw: 1 small aji or Madame Jeanette pepper, deseeded
   - qty: 1
     unit: tsp
@@ -47,9 +47,9 @@ ingredients:
     raw: 2 tbsp finely chopped spring onion
   - qty: 1
     unit: small handful
-    name: coriander or parsley
+    name: coriander
     raw: A small handful of fresh coriander or parsley, chopped
   - qty: 1
     unit: l
-    name: sunflower oil for deep-frying
+    name: sunflower oil for deep frying
     raw: 1 litre sunflower oil for deep-frying

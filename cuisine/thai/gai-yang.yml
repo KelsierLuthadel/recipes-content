@@ -35,10 +35,10 @@ ingredients:
     name: chicken
     raw: 1 whole chicken
   - qty: 8
-    name: coriander roots
+    name: coriander
     raw: 8 coriander roots
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 5
     unit: g
@@ -105,7 +105,7 @@ ingredients:
     raw: 3 spring onions
   - qty: 15
     unit: g
-    name: coriander leaves
+    name: coriander
     raw: 15 g coriander leaves
   - qty: 2
     name: shallots

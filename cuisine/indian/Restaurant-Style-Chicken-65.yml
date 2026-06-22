@@ -40,7 +40,7 @@ ingredients:
     raw: 400 g chicken breast, thigh, or leg , cut into 2 to 3 cm pieces
   - qty: 1.5
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1.5 tsp ginger-garlic paste
   - qty: 1
     unit: tsp
@@ -75,13 +75,13 @@ ingredients:
     raw: 3 to 4 tbsp cornflour
   - qty: 1
     unit: tbsp
-    name: all-purpose flour
+    name: all purpose flour
     raw: 1 tbsp all-purpose flour
   - qty: 1
     unit: splash
     name: water
     raw: a splash of water
-  - name: oil for deep-frying
+  - name: oil for deep frying
     raw: oil for deep-frying
   - qty: 3
     unit: tbsp
@@ -109,7 +109,7 @@ ingredients:
     raw: 40 g green pepper, finely diced
   - qty: 1.5
     unit: tsp
-    name: ginger-garlic paste
+    name: ginger garlic paste
     raw: 1.5 tsp ginger-garlic paste
   - qty: 1
     unit: tsp

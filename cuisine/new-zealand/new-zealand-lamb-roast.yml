@@ -52,7 +52,7 @@ ingredients:
     raw: 4 cloves garlic, smashed
   - qty: 1
     unit: cup
-    name: chicken or beef stock
+    name: chicken
     raw: 1 cup chicken or beef stock
   - qty: 1
     unit: cup
@@ -68,7 +68,7 @@ ingredients:
     raw: 800 g kūmara , peeled, cut into chunks
   - qty: 3
     unit: tbsp
-    name: olive oil or duck fat
+    name: olive oil
     raw: 3 tbsp olive oil or duck fat
   - name: salt
     raw: Salt
@@ -98,7 +98,7 @@ ingredients:
     raw: 2 tbsp plain flour
   - qty: 500
     unit: ml
-    name: chicken or beef stock
+    name: chicken
     raw: 500 ml chicken or beef stock
   - qty: 1
     unit: splash

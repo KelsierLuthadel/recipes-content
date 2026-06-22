@@ -36,7 +36,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 4
     name: bay leaves
@@ -57,10 +57,10 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 6
-    name: tomatoes ; or 1 tin chopped tomatoes
+    name: tomatoes ;
     raw: 6 ripe tomatoes ; or 1 tin chopped tomatoes
   - qty: 2
     name: chipotle peppers in adobo + 1 tablespoon adobo sauce
@@ -104,7 +104,7 @@ ingredients:
     unit: tsp
     name: flaky sea salt
     raw: 1 teaspoon flaky sea salt
-  - name: juice of 2 limes
+  - name: limes
     raw: Juice of 2 limes
   - qty: 1
     name: coriander

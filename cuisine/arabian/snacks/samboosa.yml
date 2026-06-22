@@ -36,7 +36,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1.5
     unit: tsp
@@ -73,7 +73,7 @@ ingredients:
     name: lemon
     raw: ½ lemon
   - qty: 20
-    name: spring-roll wrappers or 20 samboosa pastry sheets
+    name: spring roll wrappers
     raw: 20 spring-roll wrappers OR 20 samboosa pastry sheets
   - qty: 2
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 1 litre vegetable oil
   - name: lemon wedges
     raw: Lemon wedges
-  - name: tahini-yogurt dip
+  - name: tahini yogurt dip
     raw: Tahini-yogurt dip
   - name: bowl of green hot sauce
     raw: A small bowl of green hot sauce

@@ -40,7 +40,7 @@ ingredients:
     name: onions
     raw: 3 large onions
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 1 tablespoon black treacle
   - qty: 500
     unit: ml
-    name: guinness or other stout
+    name: guinness
     raw: 500 ml Guinness or other stout
   - qty: 500
     unit: ml
@@ -80,5 +80,5 @@ ingredients:
     raw: Fine sea salt and black pepper
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful of flat-leaf parsley

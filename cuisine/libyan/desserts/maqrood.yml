@@ -49,7 +49,7 @@ ingredients:
     unit: tbsp
     name: olive oil
     raw: 1 tbsp olive oil
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
     raw: 1 tbsp lemon juice
   - qty: 1
     unit: tbsp
-    name: orange-blossom water
+    name: orange blossom water
     raw: 1 tbsp orange-blossom water
   - qty: 500
     unit: ml

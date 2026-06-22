@@ -20,7 +20,7 @@ ingredients:
     raw: 100 ml fresh lime juice
   - qty: 200
     unit: ml
-    name: grenadine or simple syrup
+    name: grenadine
     raw: 200 ml grenadine or simple syrup
   - qty: 300
     unit: ml
@@ -48,5 +48,5 @@ ingredients:
     raw: Slices of orange and lime
   - name: maraschino cherries on cocktail sticks
     raw: Maraschino cherries on cocktail sticks
-  - name: pineapple per glass
+  - name: pineapple
     raw: A small wedge of pineapple per glass

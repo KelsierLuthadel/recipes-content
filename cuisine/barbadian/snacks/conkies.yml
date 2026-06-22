@@ -30,7 +30,7 @@ ingredients:
     raw: 400 g yellow cornmeal
   - qty: 300
     unit: g
-    name: pumpkin or butternut squash
+    name: pumpkin
     raw: 300 g pumpkin OR butternut squash, peeled and finely grated
   - qty: 200
     unit: g
@@ -77,7 +77,7 @@ ingredients:
     raw: 50 g sultanas
   - qty: 50
     unit: g
-    name: almonds or pecans
+    name: almonds
     raw: 50 g chopped almonds OR pecans
   - qty: 1
     unit: tbsp
@@ -103,7 +103,7 @@ ingredients:
     unit: tbsp
     name: thyme leaves
     raw: 1 tablespoon fresh thyme leaves
-  - name: zest of 1 lime
+  - name: lime
     raw: Finely grated zest of 1 lime
   - qty: 13.5
     name: banana leaves
@@ -112,7 +112,7 @@ ingredients:
     raw: Kitchen string for tying
   - name: warm
     raw: Warm, peeled out of the banana leaf
-  - name: bajan tea or mauby
+  - name: bajan tea
     raw: A cup of strong Bajan tea OR mauby
   - qty: 1
     unit: small drizzle

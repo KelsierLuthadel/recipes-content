@@ -39,11 +39,11 @@ ingredients:
     name: salt
     raw: ¼ teaspoon salt
   - qty: 1
-    name: pandan leaf or ¼ teaspoon pandan essence
+    name: pandan leaf
     raw: 1 pandan leaf or ¼ teaspoon pandan essence
   - qty: 120
     unit: g
-    name: palm sugar or dark muscovado
+    name: palm sugar
     raw: 120 g palm sugar or dark muscovado
   - qty: 80
     unit: ml

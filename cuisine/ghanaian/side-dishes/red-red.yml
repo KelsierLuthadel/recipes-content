@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black-eyed peas
+    name: black eyed peas
     raw: 300 g black-eyed peas, soaked overnight
   - qty: 60
     unit: ml
@@ -42,7 +42,7 @@ ingredients:
     name: scotch bonnets
     raw: 2 scotch bonnets, chopped
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, minced
   - qty: 2
     name: ginger

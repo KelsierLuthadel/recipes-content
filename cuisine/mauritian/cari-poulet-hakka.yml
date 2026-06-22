@@ -51,7 +51,7 @@ ingredients:
     name: spring onions
     raw: 3 spring onions
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 25
     unit: g
@@ -86,7 +86,7 @@ ingredients:
     raw: 1 small piece cinnamon bark
   - qty: 1
     unit: tbsp
-    name: mauritian or mild madras curry powder
+    name: mauritian
     raw: 1 tbsp Mauritian or mild Madras curry powder
   - qty: 1
     unit: tsp
@@ -102,7 +102,7 @@ ingredients:
     raw: ½ tsp ground turmeric
   - qty: 0.5
     unit: tsp
-    name: chinese five-spice powder
+    name: chinese five spice powder
     raw: ½ tsp Chinese five-spice powder
   - qty: 2
     unit: tbsp
@@ -136,5 +136,5 @@ ingredients:
     unit: tsp
     name: toasted sesame oil
     raw: 1 tsp toasted sesame oil
-  - name: steamed jasmine rice or hakka-style flat noodles
+  - name: steamed jasmine rice
     raw: Steamed jasmine rice or Hakka-style flat noodles, to serve

@@ -48,10 +48,10 @@ ingredients:
     name: green bell peppers
     raw: 2 green bell peppers
   - qty: 3
-    name: celery ribs
+    name: celery
     raw: 3 celery ribs
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: cup
@@ -66,7 +66,7 @@ ingredients:
     raw: 4 bay leaves
   - qty: 1.9
     unit: l
-    name: low-sodium chicken broth
+    name: low sodium chicken broth
     raw: 1.9 litres low-sodium chicken broth
   - qty: 450
     unit: g

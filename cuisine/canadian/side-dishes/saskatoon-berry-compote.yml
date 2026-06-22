@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: or frozen saskatoon berries
+    name: fresh
     raw: 500 g fresh OR frozen saskatoon berries
   - qty: 110
     unit: g
@@ -33,7 +33,7 @@ ingredients:
     unit: tbsp
     name: lemon juice
     raw: 2 tablespoons lemon juice
-  - name: zest of 1/2 lemon
+  - name: 1/2 lemon
     raw: Finely grated zest of 1/2 lemon
   - qty: 0.25
     name: /4 teaspoon ground cinnamon
@@ -51,7 +51,7 @@ ingredients:
     raw: 1 tablespoon water
   - qty: 1
     unit: tsp
-    name: vanilla extract or 1/2 vanilla pod scraped
+    name: vanilla extract
     raw: 1 teaspoon vanilla extract OR 1/2 vanilla pod scraped
   - qty: 1
     unit: tbsp
@@ -59,11 +59,11 @@ ingredients:
     raw: 1 tablespoon Cognac, brandy or whisky
   - name: spooned over pancakes
     raw: Spooned over pancakes, French toast, waffles or porridge
-  - name: swirled into greek yogurt or whipped cream
+  - name: swirled into greek yogurt
     raw: Swirled into Greek yogurt or whipped cream
   - name: as a sauce for roast pork
     raw: As a sauce for roast pork, duck breast or game
-  - name: layered into a trifle or pavlova
+  - name: layered into a trifle
     raw: Layered into a trifle or pavlova
-  - name: stirred into a glaze for a canadian-style cheesecake
+  - name: stirred into a glaze for a canadian style cheesecake
     raw: Stirred into a glaze for a Canadian-style cheesecake

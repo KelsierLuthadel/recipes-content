@@ -31,9 +31,9 @@ ingredients:
     unit: g
     name: more caster sugar
     raw: 200 g more caster sugar
-  - name: zest of 2 oranges
+  - name: oranges
     raw: Zest of 2 oranges
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 2
     name: cinnamon sticks
@@ -82,7 +82,7 @@ ingredients:
     raw: 250 ml chilled sparkling water
   - name: ice cubes
     raw: Ice cubes
-  - name: lemon or orange slice
+  - name: lemon
     raw: A lemon or orange slice
   - name: "optional: a sprig of mint"
     raw: "Optional: a sprig of mint"

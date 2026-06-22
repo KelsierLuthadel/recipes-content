@@ -55,9 +55,9 @@ ingredients:
     unit: ml
     name: anisette
     raw: 80 ml anisette
-  - name: zest of 1 orange
+  - name: orange
     raw: Zest of 1 orange
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 1
     unit: tsp

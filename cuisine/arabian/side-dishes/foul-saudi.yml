@@ -31,7 +31,7 @@ ingredients:
     name: chickpeas
     raw: 50 g dried chickpeas
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1.5
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     name: olive oil
     raw: 4 tablespoons olive oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tsp

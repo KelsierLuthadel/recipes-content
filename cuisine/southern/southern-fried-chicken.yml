@@ -46,7 +46,7 @@ ingredients:
     name: paprika
     raw: 1 tablespoon paprika
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 500
     unit: g
@@ -80,7 +80,7 @@ ingredients:
     unit: tbsp
     name: thyme
     raw: 1 tablespoon dried thyme
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - name: mashed potatoes with gravy
     raw: Mashed potatoes with gravy

@@ -39,7 +39,7 @@ ingredients:
     name: fried shallots
     raw: 80 g fried shallots , plus extra to garnish
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 4
     name: ginger
@@ -52,7 +52,7 @@ ingredients:
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp
-    name: chinese five-spice powder
+    name: chinese five spice powder
     raw: 1 teaspoon Chinese five-spice powder
   - qty: 0.5
     unit: tsp

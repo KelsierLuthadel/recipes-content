@@ -14,7 +14,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: ml
-    name: just-boiled water
+    name: just boiled water
     raw: 800 ml just-boiled water
   - qty: 4
     name: tea bags
@@ -26,11 +26,11 @@ ingredients:
     unit: ml
     name: water
     raw: 200 ml cold water
-  - name: plenty of crushed or cubed ice
+  - name: plenty of crushed
     raw: Plenty of crushed or cubed ice
   - name: lime wedges
     raw: Lime wedges
   - name: tall glasses
     raw: Tall glasses
-  - name: plastic or paper straws
+  - name: plastic
     raw: Plastic or paper straws

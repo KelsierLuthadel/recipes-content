@@ -14,7 +14,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: earl grey tea bag or 1 tablespoon loose-leaf earl grey
+    name: earl grey tea bag
     raw: 1 Earl Grey tea bag OR 1 tablespoon loose-leaf Earl Grey
   - qty: 200
     unit: ml
@@ -28,7 +28,7 @@ ingredients:
     unit: tsp
     name: vanilla syrup
     raw: 2 teaspoons vanilla syrup
-  - name: "optional: a small lavender bud or 2 drops of lavender extract"
+  - name: "optional: a small lavender bud"
     raw: "Optional: a small lavender bud or 2 drops of lavender extract"
   - qty: 200
     unit: g

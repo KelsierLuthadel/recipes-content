@@ -27,7 +27,7 @@ ingredients:
     raw: 100 g good mayonnaise
   - qty: 2
     unit: tbsp
-    name: creole or coarse-grain mustard
+    name: creole
     raw: 2 tbsp creole or coarse-grain mustard
   - qty: 1
     unit: tbsp
@@ -42,7 +42,7 @@ ingredients:
     name: horseradish
     raw: 1 tsp horseradish
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 small garlic clove
   - qty: 1
     unit: tbsp

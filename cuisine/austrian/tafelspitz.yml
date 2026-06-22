@@ -92,7 +92,7 @@ ingredients:
     name: salt
     raw: Pinch of salt
   - qty: 2
-    name: hard-boiled egg yolks
+    name: hard boiled egg yolks
     raw: 2 hard-boiled egg yolks
   - qty: 1
     name: white bread
@@ -120,7 +120,7 @@ ingredients:
     raw: salt
   - name: pepper
     raw: pepper
-  - name: roast potatoes or buttered new potatoes
+  - name: roast potatoes
     raw: Roast potatoes or buttered new potatoes
   - name: creamed spinach
     raw: Creamed spinach

@@ -23,7 +23,7 @@ tags:
 mentions: []
 ingredients:
   - qty: 1
-    name: sour cabbage or 2 large fresh cabbages parboiled
+    name: sour cabbage
     raw: 1 large sour cabbage OR 2 large fresh cabbages parboiled
   - qty: 800
     unit: g
@@ -31,13 +31,13 @@ ingredients:
     raw: 800 g minced pork
   - qty: 150
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 150 g long-grain rice
   - qty: 1
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tbsp

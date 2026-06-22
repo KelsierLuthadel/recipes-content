@@ -88,7 +88,7 @@ ingredients:
     raw: 500 ml Curry Base Gravy
   - qty: 800
     unit: g
-    name: pre-cooked chicken
+    name: pre cooked chicken
     raw: 800 g Pre-Cooked Chicken
   - qty: 4
     unit: tbsp
@@ -98,7 +98,7 @@ ingredients:
     raw: Salt, to taste
   - qty: 3
     unit: tbsp
-    name: coriander leaves
+    name: coriander
     raw: 3 tbsp chopped coriander leaves
   - qty: 0.5
     unit: tsp

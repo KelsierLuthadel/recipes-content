@@ -32,7 +32,7 @@ ingredients:
     name: limes
     raw: 2 limes
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     unit: tsp
@@ -63,7 +63,7 @@ ingredients:
     name: vegetable oil
     raw: 500 ml vegetable oil
   - qty: 3
-    name: or green plantains
+    name: ripe
     raw: 3 ripe or green plantains
   - name: vegetable oil
     raw: Vegetable oil for frying

@@ -43,10 +43,10 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: celery stalk
+    name: celery
     raw: 1 celery stalk
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1.5
     unit: tbsp

@@ -41,7 +41,7 @@ ingredients:
     name: bouquet garni
     raw: 1 Bouquet Garni
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - name: salt
     raw: salt
@@ -59,7 +59,7 @@ ingredients:
     name: carrots
     raw: 175 grams carrots
   - qty: 6
-    name: celery sticks
+    name: celery
     raw: 6 celery sticks
   - qty: 225
     unit: g

@@ -34,7 +34,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 4
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     name: black pepper
     raw: 1 teaspoon ground black pepper
   - qty: 4
-    name: all-beef natural-casing frankfurters
+    name: all beef natural casing frankfurters
     raw: 4 small all-beef natural-casing frankfurters
   - qty: 4
     name: soft hot dog buns
@@ -102,7 +102,7 @@ ingredients:
   - qty: 1
     name: white onion
     raw: 1 small white onion
-  - name: soda or beer
+  - name: cold soda
     raw: Cold soda or beer
-  - name: crinkle-cut fries on the side
+  - name: crinkle cut fries on the side
     raw: Crinkle-cut fries on the side

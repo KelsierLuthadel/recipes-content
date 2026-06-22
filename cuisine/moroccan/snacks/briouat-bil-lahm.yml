@@ -34,11 +34,11 @@ ingredients:
     name: lamb mince
     raw: 400 g lamb mince
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1.5
     unit: tsp
-    name: ras-el-hanout
+    name: ras el hanout
     raw: 1 ½ teaspoons ras-el-hanout
   - qty: 1
     unit: tsp
@@ -66,7 +66,7 @@ ingredients:
     raw: 100 ml stock
   - qty: 30
     unit: g
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 30 g flat-leaf parsley
   - qty: 20
     unit: g

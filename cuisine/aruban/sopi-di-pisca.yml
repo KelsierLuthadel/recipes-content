@@ -90,7 +90,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: madame jeanette or aji pepper
+    name: madame jeanette
     raw: 1 small Madame Jeanette or aji pepper, pricked twice with a knife
   - qty: 1
     unit: tbsp
@@ -106,7 +106,7 @@ ingredients:
     unit: g
     name: firm white fish fillets
     raw: 800 g firm white fish fillets , skin off, cut into 4 cm chunks
-  - name: juice of 1 lime
+  - name: lime
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp
@@ -114,7 +114,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: handful
-    name: coriander leaves
+    name: coriander
     raw: A handful of fresh coriander leaves, roughly chopped
   - qty: 2
     name: spring onions
@@ -123,5 +123,5 @@ ingredients:
     raw: Lime wedges
   - name: aruban yellow pepper sauce on the side
     raw: Aruban yellow pepper sauce on the side
-  - name: steamed white rice or pan bati
+  - name: steamed white rice
     raw: Steamed white rice or pan bati to serve

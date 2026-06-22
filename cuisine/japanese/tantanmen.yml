@@ -35,7 +35,7 @@ ingredients:
     name: neutral oil
     raw: 1 tablespoon neutral oil
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 25
     unit: g
@@ -86,7 +86,7 @@ ingredients:
     name: white miso paste
     raw: 1 teaspoon white miso paste
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 0.5
     unit: tsp
@@ -109,7 +109,7 @@ ingredients:
     name: ramen noodles
     raw: 200-250 g fresh ramen noodles
   - qty: 2
-    name: soft-boiled eggs
+    name: soft boiled eggs
     raw: 2 soft-boiled eggs
   - qty: 200
     unit: g

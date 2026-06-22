@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: lamb shoulder or lamb breast on the bone
+    name: lamb shoulder
     raw: 1.5 kg lamb shoulder or lamb breast on the bone, cut into 5 cm chunks
   - qty: 1
     name: white cabbage
@@ -44,5 +44,5 @@ ingredients:
     raw: 1.5 kg floury potatoes, peeled, boiled
   - name: butter
     raw: Butter for the potatoes
-  - name: lingonberry preserves or sweet pickled red cabbage on the side
+  - name: lingonberry preserves
     raw: Lingonberry preserves or sweet pickled red cabbage on the side

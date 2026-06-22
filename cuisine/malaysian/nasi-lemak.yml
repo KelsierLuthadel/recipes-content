@@ -55,7 +55,7 @@ ingredients:
     name: red shallots
     raw: 2 red shallots
   - qty: 1
-    name: garlic clove
+    name: garlic
     raw: 1 garlic clove
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
   - name: fried peanuts
     raw: Fried peanuts
   - qty: 2
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 2 hard-boiled eggs
   - name: cucumber
     raw: Sliced cucumber

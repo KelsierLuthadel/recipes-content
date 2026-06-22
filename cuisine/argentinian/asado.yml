@@ -35,7 +35,7 @@ ingredients:
     raw: "1 kg vacío : the asador's favourite"
   - qty: 800
     unit: g
-    name: "bife de chorizo or entrana : premium cuts"
+    name: bife de chorizo
     raw: "800 g bife de chorizo OR entraña : premium cuts"
   - qty: 6
     name: chorizo sausages
@@ -69,7 +69,7 @@ ingredients:
     raw: 2 fresh baguettes
   - name: mixed green salad
     raw: Mixed green salad
-  - name: boiled potatoes or fried potatoes alongside
+  - name: boiled potatoes
     raw: Boiled potatoes or fried potatoes alongside
   - qty: 2.5
     name: argentine malbec

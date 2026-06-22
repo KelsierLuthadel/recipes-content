@@ -21,10 +21,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: capon or large free-range chicken
+    name: capon
     raw: 1 whole capon or large free-range chicken
   - qty: 1
-    name: beef shin or oxtail
+    name: beef shin
     raw: 1 small piece beef shin or oxtail
   - qty: 2
     name: onions
@@ -33,14 +33,14 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 2
-    name: celery stalks
+    name: celery
     raw: 2 celery stalks
   - qty: 1
     name: leek
     raw: 1 leek
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley stems
+    name: flat leaf parsley stems
     raw: 1 small handful flat-leaf parsley stems
   - qty: 4
     name: bay leaves
@@ -109,7 +109,7 @@ ingredients:
     raw: 100 g parmigiano
   - qty: 1
     unit: small handful
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small handful flat-leaf parsley
   - name: olive oil
     raw: A few drops of olive oil

@@ -32,7 +32,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1.5
     unit: tsp
@@ -75,7 +75,7 @@ ingredients:
     name: strained greek yogurt
     raw: 400 g strained Greek yogurt
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves
   - qty: 1
     unit: tsp

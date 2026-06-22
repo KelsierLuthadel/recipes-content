@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: lamb shoulder or leg
+    name: lamb shoulder
     raw: 1 kg lamb shoulder or leg, cut into 4 cm pieces
   - qty: 4
     unit: tbsp
@@ -42,15 +42,15 @@ ingredients:
     raw: 1 tsp dried oregano
   - qty: 500
     unit: ml
-    name: lamb or chicken stock
+    name: lamb
     raw: 500 ml lamb or chicken stock
   - qty: 200
     unit: g
-    name: short-grain or medium-grain rice
+    name: short grain
     raw: 200 g short-grain or medium-grain rice
   - qty: 750
     unit: g
-    name: greek-style yoghurt
+    name: greek style yoghurt
     raw: 750 g thick Greek-style yoghurt
   - qty: 4
     name: eggs

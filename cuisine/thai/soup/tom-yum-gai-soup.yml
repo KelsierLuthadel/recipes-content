@@ -47,7 +47,7 @@ ingredients:
     name: galangal
     raw: 2 ½cm piece of galangal, thinly sliced
   - qty: 3
-    name: garlic cloves
+    name: garlic
     raw: 3 garlic cloves, roughly chopped
   - qty: 250
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     raw: 3 spring onions , roughly chopped
   - qty: 1
     unit: handful
-    name: or sliced vegetables
+    name: chopped
     raw: Handful of chopped or sliced vegetables, such as cabbage, bean sprouts, carrots
   - qty: 1
     unit: tbsp

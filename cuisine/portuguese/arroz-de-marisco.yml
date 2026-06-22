@@ -43,7 +43,7 @@ ingredients:
     raw: 300 g firm white fish
   - qty: 200
     unit: g
-    name: octopus or squid
+    name: octopus
     raw: 200 g octopus or squid
   - name: shrimp shells
     raw: Shrimp shells
@@ -51,7 +51,7 @@ ingredients:
     name: onion
     raw: 1 small onion
   - qty: 2
-    name: garlic cloves
+    name: garlic
     raw: 2 garlic cloves
   - qty: 2
     name: bay leaves
@@ -72,10 +72,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 6
-    name: tomatoes ; or 1 tin chopped tomatoes
+    name: tomatoes ;
     raw: 6 ripe tomatoes ; or 1 tin chopped tomatoes
   - qty: 3
     unit: tbsp
@@ -87,7 +87,7 @@ ingredients:
     raw: 200 ml dry white wine
   - qty: 1
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 1 tablespoon piri-piri sauce
   - qty: 1
     unit: tbsp
@@ -113,12 +113,12 @@ ingredients:
     raw: 1 teaspoon ground black pepper
   - qty: 400
     unit: g
-    name: medium-grain rice
+    name: medium grain rice
     raw: 400 g medium-grain rice
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - name: lemon wedges
     raw: Lemon wedges

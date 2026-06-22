@@ -18,7 +18,7 @@ ingredients:
     raw: 300 ml Batavia arrack
   - qty: 200
     unit: ml
-    name: clear vodka or cognac/brandy
+    name: clear vodka
     raw: 200 ml clear vodka OR cognac/brandy
   - qty: 300
     unit: g
@@ -32,9 +32,9 @@ ingredients:
     unit: ml
     name: lemon juice
     raw: 100 ml fresh lemon juice
-  - name: peel of 1 lemon
+  - name: lemon
     raw: Peel of 1 lemon
-  - name: peel of 1 bitter orange
+  - name: bitter orange
     raw: Peel of 1 bitter orange
   - qty: 1
     name: black tea bag

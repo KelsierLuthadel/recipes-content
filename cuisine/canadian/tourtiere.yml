@@ -45,7 +45,7 @@ ingredients:
     raw: 1 large egg, lightly beaten
   - qty: 5
     unit: tbsp
-    name: ice-cold water
+    name: ice cold water
     raw: 4-6 tablespoons ice-cold water
   - qty: 1
     name: egg yolk + 1 tablespoon milk
@@ -56,7 +56,7 @@ ingredients:
     raw: 500 g good minced pork
   - qty: 250
     unit: g
-    name: beef or veal
+    name: beef
     raw: 250 g minced beef OR veal
   - qty: 1
     name: onion
@@ -67,7 +67,7 @@ ingredients:
     raw: 4 cloves garlic, very finely chopped
   - qty: 200
     unit: ml
-    name: beef or chicken stock
+    name: beef
     raw: 200 ml beef or chicken stock
   - qty: 2
     name: floury potatoes
@@ -86,7 +86,7 @@ ingredients:
     raw: 1/4 teaspoon ground nutmeg
   - qty: 1
     unit: tsp
-    name: summer savoury or thyme
+    name: summer savoury
     raw: 1 teaspoon dried summer savoury OR thyme
   - qty: 0.25
     name: /4 teaspoon ground white pepper
@@ -99,7 +99,7 @@ ingredients:
     unit: tbsp
     name: plain flour
     raw: 1 tablespoon plain flour
-  - name: quebec-style tomato chutney or a good shop tomato chutney
+  - name: quebec style tomato chutney
     raw: Quebec-style tomato chutney OR a good shop tomato chutney
   - name: pickled silverskin onions
     raw: A small dish of pickled silverskin onions

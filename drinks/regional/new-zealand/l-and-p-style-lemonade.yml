@@ -11,9 +11,9 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
 ingredients:
-  - name: juice of 6 lemons
+  - name: lemons
     raw: Juice of 6 lemons
-  - name: zest of 2 lemons
+  - name: lemons
     raw: Zest of 2 lemons
   - qty: 150
     unit: g

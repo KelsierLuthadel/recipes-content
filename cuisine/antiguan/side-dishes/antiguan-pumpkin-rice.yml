@@ -43,11 +43,11 @@ ingredients:
     raw: 2 sprigs fresh thyme + extra for garnish
   - qty: 500
     unit: g
-    name: west indian pumpkin or butternut squash
+    name: west indian pumpkin
     raw: 500 g West Indian pumpkin or butternut squash
   - qty: 350
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 350 g long-grain rice
   - qty: 1
     unit: tsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 400 ml coconut milk
   - qty: 400
     unit: ml
-    name: chicken or vegetable stock
+    name: chicken
     raw: 400 ml chicken or vegetable stock
   - qty: 1
     name: scotch bonnet chilli

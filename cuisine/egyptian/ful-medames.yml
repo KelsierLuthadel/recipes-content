@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: fava beans or 2 x 400 g tins
+    name: fava beans
     raw: 350 g dried fava beans or 2 x 400 g tins
   - qty: 1
     name: bay leaf
@@ -41,7 +41,7 @@ ingredients:
     name: coriander
     raw: ½ teaspoon ground coriander
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: lemons
@@ -60,10 +60,10 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 5
     unit: tbsp
-    name: extra-virgin olive oil
+    name: extra virgin olive oil
     raw: 5 tablespoons extra-virgin olive oil
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs
   - qty: 2
     name: tomatoes
@@ -72,7 +72,7 @@ ingredients:
     name: red onion
     raw: 1 red onion
   - qty: 1
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: A small bunch of flat-leaf parsley
   - qty: 4
     unit: tbsp

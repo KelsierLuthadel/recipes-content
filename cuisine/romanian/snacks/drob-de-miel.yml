@@ -45,7 +45,7 @@ ingredients:
     raw: 3 tbsp sunflower oil
   - qty: 100
     unit: g
-    name: day-old white bread
+    name: day old white bread
     raw: 100 g day-old white bread, crust off
   - qty: 150
     unit: ml
@@ -60,7 +60,7 @@ ingredients:
     raw: 4 tbsp finely chopped fresh dill
   - qty: 4
     unit: tbsp
-    name: flat-leaf parsley
+    name: flat leaf parsley
     raw: 4 tbsp finely chopped flat-leaf parsley
   - qty: 3
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     name: lamb caul fat
     raw: 250 g lamb caul fat , soaked in warm water 10 minutes; or 6 large blanched cabbage leaves with ribs trimmed
   - qty: 4
-    name: hard-boiled eggs
+    name: hard boiled eggs
     raw: 4 hard-boiled eggs, peeled
   - qty: 1
     unit: tbsp

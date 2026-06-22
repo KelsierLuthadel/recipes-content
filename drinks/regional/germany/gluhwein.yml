@@ -14,7 +14,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: medium-bodied red wine
+    name: medium bodied red wine
     raw: 1 bottle medium-bodied red wine
   - qty: 1
     name: unwaxed orange
@@ -47,5 +47,5 @@ ingredients:
     raw: 6 heatproof mugs
   - name: orange slices
     raw: Orange slices to garnish
-  - name: cinnamon stick per mug
+  - name: cinnamon stick
     raw: A cinnamon stick per mug

@@ -35,7 +35,7 @@ ingredients:
   - name: vegetable oil
     raw: Vegetable oil for frying
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 3
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     name: chicken broth
     raw: 500 ml hot chicken broth
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp
@@ -88,7 +88,7 @@ ingredients:
     unit: g
     name: pulled pernil
     raw: 300 g pulled pernil
-  - name: coriander leaves
+  - name: coriander
     raw: Fresh coriander leaves
   - name: lime wedges
     raw: Lime wedges

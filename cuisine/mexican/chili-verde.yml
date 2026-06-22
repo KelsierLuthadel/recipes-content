@@ -32,7 +32,7 @@ ingredients:
     name: jalapenos
     raw: 2-3 jalapeños
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 1
     name: white onion
@@ -82,7 +82,7 @@ ingredients:
     name: white onion
     raw: 1 white onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 12
     name: warm corn tortillas

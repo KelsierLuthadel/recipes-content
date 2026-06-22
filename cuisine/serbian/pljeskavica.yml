@@ -29,7 +29,7 @@ ingredients:
     name: lamb shoulder
     raw: 200 g minced lamb shoulder
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves, finely grated
   - qty: 1
     unit: tsp
@@ -48,10 +48,10 @@ ingredients:
     raw: 1/2 tsp ground black pepper
   - qty: 60
     unit: ml
-    name: ice-cold sparkling water
+    name: ice cold sparkling water
     raw: 60 ml ice-cold sparkling water
   - qty: 4
-    name: lepinja or thick pita flatbreads
+    name: lepinja
     raw: 4 large lepinja or thick pita flatbreads
   - qty: 2
     name: red onions
@@ -62,5 +62,5 @@ ingredients:
   - qty: 4
     name: heaped tbsp kajmak
     raw: 4 heaped tbsp kajmak
-  - name: bowl of urnebes or feta cheese
+  - name: bowl of urnebes
     raw: A small bowl of urnebes or feta cheese, crumbled

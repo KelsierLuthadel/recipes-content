@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: "\"plate\" or point-cut brisket"
+    name: "\"plate\""
     raw: 1 whole "plate" or point-cut brisket, about 2.5 kg, with the fat cap mostly intact
   - qty: 80
     unit: g
@@ -97,11 +97,11 @@ ingredients:
     name: sour pickle
     raw: 1 large sour pickle
   - qty: 1
-    name: cold cott black cherry soda or cherry cola
+    name: cold cott black cherry soda
     raw: 1 cold Cott Black Cherry soda OR cherry cola
   - qty: 1
     unit: handful
-    name: belgian-style or quebec-style frites
+    name: belgian style
     raw: A handful of Belgian-style or Quebec-style frites
   - name: "optional: a small mound of coleslaw"
     raw: "Optional: a small mound of coleslaw"

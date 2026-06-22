@@ -21,7 +21,7 @@ ingredients:
     raw: 1 generous scoop vanilla ice cream
   - qty: 250
     unit: ml
-    name: full-cream milk
+    name: full cream milk
     raw: 250 ml cold full-cream milk
   - qty: 2
     unit: tbsp
@@ -29,7 +29,7 @@ ingredients:
     raw: 2 tablespoons whipped cream
   - qty: 1
     unit: pinch
-    name: cocoa powder or chocolate flakes
+    name: cocoa powder
     raw: A pinch of cocoa powder or chocolate flakes
   - name: tall glass
     raw: A tall glass

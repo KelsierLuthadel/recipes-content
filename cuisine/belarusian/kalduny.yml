@@ -42,7 +42,7 @@ ingredients:
     raw: 1 medium onion, very finely chopped
   - qty: 1
     unit: tbsp
-    name: pork lard or butter
+    name: pork lard
     raw: 1 tbsp pork lard or butter
   - qty: 1
     unit: tsp
@@ -56,7 +56,7 @@ ingredients:
     raw: 1 tbsp very cold water
   - qty: 1.5
     unit: l
-    name: light chicken or beef broth
+    name: light chicken
     raw: 1.5 litres light chicken or beef broth
   - qty: 50
     unit: g

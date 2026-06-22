@@ -40,7 +40,7 @@ ingredients:
     name: green bell pepper
     raw: 1 medium green bell pepper
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     name: tomato
@@ -62,7 +62,7 @@ ingredients:
     raw: 400 g pigeon peas
   - qty: 400
     unit: g
-    name: long-grain rice
+    name: long grain rice
     raw: 400 g long-grain rice
   - qty: 800
     unit: ml
@@ -76,7 +76,7 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: ½ teaspoon ground black pepper
-  - name: lemon or lime wedges
+  - name: lemon
     raw: Lemon or lime wedges
   - name: hot sauce
     raw: Hot sauce

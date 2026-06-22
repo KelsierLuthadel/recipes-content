@@ -15,7 +15,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: "mixed fruit (one or a combination of:"
+    name: mixed fruit (one
     raw: "500 g mixed fruit (one or a combination of:"
   - qty: 1.5
     unit: l
@@ -34,9 +34,9 @@ ingredients:
   - qty: 1
     name: star anise
     raw: 1 star anise
-  - name: zest of half a lemon
+  - name: lemon
     raw: Zest of half a lemon, in strips
-  - name: juice of half a lemon
+  - name: lemon
     raw: Juice of half a lemon
   - qty: 1
     unit: small pinch

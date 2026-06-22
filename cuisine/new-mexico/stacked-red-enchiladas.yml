@@ -27,7 +27,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: new mexico red chiles ; or substitute with mix of ancho + guajillo
+    name: new mexico red chiles ;
     raw: 8 dried New Mexico red chiles ; or substitute with mix of ancho + guajillo
   - qty: 600
     unit: ml
@@ -37,7 +37,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 8
-    name: garlic cloves
+    name: garlic
     raw: 8 garlic cloves
   - qty: 1
     unit: tbsp

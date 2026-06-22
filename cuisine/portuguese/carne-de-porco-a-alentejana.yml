@@ -34,14 +34,14 @@ ingredients:
     name: dry white wine
     raw: 200 ml dry white wine
   - qty: 6
-    name: garlic cloves
+    name: garlic
     raw: 6 garlic cloves
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
     unit: tbsp
-    name: piri-piri sauce
+    name: piri piri sauce
     raw: 1 tablespoon piri-piri sauce
   - qty: 1
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 4
-    name: garlic cloves
+    name: garlic
     raw: 4 garlic cloves
   - qty: 1
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     unit: g
     name: waxy potatoes
     raw: 600 g waxy potatoes
-  - name: vegetable oil for deep-frying
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
   - qty: 1
     unit: tsp
@@ -94,7 +94,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 large bunch fresh coriander
-  - name: juice of 1 lemon
+  - name: lemon
     raw: Juice of 1 lemon
   - name: lemon wedges
     raw: Lemon wedges

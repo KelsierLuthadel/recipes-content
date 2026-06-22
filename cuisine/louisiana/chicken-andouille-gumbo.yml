@@ -41,7 +41,7 @@ ingredients:
     name: green bell peppers
     raw: 2 large green bell peppers
   - qty: 12
-    name: garlic cloves
+    name: garlic
     raw: 12 garlic cloves
   - qty: 1.2
     unit: kg
@@ -96,9 +96,9 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: tabasco or other hot sauce
+  - name: tabasco
     raw: Tabasco or other hot sauce
-  - name: steamed long-grain rice
+  - name: steamed long grain rice
     raw: Steamed long-grain rice
   - name: french bread
     raw: Sliced French bread

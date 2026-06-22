@@ -66,7 +66,7 @@ ingredients:
     raw: 4 thick Gelderse rookworst smoked sausages
   - qty: 700
     unit: g
-    name: beef brisket or shin
+    name: beef brisket
     raw: 700 g beef brisket OR shin
   - qty: 1
     unit: tbsp
@@ -96,5 +96,5 @@ ingredients:
     raw: A small dish of strong Dutch mustard
   - name: bowl of pickled silverskin onions
     raw: A bowl of pickled silverskin onions
-  - name: glass of cold dutch lager or cold buttermilk
+  - name: glass of cold dutch lager
     raw: A glass of cold Dutch lager OR cold buttermilk

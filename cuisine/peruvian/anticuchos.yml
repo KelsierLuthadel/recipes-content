@@ -44,7 +44,7 @@ ingredients:
     raw: 8 cloves garlic, finely grated
   - qty: 4
     unit: tbsp
-    name: red wine vinegar or cider vinegar
+    name: red wine vinegar
     raw: 4 tablespoons red wine vinegar OR cider vinegar
   - qty: 4
     unit: tbsp
@@ -60,7 +60,7 @@ ingredients:
     raw: 2 tablespoons ground cumin
   - qty: 1
     unit: tbsp
-    name: thyme or a small bunch fresh thyme
+    name: thyme
     raw: 1 tablespoon dried thyme OR a small bunch fresh thyme
   - qty: 1
     unit: tsp
@@ -100,7 +100,7 @@ ingredients:
     name: yellow potatoes
     raw: 4 medium yellow potatoes , boiled and sliced 1 cm thick
   - qty: 2
-    name: ears choclo or sweetcorn
+    name: ears choclo
     raw: 2 ears choclo OR sweetcorn, boiled and cut into 4 cm rounds
   - qty: 100
     unit: g

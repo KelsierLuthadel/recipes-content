@@ -61,11 +61,11 @@ ingredients:
     unit: tsp
     name: white pepper
     raw: 1 teaspoon coarsely ground white pepper
-  - name: zest of 1 lemon
+  - name: lemon
     raw: Zest of 1 lemon
   - qty: 1.5
     unit: l
-    name: chicken or vegetable stock
+    name: chicken
     raw: 1.5 litres chicken or vegetable stock
   - qty: 1
     name: onion
@@ -140,7 +140,7 @@ ingredients:
     raw: ½ teaspoon coarsely ground white pepper
   - qty: 400
     unit: g
-    name: white rice or 800 g boiled new potatoes
+    name: white rice
     raw: 400 g cooked white rice OR 800 g boiled new potatoes
   - name: bowl of extra capers
     raw: A small bowl of extra capers
