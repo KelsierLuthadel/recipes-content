@@ -23,10 +23,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: pork shoulder
-    raw: 1.2 kg pork shoulder
+    raw: 1200 g pork shoulder
   - qty: 1.5
     unit: tsp
     name: sea salt

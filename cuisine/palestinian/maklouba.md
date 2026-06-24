@@ -16,7 +16,8 @@ Maklouba means "upside-down", and the flip at the end is the whole drama of a Pa
 ## Ingredients
 
 ### Chicken stock
-- 8 bone-in chicken thighs and drumsticks
+- 4 bone-in chicken thighs
+- 4 bone-in chicken drumsticks
 - 1 onion (quartered)
 - 4 cardamom pods (bashed)
 - 1 cinnamon stick

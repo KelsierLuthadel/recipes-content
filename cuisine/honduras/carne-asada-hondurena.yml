@@ -31,10 +31,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: flank steak
-    raw: 1.2 kg flank steak or skirt steak
+    raw: 1200 g flank steak or skirt steak
   - qty: 120
     unit: ml
     name: lime juice

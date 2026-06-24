@@ -15,7 +15,7 @@ Sancocho is the soup-stew Colombians make on Sundays for big gatherings, a wide 
 
 ## Ingredients
 
-- 1.4 kg whole stewing chicken (jointed) or 1 kg bone-in chicken thighs and drumsticks
+- 1400 g whole stewing chicken (jointed) or 1 kg bone-in chicken thighs and drumsticks
 - 2 ½ litres water
 - 1 onion (large, halved)
 - 1 small bunch fresh coriander (stems for the boil; leaves for the finish)

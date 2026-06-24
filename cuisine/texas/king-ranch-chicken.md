@@ -16,7 +16,7 @@ King Ranch chicken casserole is one of Texas's most beloved home-cook casseroles
 ## Ingredients
 
 ### Chicken (cook in advance)
-- 1.2 kg cooked shredded chicken (poached, roasted, or rotisserie); about 4 cups shredded
+- 1200 g cooked shredded chicken (poached, roasted, or rotisserie); about 4 cups shredded
 
 ### Sauce
 - 1 large onion (finely chopped)

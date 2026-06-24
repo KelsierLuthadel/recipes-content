@@ -16,10 +16,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: clams in shells
-    raw: 1.5 kg fresh small clams in shells
+    raw: 1500 g fresh small clams in shells
   - qty: 1
     unit: tbsp
     name: salt

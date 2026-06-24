@@ -23,10 +23,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken
-    raw: 1.5 kg chicken
+    raw: 1500 g chicken
   - qty: 1
     name: onions
     raw: 1 onion, halved

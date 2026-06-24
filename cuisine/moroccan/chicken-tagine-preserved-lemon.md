@@ -15,7 +15,8 @@ The Moroccan tagine that lands on every Friday-lunch table in Casablanca and at 
 
 ## Ingredients
 
-- 8 bone-in chicken thighs and drumsticks
+- 4 bone-in chicken thighs
+- 4 bone-in chicken drumsticks
 - 1 onion (large, sliced)
 - 4 garlic cloves (crushed)
 - 1 large pinch saffron threads (about ½ g)

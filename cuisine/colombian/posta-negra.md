@@ -16,7 +16,7 @@ Posta negra (literally "black roast") is Cartagena's signature beef dish and one
 ## Ingredients
 
 ### Beef
-- 1.5 kg beef eye round (or beef chuck; or top sirloin roast)
+- 1500 g beef eye round (or beef chuck; or top sirloin roast)
 
 ### Marinade (overnight)
 - 12 garlic cloves (crushed)

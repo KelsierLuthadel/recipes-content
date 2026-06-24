@@ -24,10 +24,10 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken
-    raw: 1.2 kg chicken
+    raw: 1200 g chicken
   - name: salt
     raw: Salt for the chicken
   - qty: 80

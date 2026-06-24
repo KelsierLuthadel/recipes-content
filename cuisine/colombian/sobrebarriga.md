@@ -15,7 +15,7 @@ Sobrebarriga is the Colombian Sunday cut, a thick whole flank slow-braised until
 
 ## Ingredients
 
-- 1.2 kg beef flank (or skirt, whole piece)
+- 1200 g beef flank (or skirt, whole piece)
 - 2 ½ litres water
 - 1 onion (large, halved)
 - 6 garlic cloves (smashed)

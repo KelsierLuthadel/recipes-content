@@ -16,7 +16,7 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 ## Ingredients
 
 ### The potato base
-- 1.2 kg yellow Peruvian potatoes (papa amarilla) OR Yukon Gold OR another yellow waxy potato
+- 1200 g yellow Peruvian potatoes (papa amarilla) OR Yukon Gold OR another yellow waxy potato
 - 4 tablespoons aji amarillo paste (yellow Peruvian chilli paste, sold in jars at Latin American shops; can be reduced by half if very mild palate)
 - 4 tablespoons fresh lime juice (about 3 limes)
 - 4 tablespoons sunflower oil OR vegetable oil

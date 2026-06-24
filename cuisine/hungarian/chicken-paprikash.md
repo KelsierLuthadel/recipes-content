@@ -15,7 +15,8 @@ Chicken paprikash is the Hungarian comfort-dish every Magyar grandmother makes f
 
 ## Ingredients
 
-- 8 bone-in chicken thighs and drumsticks (or 1 kg of either)
+- 4 bone-in chicken thighs
+- 4 bone-in chicken drumsticks
 - 3 tablespoons lard (or vegetable oil)
 - 2 onions (finely chopped)
 - 4 garlic cloves (crushed)

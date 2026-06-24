@@ -25,10 +25,10 @@ mentions:
   - tutorials/spices/storage
   - base-ingredients/spices/baharat
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: lamb shoulder
-    raw: 1.2 kg bone-in lamb shoulder
+    raw: 1200 g bone-in lamb shoulder
   - qty: 2
     unit: tbsp
     name: baharat

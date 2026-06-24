@@ -16,7 +16,7 @@ Dirty fries (dirty chips in UK chip-shop vernacular) is the British pub-classic 
 ## Ingredients
 
 ### Chips
-- 1.2 kg floury potatoes (Maris Piper, King Edward, Russet; peeled and cut into 1.5 cm × 8 cm thick batons)
+- 1200 g floury potatoes (Maris Piper, King Edward, Russet; peeled and cut into 1.5 cm × 8 cm thick batons)
 - Vegetable oil for deep-frying (about 1.5 litres; or beef dripping for the proper British chip-shop chip)
 
 ### Loadings

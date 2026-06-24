@@ -29,10 +29,10 @@ mentions:
   - tutorials/spices/storage
   - base-ingredients/curry-powder/tandoori-masala
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken breasts
-    raw: 1.5 kg chicken breast or thigh, boneless and skinless, cut into 5 cm chunks
+    raw: 1500 g chicken breast or thigh, boneless and skinless, cut into 5 cm chunks
   - qty: 1
     unit: tbsp
     name: ginger garlic paste

@@ -18,10 +18,10 @@ ingredients:
     unit: l
     name: water
     raw: 1.5 litres water
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: granulated sugar
-    raw: 1.5 kg granulated sugar
+    raw: 1500 g granulated sugar
   - qty: 4
     name: unwaxed lemons
     raw: 4 unwaxed lemons

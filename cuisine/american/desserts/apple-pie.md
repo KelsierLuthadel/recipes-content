@@ -23,7 +23,7 @@ An American apple pie is the autumn dessert every kitchen in the country has its
 - 6-8 tablespoons ice water
 
 ### Filling
-- 1.4 kg mixed apples (Bramley + Granny Smith + Braeburn; peeled, cored, sliced 8 mm)
+- 1400 g mixed apples (Bramley + Granny Smith + Braeburn; peeled, cored, sliced 8 mm)
 - 150 g light brown sugar
 - 50 g caster sugar
 - 3 tablespoons cornflour

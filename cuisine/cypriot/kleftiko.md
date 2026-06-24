@@ -16,7 +16,7 @@ Kleftiko (literally "stolen meat") is the great Cypriot village-oven dish, a leg
 ## Ingredients
 
 ### Lamb and marinade
-- 1.5 kg lamb shoulder on the bone (or a small leg)
+- 1500 g lamb shoulder on the bone (or a small leg)
 - 6 tablespoons olive oil
 - 4 tablespoons lemon juice (plus zest of 1 lemon)
 - 8 garlic cloves (crushed)

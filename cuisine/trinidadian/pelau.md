@@ -16,7 +16,8 @@ Pelau is the Trinidadian one-pot, a meld of West African jollof technique with S
 ## Ingredients
 
 ### Chicken and seasoning
-- 1 kg bone-in, skin-on chicken thighs and drumsticks (cut into smaller pieces if large)
+- 500 g bone-in, skin-on chicken thighs (cut into smaller pieces if large)
+- 500 g bone-in, skin-on chicken drumsticks (cut into smaller pieces if large)
 - 3 tbsp Caribbean green seasoning (or 2 tbsp blended garlic, thyme, parsley, chives and culantro)
 - 1 tbsp soy sauce
 - 1 tsp salt

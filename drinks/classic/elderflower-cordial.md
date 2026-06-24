@@ -20,7 +20,7 @@ Elderflower cordial is what you make the weekend the elders bloom along the lane
 
 ### Cordial
 - 1.5 litres water
-- 1.5 kg granulated sugar
+- 1500 g granulated sugar
 - 4 unwaxed lemons (zest in wide strips with a vegetable peeler; juice reserved)
 - 50 g citric acid (from any pharmacy or brewing supplier; not optional, this is the preservative)
 

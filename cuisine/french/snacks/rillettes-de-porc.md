@@ -16,7 +16,7 @@ Rillettes are the French country preservation of slow-cooked pork pulled into lo
 ## Ingredients
 
 ### Pork
-- 1.2 kg boneless pork shoulder (with fat, about 25-30% fat content; lean cuts won't work)
+- 1200 g boneless pork shoulder (with fat, about 25-30% fat content; lean cuts won't work)
 - 200 g pork back fat OR lard (cubed)
 - 2 shallots (finely diced)
 - 6 garlic cloves (crushed)

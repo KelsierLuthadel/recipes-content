@@ -16,7 +16,7 @@ Chanfana is the signature dish of Portugal's Beira Alta region (central Portugal
 ## Ingredients
 
 ### Meat
-- 1.5 kg bone-in lamb shoulder or leg (cut into 6 cm pieces; the bone-in is important)
+- 1500 g bone-in lamb shoulder or leg (cut into 6 cm pieces; the bone-in is important)
 
 ### Marinade (overnight)
 - 1 bottle (750 ml) Portuguese red wine (Dão or Bairrada from Beira region)

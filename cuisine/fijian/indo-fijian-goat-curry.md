@@ -15,7 +15,7 @@ A century of Indian indentured labour reshaped Fijian cuisine; Indo-Fijian curry
 
 ## Ingredients
 
-- 1.2 kg goat on the bone (shoulder or leg), cut into 4 cm pieces
+- 1200 g goat on the bone (shoulder or leg), cut into 4 cm pieces
 - 4 tbsp vegetable oil
 - 2 large onions, finely chopped
 - 6 cloves garlic, finely minced

@@ -32,10 +32,10 @@ mentions:
   - tutorials/spices/storage
   - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken pieces
-    raw: 1.2 kg bone-in chicken pieces
+    raw: 1200 g bone-in chicken pieces
   - qty: 3
     unit: tbsp
     name: vegetable oil

@@ -16,7 +16,7 @@ Saturday-soup in Trinidad, Guyana and Jamaica is a category rather than a single
 ## Ingredients
 
 ### Chicken and seasoning
-- 1.4 kg (3 lbs) chicken pieces (drumsticks + boneless thighs)
+- 1400 g (3 lbs) chicken pieces (drumsticks + boneless thighs)
 - 1 tablespoon Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon Adobo seasoning
 - 1 teaspoon ground cumin

@@ -29,7 +29,8 @@ Chettinad chicken curry comes from the Chettiar trading community of Tamil Nadu,
 - 4 tablespoons grated fresh coconut (or 3 tablespoons desiccated coconut, soaked 5 min in 60 ml warm water)
 
 ### Chicken marinade
-- 1 kg bone-in chicken thighs and drumsticks
+- 500 g bone-in chicken thighs
+- 500 g bone-in chicken drumsticks
 - 1 teaspoon ground turmeric
 - 1 teaspoon salt
 - 4 tablespoons natural yogurt

@@ -20,10 +20,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: beef chuck
-    raw: 1.5 kg beef chuck or shin, cut into 4 cm cubes
+    raw: 1500 g beef chuck or shin, cut into 4 cm cubes
   - qty: 2
     unit: tbsp
     name: plain flour

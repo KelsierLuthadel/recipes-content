@@ -22,10 +22,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken wings
-    raw: 1.2 kg chicken wings
+    raw: 1200 g chicken wings
   - qty: 2
     unit: tsp
     name: baking powder

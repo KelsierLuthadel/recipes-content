@@ -20,10 +20,10 @@ mentions:
   - cuisine/polish/latkes
   - equipment/non-stick-pan
 ingredients:
-  - qty: 1.8
-    unit: kg
+  - qty: 1800
+    unit: g
     name: russet potatoes
-    raw: 1.8 kg russet potatoes
+    raw: 1800 g russet potatoes
   - qty: 5
     name: garlic
     raw: 5 garlic cloves

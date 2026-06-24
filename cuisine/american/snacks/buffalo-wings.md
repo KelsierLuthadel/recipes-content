@@ -16,7 +16,7 @@ The American bar snack born at the Anchor Bar in Buffalo, New York in 1964: deep
 ## Ingredients
 
 ### Wings
-- 1.2 kg chicken wings (separated into drumettes and flats, tips discarded or saved for stock)
+- 1200 g chicken wings (separated into drumettes and flats, tips discarded or saved for stock)
 - 2 teaspoons baking powder (NOT baking soda)
 - 1 ½ teaspoons salt
 - ½ teaspoon ground black pepper

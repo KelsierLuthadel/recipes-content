@@ -16,7 +16,7 @@ Tasso is Haiti's twice-cooked fried beef, the beef counterpart to the more famou
 ## Ingredients
 
 ### Beef
-- 1.2 kg beef shoulder or chuck (cut into 4 cm cubes)
+- 1200 g beef shoulder or chuck (cut into 4 cm cubes)
 
 ### Marinade
 - 6 tablespoons epis (Haitian green seasoning paste; recipe in the legume notes)

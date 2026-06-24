@@ -16,7 +16,8 @@ Pelau is the great Sunday rice of the southern Caribbean, and Grenada's version 
 ## Ingredients
 
 ### For the chicken marinade
-- 1 kg chicken thighs and drumsticks, bone-in, skin on
+- 500 g chicken thighs, bone-in, skin on
+- 500 g chicken drumsticks, bone-in, skin on
 - 4 spring onions, chopped
 - 4 garlic cloves, crushed
 - 1 tbsp fresh thyme leaves

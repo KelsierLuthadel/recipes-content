@@ -17,7 +17,7 @@ Fläderblomssaft (elderflower cordial) is one of Sweden's most cherished homemad
 
 ### Elderflower syrup - makes about 1.5 litres
 - 25-30 fresh elderflower heads (large fully-opened cream-coloured heads from elderflower bushes; about 200g of flowers)
-- 1.2 kg caster sugar
+- 1200 g caster sugar
 - 1.2 litres water
 - 3 large lemons (sliced into rounds)
 - 2 oranges (sliced into rounds)

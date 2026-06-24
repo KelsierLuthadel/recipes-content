@@ -23,10 +23,14 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1.2 kg bone-in chicken thighs and drumsticks
+  - qty: 600
+    unit: g
+    name: chicken thighs
+    raw: 600 g bone-in chicken thighs
+  - qty: 600
+    unit: g
+    name: chicken drumsticks
+    raw: 600 g bone-in chicken drumsticks
   - qty: 1
     unit: tbsp
     name: lime juice

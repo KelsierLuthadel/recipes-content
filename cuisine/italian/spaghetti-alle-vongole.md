@@ -16,7 +16,7 @@ Spaghetti alle vongole is Naples' iconic pasta-with-clams dish and one of Italy'
 ## Ingredients
 
 ### Clams
-- 1.5 kg fresh small clams in shells (vongole, Manila clams, or littleneck; cleaned)
+- 1500 g fresh small clams in shells (vongole, Manila clams, or littleneck; cleaned)
 - 1 tablespoon salt (for purging water)
 
 ### Pasta

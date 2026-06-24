@@ -16,7 +16,7 @@ Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food expo
 ## Ingredients
 
 ### The fries (twice-fried, see [Belgian frites](../belgian/side-dishes/belgian-frites.md) for full method)
-- 1.2 kg floury potatoes (Yukon Gold, Russet, Maris Piper)
+- 1200 g floury potatoes (Yukon Gold, Russet, Maris Piper)
 - 2 litres refined sunflower or groundnut oil (or beef tallow for the traditional taste)
 - Fine sea salt
 

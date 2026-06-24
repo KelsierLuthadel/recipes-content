@@ -21,10 +21,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: collard greens
-    raw: 1.5 kg fresh collard greens
+    raw: 1500 g fresh collard greens
   - qty: 1
     name: smoked ham hock
     raw: 1 smoked ham hock

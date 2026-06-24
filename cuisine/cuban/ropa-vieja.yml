@@ -30,10 +30,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: flank steak
-    raw: 1.2 kg flank steak
+    raw: 1200 g flank steak
   - qty: 1
     name: onions
     raw: 1 large onion

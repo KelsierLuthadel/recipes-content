@@ -24,10 +24,10 @@ mentions:
   - base-ingredients/curry-powder/garam-masala-kashmiri
   - base-ingredients/curry-powder/garam-masala
 ingredients:
-  - qty: 1.4
-    unit: kg
+  - qty: 1400
+    unit: g
     name: chicken
-    raw: 1.4 kg chicken
+    raw: 1400 g chicken
   - qty: 80
     unit: ml
     name: sunflower oil

@@ -16,7 +16,7 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 ## Ingredients
 
 ### The chicken
-- 1.2 kg whole chicken OR 6 large bone-in skin-on chicken thighs
+- 1200 g whole chicken OR 6 large bone-in skin-on chicken thighs
 - 1 onion, halved
 - 1 carrot
 - 1 stick celery

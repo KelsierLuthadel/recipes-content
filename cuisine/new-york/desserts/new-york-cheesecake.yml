@@ -39,10 +39,10 @@ ingredients:
     unit: tsp
     name: cinnamon
     raw: 1 teaspoon ground cinnamon
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: cream cheese
-    raw: 1.2 kg full-fat cream cheese
+    raw: 1200 g full-fat cream cheese
   - qty: 300
     unit: g
     name: caster sugar

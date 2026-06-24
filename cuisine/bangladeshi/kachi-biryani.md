@@ -16,7 +16,7 @@ Kacchi biryani (kachi meaning "raw") is the Dhaka wedding dish, a post-Mughal sh
 ## Ingredients
 
 ### Mutton marinade
-- 1.5 kg mutton (goat shoulder), bone-in, in 5 cm chunks
+- 1500 g mutton (goat shoulder), bone-in, in 5 cm chunks
 - 500 g thick yogurt
 - 4 cm fresh ginger, paste
 - 10 garlic cloves, paste

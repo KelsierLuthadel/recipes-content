@@ -51,7 +51,7 @@ For first melomel, raspberry or blackberry are easiest. The flavour comes throug
 
 ### A worked example: raspberry melomel
 
-- 1.2 kg honey + 4 litres water + 1 sachet K1-V1116 yeast + 5 g Fermaid O.
+- 1200 g honey + 4 litres water + 1 sachet K1-V1116 yeast + 5 g Fermaid O.
 - After 3-4 weeks of primary, rack to secondary.
 - Add 1.5 kg of frozen raspberries (preferably whole; mash slightly).
 - Leave 3 weeks. The mead turns a beautiful deep pink-red.
@@ -85,7 +85,7 @@ The secondary approach is more traditional; the bottling approach gives finer co
 
 ### A worked example: spiced wassail metheglin
 
-- 1.2 kg orange-blossom honey + 4 litres water + 1 sachet D47 + 5 g Fermaid O.
+- 1200 g orange-blossom honey + 4 litres water + 1 sachet D47 + 5 g Fermaid O.
 - After 3-4 weeks of primary, rack to secondary.
 - Add to a muslin bag: 1 cinnamon stick + 4 cloves + 6 cardamom pods (crushed) + zest of 1 orange + 30 g ginger sliced.
 - Suspend the bag in the demijohn for 2 weeks.

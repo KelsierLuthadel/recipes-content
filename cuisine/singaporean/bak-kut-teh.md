@@ -16,7 +16,7 @@ Bak kut teh ("meat bone tea" - though no tea is involved; the name is debated) i
 ## Ingredients
 
 ### Broth
-- 1.2 kg pork spare ribs, cut into 4-5 cm sections (ask the butcher)
+- 1200 g pork spare ribs, cut into 4-5 cm sections (ask the butcher)
 - 2 whole heads of garlic, papery skin on, halved horizontally
 - 1 tbsp white peppercorns, lightly crushed
 - 4 star anise

@@ -29,10 +29,10 @@ ingredients:
   - qty: 6
     name: potatoes (red)
     raw: 6 red potatoes
-  - qty: 1.1
-    unit: kg
+  - qty: 1100
+    unit: g
     name: beef top round
-    raw: 1.1 kg beef top round
+    raw: 1100 g beef top round
   - qty: 10
     name: jalapenos
     raw: 10 jalapeños

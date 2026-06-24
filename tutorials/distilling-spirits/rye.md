@@ -35,7 +35,7 @@ The 100% rye mash (used by MGP Indiana for many craft brand-houses) is a modern 
 ## Recipe (5-gallon wash, Pennsylvania-style 80/15/5)
 
 ### Ingredients
-- 5.6 kg cracked rye (distiller's grade)
+- 5600 g cracked rye (distiller's grade)
 - 1 kg crushed malted barley
 - 350 g cracked corn
 - 18 litres water

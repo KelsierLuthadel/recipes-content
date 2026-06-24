@@ -17,10 +17,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: waxy potatoes
-    raw: 1.2 kg waxy potatoes
+    raw: 1200 g waxy potatoes
   - qty: 6
     name: garlic
     raw: 6 garlic cloves

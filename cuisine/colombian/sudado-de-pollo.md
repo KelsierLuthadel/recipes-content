@@ -16,7 +16,7 @@ Sudado de pollo means "sweated chicken", slow-cooked in its own juices. Colombia
 ## Ingredients
 
 ### Chicken
-- 1.2 kg bone-in chicken pieces (thighs and drumsticks)
+- 1200 g bone-in chicken pieces (thighs and drumsticks)
 - 1 tablespoon ground cumin
 - 1 tablespoon dried oregano
 - 1 tablespoon paprika

@@ -23,10 +23,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: lamb shoulder
-    raw: 1.5 kg bone-in lamb shoulder or leg
+    raw: 1500 g bone-in lamb shoulder or leg
   - qty: 1
     name: portuguese red wine
     raw: 1 bottle Portuguese red wine

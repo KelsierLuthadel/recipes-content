@@ -16,10 +16,10 @@ mentions:
   - tutorials/charcuterie/bacon
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: smoked polish kielbasa
-    raw: 1.2 kg smoked Polish kielbasa
+    raw: 1200 g smoked Polish kielbasa
   - qty: 15
     unit: ml
     name: vegetable oil

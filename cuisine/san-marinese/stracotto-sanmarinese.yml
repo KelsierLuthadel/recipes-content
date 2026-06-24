@@ -21,10 +21,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: beef shoulder
-    raw: 1.5 kg beef shoulder or chuck
+    raw: 1500 g beef shoulder or chuck
   - qty: 3
     unit: tbsp
     name: olive oil

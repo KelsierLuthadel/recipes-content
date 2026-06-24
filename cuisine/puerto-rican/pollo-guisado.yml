@@ -30,9 +30,12 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/braising
 ingredients:
-  - qty: 8
-    name: chicken thighs and drumsticks
-    raw: 8 bone-in skin-on chicken thighs and drumsticks
+  - qty: 4
+    name: chicken thighs
+    raw: 4 bone-in skin-on chicken thighs
+  - qty: 4
+    name: chicken drumsticks
+    raw: 4 bone-in skin-on chicken drumsticks
   - qty: 1.5
     unit: tsp
     name: sea salt

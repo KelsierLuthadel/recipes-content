@@ -27,10 +27,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken
-    raw: 1.5 kg chicken or 1.5 kg lamb shoulder on the bone
+    raw: 1500 g chicken or 1.5 kg lamb shoulder on the bone
   - qty: 2
     unit: tbsp
     name: kuwaiti baharat

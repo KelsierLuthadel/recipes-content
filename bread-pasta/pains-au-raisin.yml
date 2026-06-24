@@ -13,10 +13,10 @@ mentions:
   - tutorials/pizza/dough
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.1
-    unit: kg
+  - qty: 1100
+    unit: g
     name: croissant dough
-    raw: 1.1 kg croissant dough
+    raw: 1100 g croissant dough
   - qty: 400
     unit: g
     name: creme patissiere

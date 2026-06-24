@@ -16,7 +16,7 @@ Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting del
 ## Ingredients
 
 ### Chicken
-- 1.2 kg bone-in skin-on chicken pieces (thighs, drumsticks, wings, or whole chicken cut into 8)
+- 1200 g bone-in skin-on chicken pieces (thighs, drumsticks, wings, or whole chicken cut into 8)
 - 1 tablespoon adobo seasoning
 - 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 teaspoon dried oregano

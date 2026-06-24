@@ -14,7 +14,7 @@
 Pumpkin (the British/Kiwi name for what Americans call winter squash) grows happily in New Zealand summer-autumn, and roast pumpkin shows up at every weekend BBQ as a vegetable side. The Kiwi version layers manuka honey (the famous New Zealand single-flower honey, distinctively tasted with a medicinal note) over wedges of pumpkin that have been roasted until caramelised at the edges, then finishes with salty feta cheese and crunchy pumpkin seeds. Mint or rocket adds the green note. The sweet-savoury-salty-crunchy combination is the kind of recipe that gets stolen by anyone who eats it and added to their permanent rotation. Outside New Zealand, substitute regular honey for the manuka.
 
 ## Ingredients
-- 1.2 kg pumpkin or butternut squash (skin on), cut into 4 cm wedges
+- 1200 g pumpkin or butternut squash (skin on), cut into 4 cm wedges
 - 3 tbsp olive oil
 - 2 tbsp manuka honey (or any runny honey)
 - 1 tsp sea salt

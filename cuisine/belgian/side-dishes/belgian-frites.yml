@@ -19,14 +19,14 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/blanching
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: floury potatoes
-    raw: 1.5 kg floury potatoes
-  - qty: 1.5
-    unit: kg
+    raw: 1500 g floury potatoes
+  - qty: 1500
+    unit: g
     name: rendered beef tallow
-    raw: "1.5 kg rendered beef tallow : the traditional fat"
+    raw: "1500 g rendered beef tallow : the traditional fat"
   - name: or 2 litres refined sunflower
     raw: OR 2 litres refined sunflower or groundnut oil
   - name: sea salt

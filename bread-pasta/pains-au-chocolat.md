@@ -14,7 +14,7 @@ Pains au chocolat are the building block of a proper French breakfast: rectangul
 ## Ingredients
 
 ### Pastry Base & Chocolate
-- 1.1 kg croissant dough (prepared according to [croissant dough recipe](../baking/pastry/croissant-dough.md))
+- 1100 g croissant dough (prepared according to [croissant dough recipe](../baking/pastry/croissant-dough.md))
 - 44 sticks of dark chocolate (good quality couverture)
 
 ### For Assembly

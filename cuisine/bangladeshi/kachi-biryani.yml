@@ -30,10 +30,10 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: mutton
-    raw: 1.5 kg mutton , bone-in, in 5 cm chunks
+    raw: 1500 g mutton , bone-in, in 5 cm chunks
   - qty: 500
     unit: g
     name: yogurt

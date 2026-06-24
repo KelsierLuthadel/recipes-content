@@ -16,7 +16,7 @@ Carbonnade flamande is the traditional Flemish beef stew, and arguably Belgium's
 ## Ingredients
 
 ### The beef and onions
-- 1.5 kg beef chuck or shin, cut into 4 cm cubes
+- 1500 g beef chuck or shin, cut into 4 cm cubes
 - 2 tablespoons plain flour
 - 2 teaspoons salt
 - 1 teaspoon black pepper

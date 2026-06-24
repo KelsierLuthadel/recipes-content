@@ -24,7 +24,7 @@ Cepelinai (named for their resemblance to the Zeppelin airships of the early twe
 - 1/2 tsp marjoram
 
 ### For the dough
-- 1.5 kg starchy potatoes (Maris Piper or similar), peeled
+- 1500 g starchy potatoes (Maris Piper or similar), peeled
 - 500 g floury potatoes for boiling, peeled and cubed
 - 1 tsp salt
 - 1 tbsp potato starch (if needed)

@@ -18,10 +18,10 @@ mentions:
   - tutorials/pizza/toppings
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: sweet potatoes
-    raw: 1.5 kg sweet potatoes
+    raw: 1500 g sweet potatoes
   - qty: 100
     unit: g
     name: butter (unsalted)

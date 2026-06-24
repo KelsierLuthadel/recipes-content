@@ -20,10 +20,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.4
-    unit: kg
+  - qty: 1400
+    unit: g
     name: stewing chicken
-    raw: 1.4 kg whole stewing chicken or 1 kg bone-in chicken thighs and drumsticks
+    raw: 1400 g whole stewing chicken or 1 kg bone-in chicken thighs and drumsticks
   - qty: 2.5
     unit: l
     name: water

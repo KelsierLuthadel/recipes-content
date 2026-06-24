@@ -22,10 +22,10 @@ mentions:
   - cuisine/american/beef-chili
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.8
-    unit: kg
+  - qty: 1800
+    unit: g
     name: beef chuck
-    raw: 1.8 kg boneless beef chuck
+    raw: 1800 g boneless beef chuck
   - name: kosher salt
     raw: Kosher salt
   - name: pepper (black)

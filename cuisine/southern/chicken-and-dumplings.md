@@ -16,7 +16,7 @@ Chicken and dumplings is one of the South's most beloved comfort dishes and a gr
 ## Ingredients
 
 ### Chicken and broth
-- 1.5 kg whole chicken (or 6 bone-in thighs and 4 drumsticks)
+- 1500 g whole chicken (or 6 bone-in thighs and 4 drumsticks)
 - 2 large onions (1 quartered for broth; 1 chopped for stew)
 - 4 carrots (2 whole for broth; 2 sliced for stew)
 - 3 celery stalks (1 whole for broth; 2 sliced for stew)

@@ -25,10 +25,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: lamb shoulder
-    raw: 1.2 kg lamb shoulder
+    raw: 1200 g lamb shoulder
   - qty: 2
     unit: tbsp
     name: vegetable oil

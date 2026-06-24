@@ -10,7 +10,6 @@ tags:
   - meals
   - meat
   - chicken
-  - beef
   - rice
   - onion
   - garlic
@@ -22,9 +21,12 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 4
-    name: chicken thighs and drumsticks
-    raw: 4 bone-in chicken thighs and drumsticks
+  - qty: 2
+    name: chicken thighs
+    raw: 2 bone-in chicken thighs
+  - qty: 2
+    name: chicken drumsticks
+    raw: 2 bone-in chicken drumsticks
   - qty: 1.4
     unit: l
     name: water

@@ -35,7 +35,8 @@ Ethiopia's national dish, the spiced chicken stew that turns up at every wedding
 - 2 tablespoons tomato purée
 - 100 ml dry red wine (optional)
 - 500 ml chicken stock
-- 1 kg chicken thighs and drumsticks (skinned)
+- 500 g chicken thighs (skinned)
+- 500 g chicken drumsticks (skinned)
 - 1 lemon (juice)
 - 6 hard-boiled eggs (peeled, scored shallow lengthwise)
 - Salt

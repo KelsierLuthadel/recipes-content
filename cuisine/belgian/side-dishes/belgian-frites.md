@@ -16,10 +16,10 @@ The Belgian frite is the country's most famous food contribution after chocolate
 ## Ingredients
 
 ### The potatoes
-- 1.5 kg floury potatoes (Bintje, Maris Piper, King Edward or Russet)
+- 1500 g floury potatoes (Bintje, Maris Piper, King Edward or Russet)
 
 ### The frying fat
-- 1.5 kg rendered beef tallow (rundvet): the traditional fat
+- 1500 g rendered beef tallow (rundvet): the traditional fat
 - OR 2 litres refined sunflower or groundnut oil
 - (Either way you need enough to fill a deep frying pot to 7-8 cm depth)
 

@@ -18,7 +18,7 @@
 ## Ingredients
 
 ### First Marinade
-- 1.5 kg chicken breast or thigh, boneless and skinless, cut into 5 cm chunks
+- 1500 g chicken breast or thigh, boneless and skinless, cut into 5 cm chunks
 - 1 tbsp ginger-garlic paste
 - 1 tbsp lemon juice
 

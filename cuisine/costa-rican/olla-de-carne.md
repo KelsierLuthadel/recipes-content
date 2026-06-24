@@ -15,7 +15,7 @@ Olla de carne is the Sunday lunch of the Costa Rican highlands, a single pot of 
 
 ## Ingredients
 
-- 1.2 kg beef shin (with bone) and shoulder, cut into large chunks
+- 1200 g beef shin (with bone) and shoulder, cut into large chunks
 - 2.5 litres cold water
 - 1 large white onion, halved
 - 1 red sweet pepper, halved and seeded

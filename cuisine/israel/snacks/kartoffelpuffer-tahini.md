@@ -15,7 +15,7 @@ The classic German kartoffelpuffer, grated potato fritter, meets the Middle East
 
 ## Ingredients
 
-- 1.8 kg russet (or large floury) potatoes (about 5)
+- 1800 g russet (or large floury) potatoes (about 5)
 - 5 garlic cloves (crushed)
 - 1 small bunch flat-leaf parsley (finely chopped, about 4 tablespoons)
 - ½ small bunch coriander leaves (finely chopped, about 2 tablespoons)

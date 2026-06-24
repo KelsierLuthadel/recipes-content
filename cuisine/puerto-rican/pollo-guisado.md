@@ -16,7 +16,8 @@ Pollo guisado is Puerto Rico's everyday stewed chicken and one of the absolute s
 ## Ingredients
 
 ### Chicken
-- 8 bone-in skin-on chicken thighs and drumsticks (about 1.2 kg total)
+- 4 bone-in skin-on chicken thighs (about 1.2 kg total)
+- 4 bone-in skin-on chicken drumsticks (about 1.2 kg total)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 1 tablespoon adobo seasoning (or substitute: 1 teaspoon garlic powder + 1 teaspoon onion powder + 1 teaspoon oregano + 1 teaspoon turmeric)

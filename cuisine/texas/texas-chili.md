@@ -16,7 +16,7 @@ Texas chili (also called chili con carne or "bowl o' red") is the official state
 ## Ingredients
 
 ### Beef
-- 1.2 kg beef chuck (cut into 1.5 cm cubes; some fat is good)
+- 1200 g beef chuck (cut into 1.5 cm cubes; some fat is good)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 3 tablespoons vegetable oil

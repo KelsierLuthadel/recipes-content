@@ -25,10 +25,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: asado de tira
-    raw: "1.5 kg asado de tira : the traditional first beef cut"
+    raw: "1500 g asado de tira : the traditional first beef cut"
   - qty: 1
     unit: kg
     name: vacio

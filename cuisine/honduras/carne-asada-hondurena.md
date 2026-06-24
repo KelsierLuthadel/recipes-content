@@ -16,7 +16,7 @@ Carne asada hondureña is Honduras's beloved grilled beef and a Sunday-asado sta
 ## Ingredients
 
 ### Beef and marinade
-- 1.2 kg flank steak or skirt steak (or both; about 2 cm thick)
+- 1200 g flank steak or skirt steak (or both; about 2 cm thick)
 
 ### Marinade
 - 120 ml fresh lime juice (about 4 limes)

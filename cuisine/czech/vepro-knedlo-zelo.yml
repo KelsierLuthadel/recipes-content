@@ -18,10 +18,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/braising
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: pork shoulder
-    raw: 1.5 kg pork shoulder
+    raw: 1500 g pork shoulder
   - qty: 4
     unit: clove
     name: garlic

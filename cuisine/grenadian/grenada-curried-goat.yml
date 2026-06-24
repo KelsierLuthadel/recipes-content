@@ -28,10 +28,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: goat shoulder
-    raw: 1.5 kg bone-in goat shoulder or leg, cut into 4 cm pieces
+    raw: 1500 g bone-in goat shoulder or leg, cut into 4 cm pieces
   - qty: 6
     name: garlic
     raw: 6 garlic cloves, crushed

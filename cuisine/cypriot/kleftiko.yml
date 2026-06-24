@@ -22,10 +22,10 @@ mentions:
   - cuisine/cypriot/side-dishes/talattouri
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: lamb shoulder on the bone
-    raw: 1.5 kg lamb shoulder on the bone
+    raw: 1500 g lamb shoulder on the bone
   - qty: 6
     unit: tbsp
     name: olive oil

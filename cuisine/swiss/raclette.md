@@ -16,11 +16,11 @@ Raclette is the Swiss winter eating ritual that even fondue can't beat. The name
 ## Ingredients
 
 ### Cheese and meats
-- 1.5 kg raclette cheese (the genuine Swiss or French AOC version); substitute Gruyère or another semi-firm melting cheese only as a last resort
+- 1500 g raclette cheese (the genuine Swiss or French AOC version); substitute Gruyère or another semi-firm melting cheese only as a last resort
 - 200 g Bündnerfleisch (Swiss air-dried beef) or any thinly-sliced cured meat (jambon cru, prosciutto)
 
 ### Potatoes
-- 1.5 kg small waxy potatoes (Charlotte, Anya, or new potatoes)
+- 1500 g small waxy potatoes (Charlotte, Anya, or new potatoes)
 - 2 tsp salt
 - A few sprigs of fresh thyme
 

@@ -29,10 +29,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken pieces
-    raw: 1.2 kg chicken pieces
+    raw: 1200 g chicken pieces
   - qty: 2
     unit: tbsp
     name: vegetable oil

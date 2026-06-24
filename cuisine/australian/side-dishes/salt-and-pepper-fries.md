@@ -16,7 +16,7 @@ Salt-and-pepper fries (chips in Aussie English) is one of Australia's most belov
 ## Ingredients
 
 ### Fries
-- 1.2 kg floury potatoes (Russet, Maris Piper, King Edward; peeled and cut into 1 cm × 8 cm batons)
+- 1200 g floury potatoes (Russet, Maris Piper, King Edward; peeled and cut into 1 cm × 8 cm batons)
 - Vegetable oil for deep-frying (about 1.5 litres; or enough for 7 cm depth)
 
 ### Seasoning (the traditional Aussie chicken-salt mix)

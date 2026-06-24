@@ -37,10 +37,10 @@ ingredients:
     unit: tbsp
     name: ice water
     raw: 6-8 tablespoons ice water
-  - qty: 1.4
-    unit: kg
+  - qty: 1400
+    unit: g
     name: mixed apples
-    raw: 1.4 kg mixed apples
+    raw: 1400 g mixed apples
   - qty: 150
     unit: g
     name: light brown sugar

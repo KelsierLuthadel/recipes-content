@@ -16,7 +16,7 @@ The British Sunday lunch, the meal that anchors the week for any household that 
 ## Ingredients
 
 ### Chicken
-- 1.6 kg whole chicken
+- 1600 g whole chicken
 - 75 g unsalted butter (softened)
 - 2 garlic cloves (crushed)
 - 1 tablespoon fresh thyme leaves

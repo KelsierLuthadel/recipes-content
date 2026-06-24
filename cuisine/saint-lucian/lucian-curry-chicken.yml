@@ -27,10 +27,14 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1.2 kg chicken thighs and drumsticks
+  - qty: 600
+    unit: g
+    name: chicken thighs
+    raw: 600 g chicken thighs
+  - qty: 600
+    unit: g
+    name: chicken drumsticks
+    raw: 600 g chicken drumsticks
   - qty: 2
     unit: tbsp
     name: west indian curry powder

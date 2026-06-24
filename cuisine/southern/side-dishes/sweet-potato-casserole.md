@@ -16,7 +16,7 @@ Sweet potato casserole is one of the South's most iconic Thanksgiving sides and 
 ## Ingredients
 
 ### Sweet potato base
-- 1.5 kg sweet potatoes (peeled, cubed)
+- 1500 g sweet potatoes (peeled, cubed)
 - 100 g unsalted butter (melted)
 - 200 g dark brown sugar
 - 100 ml whole milk

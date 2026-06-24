@@ -14,7 +14,7 @@
 Fårikål - "sheep in cabbage" - is the dish Norway officially declared its national dish in 2014 and again in 2017 after a brief flirtation with the idea that it might be retired. The recipe is as simple as cooking gets: chunks of bone-in lamb (shoulder or breast) layered with white cabbage and a generous pour of whole black peppercorns, just covered with water, simmered slowly until the lamb falls off the bone and the cabbage softens into a sweet-savoury silk. The bone marrow enriches the broth; the peppercorns give a striking warmth that defines the dish. Eat on the last Thursday of September (Fårikålens Festdag - "fårikål's celebration day") and through autumn, with boiled potatoes catching the broth.
 
 ## Ingredients
-- 1.5 kg lamb shoulder or lamb breast on the bone, cut into 5 cm chunks
+- 1500 g lamb shoulder or lamb breast on the bone, cut into 5 cm chunks
 - 1 large white cabbage (about 1.5 kg), cut into thick wedges
 - 2 tbsp whole black peppercorns
 - 2 tsp fine sea salt
@@ -22,7 +22,7 @@ Fårikål - "sheep in cabbage" - is the dish Norway officially declared its nati
 - 500 ml water (just enough to barely cover)
 
 ### To serve
-- 1.5 kg floury potatoes, peeled, boiled
+- 1500 g floury potatoes, peeled, boiled
 - Butter for the potatoes
 - Lingonberry preserves or sweet pickled red cabbage on the side
 

@@ -10,7 +10,7 @@ A 5-litre traditional mead, medium-dry, about 11-12% ABV. Total active time abou
 
 ## Recipe (5 litres)
 
-- 1.2 kg good honey (clover or wildflower for first batch)
+- 1200 g good honey (clover or wildflower for first batch)
 - 4 litres filtered water (split: 2 litres warm for dissolving honey, 2 litres cold for top-up)
 - 1 sachet Lalvin D47 yeast
 - 5 g Fermaid O yeast nutrient (split into 3 doses: 2 g at pitch, 2 g at 24 hours, 1 g at 72 hours)

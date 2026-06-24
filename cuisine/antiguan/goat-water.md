@@ -15,7 +15,7 @@ Goat water is the celebration pot of the eastern Caribbean, claimed by Antigua a
 
 ## Ingredients
 
-- 1.5 kg bone-in goat meat (shoulder or leg), cut into chunks
+- 1500 g bone-in goat meat (shoulder or leg), cut into chunks
 - 2 large onions, chopped
 - 5 garlic cloves, crushed
 - 4 scallions, chopped

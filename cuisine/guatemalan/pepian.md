@@ -16,7 +16,7 @@ Pepián (pepián rojo) is the patrimonial dish of Guatemala, traceable to the Ka
 ## Ingredients
 
 ### For the chicken
-- 1.5 kg chicken (cut into 6 pieces, bone in, skin on)
+- 1500 g chicken (cut into 6 pieces, bone in, skin on)
 - 1 onion, halved
 - 4 garlic cloves
 - 2 bay leaves

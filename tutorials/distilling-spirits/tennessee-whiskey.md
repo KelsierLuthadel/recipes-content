@@ -37,7 +37,7 @@ The net effect: a softer, sweeter, more drinkable whiskey straight out of the ba
 - 80% corn / 12% malted barley / 8% rye
 
 ### Ingredients
-- 5.6 kg cracked corn
+- 5600 g cracked corn
 - 850 g crushed malted barley
 - 550 g cracked rye
 - 18 litres water

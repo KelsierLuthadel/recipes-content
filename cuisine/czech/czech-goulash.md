@@ -14,7 +14,7 @@
 Czech goulash (hovězí guláš) is distinct from its Hungarian cousin: the Hungarian gulyás is a soupy paprika-rich stew; the Czech version is thicker, darker, and built on a slow caramelisation of a huge volume of onions until they melt into the sauce. Beef chuck slow-braised with sweet paprika, caraway and a touch of marjoram becomes meltingly tender; the sauce is rich and almost glossy from the onion-sugar Maillard reaction. The traditional companion is houskové knedlíky (bread dumplings) sliced into rounds and used to wipe up the sauce. The pub version is even richer, with a dark roux and a generous splash of dark beer. A bowl of goulash with a glass of Pilsner is the universal Czech tavern meal.
 
 ## Ingredients
-- 1.2 kg beef chuck or shin, cut into 4 cm chunks
+- 1200 g beef chuck or shin, cut into 4 cm chunks
 - 600 g onions (about 3 large), finely diced
 - 4 cloves garlic, minced
 - 4 tbsp lard, duck fat or vegetable oil

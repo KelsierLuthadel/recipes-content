@@ -34,7 +34,8 @@ Jamaica's signature on a grill: bone-in chicken marinated overnight in a fiery w
 - 1 ½ teaspoons salt
 
 ### Chicken
-- 1 ½ kg bone-in chicken thighs and drumsticks (or 1 spatchcocked whole chicken)
+- 750 g bone-in chicken thighs
+- 750 g bone-in chicken drumsticks
 
 ### To smoke (if outdoor BBQ)
 - 200 g pimento (allspice) wood chips, soaked

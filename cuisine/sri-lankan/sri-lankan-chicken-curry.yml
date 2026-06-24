@@ -57,10 +57,14 @@ ingredients:
   - qty: 4
     name: chillies (red)
     raw: 4 dried red chillies
-  - qty: 1
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1 kg chicken thighs and drumsticks
+  - qty: 500
+    unit: g
+    name: chicken thighs
+    raw: 500 g chicken thighs
+  - qty: 500
+    unit: g
+    name: chicken drumsticks
+    raw: 500 g chicken drumsticks
   - qty: 3
     unit: tbsp
     name: coconut oil

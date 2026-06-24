@@ -18,10 +18,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: beef chuck
-    raw: 1.2 kg beef chuck or shin, cut into 4 cm chunks
+    raw: 1200 g beef chuck or shin, cut into 4 cm chunks
   - qty: 600
     unit: g
     name: onions

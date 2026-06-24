@@ -16,7 +16,7 @@ Southern peach cobbler is one of the most beloved Southern desserts and a Georgi
 ## Ingredients
 
 ### Peach filling
-- 1.5 kg fresh peaches (peeled, pitted, sliced); or 1.2 kg frozen peach slices
+- 1500 g fresh peaches (peeled, pitted, sliced); or 1.2 kg frozen peach slices
 - 200 g brown sugar
 - 2 tablespoons cornstarch
 - 1 tablespoon ground cinnamon

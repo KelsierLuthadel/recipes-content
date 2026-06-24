@@ -16,7 +16,7 @@ Chilorio is the iconic Sinaloan slow-cooked spiced pork and a beloved Northern M
 ## Ingredients
 
 ### Pork
-- 1.2 kg pork shoulder (cut into 3 cm cubes)
+- 1200 g pork shoulder (cut into 3 cm cubes)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 

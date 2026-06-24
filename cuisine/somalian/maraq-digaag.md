@@ -16,7 +16,7 @@ Maraq digaag is the everyday Somali chicken stew (maraq = stew or soup; digaag =
 ## Ingredients
 
 ### Chicken
-- 1.5 kg bone-in chicken pieces (thighs, drumsticks, breasts cut in half; skin on or off as preferred)
+- 1500 g bone-in chicken pieces (thighs, drumsticks, breasts cut in half; skin on or off as preferred)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 

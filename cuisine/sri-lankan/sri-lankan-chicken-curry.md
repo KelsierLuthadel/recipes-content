@@ -26,7 +26,8 @@ Sri Lankan chicken curry is the dish that turns up at the centre of every rice-a
 - 4 dried red chillies
 
 ### Curry
-- 1 kg chicken thighs and drumsticks (bone-in, skin removed)
+- 500 g chicken thighs (bone-in, skin removed)
+- 500 g chicken drumsticks (bone-in, skin removed)
 - 3 tablespoons coconut oil
 - 2 onions (large, sliced thin)
 - 6 garlic cloves (crushed)

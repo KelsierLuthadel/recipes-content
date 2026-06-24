@@ -16,7 +16,7 @@ Vepřo-knedlo-zelo is the dish abbreviated into a single name because the combin
 ## Ingredients
 
 ### Pork
-- 1.5 kg pork shoulder (with skin on, or boneless if preferred)
+- 1500 g pork shoulder (with skin on, or boneless if preferred)
 - 4 cloves garlic, minced
 - 2 tbsp caraway seeds, lightly crushed
 - 2 tsp fine sea salt

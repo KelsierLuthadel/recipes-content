@@ -26,7 +26,7 @@ Chicken and andouille gumbo is the most foundational Louisiana gumbo (alongside 
 - 12 garlic cloves (crushed)
 
 ### Meat
-- 1.2 kg chicken thighs (boneless skinless; cut into chunks)
+- 1200 g chicken thighs (boneless skinless; cut into chunks)
 - 500 g andouille sausage (sliced into rounds)
 
 ### Liquid and seasoning

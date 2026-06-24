@@ -16,7 +16,7 @@ Char siu, literally "fork-roasted" in Cantonese, is the lacquered red barbecue p
 ## Ingredients
 
 ### Pork
-- 1.2 kg pork shoulder, cut into long strips 5 cm thick
+- 1200 g pork shoulder, cut into long strips 5 cm thick
 
 ### Marinade
 - 3 tbsp hoisin sauce

@@ -16,7 +16,8 @@ Mountain chicken is the historical national dish of Dominica, the name given to 
 ## Ingredients
 
 ### The chicken
-- 1.2 kg bone-in chicken thighs and drumsticks (skin on)
+- 600 g bone-in chicken thighs (skin on)
+- 600 g bone-in chicken drumsticks (skin on)
 - 1 tbsp fresh lime juice
 - 1 tsp salt
 

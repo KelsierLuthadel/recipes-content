@@ -16,7 +16,7 @@ Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's
 ## Ingredients
 
 ### Wings
-- 1.5 kg chicken wings (separated into drumettes and flats; tips discarded or saved for stock)
+- 1500 g chicken wings (separated into drumettes and flats; tips discarded or saved for stock)
 - 2 teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 2 teaspoons baking powder (optional; for extra crispness)

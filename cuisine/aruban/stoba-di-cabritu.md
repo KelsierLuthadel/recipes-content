@@ -16,7 +16,7 @@ Stoba di cabritu is the workhorse of the Aruban kitchen, a slow-simmered goat st
 ## Ingredients
 
 ### The marinade
-- 1.5 kg bone-in goat shoulder or leg, cut into 4-5 cm pieces (ask the butcher to chop through the bones)
+- 1500 g bone-in goat shoulder or leg, cut into 4-5 cm pieces (ask the butcher to chop through the bones)
 - 4 tbsp white vinegar
 - 2 tbsp fresh lime juice
 - 4 cloves garlic, crushed

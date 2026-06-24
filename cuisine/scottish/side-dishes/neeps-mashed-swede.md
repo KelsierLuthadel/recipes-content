@@ -16,7 +16,7 @@ The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed S
 ## Ingredients
 
 ### For 6 servings
-- 1.2 kg swede (the orange-fleshed root; one large or two medium swede)
+- 1200 g swede (the orange-fleshed root; one large or two medium swede)
 - 60 g butter (plus more for serving)
 - ½ teaspoon ground nutmeg
 - 1 teaspoon fine sea salt (or to taste)

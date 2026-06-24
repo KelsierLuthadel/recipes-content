@@ -67,10 +67,14 @@ ingredients:
     unit: tbsp
     name: coconut
     raw: 4 tablespoons grated fresh coconut
-  - qty: 1
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1 kg bone-in chicken thighs and drumsticks
+  - qty: 500
+    unit: g
+    name: chicken thighs
+    raw: 500 g bone-in chicken thighs
+  - qty: 500
+    unit: g
+    name: chicken drumsticks
+    raw: 500 g bone-in chicken drumsticks
   - qty: 1
     unit: tsp
     name: turmeric

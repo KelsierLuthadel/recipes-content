@@ -16,7 +16,7 @@ Machboos is the centrepiece of the Kuwaiti table, the dish that sits in the midd
 ## Ingredients
 
 ### Meat and marinade
-- 1.5 kg chicken (cut into 6 pieces) or 1.5 kg lamb shoulder on the bone (cut into pieces)
+- 1500 g chicken (cut into 6 pieces) or 1.5 kg lamb shoulder on the bone (cut into pieces)
 - 2 tbsp Kuwaiti [baharat](../../base-ingredients/spices/baharat.md) (see notes)
 - 1 tsp turmeric
 - 1 tsp salt

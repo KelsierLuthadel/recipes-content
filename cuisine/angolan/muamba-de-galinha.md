@@ -15,7 +15,7 @@ Muamba de galinha is the national dish of Angola and the centrepiece of every fa
 
 ## Ingredients
 
-- 1.5 kg bone-in chicken pieces (thighs, drumsticks, breast on the bone)
+- 1500 g bone-in chicken pieces (thighs, drumsticks, breast on the bone)
 - 1 lime, juiced (plus 1 lime in wedges to serve)
 - 2 tsp salt
 - 1 tsp black pepper

@@ -15,7 +15,7 @@ Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistan
 
 ## Ingredients
 
-- 1.4 kg chicken (a whole bird jointed into 8 bone-in skin-on pieces, OR 8 chicken thighs bone-in skin-on)
+- 1400 g chicken (a whole bird jointed into 8 bone-in skin-on pieces, OR 8 chicken thighs bone-in skin-on)
 - 80 ml sunflower oil (or ghee)
 - 8 garlic cloves (crushed)
 - 4 cm fresh ginger (half grated, half cut into matchsticks for the garnish)

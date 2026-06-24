@@ -15,7 +15,7 @@ Huku ne dovi (literally "chicken with peanut butter" in Shona; huku = chicken, d
 
 ## Ingredients
 
-- 1.2 kg bone-in chicken pieces (thighs, drumsticks; or 1 whole chicken cut into 8 pieces)
+- 1200 g bone-in chicken pieces (thighs, drumsticks; or 1 whole chicken cut into 8 pieces)
 - 3 tablespoons vegetable oil
 - 2 large onions (finely sliced)
 - 6 garlic cloves (crushed)

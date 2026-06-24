@@ -25,10 +25,10 @@ mentions:
   - cuisine/thai/side-dishes/coconut-rice
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.3
-    unit: kg
+  - qty: 1300
+    unit: g
     name: goat
-    raw: 1.3 kg goat
+    raw: 1300 g goat
   - qty: 1
     name: limes
     raw: 1 lime

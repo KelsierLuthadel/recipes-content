@@ -16,7 +16,7 @@ Saudi Arabia's national dish, the one platter you'll meet at almost every gather
 ## Ingredients
 
 ### Protein
-- 1.2 kg chicken pieces (bone-in thighs and drumsticks; or lamb shoulder cubed)
+- 1200 g chicken pieces (bone-in thighs and drumsticks; or lamb shoulder cubed)
 - 2 tablespoons vegetable oil
 - 1 tablespoon salt
 

@@ -15,10 +15,10 @@ ingredients:
   - qty: 27.5
     name: elderflower heads
     raw: 25-30 fresh elderflower heads
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: caster sugar
-    raw: 1.2 kg caster sugar
+    raw: 1200 g caster sugar
   - qty: 1.2
     unit: l
     name: water

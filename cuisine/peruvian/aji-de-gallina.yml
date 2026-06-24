@@ -31,10 +31,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken
-    raw: 1.2 kg whole chicken OR 6 large bone-in skin-on chicken thighs
+    raw: 1200 g whole chicken OR 6 large bone-in skin-on chicken thighs
   - qty: 1
     name: onions
     raw: 1 onion, halved

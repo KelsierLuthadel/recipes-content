@@ -16,7 +16,7 @@ The fast Saudi cousin of mandi, made when you want kabsa-deep flavour but the da
 ## Ingredients
 
 ### Lamb
-- 1.2 kg bone-in lamb shoulder (cut into 4-6 large chunks)
+- 1200 g bone-in lamb shoulder (cut into 4-6 large chunks)
 - 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each: ground cumin, coriander, black pepper, allspice, cinnamon)
 - 4 garlic cloves (crushed)
 - 1 tablespoon tomato puree

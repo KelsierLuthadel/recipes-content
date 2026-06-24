@@ -14,10 +14,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/pickling
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: banana peppers
-    raw: 1.5 kg banana peppers
+    raw: 1500 g banana peppers
   - qty: 1
     name: garlic
     raw: 1 head garlic, peeled and lightly crushed

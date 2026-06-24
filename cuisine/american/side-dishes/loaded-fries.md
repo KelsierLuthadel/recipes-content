@@ -16,7 +16,7 @@ Loaded fries are the iconic American sharing-plate / bar-food classic: hand-cut 
 ## Ingredients
 
 ### Fries
-- 1.2 kg floury potatoes (Russet, Idaho; peeled and cut into 1 cm × 8 cm fries)
+- 1200 g floury potatoes (Russet, Idaho; peeled and cut into 1 cm × 8 cm fries)
 - Vegetable oil for deep-frying (about 1.5 litres)
 
 ### Cheese topping

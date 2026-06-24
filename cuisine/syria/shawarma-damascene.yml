@@ -28,10 +28,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: lamb shoulder
-    raw: 1.5 kg boneless lamb shoulder
+    raw: 1500 g boneless lamb shoulder
   - qty: 200
     unit: g
     name: plain yogurt

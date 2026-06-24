@@ -42,10 +42,10 @@ ingredients:
   - qty: 0.5
     name: /2 tsp marjoram
     raw: 1/2 tsp marjoram
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: starchy potatoes
-    raw: 1.5 kg starchy potatoes , peeled
+    raw: 1500 g starchy potatoes , peeled
   - qty: 500
     unit: g
     name: floury potatoes

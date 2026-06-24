@@ -19,10 +19,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: starchy potatoes
-    raw: 1.5 kg starchy potatoes , peeled
+    raw: 1500 g starchy potatoes , peeled
   - qty: 200
     unit: g
     name: smoked streaky bacon

@@ -16,7 +16,7 @@ Jocón is the green Mayan stew of the Sololá and Chimaltenango highlands, the v
 ## Ingredients
 
 ### For the chicken
-- 1.5 kg chicken pieces (thighs and drumsticks), bone in skin on
+- 1500 g chicken pieces (thighs and drumsticks), bone in skin on
 - 1.5 litres water
 - 1 onion, halved
 - 4 garlic cloves

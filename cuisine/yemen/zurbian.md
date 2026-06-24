@@ -16,7 +16,7 @@ Zurbian is one of Yemen's most beloved festive dishes: a biryani-style spiced ri
 ## Ingredients
 
 ### Lamb and marinade
-- 1.2 kg bone-in lamb shoulder or leg (cut into 6 cm pieces by the butcher)
+- 1200 g bone-in lamb shoulder or leg (cut into 6 cm pieces by the butcher)
 - 200 g plain yogurt
 - 4 tablespoons olive oil (or ghee)
 - 2 large onions (sliced; 1 for the marinade, 1 for frying separately)

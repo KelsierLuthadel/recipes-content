@@ -39,10 +39,10 @@ ingredients:
     raw: ½ teaspoon salt
   - name: little extra oil
     raw: A little extra oil
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: tart apples
-    raw: 1.2 kg tart apples
+    raw: 1200 g tart apples
   - qty: 100
     unit: g
     name: caster sugar

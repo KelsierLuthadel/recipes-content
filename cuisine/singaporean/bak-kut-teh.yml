@@ -25,10 +25,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: pork spare ribs
-    raw: 1.2 kg pork spare ribs, cut into 4-5 cm sections
+    raw: 1200 g pork spare ribs, cut into 4-5 cm sections
   - qty: 2
     name: garlic
     raw: 2 whole heads of garlic, papery skin on, halved horizontally

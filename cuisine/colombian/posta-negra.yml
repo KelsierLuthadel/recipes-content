@@ -29,10 +29,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: beef eye round
-    raw: 1.5 kg beef eye round
+    raw: 1500 g beef eye round
   - qty: 12
     name: garlic
     raw: 12 garlic cloves

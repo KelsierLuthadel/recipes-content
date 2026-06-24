@@ -23,7 +23,7 @@ New York cheesecake is the most iconic American cheesecake and the traditional M
 - 1 teaspoon ground cinnamon
 
 ### Cheesecake filling
-- 1.2 kg full-fat cream cheese (room temp; Philadelphia preferred)
+- 1200 g full-fat cream cheese (room temp; Philadelphia preferred)
 - 300 g caster sugar
 - 6 large eggs
 - 200 ml sour cream

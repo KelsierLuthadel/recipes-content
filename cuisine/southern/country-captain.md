@@ -16,7 +16,8 @@ Country Captain is one of the South's most distinctive dishes and reflects the h
 ## Ingredients
 
 ### Chicken
-- 1.2 kg bone-in chicken thighs and drumsticks
+- 600 g bone-in chicken thighs
+- 600 g bone-in chicken drumsticks
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 4 tablespoons plain flour (for dusting)

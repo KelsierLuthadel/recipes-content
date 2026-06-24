@@ -61,10 +61,10 @@ ingredients:
     unit: tbsp
     name: dijon mustard
     raw: 1 tablespoon Dijon mustard
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: new potatoes
-    raw: 1.2 kg small new potatoes
+    raw: 1200 g small new potatoes
   - qty: 1
     name: dill
     raw: 1 small bunch fresh dill

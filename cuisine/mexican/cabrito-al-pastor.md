@@ -16,7 +16,7 @@ Cabrito al pastor is the iconic dish of Nuevo León and the city of Monterrey, a
 ## Ingredients
 
 ### Meat
-- 2.5 kg bone-in leg of young goat (cabrito); OR 2.5 kg bone-in leg of lamb
+- 2500 g bone-in leg of young goat (cabrito); OR 2.5 kg bone-in leg of lamb
 
 ### Marinade
 - 4 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)

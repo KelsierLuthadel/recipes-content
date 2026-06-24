@@ -16,7 +16,7 @@ Medd is the Welsh honey wine, made for over fifteen hundred years in Welsh mead-
 ## Ingredients
 
 ### For 1 demijohn (5 litres)
-- 1.5 kg Welsh honey (heather honey, or any unfiltered raw wildflower honey)
+- 1500 g Welsh honey (heather honey, or any unfiltered raw wildflower honey)
 - 4 litres spring or filtered water
 - 1 lemon (zest only, in long strips; no pith)
 - 1 sachet (5 g) mead yeast or champagne yeast (or Lalvin 71B / EC-1118)

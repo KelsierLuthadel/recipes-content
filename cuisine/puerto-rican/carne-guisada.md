@@ -16,7 +16,7 @@ Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of
 ## Ingredients
 
 ### Beef
-- 1.2 kg beef chuck (or stewing beef; cut into 4 cm cubes)
+- 1200 g beef chuck (or stewing beef; cut into 4 cm cubes)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 1 tablespoon adobo seasoning

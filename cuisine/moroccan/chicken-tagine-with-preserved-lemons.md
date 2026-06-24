@@ -16,7 +16,7 @@ Morocco's defining tagine and the Friday lunch at every Casablanca household: bo
 ## Ingredients
 
 ### Chicken
-- 1.4 kg chicken (a whole bird jointed into 8 pieces, OR 8 bone-in skin-on thighs)
+- 1400 g chicken (a whole bird jointed into 8 pieces, OR 8 bone-in skin-on thighs)
 
 ### Spice paste
 - 5 garlic cloves (crushed)

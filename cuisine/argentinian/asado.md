@@ -16,7 +16,7 @@ Asado is Argentina's most sacred food ritual, far more than a barbecue, it's the
 ## Ingredients
 
 ### The meats (for 8-10)
-- 1.5 kg asado de tira (short ribs, cross-cut into 3 cm strips): the traditional first beef cut
+- 1500 g asado de tira (short ribs, cross-cut into 3 cm strips): the traditional first beef cut
 - 1 kg vacío (flank steak, with the fat cap on): the asador's favourite
 - 800 g bife de chorizo (sirloin steak) OR entraña (skirt): premium cuts
 - 6 chorizo sausages (Argentine; sweet or spicy)

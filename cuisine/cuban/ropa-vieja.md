@@ -16,7 +16,7 @@ Ropa vieja (literally "old clothes", named for the shredded texture that resembl
 ## Ingredients
 
 ### Stage 1: Cook the beef
-- 1.2 kg flank steak (or skirt steak; or brisket)
+- 1200 g flank steak (or skirt steak; or brisket)
 - 1 large onion (quartered)
 - 6 garlic cloves (whole, lightly crushed)
 - 2 bay leaves

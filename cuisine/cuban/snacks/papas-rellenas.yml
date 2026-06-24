@@ -21,10 +21,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: floury potatoes
-    raw: 1.2 kg floury potatoes
+    raw: 1200 g floury potatoes
   - qty: 80
     unit: g
     name: butter (unsalted)

@@ -15,10 +15,10 @@ mentions:
   - cuisine/argentinian/side-dishes/chimichurri
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: pork belly
-    raw: 1.2 kg pork belly, skin on, cut into 4 cm cubes
+    raw: 1200 g pork belly, skin on, cut into 4 cm cubes
   - qty: 1
     unit: tbsp
     name: salt

@@ -15,18 +15,18 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: raclette cheese
-    raw: 1.5 kg raclette cheese ; substitute Gruyère or another semi-firm melting cheese only as a last resort
+    raw: 1500 g raclette cheese ; substitute Gruyère or another semi-firm melting cheese only as a last resort
   - qty: 200
     unit: g
     name: bundnerfleisch
     raw: 200 g Bündnerfleisch or any thinly-sliced cured meat
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: waxy potatoes
-    raw: 1.5 kg small waxy potatoes
+    raw: 1500 g small waxy potatoes
   - qty: 2
     unit: tsp
     name: salt

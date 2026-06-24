@@ -25,10 +25,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: shredded chicken
-    raw: 1.2 kg cooked shredded chicken ; about 4 cups shredded
+    raw: 1200 g cooked shredded chicken ; about 4 cups shredded
   - qty: 1
     name: onions
     raw: 1 large onion

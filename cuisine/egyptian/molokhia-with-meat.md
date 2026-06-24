@@ -15,7 +15,8 @@ Molokhia is the deep-green Egyptian stew named for the jute leaves that give it 
 
 ## Ingredients
 
-- 4 bone-in chicken thighs and drumsticks (or 500 g beef shin in chunks)
+- 2 bone-in chicken thighs
+- 2 bone-in chicken drumsticks
 - 1.4 litres water (or stock)
 - 1 onion (small, halved)
 - 4 cardamom pods (bruised)

@@ -24,10 +24,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken
-    raw: 1.2 kg whole chicken
+    raw: 1200 g whole chicken
   - qty: 2
     unit: l
     name: water

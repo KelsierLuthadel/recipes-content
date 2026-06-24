@@ -24,7 +24,7 @@ Apfelstrudel is the Viennese-Bavarian pastry every German-speaking grandmother m
 - A little extra oil (for resting)
 
 ### Apple filling
-- 1.2 kg tart apples (Bramley, Granny Smith, or Boskoop; peeled, cored)
+- 1200 g tart apples (Bramley, Granny Smith, or Boskoop; peeled, cored)
 - 100 g caster sugar
 - 2 teaspoons ground cinnamon
 - 1 lemon (zest)

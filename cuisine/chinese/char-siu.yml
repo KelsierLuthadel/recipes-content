@@ -28,10 +28,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: pork shoulder
-    raw: 1.2 kg pork shoulder, cut into long strips 5 cm thick
+    raw: 1200 g pork shoulder, cut into long strips 5 cm thick
   - qty: 3
     unit: tbsp
     name: hoisin sauce

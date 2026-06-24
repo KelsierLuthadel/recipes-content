@@ -12,10 +12,10 @@ mentions:
   - cuisine/lithuanian/desserts/sakotis
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: pure raw honey
-    raw: 1.5 kg pure raw honey
+    raw: 1500 g pure raw honey
   - qty: 3.5
     unit: l
     name: spring water

@@ -15,7 +15,7 @@ Vedarai are the cold-weather star of the Aukštaitija region in north-eastern Li
 
 ## Ingredients
 
-- 1.5 kg starchy potatoes (Maris Piper or similar), peeled
+- 1500 g starchy potatoes (Maris Piper or similar), peeled
 - 200 g smoked streaky bacon, finely chopped
 - 2 large onions, finely chopped
 - 2 tsp salt

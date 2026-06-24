@@ -16,7 +16,7 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 ## Ingredients
 
 ### Chicken
-- 1.4 kg chicken pieces (drumsticks, thighs, breasts cut in half, bone-in, skin-on)
+- 1400 g chicken pieces (drumsticks, thighs, breasts cut in half, bone-in, skin-on)
 - 2 tablespoons [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (Nigerian-style if possible)
 - 2 teaspoons dried thyme
 - 2 stock cubes (Maggi or knorr)

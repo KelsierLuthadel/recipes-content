@@ -31,7 +31,7 @@ Stegt flæsk med persillesovs (literally "fried pork belly with parsley sauce") 
 - 1 tablespoon Dijon mustard (optional; for depth)
 
 ### To serve
-- 1.2 kg small new potatoes (skin-on)
+- 1200 g small new potatoes (skin-on)
 - 1 small bunch fresh dill (chopped, for the potatoes)
 - 50 g butter (for the potatoes)
 - Pickled beetroot (sliced; from a jar)

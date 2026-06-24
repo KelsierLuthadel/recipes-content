@@ -21,10 +21,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken pieces
-    raw: 1.5 kg chicken pieces , bone in skin on
+    raw: 1500 g chicken pieces , bone in skin on
   - qty: 1.5
     unit: l
     name: water

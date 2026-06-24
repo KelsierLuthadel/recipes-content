@@ -77,10 +77,10 @@ ingredients:
     unit: tsp
     name: pepper
     raw: ½ teaspoon ground long pepper
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: lamb shanks
-    raw: 1.2 kg lamb shanks
+    raw: 1200 g lamb shanks
   - qty: 4
     unit: tbsp
     name: mustard oil

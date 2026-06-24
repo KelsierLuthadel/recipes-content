@@ -32,10 +32,10 @@ mentions:
   - base-ingredients/curry-powder/garam-masala-kashmiri
   - base-ingredients/curry-powder/garam-masala
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: mutton
-    raw: 1.2 kg bone-in mutton
+    raw: 1200 g bone-in mutton
   - qty: 400
     unit: g
     name: greek yogurt

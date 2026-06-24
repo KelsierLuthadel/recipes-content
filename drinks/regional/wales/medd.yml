@@ -11,10 +11,10 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: welsh honey
-    raw: 1.5 kg Welsh honey
+    raw: 1500 g Welsh honey
   - qty: 4
     unit: l
     name: spring

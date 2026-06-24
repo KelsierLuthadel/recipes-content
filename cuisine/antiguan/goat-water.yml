@@ -17,10 +17,10 @@ mentions:
   - drinks/cocktails/rum-punch
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: goat meat
-    raw: 1.5 kg bone-in goat meat , cut into chunks
+    raw: 1500 g bone-in goat meat , cut into chunks
   - qty: 2
     name: onions
     raw: 2 large onions, chopped

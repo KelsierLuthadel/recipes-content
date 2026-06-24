@@ -16,7 +16,7 @@ Arroz con pollo is the traditional Latin American one-pot chicken-and-rice dish,
 ## Ingredients
 
 ### Chicken and marinade
-- 1.2 kg bone-in skin-on chicken pieces (thighs, drumsticks, or whole chicken cut into 8)
+- 1200 g bone-in skin-on chicken pieces (thighs, drumsticks, or whole chicken cut into 8)
 - 1 tablespoon adobo seasoning
 - 1 tablespoon [Sazón](../../base-ingredients/spices/sazon.md)
 - 1 teaspoon dried oregano

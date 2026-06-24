@@ -19,10 +19,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: beef flank
-    raw: 1.2 kg beef flank
+    raw: 1200 g beef flank
   - qty: 2.5
     unit: l
     name: water

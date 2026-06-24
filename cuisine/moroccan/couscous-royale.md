@@ -17,7 +17,8 @@ Couscous royale is the festive Moroccan-Maghreb couscous that crowns a Sunday lu
 
 ### Broth and meat
 - 600 g lamb shoulder (cut into 4 cm cubes)
-- 600 g chicken thighs and drumsticks
+- 300 g chicken thighs
+- 300 g chicken drumsticks
 - 2 tablespoons olive oil
 - 2 onions (sliced)
 - 4 garlic cloves (crushed)

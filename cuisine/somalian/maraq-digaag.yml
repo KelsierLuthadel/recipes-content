@@ -27,10 +27,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken pieces
-    raw: 1.5 kg bone-in chicken pieces
+    raw: 1500 g bone-in chicken pieces
   - qty: 1.5
     unit: tsp
     name: sea salt

@@ -16,7 +16,7 @@ Fattah is the celebration dish of Egypt, served at Eid al-Adha and at weddings, 
 ## Ingredients
 
 ### Lamb
-- 1.2 kg lamb shoulder (cut into 5 cm chunks)
+- 1200 g lamb shoulder (cut into 5 cm chunks)
 - 2 tablespoons vegetable oil
 - 1 onion (large, halved)
 - 4 cardamom pods (bruised)

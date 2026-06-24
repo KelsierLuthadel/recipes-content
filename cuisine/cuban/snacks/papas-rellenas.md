@@ -16,7 +16,7 @@ Papas rellenas ("stuffed potatoes") is one of Cuba's most beloved street snacks 
 ## Ingredients
 
 ### Mashed potato (the wrapper)
-- 1.2 kg floury potatoes (Maris Piper, Russet, King Edward; peeled and cubed)
+- 1200 g floury potatoes (Maris Piper, Russet, King Edward; peeled and cubed)
 - 80 g unsalted butter
 - 2 egg yolks
 - 4 garlic cloves (crushed)

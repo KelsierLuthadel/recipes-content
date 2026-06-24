@@ -84,10 +84,14 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 ½ teaspoons salt
-  - qty: 1.5
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1 ½ kg bone-in chicken thighs and drumsticks
+  - qty: 750
+    unit: g
+    name: chicken thighs
+    raw: 750 g bone-in chicken thighs
+  - qty: 750
+    unit: g
+    name: chicken drumsticks
+    raw: 750 g bone-in chicken drumsticks
   - qty: 200
     unit: g
     name: pimento wood chips

@@ -16,7 +16,7 @@ Svíčková (full name svíčková na smetaně - "sirloin in cream") is the dish
 ## Ingredients
 
 ### Beef and lard-in
-- 1.2 kg beef sirloin or topside, in one piece
+- 1200 g beef sirloin or topside, in one piece
 - 100 g smoked bacon or pancetta, cut into long strips (for larding)
 - 2 tsp fine sea salt
 - 1 tsp freshly ground black pepper

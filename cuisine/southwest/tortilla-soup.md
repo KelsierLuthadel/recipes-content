@@ -16,7 +16,7 @@ Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima 
 ## Ingredients
 
 ### Broth
-- 1.2 kg whole chicken (or 6 bone-in thighs)
+- 1200 g whole chicken (or 6 bone-in thighs)
 - 3 litres water
 - 1 large onion (halved)
 - 8 garlic cloves

@@ -16,10 +16,10 @@ mentions:
   - tutorials/middle-eastern-fundamentals/mezze
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: aubergines
-    raw: 1.5 kg aubergines , as fresh and shiny as possible
+    raw: 1500 g aubergines , as fresh and shiny as possible
   - qty: 1
     name: onions
     raw: 1 small onion, very finely chopped

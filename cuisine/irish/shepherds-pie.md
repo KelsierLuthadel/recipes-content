@@ -34,7 +34,7 @@ Shepherd's pie is one of Ireland's (and Britain's) most beloved comfort foods an
 - 1 teaspoon ground black pepper
 
 ### Mashed potato topping
-- 1.5 kg floury potatoes (Maris Piper, Russet, or King Edward; peeled and cubed)
+- 1500 g floury potatoes (Maris Piper, Russet, or King Edward; peeled and cubed)
 - 100 g unsalted butter (plus 30 g for the top of the pie)
 - 200 ml whole milk (warmed)
 - 1 large egg yolk (optional; for richness and colour)

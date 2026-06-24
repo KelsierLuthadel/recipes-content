@@ -16,7 +16,7 @@ Denningvleis is the deeply traditional Cape Malay lamb stew of Cape Town and the
 ## Ingredients
 
 ### Lamb
-- 1.2 kg lamb shoulder (cut into 4 cm cubes; on the bone is more flavourful but boneless is easier to handle)
+- 1200 g lamb shoulder (cut into 4 cm cubes; on the bone is more flavourful but boneless is easier to handle)
 - 2 teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 

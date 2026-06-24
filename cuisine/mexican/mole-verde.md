@@ -16,7 +16,8 @@ Mole verde (sometimes called pipián verde for the toasted pumpkin seeds at its 
 ## Ingredients
 
 ### Chicken
-- 1.2 kg bone-in chicken thighs and drumsticks (or whole chicken cut into 8)
+- 600 g bone-in chicken thighs
+- 600 g bone-in chicken drumsticks
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 

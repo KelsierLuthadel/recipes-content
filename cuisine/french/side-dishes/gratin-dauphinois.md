@@ -15,7 +15,7 @@ Gratin dauphinois is the rich potato gratin from the Dauphiné region of southea
 
 ## Ingredients
 
-- 1.2 kg waxy potatoes (Charlotte, Yukon Gold, Roseval, peeled)
+- 1200 g waxy potatoes (Charlotte, Yukon Gold, Roseval, peeled)
 - 6 garlic cloves (4 for infusing the cream; 2 halved for rubbing the dish + extra slivers between layers)
 - 500 ml double cream
 - 300 ml whole milk

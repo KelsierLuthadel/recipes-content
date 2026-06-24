@@ -14,10 +14,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: peaches
-    raw: 1.5 kg fresh peaches ; or 1.2 kg frozen peach slices
+    raw: 1500 g fresh peaches ; or 1.2 kg frozen peach slices
   - qty: 200
     unit: g
     name: sugar (brown)

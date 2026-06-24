@@ -33,10 +33,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: floury potatoes
-    raw: 1.2 kg floury potatoes , cut to 1.2 cm × 1.2 cm × 7-9 cm batons
+    raw: 1200 g floury potatoes , cut to 1.2 cm × 1.2 cm × 7-9 cm batons
   - qty: 2
     unit: l
     name: sunflower

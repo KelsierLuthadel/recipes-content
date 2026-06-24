@@ -20,9 +20,12 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 8
-    name: chicken thighs and drumsticks
-    raw: 8 bone-in chicken thighs and drumsticks
+  - qty: 4
+    name: chicken thighs
+    raw: 4 bone-in chicken thighs
+  - qty: 4
+    name: chicken drumsticks
+    raw: 4 bone-in chicken drumsticks
   - qty: 3
     unit: tbsp
     name: lard

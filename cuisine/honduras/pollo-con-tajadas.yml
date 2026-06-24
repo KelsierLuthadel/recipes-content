@@ -25,9 +25,12 @@ mentions:
   - cuisine/salvadoran/side-dishes/curtido
   - tutorials/spices/storage
 ingredients:
-  - qty: 8
-    name: chicken thighs and drumsticks
-    raw: 8 bone-in chicken thighs and drumsticks
+  - qty: 4
+    name: chicken thighs
+    raw: 4 bone-in chicken thighs
+  - qty: 4
+    name: chicken drumsticks
+    raw: 4 bone-in chicken drumsticks
   - qty: 2
     name: limes
     raw: 2 limes

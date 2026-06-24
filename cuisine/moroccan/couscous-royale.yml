@@ -32,10 +32,14 @@ ingredients:
     unit: g
     name: lamb shoulder
     raw: 600 g lamb shoulder
-  - qty: 600
+  - qty: 300
     unit: g
-    name: chicken thighs and drumsticks
-    raw: 600 g chicken thighs and drumsticks
+    name: chicken thighs
+    raw: 300 g chicken thighs
+  - qty: 300
+    unit: g
+    name: chicken drumsticks
+    raw: 300 g chicken drumsticks
   - qty: 2
     unit: tbsp
     name: olive oil

@@ -16,7 +16,7 @@ A weekend chilli con carne that lives in the oven. The flavour is built in three
 ## Ingredients
 
 ### Beef
-- 1.5 kg beef (chuck or shin, in 1-inch cubes)
+- 1500 g beef (chuck or shin, in 1-inch cubes)
 - Salt and crushed black pepper
 
 ### Aromatics

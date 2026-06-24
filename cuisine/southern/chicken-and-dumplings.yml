@@ -16,10 +16,10 @@ mentions:
   - tutorials/pizza/dough
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken
-    raw: 1.5 kg whole chicken
+    raw: 1500 g whole chicken
   - qty: 2
     name: onions
     raw: 2 large onions

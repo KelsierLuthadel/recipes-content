@@ -16,7 +16,8 @@ Saint Lucia's Indian-Caribbean inheritance is real - the 19th-century arrival of
 ## Ingredients
 
 ### Chicken and marinade
-- 1.2 kg chicken thighs and drumsticks (bone in, skin on)
+- 600 g chicken thighs (bone in, skin on)
+- 600 g chicken drumsticks (bone in, skin on)
 - 2 tbsp West Indian [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (or substitute mild Madras curry powder)
 - 1 tsp ground turmeric
 - 1 tsp ground cumin

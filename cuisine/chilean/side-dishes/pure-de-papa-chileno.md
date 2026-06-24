@@ -15,7 +15,7 @@ Puré de papas is Chile's everyday mashed potato and the traditional side to any
 
 ## Ingredients
 
-- 1.2 kg floury potatoes (Maris Piper, Russet, King Edward; peeled and cubed)
+- 1200 g floury potatoes (Maris Piper, Russet, King Edward; peeled and cubed)
 - 100 g unsalted butter (cubed)
 - 250 ml whole milk (warmed)
 - 1 ½ teaspoons fine sea salt

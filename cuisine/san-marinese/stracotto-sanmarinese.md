@@ -16,7 +16,7 @@ Stracotto (literally "overcooked") is the slow-braised Sunday roast of San Marin
 ## Ingredients
 
 ### The braise
-- 1.5 kg beef shoulder or chuck (in one piece, tied with string if necessary)
+- 1500 g beef shoulder or chuck (in one piece, tied with string if necessary)
 - 3 tablespoons olive oil
 - 2 large onions (finely chopped)
 - 2 large carrots (finely chopped)

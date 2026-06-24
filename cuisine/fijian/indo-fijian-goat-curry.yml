@@ -24,10 +24,10 @@ mentions:
   - base-ingredients/curry-powder/garam-masala-kashmiri
   - base-ingredients/curry-powder/garam-masala
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: goat on the bone
-    raw: 1.2 kg goat on the bone , cut into 4 cm pieces
+    raw: 1200 g goat on the bone , cut into 4 cm pieces
   - qty: 4
     unit: tbsp
     name: vegetable oil

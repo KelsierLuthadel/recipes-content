@@ -22,10 +22,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: beef shin and shoulder
-    raw: 1.2 kg beef shin and shoulder, cut into large chunks
+    raw: 1200 g beef shin and shoulder, cut into large chunks
   - qty: 2.5
     unit: l
     name: water

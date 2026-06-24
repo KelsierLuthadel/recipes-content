@@ -24,10 +24,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: chicken wings
-    raw: 1.5 kg chicken wings
+    raw: 1500 g chicken wings
   - qty: 2
     unit: tsp
     name: sea salt

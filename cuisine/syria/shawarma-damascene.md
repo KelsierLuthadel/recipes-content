@@ -16,7 +16,7 @@ Shawarma is one of the most iconic Middle Eastern street foods, claimed by Leban
 ## Ingredients
 
 ### Meat and marinade
-- 1.5 kg boneless lamb shoulder (or boneless chicken thigh; or 50/50 mix; sliced 5 mm thick across the grain)
+- 1500 g boneless lamb shoulder (or boneless chicken thigh; or 50/50 mix; sliced 5 mm thick across the grain)
 - 200 g plain yogurt (thick Greek-style)
 - 4 tablespoons olive oil
 - 8 garlic cloves (crushed)

@@ -23,10 +23,10 @@ mentions:
   - cuisine/jamaican/side-dishes/fried-plantains
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: goat shoulder
-    raw: 1.2 kg bone-in goat shoulder
+    raw: 1200 g bone-in goat shoulder
   - qty: 3
     unit: tbsp
     name: caribbean curry powder

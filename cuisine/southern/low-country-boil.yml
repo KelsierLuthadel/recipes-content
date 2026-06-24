@@ -52,10 +52,10 @@ ingredients:
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: baby potatoes (red)
-    raw: 1.5 kg small red baby potatoes
+    raw: 1500 g small red baby potatoes
   - qty: 1
     unit: kg
     name: smoked sausages

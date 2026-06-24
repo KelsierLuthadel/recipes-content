@@ -24,10 +24,14 @@ mentions:
   - tutorials/spices/storage
   - tutorials/sugar-work/caramel
 ingredients:
-  - qty: 1
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1 kg chicken thighs and drumsticks, bone-in, skin on
+  - qty: 500
+    unit: g
+    name: chicken thighs
+    raw: 500 g chicken thighs, bone-in, skin on
+  - qty: 500
+    unit: g
+    name: chicken drumsticks
+    raw: 500 g chicken drumsticks, bone-in, skin on
   - qty: 4
     name: spring onions
     raw: 4 spring onions, chopped

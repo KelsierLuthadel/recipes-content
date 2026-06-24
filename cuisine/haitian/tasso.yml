@@ -23,10 +23,10 @@ mentions:
   - drinks/regional/haiti/cremas
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: beef shoulder
-    raw: 1.2 kg beef shoulder or chuck
+    raw: 1200 g beef shoulder or chuck
   - qty: 6
     unit: tbsp
     name: epis

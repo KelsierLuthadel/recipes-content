@@ -15,7 +15,8 @@ Chicken Clemenceau is the New Orleans French Quarter dish named for the French p
 
 ## Ingredients
 
-- 8 bone-in chicken thighs and drumsticks (or 1.4 kg jointed chicken)
+- 4 bone-in chicken thighs
+- 4 bone-in chicken drumsticks
 - 2 tablespoons olive oil
 - 3 tablespoons unsalted butter (split)
 - 1 ½ teaspoons salt

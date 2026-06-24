@@ -16,7 +16,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 ## Ingredients
 
 ### The frites (twice-fried Belgian-style)
-- 1.2 kg floury potatoes (Bintje, Maris Piper, King Edward, or Russet), cut to 1.2 cm × 1.2 cm × 7-9 cm batons
+- 1200 g floury potatoes (Bintje, Maris Piper, King Edward, or Russet), cut to 1.2 cm × 1.2 cm × 7-9 cm batons
 - 2 litres sunflower or groundnut oil for frying (the Dutch use beef tallow in some chip-shops; sunflower is the home standard)
 - Fine sea salt
 

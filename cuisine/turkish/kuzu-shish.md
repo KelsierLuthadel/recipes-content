@@ -16,7 +16,7 @@ Kuzu şiş (literally "lamb skewer"; sometimes called şiş kebab or shish kebab
 ## Ingredients
 
 ### Lamb and marinade
-- 1.2 kg boneless lamb shoulder or leg (cut into 3 cm cubes)
+- 1200 g boneless lamb shoulder or leg (cut into 3 cm cubes)
 
 ### Marinade
 - 300 g plain yogurt (thick Greek-style)

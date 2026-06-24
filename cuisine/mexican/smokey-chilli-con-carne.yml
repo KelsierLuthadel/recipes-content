@@ -23,10 +23,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.5
-    unit: kg
+  - qty: 1500
+    unit: g
     name: beef
-    raw: 1.5 kg beef
+    raw: 1500 g beef
   - name: salt and crushed black pepper
     raw: Salt and crushed black pepper
   - qty: 3

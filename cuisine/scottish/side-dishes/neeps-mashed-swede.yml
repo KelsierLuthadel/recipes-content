@@ -16,10 +16,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: swede
-    raw: 1.2 kg swede
+    raw: 1200 g swede
   - qty: 60
     unit: g
     name: butter

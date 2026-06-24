@@ -16,7 +16,7 @@ Kielbasa simply means "sausage" in Polish, and there are dozens of named varieti
 ## Ingredients
 
 ### Kielbasa
-- 1.2 kg smoked Polish kielbasa (1-2 horseshoes)
+- 1200 g smoked Polish kielbasa (1-2 horseshoes)
 - 15 ml vegetable oil
 
 ### Warm pickled cabbage

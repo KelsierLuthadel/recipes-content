@@ -25,10 +25,10 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
 ingredients:
-  - qty: 2.5
-    unit: kg
+  - qty: 2500
+    unit: g
     name: leg of young goat
-    raw: 2.5 kg bone-in leg of young goat ; OR 2.5 kg bone-in leg of lamb
+    raw: 2500 g bone-in leg of young goat ; OR 2.5 kg bone-in leg of lamb
   - qty: 4
     name: guajillo chillies
     raw: 4 dried guajillo chillies

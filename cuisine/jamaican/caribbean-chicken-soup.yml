@@ -23,10 +23,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.4
-    unit: kg
+  - qty: 1400
+    unit: g
     name: chicken pieces
-    raw: 1.4 kg chicken pieces
+    raw: 1400 g chicken pieces
   - qty: 1
     unit: tbsp
     name: jamaican curry powder

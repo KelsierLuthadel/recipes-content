@@ -15,7 +15,8 @@ Chicken adobo is the unofficial national dish of the Philippines, the recipe eve
 
 ## Ingredients
 
-- 1 kg chicken thighs and drumsticks (bone-in, skin on)
+- 500 g chicken thighs (bone-in, skin on)
+- 500 g chicken drumsticks (bone-in, skin on)
 - 100 ml soy sauce
 - 100 ml white wine vinegar (or cane vinegar)
 - 100 ml water

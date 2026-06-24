@@ -87,10 +87,14 @@ ingredients:
     unit: ml
     name: chicken stock
     raw: 500 ml chicken stock
-  - qty: 1
-    unit: kg
-    name: chicken thighs and drumsticks
-    raw: 1 kg chicken thighs and drumsticks
+  - qty: 500
+    unit: g
+    name: chicken thighs
+    raw: 500 g chicken thighs
+  - qty: 500
+    unit: g
+    name: chicken drumsticks
+    raw: 500 g chicken drumsticks
   - qty: 1
     name: lemons
     raw: 1 lemon

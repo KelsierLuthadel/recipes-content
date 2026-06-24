@@ -16,7 +16,7 @@ Hyderabadi mutton biryani is the most distinctive biryani in India, the one that
 ## Ingredients
 
 ### Marinade
-- 1.2 kg bone-in mutton (or lamb, shoulder or neck, cut into 4 cm chunks)
+- 1200 g bone-in mutton (or lamb, shoulder or neck, cut into 4 cm chunks)
 - 400 g full-fat Greek yogurt
 - 4 tablespoons ginger-garlic paste
 - 200 g birista (deep-fried onions, see Notes)

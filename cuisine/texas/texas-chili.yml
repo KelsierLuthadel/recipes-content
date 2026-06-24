@@ -20,10 +20,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: beef chuck
-    raw: 1.2 kg beef chuck
+    raw: 1200 g beef chuck
   - qty: 1.5
     unit: tsp
     name: sea salt

@@ -16,7 +16,7 @@ Southern fried chicken is the most iconic dish of the American South and one of 
 ## Ingredients
 
 ### Chicken
-- 1.5 kg bone-in chicken pieces (4-6 pieces: a mix of thighs, drumsticks, breasts and wings)
+- 1500 g bone-in chicken pieces (4-6 pieces: a mix of thighs, drumsticks, breasts and wings)
 
 ### Buttermilk brine
 - 1 litre buttermilk

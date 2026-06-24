@@ -16,10 +16,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: watermelon
-    raw: 1.2 kg ripe watermelon, rind and seeds removed, cut into 2 cm cubes
+    raw: 1200 g ripe watermelon, rind and seeds removed, cut into 2 cm cubes
   - qty: 200
     unit: g
     name: greek feta in brine

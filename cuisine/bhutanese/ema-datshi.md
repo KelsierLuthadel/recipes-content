@@ -18,7 +18,7 @@ Bhutan's national dish, built on an honest two-ingredient premise: chillies and 
 ### Main
 - 150 g blue cheese (Stilton or Gorgonzola)
 - 6 red potatoes (medium, sliced into thin rounds)
-- 1.1 kg beef top round (cut into bite-sized pieces)
+- 1100 g beef top round (cut into bite-sized pieces)
 - 10 jalapeños (or similar spicy green chillies, halved lengthways, stems removed; reduce to 4-5 for milder palates)
 - 8 garlic cloves (smashed)
 - 3 Roma tomatoes (sliced lengthways)

@@ -20,10 +20,10 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: pork shoulder
-    raw: 1.2 kg boneless pork shoulder
+    raw: 1200 g boneless pork shoulder
   - qty: 200
     unit: g
     name: pork back fat

@@ -20,10 +20,10 @@ mentions:
   - tutorials/spices/storage
   - base-ingredients/spices/jerk-seasoning
 ingredients:
-  - qty: 1.1
-    unit: kg
+  - qty: 1100
+    unit: g
     name: chicken thighs
-    raw: 1.1 kg boneless skinless chicken thighs
+    raw: 1100 g boneless skinless chicken thighs
   - qty: 3
     unit: tbsp
     name: jamaican jerk seasoning

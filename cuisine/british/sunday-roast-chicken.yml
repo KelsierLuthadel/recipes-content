@@ -22,10 +22,10 @@ mentions:
   - tutorials/charcuterie/smoking
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.6
-    unit: kg
+  - qty: 1600
+    unit: g
     name: chicken
-    raw: 1.6 kg whole chicken
+    raw: 1600 g whole chicken
   - qty: 75
     unit: g
     name: butter (unsalted)

@@ -30,10 +30,10 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: peruvian potatoes (yellow)
-    raw: 1.2 kg yellow Peruvian potatoes OR Yukon Gold OR another yellow waxy potato
+    raw: 1200 g yellow Peruvian potatoes OR Yukon Gold OR another yellow waxy potato
   - qty: 4
     unit: tbsp
     name: aji amarillo paste

@@ -16,7 +16,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 ## Ingredients
 
 ### Goat and marinade
-- 1.2 kg bone-in goat shoulder (or leg, cut into 3-4 cm chunks; ask the butcher to chop through the bone)
+- 1200 g bone-in goat shoulder (or leg, cut into 3-4 cm chunks; ask the butcher to chop through the bone)
 - 3 tablespoons Caribbean [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (Betapac or similar; substitute a Madras + 1 teaspoon ground allspice + 1 teaspoon ground turmeric)
 - 1 teaspoon ground allspice (also called pimento)
 - 1 teaspoon ground black pepper

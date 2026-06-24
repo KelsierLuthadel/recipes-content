@@ -16,7 +16,7 @@ Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç =
 ## Ingredients
 
 ### Chicken
-- 1.2 kg bone-in skin-on chicken pieces (thighs and drumsticks; or 1 whole chicken cut into 8)
+- 1200 g bone-in skin-on chicken pieces (thighs and drumsticks; or 1 whole chicken cut into 8)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 1 tablespoon Aleppo pepper

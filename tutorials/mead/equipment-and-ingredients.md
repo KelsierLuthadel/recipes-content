@@ -83,7 +83,7 @@ Without nutrient, the yeast will stress and produce off-flavours (fusel alcohol,
 
 For a basic 5-litre traditional mead at 11-12% ABV:
 
-- 1.2 kg honey
+- 1200 g honey
 - 4 litres water (top up to 5 litres after honey is mixed in)
 - 1 sachet D47 yeast (5-10 g)
 - 5 g Fermaid O (staggered)

@@ -25,7 +25,7 @@ Low country boil (also called "Frogmore stew" after Frogmore community on Saint 
 - 4 garlic cloves (whole)
 
 ### To cook in stages
-- 1.5 kg small red baby potatoes
+- 1500 g small red baby potatoes
 - 1 kg smoked sausage (kielbasa, Conecuh, or andouille; cut into 3 cm chunks)
 - 8 ears corn on the cob (cut into thirds)
 - 2 kg large shrimp in shells

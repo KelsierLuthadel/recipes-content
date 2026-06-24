@@ -14,7 +14,7 @@ Pains aux raisins are the building block of the French breakfast pastry counter:
 ## Ingredients
 
 ### Pastry & Cream
-- 1.1 kg croissant dough (prepared according to [croissant dough recipe](../baking/pastry/croissant-dough.md))
+- 1100 g croissant dough (prepared according to [croissant dough recipe](../baking/pastry/croissant-dough.md))
 - 400 grams crème pâtissière (prepared according to [crème pâtissière recipe](../baking/cremes/creme-patissiere.md), substituting half the flour with custard powder)
 
 ### Sultanas & Soaking

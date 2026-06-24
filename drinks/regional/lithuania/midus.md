@@ -15,7 +15,7 @@ Midus is the oldest known alcoholic drink of the Baltic peoples, a mead that the
 
 ## Ingredients
 
-- 1.5 kg pure raw honey (linden or wildflower for the most traditional flavour)
+- 1500 g pure raw honey (linden or wildflower for the most traditional flavour)
 - 3.5 litres spring water
 - 5 g wine yeast (a champagne or mead yeast)
 - 1 tsp yeast nutrient (available from brew shops)

@@ -16,7 +16,8 @@ Pollo con tajadas is the Honduran lunch-counter staple, fried chicken on a bed o
 ## Ingredients
 
 ### Chicken
-- 8 bone-in chicken thighs and drumsticks (or 1.2 kg cut chicken pieces)
+- 4 bone-in chicken thighs
+- 4 bone-in chicken drumsticks
 - 2 limes (juice)
 - 6 garlic cloves (crushed)
 - 1 teaspoon ground annatto (achiote)

@@ -43,10 +43,10 @@ ingredients:
   - qty: 12
     name: garlic
     raw: 12 garlic cloves
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken thighs
-    raw: 1.2 kg chicken thighs
+    raw: 1200 g chicken thighs
   - qty: 500
     unit: g
     name: andouille sausage

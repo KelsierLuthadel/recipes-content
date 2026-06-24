@@ -15,7 +15,7 @@ The dish lives or dies on the jerk marinade and on whether the chicken takes a p
 
 ## Ingredients
 
-- 1.1 kg boneless skinless chicken thighs
+- 1100 g boneless skinless chicken thighs
 - 3 tablespoons Jamaican [jerk seasoning](../../base-ingredients/spices/jerk-seasoning.md) (homemade or Walkerswood)
 - 2 tablespoons olive oil
 - 1 can (400 ml) full-fat coconut milk

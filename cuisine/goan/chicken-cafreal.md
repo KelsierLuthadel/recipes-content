@@ -16,7 +16,7 @@ Chicken cafreal is the vivid green Goan-Portuguese dish that traces its roots th
 ## Ingredients
 
 ### Marinade
-- 1.2 kg chicken (whole legs or thighs and drumsticks, bone-in and skin-on)
+- 1200 g chicken (whole legs or thighs and drumsticks, bone-in and skin-on)
 - Salt for the chicken
 
 ### Cafreal paste

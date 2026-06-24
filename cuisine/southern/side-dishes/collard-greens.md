@@ -15,7 +15,7 @@ Southern collard greens is one of the most beloved sides in Southern cooking and
 
 ## Ingredients
 
-- 1.5 kg fresh collard greens (or substitute with kale or chard)
+- 1500 g fresh collard greens (or substitute with kale or chard)
 - 1 smoked ham hock (or 200 g smoked turkey wing; or 200 g bacon)
 - 4 tablespoons bacon fat or vegetable oil
 - 1 large onion (chopped)

@@ -32,7 +32,7 @@ Lamb nihari is the Lahori version of nihari, the slow lamb stew eaten at dawn fr
 - ½ teaspoon ground long pepper (or extra black pepper)
 
 ### Meat and base
-- 1.2 kg lamb shanks (4 small shanks, OR bone-in lamb shoulder, cut into 5 cm chunks)
+- 1200 g lamb shanks (4 small shanks, OR bone-in lamb shoulder, cut into 5 cm chunks)
 - 4 tablespoons mustard oil (Pakistani-style; if unavailable use sunflower)
 - 4 tablespoons ghee
 - 2 onions (large, sliced)

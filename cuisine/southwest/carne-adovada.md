@@ -16,7 +16,7 @@ Carne adovada (literally "marinated meat") is the iconic Southwestern Hispanic p
 ## Ingredients
 
 ### Pork
-- 1.2 kg pork shoulder (cubed into 3 cm pieces)
+- 1200 g pork shoulder (cubed into 3 cm pieces)
 
 ### Marinade
 - 8 dried New Mexico red chillies (or 4 ancho + 4 guajillo); stems and seeds removed

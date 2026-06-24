@@ -25,10 +25,10 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: chicken pieces
-    raw: 1.2 kg bone-in skin-on chicken pieces
+    raw: 1200 g bone-in skin-on chicken pieces
   - qty: 1
     unit: tbsp
     name: adobo seasoning

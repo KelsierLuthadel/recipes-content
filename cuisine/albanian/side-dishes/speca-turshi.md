@@ -15,7 +15,7 @@ Every Albanian kitchen has a jar of speca turshi on the table from autumn throug
 
 ## Ingredients
 
-- 1.5 kg banana peppers (long, pale yellow, firm)
+- 1500 g banana peppers (long, pale yellow, firm)
 - 1 head garlic, peeled and lightly crushed (about 10 cloves)
 - 4 bay leaves
 - 2 tsp black peppercorns

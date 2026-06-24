@@ -16,7 +16,7 @@ Watermelon and feta sounds, on paper, like a culinary trick that shouldn't work.
 ## Ingredients
 
 ### Salad
-- 1.2 kg ripe watermelon, rind and seeds removed, cut into 2 cm cubes
+- 1200 g ripe watermelon, rind and seeds removed, cut into 2 cm cubes
 - 200 g Greek feta in brine, drained and crumbled into chunks
 - ½ small red onion, very thinly sliced
 - 1 large handful fresh mint leaves, torn

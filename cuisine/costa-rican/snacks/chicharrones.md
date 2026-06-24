@@ -15,7 +15,7 @@ Costa Rican chicharrones are not the puffed pork-skin crisps of the Mexican kind
 
 ## Ingredients
 
-- 1.2 kg pork belly, skin on, cut into 4 cm cubes
+- 1200 g pork belly, skin on, cut into 4 cm cubes
 - 1 tbsp salt
 - 1 tsp cumin
 - 8 garlic cloves, smashed

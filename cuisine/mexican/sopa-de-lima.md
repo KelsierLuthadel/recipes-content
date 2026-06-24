@@ -16,7 +16,7 @@ Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, par
 ## Ingredients
 
 ### Broth
-- 1.2 kg whole chicken (cut into 8 pieces; or use 8 bone-in thighs and drumsticks)
+- 1200 g whole chicken (cut into 8 pieces; or use 8 bone-in thighs and drumsticks)
 - 2 litres water
 - 1 large white onion (halved)
 - 8 garlic cloves

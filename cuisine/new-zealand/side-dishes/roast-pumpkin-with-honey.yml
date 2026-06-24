@@ -14,10 +14,10 @@ tags:
 mentions:
   - tutorials/spices/storage
 ingredients:
-  - qty: 1.2
-    unit: kg
+  - qty: 1200
+    unit: g
     name: pumpkin
-    raw: 1.2 kg pumpkin or butternut squash , cut into 4 cm wedges
+    raw: 1200 g pumpkin or butternut squash , cut into 4 cm wedges
   - qty: 3
     unit: tbsp
     name: olive oil

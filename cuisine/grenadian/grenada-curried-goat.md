@@ -16,7 +16,7 @@ Curried goat is the Sunday meat of the Caribbean, and the Grenadian version sepa
 ## Ingredients
 
 ### For the marinade
-- 1.5 kg bone-in goat shoulder or leg, cut into 4 cm pieces
+- 1500 g bone-in goat shoulder or leg, cut into 4 cm pieces
 - 6 garlic cloves, crushed
 - 1 thumb ginger, grated
 - 4 spring onions, chopped

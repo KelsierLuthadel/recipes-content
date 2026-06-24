@@ -15,7 +15,7 @@ Every Romanian summer ends with sacks of aubergines roasting black over open gri
 
 ## Ingredients
 
-- 1.5 kg aubergines (4 medium), as fresh and shiny as possible
+- 1500 g aubergines (4 medium), as fresh and shiny as possible
 - 1 small onion, very finely chopped (about 60 g)
 - 100 to 150 ml sunflower oil (light, neutral)
 - 1 tsp salt (or to taste)
