@@ -4,11 +4,15 @@
 
 ## A short history
 
-Swiss cooking is the synthesis of four linguistic-cultural regions — German-Swiss (Zürich, Bern), French-Swiss (Geneva, Lausanne), Italian-Swiss (Ticino), Romansh-Swiss (Graubünden) — each with its own borrowed culinary traditions but with shared alpine roots: cheese, dried meat, rye bread, butter, cream, the long winter cooking.
+Swiss cooking grows out of alpine transhumance, the seasonal movement of cattle and sheep up to high summer pastures and back down for winter, a pattern that goes back at least to the Bronze Age. The Helvetii (the Celtic tribe Caesar names in his Gallic wars, around 58 BCE) were already running this system when Rome arrived. The transhumance produced the foundational larder: huge wheels of hard cheese pressed and aged in mountain huts so the summer milk could be eaten through winter, air-dried meat hung in the cold valley winds, rye and barley breads baked once a month, and the long-cooking stews built around dairy and pork. The shelf has barely changed in two thousand years.
 
-The cheese tradition is the deepest: Gruyère (PDO, made since the 12th century in the Fribourg region), Emmental (the holed cheese), Raclette (named after racler — to scrape), Appenzeller, Tête de Moine. Fondue (cheese melted with white wine, garlic, kirsch) and raclette (cheese melted on a hot stone or grill, scraped onto potatoes) are the two great cheese rituals.
+The medieval centuries gave Switzerland the cheese tradition that still defines it. Gruyère has been made in the Fribourg region since at least the 12th century, named for the count of Gruyères who codified the trade; Emmental (the holed one, from the Emme valley in canton Bern) dates to the 13th century or earlier. The Cistercian monks who built abbeys across the Alps brought systematic dairying and the slow-curing techniques. Cheese became Switzerland's first major export, traded across the Holy Roman Empire by the 1300s, and the country's reputation for it was already set by the late Middle Ages. The Old Swiss Confederacy that took shape after 1291 unified the cantons politically but kept their food traditions separate, which is why the country still cooks in four distinct culinary languages.
 
-The chocolate tradition began with Daniel Peter (Vevey, 1875) inventing milk chocolate by adding condensed milk to chocolate. Rodolphe Lindt invented the conching process (1879) that made chocolate smooth. Today Switzerland eats more chocolate per capita than any country (10kg+ per person per year).
+The early modern centuries layered French and Italian influence on the Swiss-German base. Geneva and the Romandie absorbed French cuisine after the Reformation; Ticino kept polenta and the Lombard rice-and-risotto tradition; Graubünden held onto Romansh Bündnerfleisch (air-dried beef sliced paper-thin) and capuns (cabbage-wrapped pasta-and-meat parcels). Fondue, contrary to the marketing of the 20th-century Swiss Cheese Union, was a country dish of cheese-makers stretching out the last of the wheel with white wine and stale bread; it appears in cookbooks from the 1690s onward and became codified as the national rite only in the 1930s. Raclette (from the verb racler, to scrape) has been eaten by Valais shepherds for centuries: a half-wheel melted by the fire, scraped onto a hot potato.
+
+The 19th century made Switzerland a global food name through chocolate. François-Louis Cailler opened the country's first mechanised chocolate factory in 1819. Daniel Peter in Vevey invented milk chocolate in 1875 by adding condensed milk (from Henri Nestlé, his neighbour) to chocolate liquor. Rodolphe Lindt invented the conching process in 1879 that gave chocolate its smooth melt-in-the-mouth texture. By 1900 Swiss chocolate was the international benchmark; today Switzerland eats more chocolate per capita than any country (over 10kg per person per year). The same century saw the rise of grand alpine tourism, and the hotel kitchens of St Moritz, Zermatt and Davos turned the country house cooking (rösti, geschnetzeltes, älplermagronen) into restaurant standards served to British and German visitors.
+
+The 20th and 21st centuries kept the Swiss kitchen quietly excellent rather than internationally flashy. The chocolate industry consolidated under Lindt, Nestlé, Tobler (the Toblerone people, 1908) and Cailler. Swiss cheese got protected denomination status across the EU, and the modern Bergkäse renaissance and the natural-wine movement around the chasselas grape both grew up in the 2000s. The everyday table still reads as alpine: cheese melted in some form, potato in another, cured meat on the side, a glass of white wine from the Valais or Vaud, and a square of dark chocolate to finish.
 
 ## Regional variations
 
@@ -20,8 +24,8 @@ The chocolate tradition began with Daniel Peter (Vevey, 1875) inventing milk cho
 ## Signature ingredients
 
 - **Cheese**: gruyère, emmental, raclette, appenzeller. The defining product.
-- **Butter and cream**: heavy use. Swiss dairy is among the world's most-prized.
-- **Potatoes**: in rösti, in raclette-side, in capuns.
+- **Butter and cream**: heavy use. Swiss dairy ranks among the world's most-prized.
+- **Potatoes**: in rösti, alongside raclette, in capuns.
 - **Cured meat**: Bündnerfleisch, jambon de la Borne, the smoked-and-air-dried tradition.
 - **Kirsch**: cherry brandy. In fondue, in desserts.
 - **Chocolate**: in dessert, in baking, eaten plain.

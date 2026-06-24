@@ -1,46 +1,48 @@
 # Japanese
 
-*The cuisine of restraint and precision. A culinary tradition built on the sea, the rice paddy, the soybean and the discipline of letting an ingredient taste like itself.*
+*The cuisine of restraint and precision. Built on the sea, the rice paddy, the soybean and the discipline of letting an ingredient taste like itself.*
 
 ## A short history
 
-Japanese food's modern shape was set by Buddhist vegetarianism, the rice tax economy of feudal Japan, and the long isolation under the Tokugawa shogunate (1603–1868). Meat was effectively forbidden for over a thousand years (Buddhist law plus imperial decree), so the protein shelf became fish, soybean and gluten — sushi, tofu, natto, miso, soy sauce, wheat gluten (fu), and the sansai (mountain vegetables) tradition.
+Japanese cooking grew up under three forces that still shape what's on the plate today: Buddhist vegetarianism (meat was off the menu for over a thousand years, by religious law and imperial decree), the rice-tax economy of feudal Japan, and the long isolation of the Tokugawa shogunate from 1603 to 1868. With meat ruled out, the protein shelf became fish, soybean and gluten. That gave the country sushi, tofu, natto, miso, soy sauce, wheat gluten (fu), and the sansai (mountain vegetables) tradition. Every one of those is still load-bearing.
 
-The Meiji Restoration (1868) opened the country, and the foreign influence rolled in fast: beef (sukiyaki, gyudon, eventually wagyu), bread (the curry bun, the melon pan), the pork cutlet (tonkatsu), the Western-style curry that became kare-raisu, and the deep-fried hybrid known as yoshoku — Western dishes Japanised into something the country claimed as its own.
+The Meiji Restoration in 1868 opened the country and the foreign influence rolled in fast. Beef arrived first (sukiyaki, gyudon, eventually wagyu), then bread (the curry bun, the melon pan), the pork cutlet (tonkatsu), and the Western-style curry that became kare-raisu. The umbrella term for these Japanised Western dishes is yoshoku: foreign at the root, Japanese in execution, and the country claims them as its own.
 
-The post-war reconstruction added instant noodles (Momofuku Ando's chicken ramen in 1958), the modern ramen-yatai tradition, conveyor-belt sushi (1958, Osaka), and the conbini onigiri that now feeds half the country at lunch. Today's Japanese kitchen sits between the codified kaiseki tradition at one end (multi-course seasonal banquet, the most refined cuisine in the world by many measures), home cooking in the middle (ichiju-sansai: rice, soup, and three side dishes), and the gyoza-and-ramen weeknight at the other.
+Post-war reconstruction added a second wave. Instant noodles (Momofuku Ando's chicken ramen in 1958), the modern ramen-yatai street stalls, conveyor-belt sushi (also 1958, in Osaka), and the conbini onigiri that now feeds half the country at lunch. Today's Japanese kitchen sits across three registers: kaiseki at the top (the multi-course seasonal banquet, arguably the most refined cuisine in the world), home cooking in the middle (the centuries-old ichiju-sansai shape of rice, soup and three side dishes), and the weeknight bowl of gyoza and ramen at the bottom, fast and forgiving.
 
 ## Regional variations
 
-- **Kanto (Tokyo)**: stronger flavours, darker soy sauce, sweeter dashi. Tokyo-style ramen, edomae sushi, soba in soy-dipped broth. The capital's cooking is the one most foreigners think of as "Japanese."
-- **Kansai (Kyoto, Osaka)**: lighter, more delicate. Kyo-ryori (Kyoto's refined kaiseki tradition), Osaka's konamon (flour foods like takoyaki and okonomiyaki), white miso, paler dashi.
-- **Hokkaido**: dairy, butter, ramen with corn and butter, fresh seafood (especially crab and uni), the dairy and beef country.
-- **Kyushu**: tonkotsu ramen (pork-bone broth), shochu, more Chinese influence via Nagasaki, sweeter soy sauce.
-- **Okinawa**: pork-heavy (a Chinese inheritance), bitter melon (goya), pineapple, the longest-lived population in Japan and the most distinct regional kitchen.
+Japan is a long thin country and the cuisine spreads with it.
+
+- **Kanto (Tokyo)**: stronger flavours, darker soy sauce, sweeter dashi. Tokyo-style ramen, edomae sushi, soba dipped in salty broth. The capital's cooking is the one most foreigners think of as "Japanese".
+- **Kansai (Kyoto, Osaka)**: lighter, more delicate. Kyo-ryori (Kyoto's refined kaiseki tradition), Osaka's konamon (the flour foods, takoyaki and okonomiyaki), white miso, paler dashi.
+- **Hokkaido**: butter and dairy country. Ramen with corn and butter, fresh crab and uni, the cold-climate cooking that doesn't get described as "Japanese" abroad but should.
+- **Kyushu**: tonkotsu ramen (cloudy pork-bone broth), shochu, sweeter soy sauce, Chinese influence via Nagasaki.
+- **Okinawa**: pork-heavy (a Chinese inheritance), bitter melon (goya), pineapple, and the longest-lived population in Japan. The most distinct regional kitchen of the lot.
 
 ## Signature ingredients
 
-- **Dashi**: stock made from kombu (kelp) and katsuobushi (smoked, fermented bonito flakes). The umami base under most Japanese cooking.
-- **Shoyu (soy sauce)**: the salty backbone. Dark koikuchi for most uses, lighter usukuchi in Kansai.
-- **Miso**: fermented soybean paste. White (shiro), red (aka), or mixed (awase). The breakfast soup base.
-- **Mirin**: sweet rice cooking wine. The sweetness in teriyaki and most simmered dishes.
-- **Sake**: cooking sake (ryorishu) tenderises and balances; drinking sake gets used in special dishes.
+- **Dashi**: stock from kombu (kelp) and katsuobushi (smoked, fermented bonito flakes). The umami base under almost everything.
+- **Shoyu (soy sauce)**: the salty backbone. Dark koikuchi for most uses; lighter usukuchi in Kansai.
+- **Miso**: fermented soybean paste. White (shiro), red (aka) or mixed (awase). The base of the breakfast soup.
+- **Mirin**: sweet rice cooking wine. The sweetness in teriyaki and almost every simmered dish.
+- **Sake**: cooking sake (ryorishu) tenderises and balances; drinking sake turns up in special dishes.
 - **Wasabi, ginger, shiso**: the fresh-herb shelf.
 - **Short-grain rice**: japonica, sticky, the spine of every meal.
 
 ## Learn it in seven recipes
 
-These seven cover the breakfast bowl, the noodle shop, the family dinner and the celebration plate. Cook them and the cuisine reveals itself.
+Cook these in order and the cuisine reveals itself. The first two teach dashi-led cooking, the middle four teach the noodle shop and the cutlet, and the last is the family-table centrepiece.
 
-1. **[Miso Soup](/recipes/cuisine/japanese/miso-soup)**: dashi with miso stirred in off the heat, tofu and wakame seaweed. Breakfast soup, lunch soup, the most reliable Japanese starting point. Master the dashi and everything else opens up.
-2. **[Gyudon](/recipes/cuisine/japanese/gyudon)**: thin-sliced beef and onion simmered in dashi, soy and mirin, served over rice. The Tokyo office-worker lunch and the gentlest introduction to simmered Japanese cookery.
-3. **[Tonkatsu](/recipes/cuisine/japanese/tonkatsu)**: panko-crusted pork loin, deep-fried, sliced, served with shredded cabbage and a fruity brown sauce. The yoshoku classic and the most kid-friendly Japanese dish.
-4. **[Shoyu Ramen](/recipes/cuisine/japanese/shoyu-ramen)**: Tokyo-style ramen with a soy-tinted dashi-chicken broth, chashu pork, soft-boiled egg, nori, spring onion. The most approachable bowl in the ramen canon.
-5. **[Gyoza](/recipes/cuisine/japanese/gyoza)**: pork and cabbage dumplings, pan-fried on one side and steamed through. A Chinese import Japanised into ubiquity; the universal small plate.
-6. **[Beef Sukiyaki](/recipes/cuisine/japanese/beef-sukiyaki)**: thin-sliced beef cooked tableside in a sweet soy broth with tofu, mushrooms and shirataki, dipped in raw egg. The grand celebration nabemono.
-7. **[Teriyaki Salmon](/recipes/cuisine/japanese/teriyaki-salmon)**: salmon glazed with reduced soy-mirin-sugar and pan-seared. The simplest entry point to the teriyaki shelf and the most common Japanese fish recipe abroad.
+1. [Miso Soup](miso-soup.md). Dashi with miso stirred in off the heat, tofu and wakame seaweed. Breakfast soup, lunch soup, the most reliable Japanese starting point. Master the dashi and everything else opens up.
+2. [Gyudon](gyudon.md). Thin-sliced beef and onion simmered in dashi, soy and mirin, served over rice. The Tokyo office-worker lunch and the gentlest entry into simmered Japanese cooking.
+3. [Tonkatsu](tonkatsu.md). Panko-crusted pork loin, deep-fried, sliced, served with shredded cabbage and a fruity brown sauce. The yoshoku classic and the most kid-friendly Japanese dish.
+4. [Shoyu Ramen](shoyu-ramen.md). Tokyo-style ramen with a soy-tinted dashi-chicken broth, chashu pork, soft-boiled egg, nori, spring onion. The most approachable bowl in the ramen canon.
+5. [Gyoza](gyoza.md). Pork-and-cabbage dumplings, pan-fried on one side and steamed through. A Chinese import the country Japanised into ubiquity, the universal small plate.
+6. [Beef Sukiyaki](beef-sukiyaki.md). Thin-sliced beef cooked tableside in a sweet soy broth with tofu, mushrooms and shirataki, dipped in raw egg. The grand celebration nabemono.
+7. [Teriyaki Salmon](teriyaki-salmon.md). Salmon glazed with reduced soy-mirin-sugar and pan-seared. The simplest entry to the teriyaki shelf and the most common Japanese fish dish abroad.
 
-Cook the miso soup and the gyudon and you have dashi-led cooking. The tonkatsu and the teriyaki are the cutlet and the glaze. The ramen and the gyoza are the noodle-shop work. The sukiyaki is the family table.
+Cook the miso soup and the gyudon and you have dashi-led cooking. Add the tonkatsu and the teriyaki for the cutlet and the glaze. The ramen and the gyoza cover the noodle-shop work. The sukiyaki is the family table.
 
 ## Where to go next
 

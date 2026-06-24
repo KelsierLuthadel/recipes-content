@@ -4,14 +4,20 @@
 
 ## A short history
 
-Kenyan cooking rests on three roots: the indigenous Bantu, Nilotic and Cushitic farming-and-herding traditions (maize, beans, sweet potato, the cattle-and-goat herding); the Swahili coastal trade (Arab and Indian spice influences via Mombasa and Lamu — rice, coconut milk, the spice cabinet, curry); and the British colonial period (1895–1963), which introduced tea, sugar, wheat farming, and the Indian indentured labourer population that brought chapati, pilau, samosa and curry as a permanent layer.
+The deepest layer in the Kenyan kitchen is older than any written record. The Cushitic herders who came south from the Horn of Africa around 3,000 years ago brought cattle, goats and the practice of bleeding and milking livestock without slaughter (the Maasai still drink the mursik fermented-milk-and-blood mix as a daily food). The Bantu farmers who arrived a thousand years later cleared the highlands for sorghum, millet, yam, and the long-cooked greens that became sukuma wiki. The Nilotic peoples around Lake Victoria added a freshwater-fish habit that holds to this day. None of these traditions used maize, the now-universal starch: that came much later.
 
-The shared East African dish, ugali (stiff maize-meal porridge eaten with the right hand, used to scoop stew), is the spine of the everyday diet. Sukuma wiki (collard greens — the name literally means "stretch the week" in Swahili, because greens stretch the budget) accompanies it. Nyama choma (Swahili for "burnt meat" — slow-roasted goat over open charcoal) is the celebration plate, eaten in groups at outdoor butcheries with cold Tuskers.
+From the 8th century onwards, Arab and Persian dhows worked the monsoon winds down the Swahili coast and turned Mombasa, Malindi, Lamu and Pate into trading cities. The Swahili language itself, a Bantu grammar threaded with Arabic vocabulary, grew out of that contact, and the kitchen followed the same pattern: coconut milk, cardamom, cumin, cloves and saffron were folded into local rice and seafood to make biriani and pilau in a recognisably Indian Ocean style. Portuguese traders muscled into the coast in the 16th century (Fort Jesus still glowers over Mombasa harbour), and their part in the Columbian Exchange dropped maize, cassava, sweet potato, chillies and tomatoes into East Africa. Maize moved inland fast and within two centuries had displaced sorghum and millet as the grain of the working day.
+
+Omani rule from Zanzibar (1698 to 1856) reinforced the Arab-spice layer, and the slave-and-ivory caravans that walked from the coast to Lake Victoria opened the inland trade routes. The British declared a protectorate in 1895 and built the Uganda Railway from Mombasa to Kisumu using around 32,000 indentured workers from Gujarat and Punjab. Many stayed. Their descendants gave Nairobi and the coast a permanent Indian kitchen: chapati now sits next to ugali on every Kenyan table, samosa is the universal street snack, and the masala tea habit runs deep. The British themselves added the tea plantations of Kericho, the wheat farms of the Rift Valley, the bottled beer (Tusker, named after the elephant that killed the brewery's founder in 1923) and a Sunday roast tradition that the African elite picked up and kept.
+
+Independence in 1963 nationalised the cooking. Ugali was promoted as the symbol of Kenyan identity across all 42 ethnic groups; nyama choma, the open-fire goat roast that any group with a cattle culture already practised, became the celebration plate at every wedding, every political rally, every roadside butchery from Nakuru to Mombasa. The shared East African dish, ugali (stiff maize-meal porridge eaten with the right hand, used to scoop stew), is the spine of the everyday diet. Sukuma wiki (collard greens; the name means "stretch the week" in Swahili, because greens stretch the budget) sits alongside.
+
+Contemporary Kenyan cooking sits between the everyday (ugali, sukuma, githeri, chai with chapati) and a growing Nairobi restaurant scene that is reaching back for indigenous grains like millet and amaranth, and pulling Ethiopian, Somali and Sudanese refugee kitchens into the broader East African shelf. The diaspora in London, Minneapolis and Toronto keeps the home cooking sharp. The kitchen reads as it has for a century: maize at the base, greens and beans alongside, goat or beef over charcoal for celebration, and a strong cup of chai to follow.
 
 ## Regional variations
 
 - **Central (Kikuyu)**: ugali-and-sukuma-wiki tradition. Githeri (maize-and-beans stew), mukimo (mashed peas with potato and pumpkin leaves).
-- **Coastal (Swahili — Mombasa, Lamu)**: Arab-Indian influence. Pilau, biriani, coconut-fish curries, the muhogo (cassava) tradition.
+- **Coastal (Swahili: Mombasa, Lamu)**: Arab-Indian influence. Pilau, biriani, coconut-fish curries, the muhogo (cassava) tradition.
 - **Western (Luo, Luhya)**: more fish from Lake Victoria. Tilapia fried whole; ugali with fish stew.
 - **Rift Valley (Maasai, Kalenjin)**: cattle-herding tradition. Mursik (fermented milk), nyama choma central.
 
@@ -36,4 +42,4 @@ The shared East African dish, ugali (stiff maize-meal porridge eaten with the ri
 
 ## Where to go next
 
-Pair everything with Tusker (the national lager) or with chai ya tangawizi (ginger tea). For a proper Sunday at a roadside choma joint: order half a kilo of goat, get it grilled, eat with sukuma wiki and ugali, finish with a Tusker. No cutlery; just your right hand.
+Pair everything with Tusker (the national lager) or with chai ya tangawizi (ginger tea). For a proper Sunday at a roadside choma joint: order half a kilo of goat, get it grilled, eat with sukuma wiki and ugali, finish with a Tusker. No cutlery. Just your right hand.

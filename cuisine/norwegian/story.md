@@ -2,13 +2,17 @@
 
 *The kitchen of the fjords. Salmon (the country invented modern salmon farming), salt cod, the long summer berries, the lamb-and-cabbage one-pot, and the world's most loved cinnamon bun.*
 
-## A short language
+## A short history
 
-Norwegian cooking is shaped by a long, thin country running 1,750km from the temperate south to the Arctic north. The sea is everywhere — Norway has the world's second-longest coastline relative to area — and seafood is the spine: fresh and farmed salmon, herring, cod (caught fresh, dried into klippfisk, or salt-cured into tørrfisk), prawns, king crab.
+Norwegian cooking is shaped by a long, thin country running 1,750km from the temperate south to the Arctic north. The sea is everywhere (Norway has one of the world's longest coastlines relative to area) and seafood has been the spine of the kitchen since the first hunter-gatherers reached the coast after the last ice age, roughly 11,000 years ago. The earliest Norwegians fished cod and halibut from skin boats, harvested mussels, and pickled and salted what they couldn't eat fresh. The Sami peoples of the far north built a reindeer-herding, salmon-fishing and forest-foraging culture that still runs across Finnmark today and contributes reindeer (smoked, dried, slow-stewed) to the broader Norwegian table.
 
-The summer is short and intense; the foraging tradition is robust (cloudberries, blueberries, mushrooms in Norwegian forests). The mountain pasture tradition produced brown cheese (brunost — caramelised whey cheese, sweet, intense) and rakfisk (fermented trout). The Sami indigenous tradition (north) contributed reindeer to the broader Norwegian table.
+The Viking Age (roughly 793 to 1066) put Norway on every map in Europe. The longships needed travel food, and the Norse perfected stockfish: cod hung on wooden racks (hjell) in the cold Atlantic wind off the Lofoten Islands until it dried to a hard, light, protein-dense board. Stockfish kept for years, weighed almost nothing on a ship, and rehydrated into a real meal. By the 1100s it had become Norway's biggest export, traded south through Bergen all the way to Italy (where bacalà alla vicentina still depends on Norwegian klippfisk). The Hanseatic League merchants ran Bergen's wharf, the Bryggen, from the 14th century, and the salt-cod-and-grain trade ran the country for the better part of five hundred years.
 
-The post-1969 oil wealth modernised everything but didn't replace the everyday food. Salmon farming since the 1970s turned Norway into the world's leading salmon exporter; the country eats more salmon per capita than almost anywhere else.
+The medieval kitchen worked with what survived a Norwegian winter: dried fish, salt herring, sour cream, fermented dairy, barley flatbread, the occasional slow-cured lamb leg (fenalår) and pinnekjøtt (salt-cured, dried lamb ribs steamed over birch sticks for Christmas dinner along the west coast). The mountain pasture (seter) tradition produced an extraordinary dairy culture. Cows summered high in the hills and the women who ran the seter made geitost and the caramelised brunost (a sweet, intense whey cheese still sliced thinly onto crispbread with a cheese plane invented in 1925 by a Norwegian carpenter). Rakfisk (trout buried and fermented for months in salt brine) carried the same preservation logic into the fish shelf.
+
+The Danish and Swedish unions ran from 1380 to 1814 to 1905, and each century shaped the kitchen slightly. The Danish period brought white wheat bread, sugar, coffee and the koldtbord (cold buffet) format to the wealthier homes. The Swedish union centuries added a shared Scandinavian baking shelf. The potato landed in the late 1700s and within a generation it had become a daily food alongside fish; lefse (thin potato flatbread) folded with butter and cinnamon-sugar is the everyday treat that came out of that change. Norway gained independence from Sweden in 1905, and parliament codified fårikål (lamb and cabbage one-pot with whole black peppercorns) as the national dish in 1972, the only country to legislate one.
+
+The post-WWII oil discovery in the North Sea in 1969 transformed Norway into one of the wealthiest countries on earth, but the everyday food stayed remarkably traditional. Salmon farming since the 1970s in the cold fjords of the west coast turned Norway into the world's leading salmon exporter, and the country eats more salmon per capita than almost anywhere else. The 21st-century New Nordic movement (centred in Copenhagen but pulled from across Scandinavia) put Norwegian wild ingredients on the global fine-dining map: cloudberries, sea buckthorn, reindeer, the cured fish shelf, foraged greens. The home kitchen still runs on bread, brunost, salt herring, salmon, lamb and the long, dark Nordic patience that built the cuisine.
 
 ## Regional variations
 
@@ -37,4 +41,4 @@ The post-1969 oil wealth modernised everything but didn't replace the everyday f
 
 ## Where to go next
 
-Pair everything with akevitt (aquavit — caraway-spiced spirit) or a strong dark beer. End with brunost on crispbread and strong black coffee. For 17 May (Constitution Day), the whole country eats pølse i lompe in the street between parades.
+Pair everything with akevitt (aquavit, the caraway-spiced spirit) or a strong dark beer. End with brunost on crispbread and strong black coffee. For 17 May (Constitution Day), the whole country eats pølse i lompe in the street between parades.

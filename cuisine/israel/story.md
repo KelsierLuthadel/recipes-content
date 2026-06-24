@@ -4,11 +4,15 @@
 
 ## A short history
 
-Israeli cuisine, in its current shape, is barely older than the state itself. When the country was founded in 1948, waves of Jewish immigrants arrived from radically different food cultures, and each wave brought a kitchen.
+The land has fed people continuously for ten thousand years and the kitchen carries every layer. The Natufian foragers in the Carmel hills around 12,000 BCE were grinding wild wheat and barley before agriculture existed anywhere else, and the world's oldest known beer (a Natufian brewing site near Haifa, dated to 11,000 BCE) is right here. The Canaanites who farmed the hills in the Bronze Age built the foundations that still anchor the regional pantry: wheat, barley, olives, grapes, figs, dates, pomegranates, lentils and chickpeas, with sheep, goats and the occasional ox. Biblical-era cooking ran on flatbread baked daily, lentil stews, olive oil, honey from wild bees, sour milk and the salt-cured fish of the Galilee.
+
+The classical and medieval centuries layered the region with successive cuisines. Greek and Roman rule (from the 4th century BCE) added wine culture, garum-style fish sauce and the public bakery. The Arab conquest of the 7th century CE rebuilt the kitchen around Abbasid sophistication: rice arrived from Persia, sugar from India, citrus from China, aubergine and spinach from further east. The Crusader centuries (1099-1291) ran a hybrid kitchen of European and Levantine food. The Mamluks (1260-1517) codified the sweets tradition (knafeh, baklava, qatayef) that still anchors Ramadan and Eid. The Ottomans (1517-1917) added the meze table, the coffee-and-cardamom ritual, the kebab grill and the mezze culture that runs from Istanbul to Jerusalem.
+
+Jewish kitchens have cooked in the region continuously since biblical times, but the modern Israeli cuisine, in its current shape, is barely older than the state itself. When the country was founded in 1948, waves of Jewish immigrants arrived from radically different food cultures, and each wave brought a kitchen.
 
 From Iraq came rice as a daily starch, the long-marinated kebab, and the fried-egg-and-aubergine sandwich now known as sabich. From Yemen came jachnun, a slow-baked Sabbath bread that cooks overnight, the buttery pull-apart loaf called kubaneh, and the fierce green chilli-and-coriander hot sauce schug (or zhug) that ended up on every table in the country. From Persia came rice cooked with a deliberate golden crust at the bottom of the pot, the tahdig, and a tradition of herb-thick stews. From Morocco and across North Africa came tagines, couscous, preserved lemon, and the chilli paste harissa. From Eastern Europe came chicken soup with kreplach, brisket, schnitzel borrowed via Austria, the braided egg loaf challah, and potato latkes.
 
-All of this settled onto a much older Levantine and Palestinian foundation that was already there: hummus, falafel, mezze tables of small plates, pita baked daily, the spice-and-herb blend za'atar, the tart red sumac dust, the cool yoghurt cheese labneh. Out of the overlap came the institution of the Israeli breakfast (eggs, salad, cheese, bread, olives, all at once) and, in Tel Aviv especially, a modern restaurant culture that cheerfully mixes everything. The anchor principle is straightforward: an immigrant cuisine still working itself out, with chickpeas, olive oil, lemon, tahini, fresh herbs and the open grill as the shared backbone.
+All of this settled onto a much older Levantine and Palestinian foundation that was already there: hummus, falafel, mezze tables of small plates, pita baked daily, the spice-and-herb blend za'atar, the tart red sumac dust, the cool yoghurt cheese labneh. The early Zionist kibbutz movement of the 1920s and 1930s also tried (with mixed success) to invent a new "Hebrew" cuisine from local ingredients, which is why dairy-based dishes (cottage cheese for breakfast, the Israeli salad) became surprisingly central. Out of the overlap came the institution of the Israeli breakfast (eggs, salad, cheese, bread, olives, all at once) and, in Tel Aviv especially, a modern restaurant culture that cheerfully mixes everything. From the 1990s onward, chefs like Eyal Shani, Yotam Ottolenghi and Michael Solomonov pulled the cuisine onto the world stage. The anchor principle is straightforward: an immigrant cuisine still working itself out, with chickpeas, olive oil, lemon, tahini, fresh herbs and the open grill as the shared backbone.
 
 ## Regional variations
 
@@ -21,7 +25,7 @@ Less about geography than about which community is cooking. The country is small
 - **Palestinian and wider Levantine Arab**: hummus, falafel, the open flatbread manakish, the lamb-and-yoghurt feast mansaf, the cheese pastry knafeh. The oldest layer of the table.
 - **Modern Tel Aviv**: a cross-everything new-Israeli dining scene that pulls from all of the above and from European fine-dining technique.
 
-A hummus shop in Jaffa and a knafeh stall in Nazareth and a Yemeni breakfast cafe in south Tel Aviv and an Ashkenazi grandmother's chicken soup are all, at the same time, this cuisine.
+A hummus shop in Jaffa, a knafeh stall in Nazareth, a Yemeni breakfast cafe in south Tel Aviv and an Ashkenazi grandmother's chicken soup are all, at the same time, this cuisine.
 
 ## Signature ingredients
 

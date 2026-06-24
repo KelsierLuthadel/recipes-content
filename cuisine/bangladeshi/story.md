@@ -4,11 +4,17 @@
 
 ## A short history
 
-Bangladeshi cooking is the cuisine of East Bengal — the eastern half of the historical Bengal region, separated from Indian Bengal (West Bengal — separate cuisine folder) by the 1947 partition and the 1971 independence war. The shared culinary tradition pre-dates these political lines by millennia. Rice and fish are the spine; mustard oil sharpens the cooking; panch phoran (five-spice — cumin, fennel, fenugreek, mustard, nigella) is the universal temper.
+Bangladeshi cooking is the food of East Bengal, the eastern half of the historical Bengal region, split from Indian Bengal (West Bengal, separate cuisine folder) by the 1947 partition and the 1971 independence war. The shared culinary tradition pre-dates those political lines by millennia. The Ganges-Brahmaputra delta is one of the most fertile alluvial plains on earth, and Bengalis have been growing rice on it since the Neolithic. Rice and fish are the spine; Bengalis call themselves *mache-bhate Bangali* ("fish-and-rice Bengali"), and the kitchen runs on mustard oil, panch phoran (a five-spice temper of cumin, fennel, fenugreek, mustard, nigella), and a fearless hand with leafy greens and gourds.
 
-The British Indian Restaurant tradition that defines British takeaway is essentially Bangladeshi-Sylheti in origin. From the 1960s onwards, immigrants from the Sylhet region opened "Indian" restaurants across the UK; today, an estimated 90%+ of British curry-house cooks are of Bangladeshi heritage, mostly Sylheti. The dishes they invented (chicken tikka masala in particular, plus the standardised BIR base gravy method) are a Bangladeshi-British hybrid more than they are Indian.
+The medieval centuries layered Buddhist and Hindu traditions onto the agricultural base. The Pala dynasty (8th to 12th centuries) ran the largest Buddhist civilisation east of the Himalayas, and the vegetarian-leaning sweet shop and milk-sweet tradition of Bengal goes back to that monastic kitchen. The Muslim conquest from the 13th century onwards opened East Bengal to Persian and Turkic influence; by the 16th century the Mughals had taken over and the Dhaka court of the Mughal subahdars (provincial governors) was eating the slow-layered biryanis, kebabs, and the rich nawabi cooking that still defines the city's celebration table. The Mughals also brought the wood-fired tandoor and the saffron-and-rose pulao tradition that fuses with the indigenous rice cookery into the modern kacchi biryani.
 
-At home, Bangladeshi cooking is rural, fish-led, and built around the river systems (Padma, Meghna, Jamuna). Hilsa (ilish) is the prized fish — the national fish, expensive, gifted at weddings, the centrepiece of Bengali New Year (Pohela Boishakh) meals. The dry kacchi biryani technique (uncooked rice and meat layered together and sealed for the bake) is the Dhaka signature.
+The Portuguese arrived at Chittagong in the 1530s and brought the Columbian Exchange to the delta: chillies, tomato, potato, papaya and the cottage cheese (chhana) technique that the Bengali sweet-makers would later turn into rasgulla, sandesh and the entire fresh-cheese sweet shop. The British East India Company took control after the 1757 Battle of Plassey and ran Bengal as the headquarters of their Indian empire for almost two centuries. Calcutta (now Kolkata) and Dhaka became twin centres of an Anglo-Bengali table that included afternoon tea, jhal muri (puffed rice with mustard oil, the Calcutta street snack), and the chop-and-cutlet tradition you still find in old Dhaka coffee houses.
+
+Partition in 1947 split Bengal between Hindu-majority West Bengal (India) and Muslim-majority East Bengal (then East Pakistan). The 1971 war of liberation, fought against West Pakistani military rule, created independent Bangladesh and codified a national cuisine that emphasised what was specifically East Bengali: the river fish, the kacchi biryani, the beef bhuna (impossible in beef-restricted Hindu West Bengal), the Sylhet pithas, the heavy use of pumpkin and gourd.
+
+The British Indian Restaurant tradition that defines British takeaway is, at root, Bangladeshi-Sylheti. From the 1960s onwards, immigrants from the Sylhet region in the north-east opened "Indian" restaurants across the UK; today, an estimated 90%+ of British curry-house cooks are of Bangladeshi heritage, mostly Sylheti. The dishes they invented (chicken tikka masala in particular, plus the standardised BIR base gravy method) are a Bangladeshi-British hybrid more than they are Indian. Brick Lane in east London is the most concentrated Bangladeshi food street outside Dhaka.
+
+At home, Bangladeshi cooking is rural, fish-led, and built around the river systems (Padma, Meghna, Jamuna). Hilsa (ilish) is the prize: the national fish, expensive, gifted at weddings, the centrepiece of Bengali New Year (Pohela Boishakh) meals. The dry kacchi biryani technique (uncooked rice and meat layered together and sealed for the bake) is the Dhaka signature and the centre of every wedding feast.
 
 ## Regional variations
 
@@ -21,7 +27,7 @@ At home, Bangladeshi cooking is rural, fish-led, and built around the river syst
 
 - **Hilsa (ilish)**: the prized river fish; the national fish of Bangladesh.
 - **Mustard oil**: sharp, pungent, the cooking fat.
-- **Panch phoran**: cumin + fennel + fenugreek + mustard + nigella, tempered whole.
+- **Panch phoran**: cumin, fennel, fenugreek, mustard, nigella, tempered whole.
 - **Rice (boro)**: the staple. Aged basmati for biryani, parboiled for the everyday plate.
 - **Lentils (dal)**: musur (red), moog (yellow split), the dal-and-rice everyday meal.
 - **Cumin and coriander seed**: the spice pair.
@@ -30,11 +36,11 @@ At home, Bangladeshi cooking is rural, fish-led, and built around the river syst
 ## Learn it in five recipes
 
 1. **[Hilsa Fish Curry](/recipes/cuisine/bangladeshi/hilsa-fish-curry)**: hilsa cooked in a light mustard-and-turmeric gravy. The national dish.
-2. **[Shorshe Ilish](/recipes/cuisine/bangladeshi/shorshe-ilish)**: hilsa in mustard paste — the most-loved preparation, with mustard oil and green chilli.
-3. **[Beef Bhuna](/recipes/cuisine/bangladeshi/beef-bhuna)**: beef slow-fried with onion and spices till the gravy reduces and turns dark. The signature bhuna technique that defined British curry-house cooking.
-4. **[Bhuna Khichuri](/recipes/cuisine/bangladeshi/bhuna-khichuri)**: rice-and-lentil one-pot fried with spices and ghee — the Bangladeshi version of khichdi.
+2. **[Shorshe Ilish](/recipes/cuisine/bangladeshi/shorshe-ilish)**: hilsa in mustard paste, the most-loved preparation, with mustard oil and green chilli.
+3. **[Beef Bhuna](/recipes/cuisine/bangladeshi/beef-bhuna)**: beef slow-fried with onion and spices until the gravy reduces and turns dark. The signature bhuna technique that defined British curry-house cooking.
+4. **[Bhuna Khichuri](/recipes/cuisine/bangladeshi/bhuna-khichuri)**: rice-and-lentil one-pot fried with spices and ghee. The Bangladeshi version of khichdi.
 5. **[Kachi Biryani](/recipes/cuisine/bangladeshi/kachi-biryani)**: raw mutton and basmati layered with yoghurt-and-spice paste, sealed and slow-baked. The Dhaka wedding plate.
 
 ## Where to go next
 
-Pair everything with a green chilli on the side and a glass of doi (yoghurt), or with strong black tea (cha). For Pohela Boishakh (Bengali New Year, 14 April), the table is panta bhat (overnight-soaked rice with green chilli, onion, salt) and ilish maach. That's the most Bangladeshi meal possible.
+Eat with a green chilli on the side and a glass of doi (yoghurt), or with strong black tea (cha). For Pohela Boishakh (Bengali New Year, 14 April), the table is panta bhat (overnight-soaked rice with green chilli, onion, salt) and ilish maach. That's the most Bangladeshi meal possible.

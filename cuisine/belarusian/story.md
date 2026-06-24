@@ -1,14 +1,18 @@
 # Belarusian
 
-*The kitchen of the eastern Slavic forest. Potatoes in twenty forms (the country is sometimes called bul'bashy — "potato people" — only half jokingly), wild mushrooms from the forests, sour-cream finishing everything, and the cold beetroot soup that turns summer lunch pink.*
+*The kitchen of the eastern Slavic forest. Potatoes in twenty forms (the country calls itself bul'bashy, "potato people", only half jokingly), wild mushrooms from the forests, sour-cream finishing everything, and the cold beetroot soup that turns summer lunch pink.*
 
 ## A short history
 
-Belarusian cooking sits between Polish, Russian, Lithuanian and Ukrainian traditions, with its own deep peasant agriculture base. The basic shelf — rye and barley bread, potatoes (introduced from the 18th century onwards and absorbed completely), pork, cabbage, beetroot, dairy and forest mushrooms — has been the working kitchen for centuries.
+Belarusian cooking sits between Polish, Russian, Lithuanian and Ukrainian traditions, with its own deep country-cooking base. The early Slavic tribes who settled this lake-and-forest country from the 6th century onwards (the Krivichi, the Dregovichi, the Radimichi) farmed rye and barley on the cleared edges of the great forests, kept pigs and geese, fermented kvas from stale rye loaves, and worked the rivers for pike, perch and crayfish. The basic shelf (rye and barley bread, pork, cabbage, beetroot, dairy and forest mushrooms) has been the working kitchen since the early Middle Ages.
 
-The country's forests are world-class. Bialowieza Forest (which Belarus shares with Poland) is the last primeval lowland forest in Europe; the cuisine reflects this with deep mushroom traditions, wild berry preserves, and a hunting tradition that puts wild boar and venison on celebration tables.
+The medieval Grand Duchy of Lithuania, which included most of modern Belarus from the 13th to the 16th century, brought Lithuanian and Catholic Polish influence. Belarusian was the official chancery language of the Grand Duchy, and the noble manor cooking of that era (slow-roast goose, cold meat tables, the mead-and-rye-vodka drinking tradition) shaped the celebration plate that survives today. The Union of Lublin in 1569 created the Polish-Lithuanian Commonwealth, and Belarus spent the next two centuries as its eastern province. Polish kitchen vocabulary, the pierogi-style dumpling tradition (kalduny here), and the heavy reliance on sour cream all date from that long Commonwealth period.
 
-The Soviet period (1922–1991) reduced the cuisine to its hardiest staples — draniki (potato pancakes) became the national dish during the bulk-feeding decades. The post-1991 recovery has been slow but the home kitchen continues. The diaspora kitchens in Poland, Lithuania, the US and Israel preserve the codified tradition.
+The Russian Empire absorbed Belarus through the partitions of Poland in the late 1700s. The potato, which the Russian crown actively pushed through the early 1800s, arrived and stuck: by the mid-19th century, potatoes ran every farmhouse, and Belarusians had cheerfully accepted the nickname *bul'bashy*, "potato people". Draniki (grated-potato pancakes), kletski (potato dumplings), babka (oven-baked grated-potato pudding) and a dozen other forms appeared, each a slightly different answer to the same vegetable.
+
+The country's forests are world-class. Bialowieza Forest (shared with Poland) is the last primeval lowland forest in Europe, home to wild bison and the centre of a hunting tradition that puts wild boar, venison and capercaillie on celebration tables. The autumn mushroom hunt (boletes, chanterelles, milk caps) is national sport; cooks salt them, dry them, pickle them in jars, and stew them into the cream sauces that finish everything.
+
+The 20th century brought the bloodiest stretch in Belarusian history. The country sat on the front line of both world wars and the German occupation of 1941 to 1944 killed roughly a quarter of the population. The Soviet period (1922 to 1991) pared the cuisine back to its hardiest staples; draniki became the national dish during the bulk-feeding decades, and machanka (pork stew with cream and mushrooms) became Sunday lunch. The post-1991 recovery has been slow, and the modern Lukashenko era has kept the country largely closed, but the home kitchen carries on as it has for centuries. Diaspora communities in Poland, Lithuania, the US and Israel keep the older codified tradition alive, and a quiet contemporary Minsk restaurant scene has begun reclaiming the recipes that the Soviet canteens flattened.
 
 ## Regional variations
 
@@ -37,4 +41,4 @@ The Soviet period (1922–1991) reduced the cuisine to its hardiest staples — 
 
 ## Where to go next
 
-Pair everything with kvas (fermented rye-bread drink, slightly alcoholic) or with samogon (homemade vodka — better than the bottled stuff in many country kitchens). For Christmas, kutya (sweet wheat-and-poppy-seed porridge) closes the meal.
+Drink kvas (fermented rye-bread drink, lightly alcoholic) or samogon (homemade vodka, better than the bottled stuff in many country kitchens). For Christmas, kutya (sweet wheat-and-poppy-seed porridge) closes the meal.

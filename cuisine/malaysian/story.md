@@ -4,18 +4,22 @@
 
 ## A short history
 
-Malaysian cooking is the parallel-track cuisine of three ethnic communities — Malay (~70%), Chinese (~23%), and Indian (~7%) — plus the Peranakan (Straits Chinese — descendants of Chinese-Malay intermarriages from the 15th century) and the indigenous Orang Asli, Iban and Kadazan-Dusun peoples of Borneo. Each kitchen has its own traditions but they cross-pollinate constantly: laksa is Malay-Chinese, char kway teow is Chinese-Malay, mee mamak is Indian-Malay.
+The Malay peninsula has been a trading crossroads for over two thousand years. Long before the European powers showed up, the Orang Asli (the original inhabitants) foraged tapioca, jungle ferns, freshwater fish and wild boar from the rainforest, while coastal Malay communities along the Straits of Malacca built a kitchen around rice, coconut, fish and the rempah (spice paste) tradition pounded fresh every morning on a stone slab. Indian and Arab traders had been calling on Malay ports since the early centuries CE, dropping off black pepper, cardamom and the early Hindu-Buddhist culinary vocabulary; Sumatran Minangkabau settlers brought rendang down from the highlands and into the peninsular kitchen. The basic Malay shelf of coconut milk, lemongrass, galangal, kaffir lime, turmeric and dried chillies was set centuries before colonisation.
 
-The Malay base is South-East Asian: coconut milk, lemongrass, galangal, kaffir lime, chilli paste (sambal), the rempah (spice paste) tradition. The Chinese layer brought noodles, soy sauce, stir-fry technique and roast meats. The Indian layer brought roti canai, the curry tradition, the South Indian breakfast (dosa, idli) and the mamak (Indian-Muslim) stall culture. The Peranakan kitchen fused all of these into a refined tradition (laksa, ayam pongteh, chap chai, ondeh-ondeh).
+The 15th century turned Malacca into one of the world's great spice ports. The sultanate, founded around 1400, controlled the strait through which every clove, nutmeg and pepper from the Spice Islands had to pass, and its markets pulled in Arab, Indian, Chinese, Javanese and Siamese merchants. Chinese traders married local Malay women and produced the Peranakan (Straits Chinese, also called Baba-Nyonya) community whose kitchens fused Chinese technique (stir-fry, soy sauce, noodles) with Malay aromatics (belacan, sambal, coconut). The result is a cuisine in its own right: nyonya laksa, ayam pongteh, otak-otak, ondeh-ondeh, the kebaya-clad grandmother stirring a curry that is neither Chinese nor Malay.
 
-Today Malaysian food is among the world's most-loved cuisines, with hawker culture as the everyday eating norm. The annual Malaysia-Singapore debate over which country's laksa or nasi lemak is definitive is permanent.
+The colonial era began with the Portuguese seizing Malacca in 1511, then the Dutch in 1641, then the British from the late 18th century, who consolidated control over the peninsula through the 19th. The Columbian Exchange that came in through Portuguese hulls reshaped the kitchen permanently: chillies from the Americas met the local ginger-and-galangal shelf, and the modern sambal was born. Tomatoes, pineapple, cassava and tobacco landed in the same waves. The British colonial plantation economy from the 1870s brought rubber and tin, and the labour to work them: hundreds of thousands of Tamil and Telugu workers from south India, plus a second wave of Hokkien, Cantonese and Hakka Chinese into the tin mines of the Kinta valley. The Indian layer brought roti canai, dhal curry, the South Indian breakfast, and the mamak (Indian-Muslim) stall culture; the Chinese layer brought hokkien mee, char kway teow, and the wok-fired noodle tradition. Each community cooked in its own kampung but ate at the same hawker stalls.
+
+The Japanese occupation of 1941 to 1945 starved the country and pushed it toward the post-war independence movement. Malaysia became independent in 1957 and federated into its present form in 1963, joining Sabah and Sarawak from Borneo. The new nation built a deliberately multi-ethnic identity around the hawker centre as a shared public space, and the government codified nasi lemak as the national breakfast in part to give the country a culinary symbol every community could claim.
+
+Today Malaysian food is among the world's most-loved cuisines, with hawker culture as the everyday eating norm. UNESCO inscribed Singapore's hawker culture as intangible heritage in 2020, and Malaysia maintains its claim on the same tradition with no small amount of competitive fervour. The annual Malaysia-Singapore debate over which country's laksa or nasi lemak is definitive is permanent; the cooking spans Petronas Towers business lunches, kampung wedding feasts, mamak stalls open till dawn, and the Iban longhouses of Sarawak where wild boar still gets cooked in bamboo over a wood fire.
 
 ## Regional variations
 
-- **Peninsular (KL, Penang)**: the codified mainstream. Penang is the food capital — char kway teow, hokkien mee, nyonya laksa.
+- **Peninsular (KL, Penang)**: the codified mainstream. Penang is the food capital: char kway teow, hokkien mee, nyonya laksa.
 - **East Coast (Kelantan, Terengganu)**: more rice-and-sweet. Nasi kerabu (blue rice), nasi dagang.
 - **Southern (Johor)**: closer to Singapore. Laksa Johor, briyani Johor.
-- **Sarawak (Borneo)**: Iban and Chinese-Sarawak. Sarawak laksa is distinctly different — sambal-base, not curry.
+- **Sarawak (Borneo)**: Iban and Chinese-Sarawak. Sarawak laksa is distinctly different, sambal-based rather than curry-based.
 - **Sabah (Borneo)**: Kadazan-Dusun cooking. Hinava (lime-marinated raw fish), bambangan (wild mango).
 
 ## Signature ingredients
@@ -31,13 +35,13 @@ Today Malaysian food is among the world's most-loved cuisines, with hawker cultu
 ## Learn it in seven recipes
 
 1. **[Nasi Lemak](/recipes/cuisine/malaysian/nasi-lemak)**: coconut-rice with sambal, fried anchovies, peanuts, cucumber and a hard-boiled egg. The national breakfast.
-2. **[Malaysian Laksa](/recipes/cuisine/malaysian/malaysian-laksa)**: curry laksa — rich coconut-curry noodle soup with prawn, chicken, tofu, bean sprouts.
+2. **[Malaysian Laksa](/recipes/cuisine/malaysian/malaysian-laksa)**: curry laksa, a rich coconut-curry noodle soup with prawn, chicken, tofu and bean sprouts.
 3. **[Fennel Shellfish Laksa](/recipes/cuisine/malaysian/fennel-shellfish-laksa)**: refined laksa variant with prawn, mussel and fennel-forward spice paste.
-4. **[Hokkien Mee](/recipes/cuisine/malaysian/hokkien-mee)**: stir-fried yellow noodles with prawn, squid, pork in dark soy. KL-style (different from Singapore's prawn-broth version).
+4. **[Hokkien Mee](/recipes/cuisine/malaysian/hokkien-mee)**: stir-fried yellow noodles with prawn, squid and pork in dark soy. KL-style (different from Singapore's prawn-broth version).
 5. **[Sayur Masak Lemak](/recipes/cuisine/malaysian/sayur-masak-lemak)**: vegetable curry in coconut milk with turmeric.
 6. **[Dhal Curry (Malaysian)](/recipes/cuisine/malaysian/dhal-curry)**: lentil curry with the South Indian temper (mustard seed, curry leaf), the mamak-stall staple.
-7. **[Malaysian Fried Chicken](/recipes/cuisine/malaysian/malaysian-fried-chicken)**: ayam goreng — chicken marinated in turmeric, garlic and ginger, deep-fried till crisp.
+7. **[Malaysian Fried Chicken](/recipes/cuisine/malaysian/malaysian-fried-chicken)**: ayam goreng, chicken marinated in turmeric, garlic and ginger, deep-fried till crisp.
 
 ## Where to go next
 
-Pair everything with teh tarik (pulled milk tea — pulled from height between two cups for the foam) or with a cold Tiger beer. End with cendol (shaved ice with palm sugar, coconut milk and green pandan jelly) or kuih (the dozens of small Peranakan-Malay sweets).
+Pair everything with teh tarik (pulled milk tea, pulled from height between two cups for the foam) or with a cold Tiger beer. End with cendol (shaved ice with palm sugar, coconut milk and green pandan jelly) or kuih (the dozens of small Peranakan-Malay sweets).
