@@ -40,7 +40,8 @@ Köfte is Turkey's most beloved meat dish and one of the country's most distinct
 - A bowl of plain yogurt (drained thick)
 - Lemon wedges
 - Sliced red onion sprinkled with sumac
-- Fresh parsley and dill
+- Fresh parsley 
+- Fresh dill
 
 ## Method
 

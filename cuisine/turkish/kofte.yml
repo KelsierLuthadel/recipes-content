@@ -92,5 +92,7 @@ ingredients:
     raw: Lemon wedges
   - name: onion sprinkled with sumac (red)
     raw: Sliced red onion sprinkled with sumac
-  - name: parsley and dill
-    raw: Fresh parsley and dill
+  - name: parsley
+    raw: Fresh parsley
+  - name: dill
+    raw: Fresh dill
